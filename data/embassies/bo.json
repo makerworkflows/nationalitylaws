@@ -1,0 +1,434 @@
+[
+  {
+    "country": "Argentina",
+    "type": "embassy",
+    "name": "Embajada del Estado Plurinacional de Bolivia en Argentina",
+    "city": "Buenos Aires",
+    "address": "Av. Corrientes 545, 2° piso, C1043AAE Buenos Aires, Argentina",
+    "phone": "+54 11 4394-1463"
+  },
+  {
+    "country": "Argentina",
+    "type": "consulate-general",
+    "name": "Consulado General de Bolivia en Buenos Aires",
+    "city": "Buenos Aires",
+    "address": "Bartolomé Mitre 1720, C1039AAB Buenos Aires, Argentina",
+    "phone": "+54 11 4383-4011"
+  },
+  {
+    "country": "Argentina",
+    "type": "consulate-general",
+    "name": "Consulado General de Bolivia en Rosario",
+    "city": "Rosario",
+    "address": "Paraguay 580, S2000 Rosario, Argentina",
+    "phone": "+54 341 448-3180"
+  },
+  {
+    "country": "Argentina",
+    "type": "consulate-general",
+    "name": "Consulado General de Bolivia en Córdoba",
+    "city": "Córdoba",
+    "address": "25 de Mayo 178, X5000 Córdoba, Argentina",
+    "phone": "+54 351 421-3012"
+  },
+  {
+    "country": "Argentina",
+    "type": "consulate-general",
+    "name": "Consulado General de Bolivia en Salta",
+    "city": "Salta",
+    "address": "Mitre 23, A4400 Salta, Argentina",
+    "phone": "+54 387 431-1554"
+  },
+  {
+    "country": "Argentina",
+    "type": "consulate-general",
+    "name": "Consulado General de Bolivia en Jujuy",
+    "city": "San Salvador de Jujuy",
+    "address": "Senador Pérez 144, Y4600 San Salvador de Jujuy, Argentina",
+    "phone": "+54 388 422-0669"
+  },
+  {
+    "country": "Brazil",
+    "type": "embassy",
+    "name": "Embajada del Estado Plurinacional de Bolivia en Brasil",
+    "city": "Brasília",
+    "address": "SHIS QI 09, Conj. 15, Casa 01, 71625-150 Brasília, Brazil",
+    "phone": "+55 61 3366-3432"
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate-general",
+    "name": "Consulado General de Bolivia en São Paulo",
+    "city": "São Paulo",
+    "address": "Rua Gomes de Carvalho 1666, Vila Olímpia, São Paulo, Brazil",
+    "phone": "+55 11 3849-5200"
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate-general",
+    "name": "Consulado General de Bolivia en Corumbá",
+    "city": "Corumbá",
+    "address": "Rua Antônio Maria Coelho 852, Corumbá, MS, Brazil",
+    "phone": "+55 67 3232-3862"
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate-general",
+    "name": "Consulado General de Bolivia en Porto Velho",
+    "city": "Porto Velho",
+    "address": "Porto Velho, RO, Brazil",
+    "phone": ""
+  },
+  {
+    "country": "Chile",
+    "type": "embassy",
+    "name": "Embajada del Estado Plurinacional de Bolivia en Chile",
+    "city": "Santiago",
+    "address": "Av. Santa María 2796, Providencia, Santiago, Chile",
+    "phone": "+56 2 2232-8180"
+  },
+  {
+    "country": "Chile",
+    "type": "consulate-general",
+    "name": "Consulado General de Bolivia en Iquique",
+    "city": "Iquique",
+    "address": "Orella 260, Iquique, Chile",
+    "phone": "+56 57 241-2296"
+  },
+  {
+    "country": "Chile",
+    "type": "consulate-general",
+    "name": "Consulado General de Bolivia en Arica",
+    "city": "Arica",
+    "address": "21 de Mayo 139, Arica, Chile",
+    "phone": "+56 58 223-1030"
+  },
+  {
+    "country": "Peru",
+    "type": "embassy",
+    "name": "Embajada del Estado Plurinacional de Bolivia en Perú",
+    "city": "Lima",
+    "address": "Los Castaños 235, San Isidro, Lima 27, Peru",
+    "phone": "+51 1 222-8231"
+  },
+  {
+    "country": "Peru",
+    "type": "consulate-general",
+    "name": "Consulado General de Bolivia en Puno",
+    "city": "Puno",
+    "address": "Arequipa 136, Puno, Peru",
+    "phone": "+51 51 35-1251"
+  },
+  {
+    "country": "Paraguay",
+    "type": "embassy",
+    "name": "Embajada del Estado Plurinacional de Bolivia en Paraguay",
+    "city": "Asunción",
+    "address": "Guido Spano 2558 c/ Río de Janeiro, Asunción, Paraguay",
+    "phone": "+595 21 660-654"
+  },
+  {
+    "country": "Uruguay",
+    "type": "embassy",
+    "name": "Embajada del Estado Plurinacional de Bolivia en Uruguay",
+    "city": "Montevideo",
+    "address": "Av. Dr. Luis Morquio 1389, 11300 Montevideo, Uruguay",
+    "phone": "+598 2 709-2124"
+  },
+  {
+    "country": "Venezuela",
+    "type": "embassy",
+    "name": "Embajada del Estado Plurinacional de Bolivia en Venezuela",
+    "city": "Caracas",
+    "address": "Calle Roraima, Qta. La Palma, Chuao, Caracas, Venezuela",
+    "phone": "+58 212 991-7419"
+  },
+  {
+    "country": "Colombia",
+    "type": "embassy",
+    "name": "Embajada del Estado Plurinacional de Bolivia en Colombia",
+    "city": "Bogotá",
+    "address": "Calle 94A No. 11A-60, Bogotá, Colombia",
+    "phone": "+57 1 226-2069"
+  },
+  {
+    "country": "Ecuador",
+    "type": "embassy",
+    "name": "Embajada del Estado Plurinacional de Bolivia en Ecuador",
+    "city": "Quito",
+    "address": "Av. El Inca E6-21 y Av. 6 de Diciembre, Quito, Ecuador",
+    "phone": "+593 2 244-4975"
+  },
+  {
+    "country": "Mexico",
+    "type": "embassy",
+    "name": "Embajada del Estado Plurinacional de Bolivia en México",
+    "city": "Ciudad de México",
+    "address": "Paseo de la Reforma 433-7°, Col. Cuauhtémoc, Ciudad de México, Mexico",
+    "phone": "+52 55 5207-5026"
+  },
+  {
+    "country": "Cuba",
+    "type": "embassy",
+    "name": "Embajada del Estado Plurinacional de Bolivia en Cuba",
+    "city": "La Habana",
+    "address": "Calle 66 No. 518, Miramar, La Habana, Cuba",
+    "phone": "+53 7 214-0034"
+  },
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Embajada del Estado Plurinacional de Bolivia en los Estados Unidos",
+    "city": "Washington D.C.",
+    "address": "3014 Massachusetts Avenue NW, Washington, D.C. 20008, United States",
+    "phone": "+1 202 483-4410"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulado General de Bolivia en Los Angeles",
+    "city": "Los Angeles",
+    "address": "3701 Wilshire Boulevard, Suite 700, Los Angeles, CA 90010, United States",
+    "phone": "+1 213 388-0475"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulado General de Bolivia en Nueva York",
+    "city": "New York",
+    "address": "211 East 43rd Street, Suite 802, New York, NY 10017, United States",
+    "phone": "+1 212 687-0530"
+  },
+  {
+    "country": "Canada",
+    "type": "embassy",
+    "name": "Embajada del Estado Plurinacional de Bolivia en Canadá",
+    "city": "Ottawa",
+    "address": "150 Metcalfe Street, Suite 1640, Ottawa, ON K2P 1P1, Canada",
+    "phone": "+1 613 236-5730"
+  },
+  {
+    "country": "Spain",
+    "type": "embassy",
+    "name": "Embajada del Estado Plurinacional de Bolivia en España",
+    "city": "Madrid",
+    "address": "Calle Velázquez 26, 4° izqda., 28001 Madrid, Spain",
+    "phone": "+34 91 575-7440"
+  },
+  {
+    "country": "Spain",
+    "type": "consulate-general",
+    "name": "Consulado General de Bolivia en Barcelona",
+    "city": "Barcelona",
+    "address": "C/ Casanova 157, piso 1, 08036 Barcelona, Spain",
+    "phone": "+34 93 415-5575"
+  },
+  {
+    "country": "Spain",
+    "type": "consulate-general",
+    "name": "Consulado General de Bolivia en Sevilla",
+    "city": "Seville",
+    "address": "C/ Balbino Marrón 2, 41018 Seville, Spain",
+    "phone": "+34 95 456-3260"
+  },
+  {
+    "country": "France",
+    "type": "embassy",
+    "name": "Embajada del Estado Plurinacional de Bolivia en Francia",
+    "city": "Paris",
+    "address": "12 avenue du Président Kennedy, 75016 Paris, France",
+    "phone": "+33 1 42 24 93 44"
+  },
+  {
+    "country": "Germany",
+    "type": "embassy",
+    "name": "Embajada del Estado Plurinacional de Bolivia en Alemania",
+    "city": "Berlin",
+    "address": "Wichmannstraße 6, 10787 Berlin, Germany",
+    "phone": "+49 30 263-9150"
+  },
+  {
+    "country": "Italy",
+    "type": "embassy",
+    "name": "Embajada del Estado Plurinacional de Bolivia en Italia",
+    "city": "Rome",
+    "address": "Via Brenta 2A, 00198 Rome, Italy",
+    "phone": "+39 06 884-1001"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "embassy",
+    "name": "Embajada del Estado Plurinacional de Bolivia en el Reino Unido",
+    "city": "London",
+    "address": "106 Eaton Square, London SW1W 9AD, United Kingdom",
+    "phone": "+44 20 7235-4248"
+  },
+  {
+    "country": "Netherlands",
+    "type": "embassy",
+    "name": "Embajada del Estado Plurinacional de Bolivia en los Países Bajos",
+    "city": "The Hague",
+    "address": "Nassauplein 3, 2585 EA The Hague, Netherlands",
+    "phone": "+31 70 361-3094"
+  },
+  {
+    "country": "Belgium",
+    "type": "embassy",
+    "name": "Embajada del Estado Plurinacional de Bolivia en Bélgica",
+    "city": "Brussels",
+    "address": "Av. Louise 176, 1050 Brussels, Belgium",
+    "phone": "+32 2 627-0010"
+  },
+  {
+    "country": "Switzerland",
+    "type": "honorary-consulate",
+    "name": "Consulado Honorario de Bolivia en Ginebra",
+    "city": "Geneva",
+    "address": "Geneva, Switzerland",
+    "phone": ""
+  },
+  {
+    "country": "Russia",
+    "type": "embassy",
+    "name": "Embajada del Estado Plurinacional de Bolivia en Rusia",
+    "city": "Moscow",
+    "address": "Lopukhinsky per. 5, 119034 Moscow, Russia",
+    "phone": "+7 495 201-2564"
+  },
+  {
+    "country": "China",
+    "type": "embassy",
+    "name": "Embajada del Estado Plurinacional de Bolivia en China",
+    "city": "Beijing",
+    "address": "Sanlitun Lu 2-3-2, Chaoyang District, Beijing, China",
+    "phone": "+86 10 6532-3074"
+  },
+  {
+    "country": "Japan",
+    "type": "embassy",
+    "name": "Embajada del Estado Plurinacional de Bolivia en Japón",
+    "city": "Tokyo",
+    "address": "No. 38 Kowa Building, Room 804, 12-24 Nishi-Azabu 4-chome, Minato-ku, Tokyo, Japan",
+    "phone": "+81 3 3499-5441"
+  },
+  {
+    "country": "South Korea",
+    "type": "honorary-consulate",
+    "name": "Consulado Honorario de Bolivia en Corea del Sur",
+    "city": "Seoul",
+    "address": "Seoul, South Korea",
+    "phone": ""
+  },
+  {
+    "country": "India",
+    "type": "honorary-consulate",
+    "name": "Consulado Honorario de Bolivia en India",
+    "city": "New Delhi",
+    "address": "New Delhi, India",
+    "phone": ""
+  },
+  {
+    "country": "South Africa",
+    "type": "honorary-consulate",
+    "name": "Consulado Honorario de Bolivia en Sudáfrica",
+    "city": "Johannesburg",
+    "address": "Johannesburg, South Africa",
+    "phone": ""
+  },
+  {
+    "country": "Egypt",
+    "type": "embassy",
+    "name": "Embajada del Estado Plurinacional de Bolivia en Egipto",
+    "city": "Cairo",
+    "address": "20 Pyramids Road, Cairo, Egypt",
+    "phone": "+20 2 3374-5688"
+  },
+  {
+    "country": "Nigeria",
+    "type": "embassy",
+    "name": "Embajada del Estado Plurinacional de Bolivia en Nigeria",
+    "city": "Abuja",
+    "address": "Abuja, Nigeria",
+    "phone": ""
+  },
+  {
+    "country": "Australia",
+    "type": "honorary-consulate",
+    "name": "Consulado Honorario de Bolivia en Australia",
+    "city": "Sydney",
+    "address": "Sydney, Australia",
+    "phone": ""
+  },
+  {
+    "country": "Panama",
+    "type": "embassy",
+    "name": "Embajada del Estado Plurinacional de Bolivia en Panamá",
+    "city": "Panama City",
+    "address": "Av. Federico Boyd, Panama City, Panama",
+    "phone": "+507 264-0662"
+  },
+  {
+    "country": "Costa Rica",
+    "type": "honorary-consulate",
+    "name": "Consulado Honorario de Bolivia en Costa Rica",
+    "city": "San José",
+    "address": "San José, Costa Rica",
+    "phone": ""
+  },
+  {
+    "country": "Iran",
+    "type": "embassy",
+    "name": "Embajada del Estado Plurinacional de Bolivia en Irán",
+    "city": "Tehran",
+    "address": "Tehran, Iran",
+    "phone": ""
+  },
+  {
+    "country": "United Nations (New York)",
+    "type": "permanent-mission",
+    "name": "Misión Permanente de Bolivia ante la ONU en Nueva York",
+    "city": "New York",
+    "address": "211 East 43rd Street, 8th Floor, New York, NY 10017, United States",
+    "phone": "+1 212 682-8132"
+  },
+  {
+    "country": "United Nations (Geneva)",
+    "type": "permanent-mission",
+    "name": "Misión Permanente de Bolivia ante la ONU en Ginebra",
+    "city": "Geneva",
+    "address": "Rue de Lausanne 130, 1202 Geneva, Switzerland",
+    "phone": "+41 22 732-2961"
+  },
+  {
+    "country": "Austria",
+    "type": "embassy",
+    "name": "Embajada del Estado Plurinacional de Bolivia en Austria",
+    "city": "Vienna",
+    "address": "Waaggasse 10/1, 1040 Vienna, Austria",
+    "phone": "+43 1 587-4675"
+  },
+  {
+    "country": "Turkey",
+    "type": "embassy",
+    "name": "Embajada del Estado Plurinacional de Bolivia en Turquía",
+    "city": "Ankara",
+    "address": "Farabi Sokak 32/4, Çankaya, Ankara, Turkey",
+    "phone": "+90 312 440-0572"
+  },
+  {
+    "country": "Dominican Republic",
+    "type": "honorary-consulate",
+    "name": "Consulado Honorario de Bolivia en República Dominicana",
+    "city": "Santo Domingo",
+    "address": "Santo Domingo, Dominican Republic",
+    "phone": ""
+  },
+  {
+    "country": "Israel",
+    "type": "honorary-consulate",
+    "name": "Consulado Honorario de Bolivia en Israel",
+    "city": "Tel Aviv",
+    "address": "Tel Aviv, Israel",
+    "phone": ""
+  }
+]

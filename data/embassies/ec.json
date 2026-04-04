@@ -1,0 +1,594 @@
+[
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Embassy of Ecuador in Washington, D.C.",
+    "city": "Washington, D.C.",
+    "address": "2535 15th Street NW, Washington, DC 20009",
+    "phone": "+1 202 234-7200"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Ecuador in New York",
+    "city": "New York",
+    "address": "800 Second Avenue, Floor 5, New York, NY 10017",
+    "phone": "+1 212 808-0170"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Ecuador in Miami",
+    "city": "Miami",
+    "address": "1101 Brickell Avenue, Suite 500 South Tower, Miami, FL 33131",
+    "phone": "+1 305 539-8214"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Ecuador in Los Angeles",
+    "city": "Los Angeles",
+    "address": "3550 Wilshire Blvd, Suite 620, Los Angeles, CA 90010",
+    "phone": "+1 213 658-6020"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Ecuador in Houston",
+    "city": "Houston",
+    "address": "2101 Crawford Street, Suite 300, Houston, TX 77002",
+    "phone": "+1 713 874-1800"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Ecuador in Chicago",
+    "city": "Chicago",
+    "address": "500 N. Michigan Avenue, Suite 2010, Chicago, IL 60611",
+    "phone": "+1 312 329-0266"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Ecuador in Newark",
+    "city": "Newark",
+    "address": "235 W. Mount Pleasant Avenue, Suite 9, Livingston, NJ 07039",
+    "phone": "+1 973 206-0300"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Ecuador in San Francisco",
+    "city": "San Francisco",
+    "address": "455 Market Street, Suite 2380, San Francisco, CA 94105",
+    "phone": "+1 415 982-1700"
+  },
+  {
+    "country": "United States",
+    "type": "consulate",
+    "name": "Consulate of Ecuador in Atlanta",
+    "city": "Atlanta",
+    "address": "229 Peachtree Street NE, Suite 1020, Atlanta, GA 30303",
+    "phone": "+1 404 793-7320"
+  },
+  {
+    "country": "United States",
+    "type": "consulate",
+    "name": "Consulate of Ecuador in Phoenix",
+    "city": "Phoenix",
+    "address": "2929 E. Camelback Road, Suite 225, Phoenix, AZ 85016",
+    "phone": "+1 602 912-1155"
+  },
+  {
+    "country": "United States",
+    "type": "consulate",
+    "name": "Consulate of Ecuador in Boston",
+    "city": "Boston",
+    "address": "2 Oliver Street, 3rd Floor, Boston, MA 02109",
+    "phone": "+1 617 248-0094"
+  },
+  {
+    "country": "Canada",
+    "type": "embassy",
+    "name": "Embassy of Ecuador in Ottawa",
+    "city": "Ottawa",
+    "address": "50 O'Connor Street, Suite 316, Ottawa, ON K1P 6L2",
+    "phone": "+1 613 563-8206"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Consulate General of Ecuador in Toronto",
+    "city": "Toronto",
+    "address": "100 University Avenue, Suite 1208N, Toronto, ON M5J 1V6",
+    "phone": "+1 416 968-2077"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Consulate General of Ecuador in Vancouver",
+    "city": "Vancouver",
+    "address": "1285 West Pender Street, Suite 1000, Vancouver, BC V6E 4B1",
+    "phone": "+1 604 687-8900"
+  },
+  {
+    "country": "Mexico",
+    "type": "embassy",
+    "name": "Embassy of Ecuador in Mexico City",
+    "city": "Mexico City",
+    "address": "Tennyson 217, Col. Polanco, Delegación Miguel Hidalgo, México DF 11560",
+    "phone": "+52 55 5545-3141"
+  },
+  {
+    "country": "Guatemala",
+    "type": "embassy",
+    "name": "Embassy of Ecuador in Guatemala City",
+    "city": "Guatemala City",
+    "address": "3a. Ave. 12-35, Zona 10, Guatemala City",
+    "phone": "+502 2366-0500"
+  },
+  {
+    "country": "El Salvador",
+    "type": "embassy",
+    "name": "Embassy of Ecuador in San Salvador",
+    "city": "San Salvador",
+    "address": "San Salvador, El Salvador",
+    "phone": "+503 2264-8780"
+  },
+  {
+    "country": "Honduras",
+    "type": "embassy",
+    "name": "Embassy of Ecuador in Tegucigalpa",
+    "city": "Tegucigalpa",
+    "address": "Col. Lomas del Guijarro Sur, Tegucigalpa",
+    "phone": "+504 2232-8023"
+  },
+  {
+    "country": "Costa Rica",
+    "type": "embassy",
+    "name": "Embassy of Ecuador in San José",
+    "city": "San José",
+    "address": "La Sabana Norte, San José",
+    "phone": "+506 2231-7827"
+  },
+  {
+    "country": "Panama",
+    "type": "embassy",
+    "name": "Embassy of Ecuador in Panama City",
+    "city": "Panama City",
+    "address": "Av. Samuel Lewis, Torre Omega, Piso 7, Panama City",
+    "phone": "+507 264-2654"
+  },
+  {
+    "country": "Colombia",
+    "type": "embassy",
+    "name": "Embassy of Ecuador in Bogotá",
+    "city": "Bogotá",
+    "address": "Calle 89 No. 13-07, Bogotá",
+    "phone": "+57 1 218-6060"
+  },
+  {
+    "country": "Colombia",
+    "type": "consulate-general",
+    "name": "Consulate General of Ecuador in Cali",
+    "city": "Cali",
+    "address": "Carrera 4 No. 7-76, Cali",
+    "phone": "+57 2 889-4250"
+  },
+  {
+    "country": "Colombia",
+    "type": "consulate-general",
+    "name": "Consulate General of Ecuador in Ipiales",
+    "city": "Ipiales",
+    "address": "Cra. 6 No. 12-21, Ipiales, Nariño",
+    "phone": "+57 2 773-2058"
+  },
+  {
+    "country": "Venezuela",
+    "type": "embassy",
+    "name": "Embassy of Ecuador in Caracas",
+    "city": "Caracas",
+    "address": "Av. Luis Roche, Altamira, Caracas",
+    "phone": "+58 212 264-2530"
+  },
+  {
+    "country": "Peru",
+    "type": "embassy",
+    "name": "Embassy of Ecuador in Lima",
+    "city": "Lima",
+    "address": "Las Palmeras 356, San Isidro, Lima",
+    "phone": "+51 1 212-4171"
+  },
+  {
+    "country": "Peru",
+    "type": "consulate-general",
+    "name": "Consulate General of Ecuador in Lima",
+    "city": "Lima",
+    "address": "Av. Arequipa 3576, San Isidro, Lima",
+    "phone": "+51 1 421-0690"
+  },
+  {
+    "country": "Bolivia",
+    "type": "embassy",
+    "name": "Embassy of Ecuador in La Paz",
+    "city": "La Paz",
+    "address": "Av. 6 de Agosto 2545, Sopocachi, La Paz",
+    "phone": "+591 2 243-7000"
+  },
+  {
+    "country": "Brazil",
+    "type": "embassy",
+    "name": "Embassy of Ecuador in Brasília",
+    "city": "Brasília",
+    "address": "SHIS QL 10, Conj. 04, Casa 15, Lago Sul, Brasília DF",
+    "phone": "+55 61 3248-5560"
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate-general",
+    "name": "Consulate General of Ecuador in São Paulo",
+    "city": "São Paulo",
+    "address": "Rua dos Ingleses 209, Morro dos Ingleses, São Paulo SP",
+    "phone": "+55 11 3289-7363"
+  },
+  {
+    "country": "Argentina",
+    "type": "embassy",
+    "name": "Embassy of Ecuador in Buenos Aires",
+    "city": "Buenos Aires",
+    "address": "Av. Figueroa Alcorta 3697, Buenos Aires C1425CKH",
+    "phone": "+54 11 4802-5309"
+  },
+  {
+    "country": "Chile",
+    "type": "embassy",
+    "name": "Embassy of Ecuador in Santiago",
+    "city": "Santiago",
+    "address": "Av. Pedro de Valdivia 295, Providencia, Santiago",
+    "phone": "+56 2 2231-5073"
+  },
+  {
+    "country": "Uruguay",
+    "type": "embassy",
+    "name": "Embassy of Ecuador in Montevideo",
+    "city": "Montevideo",
+    "address": "Rambla M. Gandhi 734, Montevideo",
+    "phone": "+598 2 709-7150"
+  },
+  {
+    "country": "Paraguay",
+    "type": "embassy",
+    "name": "Embassy of Ecuador in Asunción",
+    "city": "Asunción",
+    "address": "Calle Luis Alberto de Herrera 1070, Asunción",
+    "phone": "+595 21 204-553"
+  },
+  {
+    "country": "Cuba",
+    "type": "embassy",
+    "name": "Embassy of Ecuador in Havana",
+    "city": "Havana",
+    "address": "Calle 6 No. 412 entre 17 y 19, Vedado, Havana",
+    "phone": "+53 7 832-1516"
+  },
+  {
+    "country": "Dominican Republic",
+    "type": "embassy",
+    "name": "Embassy of Ecuador in Santo Domingo",
+    "city": "Santo Domingo",
+    "address": "Av. Gustavo Mejía Ricart, Torre Empresarial, Ens. Naco, Santo Domingo",
+    "phone": "+1 809 563-8363"
+  },
+  {
+    "country": "Haiti",
+    "type": "embassy",
+    "name": "Embassy of Ecuador in Port-au-Prince",
+    "city": "Port-au-Prince",
+    "address": "Port-au-Prince, Haiti",
+    "phone": "+509 2813-1140"
+  },
+  {
+    "country": "Spain",
+    "type": "embassy",
+    "name": "Embassy of Ecuador in Madrid",
+    "city": "Madrid",
+    "address": "Castelló 20, 28001 Madrid",
+    "phone": "+34 91 562-3246"
+  },
+  {
+    "country": "Spain",
+    "type": "consulate-general",
+    "name": "Consulate General of Ecuador in Madrid",
+    "city": "Madrid",
+    "address": "Rafael Calvo 24, Bajo, 28010 Madrid",
+    "phone": "+34 91 446-0084"
+  },
+  {
+    "country": "Spain",
+    "type": "consulate-general",
+    "name": "Consulate General of Ecuador in Barcelona",
+    "city": "Barcelona",
+    "address": "Gran Vía de les Corts Catalanes 534, 3°, 08011 Barcelona",
+    "phone": "+34 93 423-7120"
+  },
+  {
+    "country": "Spain",
+    "type": "consulate-general",
+    "name": "Consulate General of Ecuador in Valencia",
+    "city": "Valencia",
+    "address": "Calle Salamanca 49, Entlo., 46005 Valencia",
+    "phone": "+34 96 374-4900"
+  },
+  {
+    "country": "Spain",
+    "type": "consulate-general",
+    "name": "Consulate General of Ecuador in Bilbao",
+    "city": "Bilbao",
+    "address": "Alameda de Recalde 36, 48009 Bilbao",
+    "phone": "+34 94 424-7399"
+  },
+  {
+    "country": "Spain",
+    "type": "consulate-general",
+    "name": "Consulate General of Ecuador in Murcia",
+    "city": "Murcia",
+    "address": "Calle Ángel Bruna 13, 30001 Murcia",
+    "phone": "+34 96 821-5760"
+  },
+  {
+    "country": "Spain",
+    "type": "consulate",
+    "name": "Consulate of Ecuador in Seville",
+    "city": "Seville",
+    "address": "Paseo de las Delicias 2, 41001 Seville",
+    "phone": "+34 95 421-4747"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "embassy",
+    "name": "Embassy of Ecuador in London",
+    "city": "London",
+    "address": "Flat 3B, 3 Hans Crescent, London SW1X 0LS",
+    "phone": "+44 20 7584-1367"
+  },
+  {
+    "country": "France",
+    "type": "embassy",
+    "name": "Embassy of Ecuador in Paris",
+    "city": "Paris",
+    "address": "34 Avenue de Messine, 75008 Paris",
+    "phone": "+33 1 45-61-1021"
+  },
+  {
+    "country": "Germany",
+    "type": "embassy",
+    "name": "Embassy of Ecuador in Berlin",
+    "city": "Berlin",
+    "address": "Joachim-Karnatz-Allee 5, 10557 Berlin",
+    "phone": "+49 30 2000-6400"
+  },
+  {
+    "country": "Germany",
+    "type": "consulate-general",
+    "name": "Consulate General of Ecuador in Frankfurt",
+    "city": "Frankfurt",
+    "address": "Gutleutstrasse 96, 60329 Frankfurt am Main",
+    "phone": "+49 69 2385-6800"
+  },
+  {
+    "country": "Italy",
+    "type": "embassy",
+    "name": "Embassy of Ecuador in Rome",
+    "city": "Rome",
+    "address": "Via Guido d'Arezzo 23, 00198 Rome",
+    "phone": "+39 06 854-0652"
+  },
+  {
+    "country": "Italy",
+    "type": "consulate-general",
+    "name": "Consulate General of Ecuador in Milan",
+    "city": "Milan",
+    "address": "Via G.B. Pirelli 27, 2° piano, 20124 Milan",
+    "phone": "+39 02 6771-5703"
+  },
+  {
+    "country": "Belgium",
+    "type": "embassy",
+    "name": "Embassy of Ecuador in Brussels",
+    "city": "Brussels",
+    "address": "Av. Louise 363-365, 3° piso, 1050 Brussels",
+    "phone": "+32 2 644-3050"
+  },
+  {
+    "country": "Netherlands",
+    "type": "embassy",
+    "name": "Embassy of Ecuador in The Hague",
+    "city": "The Hague",
+    "address": "Koninginnegracht 84, 2514 AG The Hague",
+    "phone": "+31 70 346-7600"
+  },
+  {
+    "country": "Switzerland",
+    "type": "embassy",
+    "name": "Embassy of Ecuador in Bern",
+    "city": "Bern",
+    "address": "Bernastrasse 51, 3005 Bern",
+    "phone": "+41 31 351-1755"
+  },
+  {
+    "country": "Austria",
+    "type": "embassy",
+    "name": "Embassy of Ecuador in Vienna",
+    "city": "Vienna",
+    "address": "Goldschmiedgasse 10/1/2, 1010 Vienna",
+    "phone": "+43 1 535-4330"
+  },
+  {
+    "country": "Sweden",
+    "type": "embassy",
+    "name": "Embassy of Ecuador in Stockholm",
+    "city": "Stockholm",
+    "address": "Strandvägen 7A, Box 14022, 104 40 Stockholm",
+    "phone": "+46 8 679-6870"
+  },
+  {
+    "country": "Russia",
+    "type": "embassy",
+    "name": "Embassy of Ecuador in Moscow",
+    "city": "Moscow",
+    "address": "Gorokhovskiy per. 12, Moscow 105064",
+    "phone": "+7 495 261-5523"
+  },
+  {
+    "country": "China",
+    "type": "embassy",
+    "name": "Embassy of Ecuador in Beijing",
+    "city": "Beijing",
+    "address": "Dongwu Building 2-32, San Li Tun, Chaoyang District, Beijing",
+    "phone": "+86 10 6532-3849"
+  },
+  {
+    "country": "Japan",
+    "type": "embassy",
+    "name": "Embassy of Ecuador in Tokyo",
+    "city": "Tokyo",
+    "address": "Kowa Building No. 38, Room 806, 4-12-24 Nishi Azabu, Minato-ku, Tokyo 106-0031",
+    "phone": "+81 3 3499-2800"
+  },
+  {
+    "country": "South Korea",
+    "type": "embassy",
+    "name": "Embassy of Ecuador in Seoul",
+    "city": "Seoul",
+    "address": "Seoul, South Korea",
+    "phone": "+82 2 739-2401"
+  },
+  {
+    "country": "India",
+    "type": "embassy",
+    "name": "Embassy of Ecuador in New Delhi",
+    "city": "New Delhi",
+    "address": "Anand Niketan, New Delhi 110021",
+    "phone": "+91 11 2411-4553"
+  },
+  {
+    "country": "Israel",
+    "type": "embassy",
+    "name": "Embassy of Ecuador in Tel Aviv",
+    "city": "Tel Aviv",
+    "address": "Tel Aviv, Israel",
+    "phone": "+972 3 695-7001"
+  },
+  {
+    "country": "Egypt",
+    "type": "embassy",
+    "name": "Embassy of Ecuador in Cairo",
+    "city": "Cairo",
+    "address": "6 Abou El Mahasen El Shazly Street, Zamalek, Cairo",
+    "phone": "+20 2 2736-5670"
+  },
+  {
+    "country": "Turkey",
+    "type": "embassy",
+    "name": "Embassy of Ecuador in Ankara",
+    "city": "Ankara",
+    "address": "Küpe Sokak No. 16, Çankaya, Ankara",
+    "phone": "+90 312 441-1006"
+  },
+  {
+    "country": "South Africa",
+    "type": "embassy",
+    "name": "Embassy of Ecuador in Pretoria",
+    "city": "Pretoria",
+    "address": "Pretoria, South Africa",
+    "phone": "+27 12 460-0018"
+  },
+  {
+    "country": "Morocco",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Ecuador in Casablanca",
+    "city": "Casablanca",
+    "address": "Casablanca, Morocco",
+    "phone": ""
+  },
+  {
+    "country": "Nigeria",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Ecuador in Lagos",
+    "city": "Lagos",
+    "address": "Lagos, Nigeria",
+    "phone": ""
+  },
+  {
+    "country": "Australia",
+    "type": "embassy",
+    "name": "Embassy of Ecuador in Canberra",
+    "city": "Canberra",
+    "address": "Suite 1, Level 6, 1 Castlereagh Street, Sydney, NSW 2000",
+    "phone": "+61 2 9223-7866"
+  },
+  {
+    "country": "New Zealand",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Ecuador in Auckland",
+    "city": "Auckland",
+    "address": "Auckland, New Zealand",
+    "phone": "+64 9 377-7299"
+  },
+  {
+    "country": "Singapore",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Ecuador in Singapore",
+    "city": "Singapore",
+    "address": "Singapore",
+    "phone": "+65 6255-4330"
+  },
+  {
+    "country": "Thailand",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Ecuador in Bangkok",
+    "city": "Bangkok",
+    "address": "Bangkok, Thailand",
+    "phone": "+66 2 253-3434"
+  },
+  {
+    "country": "United Nations (New York)",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Ecuador to the United Nations",
+    "city": "New York",
+    "address": "866 United Nations Plaza, Suite 516, New York, NY 10017",
+    "phone": "+1 212 935-1680"
+  },
+  {
+    "country": "United Nations (Geneva)",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Ecuador to the United Nations in Geneva",
+    "city": "Geneva",
+    "address": "Rue de Lausanne 64, 1202 Geneva",
+    "phone": "+41 22 732-1252"
+  },
+  {
+    "country": "European Union",
+    "type": "permanent-mission",
+    "name": "Mission of Ecuador to the European Union",
+    "city": "Brussels",
+    "address": "Av. Louise 363-365, 3° piso, 1050 Brussels",
+    "phone": "+32 2 644-3050"
+  },
+  {
+    "country": "UNESCO (Paris)",
+    "type": "permanent-mission",
+    "name": "Permanent Delegation of Ecuador to UNESCO",
+    "city": "Paris",
+    "address": "Paris, France",
+    "phone": "+33 1 45-61-1021"
+  },
+  {
+    "country": "Organization of American States (OAS)",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Ecuador to the OAS",
+    "city": "Washington, D.C.",
+    "address": "2535 15th Street NW, Washington, DC 20009",
+    "phone": "+1 202 234-7200"
+  }
+]

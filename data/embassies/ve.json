@@ -1,0 +1,538 @@
+[
+  {
+    "country": "Colombia",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en Colombia",
+    "city": "Bogotá",
+    "address": "Calle 33 No. 6-94, Bogotá, Colombia",
+    "phone": "+57 1 285-3460"
+  },
+  {
+    "country": "Colombia",
+    "type": "consulate-general",
+    "name": "Consulado General de Venezuela en Barranquilla",
+    "city": "Barranquilla",
+    "address": "Calle 40 No. 43-145, Barranquilla, Colombia",
+    "phone": "+57 5 379-1611"
+  },
+  {
+    "country": "Colombia",
+    "type": "consulate-general",
+    "name": "Consulado General de Venezuela en Cúcuta",
+    "city": "Cúcuta",
+    "address": "Av. 0, No. 12-54, Cúcuta, Norte de Santander, Colombia",
+    "phone": "+57 7 571-1440"
+  },
+  {
+    "country": "Colombia",
+    "type": "consulate-general",
+    "name": "Consulado General de Venezuela en Bucaramanga",
+    "city": "Bucaramanga",
+    "address": "Bucaramanga, Colombia",
+    "phone": ""
+  },
+  {
+    "country": "Brazil",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en Brasil",
+    "city": "Brasília",
+    "address": "SES Quadra 803, Lote 7, 70200-030 Brasília, Brazil",
+    "phone": "+55 61 3322-1011"
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate-general",
+    "name": "Consulado General de Venezuela en Manaus",
+    "city": "Manaus",
+    "address": "Rua Ferreira Pena 179, Centro, Manaus, AM, Brazil",
+    "phone": "+55 92 3234-6555"
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate-general",
+    "name": "Consulado General de Venezuela en Boa Vista",
+    "city": "Boa Vista",
+    "address": "Boa Vista, Roraima, Brazil",
+    "phone": ""
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate-general",
+    "name": "Consulado General de Venezuela en São Paulo",
+    "city": "São Paulo",
+    "address": "Av. Paulista 2001, 18° andar, São Paulo, Brazil",
+    "phone": "+55 11 3285-5722"
+  },
+  {
+    "country": "Argentina",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en Argentina",
+    "city": "Buenos Aires",
+    "address": "Virrey del Pino 2502, C1426EED Buenos Aires, Argentina",
+    "phone": "+54 11 4788-6993"
+  },
+  {
+    "country": "Chile",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en Chile",
+    "city": "Santiago",
+    "address": "Bustos 2021, Providencia, Santiago, Chile",
+    "phone": "+56 2 2236-7600"
+  },
+  {
+    "country": "Peru",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en Perú",
+    "city": "Lima",
+    "address": "Av. Salaverry 3110, San Isidro, Lima, Peru",
+    "phone": "+51 1 441-0597"
+  },
+  {
+    "country": "Ecuador",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en Ecuador",
+    "city": "Quito",
+    "address": "Av. Amazonas y Av. Atahualpa 955, Quito, Ecuador",
+    "phone": "+593 2 226-1374"
+  },
+  {
+    "country": "Bolivia",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en Bolivia",
+    "city": "La Paz",
+    "address": "Av. Arce 2870, La Paz, Bolivia",
+    "phone": "+591 2 243-0160"
+  },
+  {
+    "country": "Uruguay",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en Uruguay",
+    "city": "Montevideo",
+    "address": "Blvd. España 2597, 11300 Montevideo, Uruguay",
+    "phone": "+598 2 707-6100"
+  },
+  {
+    "country": "Paraguay",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en Paraguay",
+    "city": "Asunción",
+    "address": "Eligio Ayala 1349, Asunción, Paraguay",
+    "phone": "+595 21 212-640"
+  },
+  {
+    "country": "Mexico",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en México",
+    "city": "Ciudad de México",
+    "address": "Schiller 326, Polanco, 11560 Ciudad de México, Mexico",
+    "phone": "+52 55 5203-4233"
+  },
+  {
+    "country": "Mexico",
+    "type": "consulate-general",
+    "name": "Consulado General de Venezuela en Monterrey",
+    "city": "Monterrey",
+    "address": "Monterrey, Nuevo León, Mexico",
+    "phone": ""
+  },
+  {
+    "country": "Cuba",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en Cuba",
+    "city": "La Habana",
+    "address": "Calle 36 No. 704, Miramar, La Habana, Cuba",
+    "phone": "+53 7 204-2612"
+  },
+  {
+    "country": "Panama",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en Panamá",
+    "city": "Panama City",
+    "address": "Punta Pacífica, Av. Balboa, Panama City, Panama",
+    "phone": "+507 269-1244"
+  },
+  {
+    "country": "Costa Rica",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en Costa Rica",
+    "city": "San José",
+    "address": "Los Yoses, San Pedro, San José, Costa Rica",
+    "phone": "+506 2225-8810"
+  },
+  {
+    "country": "Dominican Republic",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en República Dominicana",
+    "city": "Santo Domingo",
+    "address": "Av. Lope de Vega 8, Ens. La Julia, Santo Domingo, Dominican Republic",
+    "phone": "+1 809 565-6727"
+  },
+  {
+    "country": "Haiti",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en Haití",
+    "city": "Port-au-Prince",
+    "address": "Rue Lamarre No. 16, Bourdon, Port-au-Prince, Haiti",
+    "phone": "+509 2813-1860"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en Trinidad y Tobago",
+    "city": "Port of Spain",
+    "address": "16 Victoria Avenue, Port of Spain, Trinidad and Tobago",
+    "phone": "+1 868 627-9821"
+  },
+  {
+    "country": "Guyana",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en Guyana",
+    "city": "Georgetown",
+    "address": "296 Thomas Street, Georgetown, Guyana",
+    "phone": "+592 226-1543"
+  },
+  {
+    "country": "Suriname",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en Surinam",
+    "city": "Paramaribo",
+    "address": "Gravenberchstraat 23-25, Paramaribo, Suriname",
+    "phone": "+597 475-401"
+  },
+  {
+    "country": "Jamaica",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en Jamaica",
+    "city": "Kingston",
+    "address": "11 West Kings House Road, Kingston 10, Jamaica",
+    "phone": "+1 876 924-9760"
+  },
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en los Estados Unidos",
+    "city": "Washington D.C.",
+    "address": "1099 30th Street NW, Washington, D.C. 20007, United States",
+    "phone": "+1 202 342-2214"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulado General de Venezuela en Nueva York",
+    "city": "New York",
+    "address": "7 East 51st Street, New York, NY 10022, United States",
+    "phone": "+1 212 826-1660"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulado General de Venezuela en Miami",
+    "city": "Miami",
+    "address": "1101 Brickell Avenue, Suite 704, Miami, FL 33131, United States",
+    "phone": "+1 305 577-4210"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulado General de Venezuela en Houston",
+    "city": "Houston",
+    "address": "7 Greenway Plaza, Suite 300, Houston, TX 77046, United States",
+    "phone": "+1 713 961-5141"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulado General de Venezuela en Boston",
+    "city": "Boston",
+    "address": "545 Boylston Street, Suite 900, Boston, MA 02116, United States",
+    "phone": "+1 617 266-9368"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulado General de Venezuela en San Francisco",
+    "city": "San Francisco",
+    "address": "455 Market Street, Suite 2100, San Francisco, CA 94105, United States",
+    "phone": "+1 415 512-8340"
+  },
+  {
+    "country": "Canada",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en Canadá",
+    "city": "Ottawa",
+    "address": "32 Range Road, Ottawa, ON K1N 8J4, Canada",
+    "phone": "+1 613 235-5151"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Consulado General de Venezuela en Toronto",
+    "city": "Toronto",
+    "address": "2 Bloor Street West, Suite 100, Toronto, ON M4W 3E2, Canada",
+    "phone": "+1 416 926-1574"
+  },
+  {
+    "country": "Spain",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en España",
+    "city": "Madrid",
+    "address": "Calle del Capitán Haya 1, planta 5, 28020 Madrid, Spain",
+    "phone": "+34 91 598-1200"
+  },
+  {
+    "country": "Spain",
+    "type": "consulate-general",
+    "name": "Consulado General de Venezuela en Barcelona",
+    "city": "Barcelona",
+    "address": "Pg. de Gràcia 46, 08007 Barcelona, Spain",
+    "phone": "+34 93 487-0990"
+  },
+  {
+    "country": "Spain",
+    "type": "consulate-general",
+    "name": "Consulado General de Venezuela en Las Palmas de Gran Canaria",
+    "city": "Las Palmas de Gran Canaria",
+    "address": "C/ León y Castillo 217, Las Palmas de Gran Canaria, Spain",
+    "phone": "+34 92 824-4566"
+  },
+  {
+    "country": "France",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en Francia",
+    "city": "Paris",
+    "address": "11 rue Copernic, 75116 Paris, France",
+    "phone": "+33 1 45 53 29 98"
+  },
+  {
+    "country": "Germany",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en Alemania",
+    "city": "Berlin",
+    "address": "Schillstraße 9-10, 10785 Berlin, Germany",
+    "phone": "+49 30 832-2400"
+  },
+  {
+    "country": "Italy",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en Italia",
+    "city": "Rome",
+    "address": "Via Nicolò Tartaglia 11, 00197 Rome, Italy",
+    "phone": "+39 06 809-5090"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en el Reino Unido",
+    "city": "London",
+    "address": "1 Cromwell Road, London SW7 2HW, United Kingdom",
+    "phone": "+44 20 7584-4206"
+  },
+  {
+    "country": "Portugal",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en Portugal",
+    "city": "Lisbon",
+    "address": "Av. Duque de Loulé 47, 2° dto, 1050-087 Lisbon, Portugal",
+    "phone": "+351 21 353-7002"
+  },
+  {
+    "country": "Netherlands",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en los Países Bajos",
+    "city": "The Hague",
+    "address": "Nassauplein 3, 2585 EA The Hague, Netherlands",
+    "phone": "+31 70 365-3215"
+  },
+  {
+    "country": "Belgium",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en Bélgica",
+    "city": "Brussels",
+    "address": "Av. F.D. Roosevelt 10, 1050 Brussels, Belgium",
+    "phone": "+32 2 639-0340"
+  },
+  {
+    "country": "Switzerland",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en Suiza",
+    "city": "Bern",
+    "address": "Brückfeldstrasse 18, 3012 Bern, Switzerland",
+    "phone": "+41 31 301-8353"
+  },
+  {
+    "country": "Russia",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en Rusia",
+    "city": "Moscow",
+    "address": "Ulitsa Petroverigsky per. 13-15, 101000 Moscow, Russia",
+    "phone": "+7 495 956-3649"
+  },
+  {
+    "country": "China",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en China",
+    "city": "Beijing",
+    "address": "Sanlitun Lu 14, Chaoyang District, Beijing 100600, China",
+    "phone": "+86 10 6532-3295"
+  },
+  {
+    "country": "Japan",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en Japón",
+    "city": "Tokyo",
+    "address": "No. 38 Kowa Building, Room 703, 12-24 Nishi-Azabu 4-chome, Minato-ku, Tokyo 106-0031, Japan",
+    "phone": "+81 3 3409-1501"
+  },
+  {
+    "country": "India",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en India",
+    "city": "New Delhi",
+    "address": "A-7/8 Vasant Vihar, New Delhi 110057, India",
+    "phone": "+91 11 2614-5447"
+  },
+  {
+    "country": "South Korea",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en Corea del Sur",
+    "city": "Seoul",
+    "address": "21-1, Hannam-dong, Yongsan-gu, Seoul, South Korea",
+    "phone": "+82 2 792-0404"
+  },
+  {
+    "country": "Iran",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en Irán",
+    "city": "Tehran",
+    "address": "No. 3, 4th Street, Vozara Ave., Tehran, Iran",
+    "phone": "+98 21 8877-2540"
+  },
+  {
+    "country": "Turkey",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en Turquía",
+    "city": "Ankara",
+    "address": "Mahatma Gandhi Caddesi 37, Gaziosmanpaşa, Ankara, Turkey",
+    "phone": "+90 312 440-5450"
+  },
+  {
+    "country": "Egypt",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en Egipto",
+    "city": "Cairo",
+    "address": "13 Mohamed Farid Abu Hadid Street, Dokki, Cairo, Egypt",
+    "phone": "+20 2 3761-1010"
+  },
+  {
+    "country": "South Africa",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en Sudáfrica",
+    "city": "Pretoria",
+    "address": "333 Veale Street, New Muckleneuk, Pretoria, South Africa",
+    "phone": "+27 12 346-2900"
+  },
+  {
+    "country": "Algeria",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en Argelia",
+    "city": "Algiers",
+    "address": "Chemin Cheikh Bachir Ibrahimi No. 13, El-Biar, Algiers, Algeria",
+    "phone": "+213 21 92-4543"
+  },
+  {
+    "country": "Libya",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en Libia",
+    "city": "Tripoli",
+    "address": "Tripoli, Libya",
+    "phone": ""
+  },
+  {
+    "country": "Australia",
+    "type": "honorary-consulate",
+    "name": "Consulado Honorario de Venezuela en Australia",
+    "city": "Sydney",
+    "address": "Sydney, Australia",
+    "phone": ""
+  },
+  {
+    "country": "Guatemala",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en Guatemala",
+    "city": "Guatemala City",
+    "address": "16 Calle 0-55, Zona 10, Guatemala City, Guatemala",
+    "phone": "+502 2366-7401"
+  },
+  {
+    "country": "Nicaragua",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en Nicaragua",
+    "city": "Managua",
+    "address": "De los Semáforos de Linda Vista, 1 cuadra al lago, Managua, Nicaragua",
+    "phone": "+505 2278-4066"
+  },
+  {
+    "country": "El Salvador",
+    "type": "honorary-consulate",
+    "name": "Consulado Honorario de Venezuela en El Salvador",
+    "city": "San Salvador",
+    "address": "San Salvador, El Salvador",
+    "phone": ""
+  },
+  {
+    "country": "Honduras",
+    "type": "honorary-consulate",
+    "name": "Consulado Honorario de Venezuela en Honduras",
+    "city": "Tegucigalpa",
+    "address": "Tegucigalpa, Honduras",
+    "phone": ""
+  },
+  {
+    "country": "United Nations (New York)",
+    "type": "permanent-mission",
+    "name": "Misión Permanente de Venezuela ante la ONU en Nueva York",
+    "city": "New York",
+    "address": "335 East 46th Street, New York, NY 10017, United States",
+    "phone": "+1 212 557-2055"
+  },
+  {
+    "country": "United Nations (Geneva)",
+    "type": "permanent-mission",
+    "name": "Misión Permanente de Venezuela ante la ONU en Ginebra",
+    "city": "Geneva",
+    "address": "Avenue de Peschier 17, 1206 Geneva, Switzerland",
+    "phone": "+41 22 347-2100"
+  },
+  {
+    "country": "Austria",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en Austria",
+    "city": "Vienna",
+    "address": "Prinz-Eugen-Strasse 72, 1040 Vienna, Austria",
+    "phone": "+43 1 503-3633"
+  },
+  {
+    "country": "Sweden",
+    "type": "embassy",
+    "name": "Embajada de Venezuela en Suecia",
+    "city": "Stockholm",
+    "address": "Engelbrektsgatan 5, 114 32 Stockholm, Sweden",
+    "phone": "+46 8 440-8910"
+  },
+  {
+    "country": "Israel",
+    "type": "honorary-consulate",
+    "name": "Consulado Honorario de Venezuela en Israel",
+    "city": "Tel Aviv",
+    "address": "Tel Aviv, Israel",
+    "phone": ""
+  },
+  {
+    "country": "Singapore",
+    "type": "honorary-consulate",
+    "name": "Consulado Honorario de Venezuela en Singapur",
+    "city": "Singapore",
+    "address": "Singapore",
+    "phone": ""
+  }
+]

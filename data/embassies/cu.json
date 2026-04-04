@@ -1,0 +1,522 @@
+[
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Washington, D.C.",
+    "city": "Washington, D.C.",
+    "address": "2630 16th Street NW, Washington, DC 20009",
+    "phone": "+1 202 797-8518"
+  },
+  {
+    "country": "Mexico",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Mexico City",
+    "city": "Mexico City",
+    "address": "Presidente Masaryk 554, Polanco, México DF 11560",
+    "phone": "+52 55 5280-8039"
+  },
+  {
+    "country": "Mexico",
+    "type": "consulate-general",
+    "name": "Consulate General of Cuba in Mérida",
+    "city": "Mérida",
+    "address": "Calle 1-D No. 320 entre 42 y 44, Col. Campestre, Mérida, Yucatán",
+    "phone": "+52 999 944-4216"
+  },
+  {
+    "country": "Mexico",
+    "type": "consulate-general",
+    "name": "Consulate General of Cuba in Monterrey",
+    "city": "Monterrey",
+    "address": "Alfonso Reyes 2601 Nte., Col. del Prado, Monterrey, NL",
+    "phone": "+52 81 8375-1950"
+  },
+  {
+    "country": "Guatemala",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Guatemala City",
+    "city": "Guatemala City",
+    "address": "Av. Las Américas 20-72, Zona 13, Guatemala City",
+    "phone": "+502 2332-5526"
+  },
+  {
+    "country": "El Salvador",
+    "type": "embassy",
+    "name": "Embassy of Cuba in San Salvador",
+    "city": "San Salvador",
+    "address": "Col. Maquilishuat, Pasaje ISEFI 12, San Salvador",
+    "phone": "+503 2264-0150"
+  },
+  {
+    "country": "Honduras",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Tegucigalpa",
+    "city": "Tegucigalpa",
+    "address": "Col. Palmira, Calle República del Brasil, Tegucigalpa",
+    "phone": "+504 2239-3924"
+  },
+  {
+    "country": "Nicaragua",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Managua",
+    "city": "Managua",
+    "address": "Km 26, Carretera del Sur, Managua",
+    "phone": "+505 2276-0355"
+  },
+  {
+    "country": "Costa Rica",
+    "type": "embassy",
+    "name": "Embassy of Cuba in San José",
+    "city": "San José",
+    "address": "San José, Costa Rica",
+    "phone": "+506 2283-5344"
+  },
+  {
+    "country": "Panama",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Panama City",
+    "city": "Panama City",
+    "address": "Calle 34, No. 6, Bella Vista, Panama City",
+    "phone": "+507 227-5277"
+  },
+  {
+    "country": "Colombia",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Bogotá",
+    "city": "Bogotá",
+    "address": "Cra. 9 No. 92-54, Bogotá",
+    "phone": "+57 1 621-7562"
+  },
+  {
+    "country": "Venezuela",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Caracas",
+    "city": "Caracas",
+    "address": "Calle Roraima, Chuao, Caracas",
+    "phone": "+58 212 993-2615"
+  },
+  {
+    "country": "Ecuador",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Quito",
+    "city": "Quito",
+    "address": "Mercator Oe2-38 y Portugal, Quito",
+    "phone": "+593 2 245-8636"
+  },
+  {
+    "country": "Peru",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Lima",
+    "city": "Lima",
+    "address": "Calle Coronel Portillo 110, San Isidro, Lima",
+    "phone": "+51 1 264-5180"
+  },
+  {
+    "country": "Bolivia",
+    "type": "embassy",
+    "name": "Embassy of Cuba in La Paz",
+    "city": "La Paz",
+    "address": "Av. 12 de Octubre No. 2037, La Paz",
+    "phone": "+591 2 211-2903"
+  },
+  {
+    "country": "Chile",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Santiago",
+    "city": "Santiago",
+    "address": "Av. Américo Vespucio Norte 2015, Vitacura, Santiago",
+    "phone": "+56 2 2218-2028"
+  },
+  {
+    "country": "Argentina",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Buenos Aires",
+    "city": "Buenos Aires",
+    "address": "Virrey del Pino 1810, Buenos Aires",
+    "phone": "+54 11 4782-9049"
+  },
+  {
+    "country": "Brazil",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Brasília",
+    "city": "Brasília",
+    "address": "SHIS QL 18, Conj. 01, Casa 01, Lago Sul, Brasília DF",
+    "phone": "+55 61 3248-4710"
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate-general",
+    "name": "Consulate General of Cuba in São Paulo",
+    "city": "São Paulo",
+    "address": "Rua Hungria 1007, Jardim América, São Paulo SP",
+    "phone": "+55 11 3071-4099"
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate-general",
+    "name": "Consulate General of Cuba in Porto Alegre",
+    "city": "Porto Alegre",
+    "address": "Rua Mostardeiro 633, Porto Alegre, RS",
+    "phone": "+55 51 3346-4288"
+  },
+  {
+    "country": "Uruguay",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Montevideo",
+    "city": "Montevideo",
+    "address": "Av. Brasil 2985, Pocitos, Montevideo",
+    "phone": "+598 2 708-3192"
+  },
+  {
+    "country": "Paraguay",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Asunción",
+    "city": "Asunción",
+    "address": "Mariscal López 1174 c/ Cnel. Cabrera, Asunción",
+    "phone": "+595 21 204-497"
+  },
+  {
+    "country": "Guyana",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Georgetown",
+    "city": "Georgetown",
+    "address": "46 High Street, Kingston, Georgetown",
+    "phone": "+592 225-7664"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Port of Spain",
+    "city": "Port of Spain",
+    "address": "Port of Spain, Trinidad and Tobago",
+    "phone": "+1 868 622-6072"
+  },
+  {
+    "country": "Jamaica",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Kingston",
+    "city": "Kingston",
+    "address": "9 Trafalgar Road, Kingston 10",
+    "phone": "+1 876 978-0931"
+  },
+  {
+    "country": "Haiti",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Port-au-Prince",
+    "city": "Port-au-Prince",
+    "address": "Port-au-Prince, Haiti",
+    "phone": "+509 2813-1220"
+  },
+  {
+    "country": "Dominican Republic",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Santo Domingo",
+    "city": "Santo Domingo",
+    "address": "Máximo Gómez 55 Esq. Pedro H. Ureña, Gazcue, Santo Domingo",
+    "phone": "+1 809 686-5990"
+  },
+  {
+    "country": "Barbados",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Bridgetown",
+    "city": "Bridgetown",
+    "address": "Bridgetown, Barbados",
+    "phone": "+1 246 435-2769"
+  },
+  {
+    "country": "Bahamas",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Nassau",
+    "city": "Nassau",
+    "address": "Nassau, Bahamas",
+    "phone": "+1 242 356-3827"
+  },
+  {
+    "country": "Belize",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Belmopan",
+    "city": "Belmopan",
+    "address": "Belmopan, Belize",
+    "phone": "+501 822-3441"
+  },
+  {
+    "country": "Canada",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Ottawa",
+    "city": "Ottawa",
+    "address": "388 Main Street, Ottawa, ON K1S 1E3",
+    "phone": "+1 613 563-0141"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Consulate General of Cuba in Montreal",
+    "city": "Montreal",
+    "address": "1415 Pine Avenue West, Montreal, QC H3G 1B2",
+    "phone": "+1 514 843-8897"
+  },
+  {
+    "country": "Spain",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Madrid",
+    "city": "Madrid",
+    "address": "Paseo de la Habana 194, 28036 Madrid",
+    "phone": "+34 91 359-2500"
+  },
+  {
+    "country": "Spain",
+    "type": "consulate-general",
+    "name": "Consulate General of Cuba in Madrid",
+    "city": "Madrid",
+    "address": "Paseo de la Habana 194, 28036 Madrid",
+    "phone": "+34 91 359-2500"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "embassy",
+    "name": "Embassy of Cuba in London",
+    "city": "London",
+    "address": "167 High Holborn, London WC1V 6PA",
+    "phone": "+44 20 7240-2488"
+  },
+  {
+    "country": "France",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Paris",
+    "city": "Paris",
+    "address": "16 Rue de Presles, 75015 Paris",
+    "phone": "+33 1 45-67-5535"
+  },
+  {
+    "country": "Germany",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Berlin",
+    "city": "Berlin",
+    "address": "Stavanger Strasse 20, 10439 Berlin",
+    "phone": "+49 30 9161-8810"
+  },
+  {
+    "country": "Italy",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Rome",
+    "city": "Rome",
+    "address": "Via Licinia 7, 00153 Rome",
+    "phone": "+39 06 575-5984"
+  },
+  {
+    "country": "Belgium",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Brussels",
+    "city": "Brussels",
+    "address": "Rue Robert Jones 77, 1180 Brussels",
+    "phone": "+32 2 343-0020"
+  },
+  {
+    "country": "Netherlands",
+    "type": "embassy",
+    "name": "Embassy of Cuba in The Hague",
+    "city": "The Hague",
+    "address": "Mauritskade 49, 2514 HG The Hague",
+    "phone": "+31 70 360-6061"
+  },
+  {
+    "country": "Switzerland",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Bern",
+    "city": "Bern",
+    "address": "Muristrasse 43, 3006 Bern",
+    "phone": "+41 31 350-4080"
+  },
+  {
+    "country": "Austria",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Vienna",
+    "city": "Vienna",
+    "address": "Haasgasse 8, 1190 Vienna",
+    "phone": "+43 1 368-5564"
+  },
+  {
+    "country": "Sweden",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Stockholm",
+    "city": "Stockholm",
+    "address": "Markvardsgatan 2, 113 53 Stockholm",
+    "phone": "+46 8 5880-9000"
+  },
+  {
+    "country": "Russia",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Moscow",
+    "city": "Moscow",
+    "address": "Mosfilmovskaya St. 40, Moscow 119590",
+    "phone": "+7 495 143-5840"
+  },
+  {
+    "country": "Ukraine",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Kyiv",
+    "city": "Kyiv",
+    "address": "Kyiv, Ukraine",
+    "phone": "+380 44 220-1440"
+  },
+  {
+    "country": "Czech Republic",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Prague",
+    "city": "Prague",
+    "address": "Sibiřské náměstí 14, 160 00 Prague 6",
+    "phone": "+420 2 2431-5605"
+  },
+  {
+    "country": "Poland",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Warsaw",
+    "city": "Warsaw",
+    "address": "Rejtana 15/4, 02-516 Warsaw",
+    "phone": "+48 22 648-4014"
+  },
+  {
+    "country": "Romania",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Bucharest",
+    "city": "Bucharest",
+    "address": "Strada Orlando 10, Sector 1, Bucharest",
+    "phone": "+40 21 230-1001"
+  },
+  {
+    "country": "China",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Beijing",
+    "city": "Beijing",
+    "address": "Jianguomenwai Diplomatic Compound, Building 9, Beijing",
+    "phone": "+86 10 6532-1714"
+  },
+  {
+    "country": "Vietnam",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Hanoi",
+    "city": "Hanoi",
+    "address": "65 Ly Thuong Kiet, Ba Dinh, Hanoi",
+    "phone": "+84 24 3942-4775"
+  },
+  {
+    "country": "North Korea",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Pyongyang",
+    "city": "Pyongyang",
+    "address": "Munsu Dong, Daedonggang District, Pyongyang",
+    "phone": ""
+  },
+  {
+    "country": "India",
+    "type": "embassy",
+    "name": "Embassy of Cuba in New Delhi",
+    "city": "New Delhi",
+    "address": "32 Paschimi Marg, Vasant Vihar, New Delhi 110057",
+    "phone": "+91 11 2614-1784"
+  },
+  {
+    "country": "Angola",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Luanda",
+    "city": "Luanda",
+    "address": "Rua Che Guevara, Miramar, Luanda",
+    "phone": "+244 222 391-830"
+  },
+  {
+    "country": "Algeria",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Algiers",
+    "city": "Algiers",
+    "address": "Rue du Commandant Azzout Abderrahmane, El-Biar, Algiers",
+    "phone": "+213 21 923-255"
+  },
+  {
+    "country": "Nigeria",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Abuja",
+    "city": "Abuja",
+    "address": "Plot 2001 Constitution Avenue, Central District, Abuja",
+    "phone": "+234 9 413-9940"
+  },
+  {
+    "country": "Ethiopia",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Addis Ababa",
+    "city": "Addis Ababa",
+    "address": "Addis Ababa, Ethiopia",
+    "phone": "+251 11 371-0008"
+  },
+  {
+    "country": "Mozambique",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Maputo",
+    "city": "Maputo",
+    "address": "Avenida Kenneth Kaunda 517, Maputo",
+    "phone": "+258 21 492-444"
+  },
+  {
+    "country": "Tanzania",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Dar es Salaam",
+    "city": "Dar es Salaam",
+    "address": "Dar es Salaam, Tanzania",
+    "phone": "+255 22 266-8978"
+  },
+  {
+    "country": "South Africa",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Pretoria",
+    "city": "Pretoria",
+    "address": "45 Mackenzie Street, Brooklyn, Pretoria",
+    "phone": "+27 12 346-2215"
+  },
+  {
+    "country": "Iran",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Tehran",
+    "city": "Tehran",
+    "address": "Golestan-e-Shomali, Tehran",
+    "phone": "+98 21 2254-2200"
+  },
+  {
+    "country": "Qatar",
+    "type": "embassy",
+    "name": "Embassy of Cuba in Doha",
+    "city": "Doha",
+    "address": "Doha, Qatar",
+    "phone": "+974 4499-3770"
+  },
+  {
+    "country": "United Nations (New York)",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Cuba to the United Nations",
+    "city": "New York",
+    "address": "315 Lexington Avenue, New York, NY 10016",
+    "phone": "+1 212 689-7215"
+  },
+  {
+    "country": "United Nations (Geneva)",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Cuba to the United Nations in Geneva",
+    "city": "Geneva",
+    "address": "Rue de Lausanne 74, 1202 Geneva",
+    "phone": "+41 22 731-3631"
+  },
+  {
+    "country": "European Union",
+    "type": "permanent-mission",
+    "name": "Mission of Cuba to the European Union",
+    "city": "Brussels",
+    "address": "Rue Robert Jones 77, 1180 Brussels",
+    "phone": "+32 2 343-0020"
+  },
+  {
+    "country": "UNESCO (Paris)",
+    "type": "permanent-mission",
+    "name": "Permanent Delegation of Cuba to UNESCO",
+    "city": "Paris",
+    "address": "Paris, France",
+    "phone": "+33 1 45-67-5535"
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "country": "Argentina",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Buenos Aires",
+    "city": "Buenos Aires",
+    "address": "Buenos Aires, Argentina",
+    "phone": ""
+  },
+  {
+    "country": "Australia",
+    "type": "consulate",
+    "name": "Consulate of Costa Rica in Sydney",
+    "city": "Sydney",
+    "address": "Sydney, Australia",
+    "phone": ""
+  },
+  {
+    "country": "Austria",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Vienna",
+    "city": "Vienna",
+    "address": "Vienna, Austria",
+    "phone": ""
+  },
+  {
+    "country": "Austria",
+    "type": "consulate",
+    "name": "Consulate of Costa Rica in Salzburg",
+    "city": "Salzburg",
+    "address": "Salzburg, Austria",
+    "phone": ""
+  },
+  {
+    "country": "Bahamas",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Nassau",
+    "city": "Nassau",
+    "address": "Nassau, Bahamas",
+    "phone": ""
+  },
+  {
+    "country": "Belgium",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Brussels",
+    "city": "Brussels",
+    "address": "Brussels, Belgium",
+    "phone": ""
+  },
+  {
+    "country": "Belize",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Belmopan",
+    "city": "Belmopan",
+    "address": "Belmopan, Belize",
+    "phone": ""
+  },
+  {
+    "country": "Bolivia",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in La Paz",
+    "city": "La Paz",
+    "address": "La Paz, Bolivia",
+    "phone": ""
+  },
+  {
+    "country": "Brazil",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Brasilia",
+    "city": "Brasilia",
+    "address": "Brasilia, Brazil",
+    "phone": ""
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate-general",
+    "name": "Consulate General of Costa Rica in Sao Paulo",
+    "city": "Sao Paulo",
+    "address": "Sao Paulo, Brazil",
+    "phone": ""
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate",
+    "name": "Consulate of Costa Rica in Rio de Janeiro",
+    "city": "Rio de Janeiro",
+    "address": "Rio de Janeiro, Brazil",
+    "phone": ""
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate",
+    "name": "Consulate of Costa Rica in Florianopolis",
+    "city": "Florianopolis",
+    "address": "Florianopolis, Brazil",
+    "phone": ""
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate",
+    "name": "Consulate of Costa Rica in Curitiba",
+    "city": "Curitiba",
+    "address": "Curitiba, Brazil",
+    "phone": ""
+  },
+  {
+    "country": "Canada",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Ottawa",
+    "city": "Ottawa",
+    "address": "Ottawa, Canada",
+    "phone": ""
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Consulate General of Costa Rica in Toronto",
+    "city": "Toronto",
+    "address": "Toronto, Canada",
+    "phone": ""
+  },
+  {
+    "country": "Canada",
+    "type": "consulate",
+    "name": "Consulate of Costa Rica in Vancouver",
+    "city": "Vancouver",
+    "address": "Vancouver, Canada",
+    "phone": ""
+  },
+  {
+    "country": "Canada",
+    "type": "consulate",
+    "name": "Consulate of Costa Rica in Edmonton",
+    "city": "Edmonton",
+    "address": "Edmonton, Canada",
+    "phone": ""
+  },
+  {
+    "country": "Chile",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Santiago",
+    "city": "Santiago",
+    "address": "Santiago, Chile",
+    "phone": ""
+  },
+  {
+    "country": "Chile",
+    "type": "consulate",
+    "name": "Consulate of Costa Rica in Temuco",
+    "city": "Temuco",
+    "address": "Temuco, Chile",
+    "phone": ""
+  },
+  {
+    "country": "China",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Beijing",
+    "city": "Beijing",
+    "address": "Beijing, China",
+    "phone": ""
+  },
+  {
+    "country": "Colombia",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Bogota",
+    "city": "Bogota",
+    "address": "Bogota, Colombia",
+    "phone": ""
+  },
+  {
+    "country": "Cuba",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Havana",
+    "city": "Havana",
+    "address": "Havana, Cuba",
+    "phone": ""
+  },
+  {
+    "country": "Cyprus",
+    "type": "consulate",
+    "name": "Consulate of Costa Rica in Limassol",
+    "city": "Limassol",
+    "address": "Limassol, Cyprus",
+    "phone": ""
+  },
+  {
+    "country": "Czech Republic",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Prague",
+    "city": "Prague",
+    "address": "Prague, Czech Republic",
+    "phone": ""
+  },
+  {
+    "country": "Denmark",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Copenhagen",
+    "city": "Copenhagen",
+    "address": "Copenhagen, Denmark",
+    "phone": ""
+  },
+  {
+    "country": "Dominican Republic",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Santo Domingo",
+    "city": "Santo Domingo",
+    "address": "Santo Domingo, Dominican Republic",
+    "phone": ""
+  },
+  {
+    "country": "Ecuador",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Quito",
+    "city": "Quito",
+    "address": "Quito, Ecuador",
+    "phone": ""
+  },
+  {
+    "country": "El Salvador",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in San Salvador",
+    "city": "San Salvador",
+    "address": "San Salvador, El Salvador",
+    "phone": ""
+  },
+  {
+    "country": "Finland",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Helsinki",
+    "city": "Helsinki",
+    "address": "Helsinki, Finland",
+    "phone": ""
+  },
+  {
+    "country": "France",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Paris",
+    "city": "Paris",
+    "address": "Paris, France",
+    "phone": ""
+  },
+  {
+    "country": "Germany",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Berlin",
+    "city": "Berlin",
+    "address": "Berlin, Germany",
+    "phone": ""
+  },
+  {
+    "country": "Germany",
+    "type": "consulate-general",
+    "name": "Consulate General of Costa Rica in Frankfurt",
+    "city": "Frankfurt",
+    "address": "Frankfurt, Germany",
+    "phone": ""
+  },
+  {
+    "country": "Germany",
+    "type": "consulate",
+    "name": "Consulate of Costa Rica in Hamburg",
+    "city": "Hamburg",
+    "address": "Hamburg, Germany",
+    "phone": ""
+  },
+  {
+    "country": "Germany",
+    "type": "consulate",
+    "name": "Consulate of Costa Rica in Hannover",
+    "city": "Hannover",
+    "address": "Hannover, Germany",
+    "phone": ""
+  },
+  {
+    "country": "Germany",
+    "type": "consulate",
+    "name": "Consulate of Costa Rica in Leipzig",
+    "city": "Leipzig",
+    "address": "Leipzig, Germany",
+    "phone": ""
+  },
+  {
+    "country": "Greece",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Athens",
+    "city": "Athens",
+    "address": "Athens, Greece",
+    "phone": ""
+  },
+  {
+    "country": "Guatemala",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Guatemala City",
+    "city": "Guatemala City",
+    "address": "Guatemala City, Guatemala",
+    "phone": ""
+  },
+  {
+    "country": "Haiti",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Port-au-Prince",
+    "city": "Port-au-Prince",
+    "address": "Port-au-Prince, Haiti",
+    "phone": ""
+  },
+  {
+    "country": "Honduras",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Tegucigalpa",
+    "city": "Tegucigalpa",
+    "address": "Tegucigalpa, Honduras",
+    "phone": ""
+  },
+  {
+    "country": "India",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in New Delhi",
+    "city": "New Delhi",
+    "address": "New Delhi, India",
+    "phone": ""
+  },
+  {
+    "country": "Israel",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Tel Aviv",
+    "city": "Tel Aviv",
+    "address": "Tel Aviv, Israel",
+    "phone": ""
+  },
+  {
+    "country": "Italy",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Rome",
+    "city": "Rome",
+    "address": "Rome, Italy",
+    "phone": ""
+  },
+  {
+    "country": "Italy",
+    "type": "consulate",
+    "name": "Consulate of Costa Rica in Florence",
+    "city": "Florence",
+    "address": "Florence, Italy",
+    "phone": ""
+  },
+  {
+    "country": "Italy",
+    "type": "consulate-general",
+    "name": "Consulate General of Costa Rica in Milan",
+    "city": "Milan",
+    "address": "Milan, Italy",
+    "phone": ""
+  },
+  {
+    "country": "Italy",
+    "type": "consulate",
+    "name": "Consulate of Costa Rica in Bologna",
+    "city": "Bologna",
+    "address": "Bologna, Italy",
+    "phone": ""
+  },
+  {
+    "country": "Italy",
+    "type": "consulate",
+    "name": "Consulate of Costa Rica in Turin",
+    "city": "Turin",
+    "address": "Turin, Italy",
+    "phone": ""
+  },
+  {
+    "country": "Jamaica",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Kingston",
+    "city": "Kingston",
+    "address": "Kingston, Jamaica",
+    "phone": ""
+  },
+  {
+    "country": "Japan",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Tokyo",
+    "city": "Tokyo",
+    "address": "Tokyo, Japan",
+    "phone": ""
+  },
+  {
+    "country": "Japan",
+    "type": "consulate",
+    "name": "Consulate of Costa Rica in Kobe",
+    "city": "Kobe",
+    "address": "Kobe, Japan",
+    "phone": ""
+  },
+  {
+    "country": "Japan",
+    "type": "consulate",
+    "name": "Consulate of Costa Rica in Nagoya",
+    "city": "Nagoya",
+    "address": "Nagoya, Japan",
+    "phone": ""
+  },
+  {
+    "country": "Japan",
+    "type": "consulate",
+    "name": "Consulate of Costa Rica in Osaka",
+    "city": "Osaka",
+    "address": "Osaka, Japan",
+    "phone": ""
+  },
+  {
+    "country": "Jordan",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Amman",
+    "city": "Amman",
+    "address": "Amman, Jordan",
+    "phone": ""
+  },
+  {
+    "country": "Kenya",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Nairobi",
+    "city": "Nairobi",
+    "address": "Nairobi, Kenya",
+    "phone": ""
+  },
+  {
+    "country": "Lebanon",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Beirut",
+    "city": "Beirut",
+    "address": "Beirut, Lebanon",
+    "phone": ""
+  },
+  {
+    "country": "Mexico",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Mexico City",
+    "city": "Mexico City",
+    "address": "Mexico City, Mexico",
+    "phone": ""
+  },
+  {
+    "country": "Monaco",
+    "type": "consulate",
+    "name": "Consulate of Costa Rica in Monaco",
+    "city": "Monaco",
+    "address": "Monaco, Monaco",
+    "phone": ""
+  },
+  {
+    "country": "Netherlands",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in The Hague",
+    "city": "The Hague",
+    "address": "The Hague, Netherlands",
+    "phone": ""
+  },
+  {
+    "country": "Nicaragua",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Managua",
+    "city": "Managua",
+    "address": "Managua, Nicaragua",
+    "phone": ""
+  },
+  {
+    "country": "Nicaragua",
+    "type": "consulate",
+    "name": "Consulate of Costa Rica in Chinandega",
+    "city": "Chinandega",
+    "address": "Chinandega, Nicaragua",
+    "phone": ""
+  },
+  {
+    "country": "Nicaragua",
+    "type": "consulate",
+    "name": "Consulate of Costa Rica in Rivas",
+    "city": "Rivas",
+    "address": "Rivas, Nicaragua",
+    "phone": ""
+  },
+  {
+    "country": "Norway",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Oslo",
+    "city": "Oslo",
+    "address": "Oslo, Norway",
+    "phone": ""
+  },
+  {
+    "country": "Panama",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Panama City",
+    "city": "Panama City",
+    "address": "Panama City, Panama",
+    "phone": ""
+  },
+  {
+    "country": "Panama",
+    "type": "consulate",
+    "name": "Consulate of Costa Rica in David",
+    "city": "David",
+    "address": "David, Panama",
+    "phone": ""
+  },
+  {
+    "country": "Paraguay",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Asuncion",
+    "city": "Asuncion",
+    "address": "Asuncion, Paraguay",
+    "phone": ""
+  },
+  {
+    "country": "Peru",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Lima",
+    "city": "Lima",
+    "address": "Lima, Peru",
+    "phone": ""
+  },
+  {
+    "country": "Philippines",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Manila",
+    "city": "Manila",
+    "address": "Manila, Philippines",
+    "phone": ""
+  },
+  {
+    "country": "Poland",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Warsaw",
+    "city": "Warsaw",
+    "address": "Warsaw, Poland",
+    "phone": ""
+  },
+  {
+    "country": "Portugal",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Lisbon",
+    "city": "Lisbon",
+    "address": "Lisbon, Portugal",
+    "phone": ""
+  },
+  {
+    "country": "Russia",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Moscow",
+    "city": "Moscow",
+    "address": "Moscow, Russia",
+    "phone": ""
+  },
+  {
+    "country": "Singapore",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Singapore",
+    "city": "Singapore",
+    "address": "Singapore, Singapore",
+    "phone": ""
+  },
+  {
+    "country": "South Africa",
+    "type": "consulate-general",
+    "name": "Consulate General of Costa Rica in Johannesburg",
+    "city": "Johannesburg",
+    "address": "Johannesburg, South Africa",
+    "phone": ""
+  },
+  {
+    "country": "South Korea",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Seoul",
+    "city": "Seoul",
+    "address": "Seoul, South Korea",
+    "phone": ""
+  },
+  {
+    "country": "Spain",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Madrid",
+    "city": "Madrid",
+    "address": "Madrid, Spain",
+    "phone": ""
+  },
+  {
+    "country": "Spain",
+    "type": "consulate-general",
+    "name": "Consulate General of Costa Rica in Barcelona",
+    "city": "Barcelona",
+    "address": "Barcelona, Spain",
+    "phone": ""
+  },
+  {
+    "country": "Spain",
+    "type": "consulate",
+    "name": "Consulate of Costa Rica in Las Palmas",
+    "city": "Las Palmas",
+    "address": "Las Palmas, Spain",
+    "phone": ""
+  },
+  {
+    "country": "Spain",
+    "type": "consulate",
+    "name": "Consulate of Costa Rica in Tarragona",
+    "city": "Tarragona",
+    "address": "Tarragona, Spain",
+    "phone": ""
+  },
+  {
+    "country": "Spain",
+    "type": "consulate",
+    "name": "Consulate of Costa Rica in Valencia",
+    "city": "Valencia",
+    "address": "Valencia, Spain",
+    "phone": ""
+  },
+  {
+    "country": "Sweden",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Stockholm",
+    "city": "Stockholm",
+    "address": "Stockholm, Sweden",
+    "phone": ""
+  },
+  {
+    "country": "Sweden",
+    "type": "consulate",
+    "name": "Consulate of Costa Rica in Gothenburg",
+    "city": "Gothenburg",
+    "address": "Gothenburg, Sweden",
+    "phone": ""
+  },
+  {
+    "country": "Switzerland",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Geneva",
+    "city": "Geneva",
+    "address": "Geneva, Switzerland",
+    "phone": ""
+  },
+  {
+    "country": "Switzerland",
+    "type": "consulate",
+    "name": "Consulate of Costa Rica in Zurich",
+    "city": "Zurich",
+    "address": "Zurich, Switzerland",
+    "phone": ""
+  },
+  {
+    "country": "Switzerland",
+    "type": "consulate",
+    "name": "Consulate of Costa Rica in Lugano",
+    "city": "Lugano",
+    "address": "Lugano, Switzerland",
+    "phone": ""
+  },
+  {
+    "country": "Switzerland",
+    "type": "consulate",
+    "name": "Consulate of Costa Rica in Lausanne",
+    "city": "Lausanne",
+    "address": "Lausanne, Switzerland",
+    "phone": ""
+  },
+  {
+    "country": "Taiwan",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Taipei",
+    "city": "Taipei",
+    "address": "Taipei, Taiwan",
+    "phone": ""
+  },
+  {
+    "country": "Thailand",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Bangkok",
+    "city": "Bangkok",
+    "address": "Bangkok, Thailand",
+    "phone": ""
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Port of Spain",
+    "city": "Port of Spain",
+    "address": "Port of Spain, Trinidad and Tobago",
+    "phone": ""
+  },
+  {
+    "country": "Turkey",
+    "type": "consulate-general",
+    "name": "Consulate General of Costa Rica in Istanbul",
+    "city": "Istanbul",
+    "address": "Istanbul, Turkey",
+    "phone": ""
+  },
+  {
+    "country": "United Kingdom",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in London",
+    "city": "London",
+    "address": "London, United Kingdom",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Washington DC",
+    "city": "Washington DC",
+    "address": "Washington DC, United States",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Costa Rica in New York",
+    "city": "New York",
+    "address": "New York, United States",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Costa Rica in Miami",
+    "city": "Miami",
+    "address": "Miami, United States",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Costa Rica in Los Angeles",
+    "city": "Los Angeles",
+    "address": "Los Angeles, United States",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Costa Rica in Houston",
+    "city": "Houston",
+    "address": "Houston, United States",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "consulate",
+    "name": "Consulate of Costa Rica in Atlanta",
+    "city": "Atlanta",
+    "address": "Atlanta, United States",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "consulate",
+    "name": "Consulate of Costa Rica in Chicago",
+    "city": "Chicago",
+    "address": "Chicago, United States",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "consulate",
+    "name": "Consulate of Costa Rica in San Francisco",
+    "city": "San Francisco",
+    "address": "San Francisco, United States",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Costa Rica to the United Nations in New York",
+    "city": "New York",
+    "address": "New York, United States",
+    "phone": ""
+  },
+  {
+    "country": "Switzerland",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Costa Rica to the United Nations in Geneva",
+    "city": "Geneva",
+    "address": "Geneva, Switzerland",
+    "phone": ""
+  },
+  {
+    "country": "Uruguay",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Montevideo",
+    "city": "Montevideo",
+    "address": "Montevideo, Uruguay",
+    "phone": ""
+  },
+  {
+    "country": "Venezuela",
+    "type": "embassy",
+    "name": "Embassy of Costa Rica in Caracas",
+    "city": "Caracas",
+    "address": "Caracas, Venezuela",
+    "phone": ""
+  }
+]

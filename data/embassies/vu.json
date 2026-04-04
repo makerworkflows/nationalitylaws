@@ -1,0 +1,122 @@
+[
+  {
+    "country": "Australia",
+    "type": "high-commission",
+    "name": "Vanuatu High Commission in Canberra",
+    "city": "Canberra",
+    "address": "Suite 1, Level 6, 12 Moore Street, Canberra City, ACT 2601",
+    "phone": "+61 (2) 6232 4180"
+  },
+  {
+    "country": "Australia",
+    "type": "consulate-general",
+    "name": "Consulate General of Vanuatu in Sydney",
+    "city": "Sydney",
+    "address": "Level 6, 1 Castlereagh Street, Sydney, NSW 2000",
+    "phone": "+61 (2) 9233 8400"
+  },
+  {
+    "country": "New Zealand",
+    "type": "high-commission",
+    "name": "Vanuatu High Commission in Wellington",
+    "city": "Wellington",
+    "address": "Level 9, 95 Customhouse Quay, Wellington 6011",
+    "phone": "+64 (4) 472 3872"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "high-commission",
+    "name": "Vanuatu High Commission in London",
+    "city": "London",
+    "address": "44 Buckingham Gate, London SW1E 6BS",
+    "phone": "+44 (0)20 7828 4818"
+  },
+  {
+    "country": "France",
+    "type": "embassy",
+    "name": "Embassy of Vanuatu in Paris",
+    "city": "Paris",
+    "address": "17 Rue de l'École Polytechnique, 75005 Paris",
+    "phone": "+33 (1) 47 07 32 45"
+  },
+  {
+    "country": "Belgium",
+    "type": "embassy",
+    "name": "Embassy of Vanuatu in Brussels",
+    "city": "Brussels",
+    "address": "Rue de Stalle 80, 1180 Brussels",
+    "phone": "+32 (2) 345 3594"
+  },
+  {
+    "country": "Belgium",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Vanuatu to the European Union",
+    "city": "Brussels",
+    "address": "Rue de Stalle 80, 1180 Brussels",
+    "phone": "+32 (2) 345 3594"
+  },
+  {
+    "country": "United States",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Vanuatu in New York",
+    "city": "New York, NY",
+    "address": "New York, NY",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Vanuatu in Los Angeles",
+    "city": "Los Angeles, CA",
+    "address": "Los Angeles, CA",
+    "phone": ""
+  },
+  {
+    "country": "China",
+    "type": "embassy",
+    "name": "Embassy of Vanuatu in Beijing",
+    "city": "Beijing",
+    "address": "Unit 1501, South Tower, Beijing Kerry Centre, 1 Guanghua Road, Chaoyang District, Beijing 100020",
+    "phone": "+86 (10) 8529 9888"
+  },
+  {
+    "country": "Japan",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Vanuatu in Tokyo",
+    "city": "Tokyo",
+    "address": "Tokyo, Japan",
+    "phone": ""
+  },
+  {
+    "country": "Fiji",
+    "type": "high-commission",
+    "name": "Vanuatu High Commission in Suva",
+    "city": "Suva",
+    "address": "Suva, Fiji",
+    "phone": ""
+  },
+  {
+    "country": "Papua New Guinea",
+    "type": "high-commission",
+    "name": "Vanuatu High Commission in Port Moresby",
+    "city": "Port Moresby",
+    "address": "Port Moresby, Papua New Guinea",
+    "phone": ""
+  },
+  {
+    "country": "Solomon Islands",
+    "type": "high-commission",
+    "name": "Vanuatu High Commission in Honiara",
+    "city": "Honiara",
+    "address": "Honiara, Solomon Islands",
+    "phone": ""
+  },
+  {
+    "country": "United Nations",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Vanuatu to the United Nations",
+    "city": "New York, NY",
+    "address": "866 United Nations Plaza, Suite 568, New York, NY 10017",
+    "phone": "+1 (212) 661-4303"
+  }
+]

@@ -1,0 +1,498 @@
+[
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Embassy of Colombia in Washington D.C.",
+    "city": "Washington D.C.",
+    "address": "1724 Massachusetts Ave NW, Washington D.C. 20036",
+    "phone": "+1 202 387-8338"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Colombian Consulate General in New York",
+    "city": "New York",
+    "address": "10 East 46th Street, New York, NY 10017",
+    "phone": "+1 212 949-9898"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Colombian Consulate General in Miami",
+    "city": "Miami",
+    "address": "280 Aragon Ave, Coral Gables, FL 33134",
+    "phone": "+1 305 448-5558"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Colombian Consulate General in Los Angeles",
+    "city": "Los Angeles",
+    "address": "6033 W Century Blvd, Suite 1100, Los Angeles, CA 90045",
+    "phone": "+1 310 342-7540"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Colombian Consulate General in Houston",
+    "city": "Houston",
+    "address": "5851 San Felipe Street, Suite 300, Houston, TX 77057",
+    "phone": "+1 713 527-8919"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Colombian Consulate General in Chicago",
+    "city": "Chicago",
+    "address": "500 N Michigan Ave, Suite 2040, Chicago, IL 60611",
+    "phone": "+1 312 923-1196"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Colombian Consulate General in San Francisco",
+    "city": "San Francisco",
+    "address": "595 Market Street, Suite 2130, San Francisco, CA 94105",
+    "phone": "+1 415 495-7195"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Colombian Consulate General in Atlanta",
+    "city": "Atlanta",
+    "address": "1170 Peachtree Street NE, Suite 1610, Atlanta, GA 30309",
+    "phone": "+1 404 523-6556"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Colombian Consulate General in Boston",
+    "city": "Boston",
+    "address": "31 State Street, Suite 1000, Boston, MA 02109",
+    "phone": "+1 617 536-6222"
+  },
+  {
+    "country": "United States",
+    "type": "consulate",
+    "name": "Colombian Consulate in Orlando",
+    "city": "Orlando",
+    "address": "1200 Corporate Center Dr, Suite 200, Miramar, FL 33025",
+    "phone": "+1 954 893-6888"
+  },
+  {
+    "country": "Canada",
+    "type": "embassy",
+    "name": "Embassy of Colombia in Ottawa",
+    "city": "Ottawa",
+    "address": "360 Albert Street, Suite 1002, Ottawa, Ontario K1R 7X7",
+    "phone": "+1 613 230-3760"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Colombian Consulate General in Toronto",
+    "city": "Toronto",
+    "address": "1 Dundas Street West, Suite 2108, Toronto, Ontario M5G 1Z3",
+    "phone": "+1 416 977-0098"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Colombian Consulate General in Vancouver",
+    "city": "Vancouver",
+    "address": "789 West Pender Street, Suite 900, Vancouver, BC V6C 1H2",
+    "phone": "+1 604 685-8266"
+  },
+  {
+    "country": "Mexico",
+    "type": "embassy",
+    "name": "Embassy of Colombia in Mexico City",
+    "city": "Mexico City",
+    "address": "Paseo de la Reforma 379, Piso 17, Cuauhtémoc, 06500 Mexico City",
+    "phone": "+52 55 5525-0244"
+  },
+  {
+    "country": "Argentina",
+    "type": "embassy",
+    "name": "Embassy of Colombia in Buenos Aires",
+    "city": "Buenos Aires",
+    "address": "Carlos Pellegrini 1363, Piso 3, C1011 Buenos Aires",
+    "phone": "+54 11 4325-0258"
+  },
+  {
+    "country": "Brazil",
+    "type": "embassy",
+    "name": "Embassy of Colombia in Brasília",
+    "city": "Brasília",
+    "address": "SHIS QI 09, Conjunto 16, Casa 01, Lago Sul, Brasília DF 71625-160",
+    "phone": "+55 61 3248-0530"
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate-general",
+    "name": "Colombian Consulate General in São Paulo",
+    "city": "São Paulo",
+    "address": "Rua Bela Cintra 986, Consolação, São Paulo SP 01415-000",
+    "phone": "+55 11 3262-3433"
+  },
+  {
+    "country": "Chile",
+    "type": "embassy",
+    "name": "Embassy of Colombia in Santiago",
+    "city": "Santiago",
+    "address": "Av. El Golf 40, Piso 8, Las Condes, Santiago",
+    "phone": "+56 2 2580-3600"
+  },
+  {
+    "country": "Peru",
+    "type": "embassy",
+    "name": "Embassy of Colombia in Lima",
+    "city": "Lima",
+    "address": "Av. Jorge Basadre 1580, San Isidro, Lima 27",
+    "phone": "+51 1 441-0954"
+  },
+  {
+    "country": "Ecuador",
+    "type": "embassy",
+    "name": "Embassy of Colombia in Quito",
+    "city": "Quito",
+    "address": "Colón 1133 y Amazonas, Edif. Aranjuez, Quito",
+    "phone": "+593 2 222-3003"
+  },
+  {
+    "country": "Ecuador",
+    "type": "consulate-general",
+    "name": "Colombian Consulate General in Guayaquil",
+    "city": "Guayaquil",
+    "address": "Av. 9 de Octubre 100 y Malecón Simón Bolívar, Guayaquil",
+    "phone": "+593 4 230-4240"
+  },
+  {
+    "country": "Venezuela",
+    "type": "embassy",
+    "name": "Embassy of Colombia in Caracas",
+    "city": "Caracas",
+    "address": "Calle Guaicaipuro, Quinta Karolina, El Rosal, Caracas 1060",
+    "phone": "+58 212 951-4011"
+  },
+  {
+    "country": "Bolivia",
+    "type": "embassy",
+    "name": "Embassy of Colombia in La Paz",
+    "city": "La Paz",
+    "address": "Av. 6 de Agosto esq. Pedro Salazar, La Paz",
+    "phone": "+591 2 243-0323"
+  },
+  {
+    "country": "Uruguay",
+    "type": "embassy",
+    "name": "Embassy of Colombia in Montevideo",
+    "city": "Montevideo",
+    "address": "Juncal 1305, Piso 3, Montevideo 11000",
+    "phone": "+598 2 916-2631"
+  },
+  {
+    "country": "Paraguay",
+    "type": "embassy",
+    "name": "Embassy of Colombia in Asunción",
+    "city": "Asunción",
+    "address": "Av. Mariscal López 3345, Asunción",
+    "phone": "+595 21 661-890"
+  },
+  {
+    "country": "Cuba",
+    "type": "embassy",
+    "name": "Embassy of Colombia in Havana",
+    "city": "Havana",
+    "address": "Calle 14 No. 515 entre 5ta y 7ma, Miramar, Havana",
+    "phone": "+53 7 204-1246"
+  },
+  {
+    "country": "Panama",
+    "type": "embassy",
+    "name": "Embassy of Colombia in Panama City",
+    "city": "Panama City",
+    "address": "Punta Pacífica, Torre de las Américas, Torre A, Piso 18, Panama City",
+    "phone": "+507 223-3535"
+  },
+  {
+    "country": "Costa Rica",
+    "type": "embassy",
+    "name": "Embassy of Colombia in San José",
+    "city": "San José",
+    "address": "Av. 2, Calle 9 y 11, San José",
+    "phone": "+506 2221-0725"
+  },
+  {
+    "country": "Spain",
+    "type": "embassy",
+    "name": "Embassy of Colombia in Madrid",
+    "city": "Madrid",
+    "address": "C/ Núñez de Balboa 35, 28001 Madrid",
+    "phone": "+34 91 577-7716"
+  },
+  {
+    "country": "Spain",
+    "type": "consulate-general",
+    "name": "Colombian Consulate General in Barcelona",
+    "city": "Barcelona",
+    "address": "Passeig de Gràcia 94, 3° 3a, 08008 Barcelona",
+    "phone": "+34 93 272-3066"
+  },
+  {
+    "country": "Spain",
+    "type": "consulate-general",
+    "name": "Colombian Consulate General in Valencia",
+    "city": "Valencia",
+    "address": "C/ Cirilo Amorós 9, Piso 7, 46004 Valencia",
+    "phone": "+34 96 352-3177"
+  },
+  {
+    "country": "Spain",
+    "type": "consulate-general",
+    "name": "Colombian Consulate General in Bilbao",
+    "city": "Bilbao",
+    "address": "Alameda de Urquijo 19, Piso 2, 48008 Bilbao",
+    "phone": "+34 94 447-1024"
+  },
+  {
+    "country": "Spain",
+    "type": "consulate-general",
+    "name": "Colombian Consulate General in Palma de Mallorca",
+    "city": "Palma de Mallorca",
+    "address": "C/ del Sindicat 55, 07002 Palma de Mallorca",
+    "phone": "+34 97 172-7101"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "embassy",
+    "name": "Embassy of Colombia in London",
+    "city": "London",
+    "address": "3 Hans Crescent, London SW1X 0LN",
+    "phone": "+44 20 7589-9177"
+  },
+  {
+    "country": "France",
+    "type": "embassy",
+    "name": "Embassy of Colombia in Paris",
+    "city": "Paris",
+    "address": "22 rue de l'Elysée, 75008 Paris",
+    "phone": "+33 1 4265-3020"
+  },
+  {
+    "country": "Germany",
+    "type": "embassy",
+    "name": "Embassy of Colombia in Berlin",
+    "city": "Berlin",
+    "address": "Kurfürstendamm 84, 10709 Berlin",
+    "phone": "+49 30 8852-5200"
+  },
+  {
+    "country": "Italy",
+    "type": "embassy",
+    "name": "Embassy of Colombia in Rome",
+    "city": "Rome",
+    "address": "Via Giuseppe Pisanelli 4, 00196 Rome",
+    "phone": "+39 06 362-0441"
+  },
+  {
+    "country": "Switzerland",
+    "type": "embassy",
+    "name": "Embassy of Colombia in Bern",
+    "city": "Bern",
+    "address": "Dufourstrasse 47, 3005 Bern",
+    "phone": "+41 31 351-1677"
+  },
+  {
+    "country": "Netherlands",
+    "type": "embassy",
+    "name": "Embassy of Colombia in The Hague",
+    "city": "The Hague",
+    "address": "Groot Hertoginnelaan 14, 2517 EG The Hague",
+    "phone": "+31 70 361-4545"
+  },
+  {
+    "country": "Belgium",
+    "type": "embassy",
+    "name": "Embassy of Colombia in Brussels",
+    "city": "Brussels",
+    "address": "Avenue Franklin Roosevelt 96A, 1050 Brussels",
+    "phone": "+32 2 649-5679"
+  },
+  {
+    "country": "Sweden",
+    "type": "embassy",
+    "name": "Embassy of Colombia in Stockholm",
+    "city": "Stockholm",
+    "address": "Engelbrektsgatan 7, 5 tr, 114 32 Stockholm",
+    "phone": "+46 8 218-385"
+  },
+  {
+    "country": "Portugal",
+    "type": "embassy",
+    "name": "Embassy of Colombia in Lisbon",
+    "city": "Lisbon",
+    "address": "Rua Tomás Ribeiro 58, 2° esq., 1050-224 Lisbon",
+    "phone": "+351 21 319-5750"
+  },
+  {
+    "country": "Russia",
+    "type": "embassy",
+    "name": "Embassy of Colombia in Moscow",
+    "city": "Moscow",
+    "address": "Ulitsa Burdenko 20, Moscow 119121",
+    "phone": "+7 495 248-3042"
+  },
+  {
+    "country": "China",
+    "type": "embassy",
+    "name": "Embassy of Colombia in Beijing",
+    "city": "Beijing",
+    "address": "San Li Tun East 5th Street 34, Chaoyang, Beijing 100600",
+    "phone": "+86 10 6532-3377"
+  },
+  {
+    "country": "Japan",
+    "type": "embassy",
+    "name": "Embassy of Colombia in Tokyo",
+    "city": "Tokyo",
+    "address": "3-10-53 Kami-Osaki, Shinagawa-ku, Tokyo 141-0021",
+    "phone": "+81 3 3440-6451"
+  },
+  {
+    "country": "South Korea",
+    "type": "embassy",
+    "name": "Embassy of Colombia in Seoul",
+    "city": "Seoul",
+    "address": "10F, 2 Jongno, Jongno-gu, Seoul 03170",
+    "phone": "+82 2 720-1369"
+  },
+  {
+    "country": "Australia",
+    "type": "embassy",
+    "name": "Embassy of Colombia in Canberra",
+    "city": "Canberra",
+    "address": "101 Northbourne Avenue, Turner, ACT 2612",
+    "phone": "+61 2 6230-5678"
+  },
+  {
+    "country": "India",
+    "type": "embassy",
+    "name": "Embassy of Colombia in New Delhi",
+    "city": "New Delhi",
+    "address": "76 Malcha Marg, Chanakyapuri, New Delhi 110021",
+    "phone": "+91 11 2611-0880"
+  },
+  {
+    "country": "South Africa",
+    "type": "embassy",
+    "name": "Embassy of Colombia in Pretoria",
+    "city": "Pretoria",
+    "address": "Infotech Building, 1090 Arcadia Street, Hatfield, Pretoria 0083",
+    "phone": "+27 12 342-4830"
+  },
+  {
+    "country": "Egypt",
+    "type": "embassy",
+    "name": "Embassy of Colombia in Cairo",
+    "city": "Cairo",
+    "address": "10 Aziz Osman Street, Zamalek, Cairo",
+    "phone": "+20 2 2735-6553"
+  },
+  {
+    "country": "Turkey",
+    "type": "embassy",
+    "name": "Embassy of Colombia in Ankara",
+    "city": "Ankara",
+    "address": "Resit Galip Cad. 72/8, Gaziosmanpasa, Ankara",
+    "phone": "+90 312 446-5882"
+  },
+  {
+    "country": "Israel",
+    "type": "embassy",
+    "name": "Embassy of Colombia in Tel Aviv",
+    "city": "Tel Aviv",
+    "address": "14 Abba Hillel Silver Road, Ramat Gan, Tel Aviv",
+    "phone": "+972 3 612-4133"
+  },
+  {
+    "country": "Saudi Arabia",
+    "type": "embassy",
+    "name": "Embassy of Colombia in Riyadh",
+    "city": "Riyadh",
+    "address": "Diplomatic Quarter, Riyadh 11693",
+    "phone": "+966 11 488-1700"
+  },
+  {
+    "country": "United Arab Emirates",
+    "type": "embassy",
+    "name": "Embassy of Colombia in Abu Dhabi",
+    "city": "Abu Dhabi",
+    "address": "Al Bateen District, PO Box 4343, Abu Dhabi",
+    "phone": "+971 2 632-0048"
+  },
+  {
+    "country": "Morocco",
+    "type": "embassy",
+    "name": "Embassy of Colombia in Rabat",
+    "city": "Rabat",
+    "address": "74 Avenue Mehdi Ben Barka, Souissi, Rabat",
+    "phone": "+212 537-637-680"
+  },
+  {
+    "country": "Indonesia",
+    "type": "embassy",
+    "name": "Embassy of Colombia in Jakarta",
+    "city": "Jakarta",
+    "address": "Jl. Haji Agus Salim No. 109, Jakarta Pusat 10350",
+    "phone": "+62 21 345-8604"
+  },
+  {
+    "country": "Thailand",
+    "type": "embassy",
+    "name": "Embassy of Colombia in Bangkok",
+    "city": "Bangkok",
+    "address": "Vanissa Building, 12th Floor, 29 Chidlom, Ploenchit Rd, Bangkok 10330",
+    "phone": "+66 2 655-1420"
+  },
+  {
+    "country": "United Nations (New York)",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Colombia to the United Nations (New York)",
+    "city": "New York",
+    "address": "140 East 57th Street, 5th Floor, New York, NY 10022",
+    "phone": "+1 212 355-7776"
+  },
+  {
+    "country": "United Nations (Geneva)",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Colombia to the United Nations (Geneva)",
+    "city": "Geneva",
+    "address": "Rue de Lausanne 114-116, 1202 Geneva",
+    "phone": "+41 22 919-0200"
+  },
+  {
+    "country": "European Union",
+    "type": "permanent-mission",
+    "name": "Mission of Colombia to the European Union",
+    "city": "Brussels",
+    "address": "Av. Franklin Roosevelt 96A, 1050 Brussels",
+    "phone": "+32 2 649-5679"
+  },
+  {
+    "country": "OAS (Washington)",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Colombia to the OAS",
+    "city": "Washington D.C.",
+    "address": "1724 Massachusetts Ave NW, Washington D.C. 20036",
+    "phone": "+1 202 332-7346"
+  },
+  {
+    "country": "Poland",
+    "type": "embassy",
+    "name": "Embassy of Colombia in Warsaw",
+    "city": "Warsaw",
+    "address": "ul. Zwycięzców 36/38, 03-938 Warsaw",
+    "phone": "+48 22 617-5800"
+  }
+]

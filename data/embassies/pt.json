@@ -1,0 +1,298 @@
+[
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Embassy of Portugal in Washington",
+    "city": "Washington, D.C.",
+    "address": "2012 Massachusetts Avenue NW, Washington, DC 20036",
+    "phone": "+1 (202) 350-5400"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Portugal in New York",
+    "city": "New York, NY",
+    "address": "866 Second Avenue, 8th Floor, New York, NY 10017",
+    "phone": "+1 (212) 221-3165"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Portugal in Boston",
+    "city": "Boston, MA",
+    "address": "3 Copley Place, Suite 301, Boston, MA 02116",
+    "phone": "+1 (617) 536-8740"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Portugal in Newark",
+    "city": "Newark, NJ",
+    "address": "1 Riverfront Plaza, Suite 1501, Newark, NJ 07102",
+    "phone": "+1 (973) 643-4200"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Portugal in San Francisco",
+    "city": "San Francisco, CA",
+    "address": "3298 Washington Street, San Francisco, CA 94115",
+    "phone": "+1 (415) 346-3400"
+  },
+  {
+    "country": "United States",
+    "type": "consulate",
+    "name": "Consulate of Portugal in Providence",
+    "city": "Providence, RI",
+    "address": "1 Turks Head Place, Suite 550, Providence, RI 02903",
+    "phone": "+1 (401) 272-2003"
+  },
+  {
+    "country": "United States",
+    "type": "consulate",
+    "name": "Consulate of Portugal in New Bedford",
+    "city": "New Bedford, MA",
+    "address": "628 Pleasant Street, New Bedford, MA 02740",
+    "phone": "+1 (508) 997-6151"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "embassy",
+    "name": "Embassy of Portugal in London",
+    "city": "London",
+    "address": "11 Belgrave Square, London SW1X 8PP",
+    "phone": "+44 (0)20 7235 5331"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "consulate-general",
+    "name": "Consulate General of Portugal in London",
+    "city": "London",
+    "address": "3 Portland Place, London W1B 1HR",
+    "phone": "+44 (0)20 7291 3770"
+  },
+  {
+    "country": "France",
+    "type": "embassy",
+    "name": "Embassy of Portugal in Paris",
+    "city": "Paris",
+    "address": "3 Rue de Noisiel, 75116 Paris",
+    "phone": "+33 (1) 47 27 35 29"
+  },
+  {
+    "country": "France",
+    "type": "consulate-general",
+    "name": "Consulate General of Portugal in Paris",
+    "city": "Paris",
+    "address": "6 Rue Georges Berger, 75017 Paris",
+    "phone": "+33 (1) 56 33 81 00"
+  },
+  {
+    "country": "Germany",
+    "type": "embassy",
+    "name": "Embassy of Portugal in Berlin",
+    "city": "Berlin",
+    "address": "Zimmerstraße 56, 10117 Berlin",
+    "phone": "+49 (30) 590 063 500"
+  },
+  {
+    "country": "Germany",
+    "type": "consulate-general",
+    "name": "Consulate General of Portugal in Hamburg",
+    "city": "Hamburg",
+    "address": "Hohe Bleichen 12, 20354 Hamburg",
+    "phone": "+49 (40) 310 993 0"
+  },
+  {
+    "country": "Germany",
+    "type": "consulate-general",
+    "name": "Consulate General of Portugal in Düsseldorf",
+    "city": "Düsseldorf",
+    "address": "Stahlwerkstraße 10, 40215 Düsseldorf",
+    "phone": "+49 (211) 138 820"
+  },
+  {
+    "country": "Spain",
+    "type": "embassy",
+    "name": "Embassy of Portugal in Madrid",
+    "city": "Madrid",
+    "address": "Calle del Pinar 1, 28006 Madrid",
+    "phone": "+34 91 782 4960"
+  },
+  {
+    "country": "Spain",
+    "type": "consulate-general",
+    "name": "Consulate General of Portugal in Seville",
+    "city": "Seville",
+    "address": "Avenida de la Palmera 22, 41012 Seville",
+    "phone": "+34 95 423 0280"
+  },
+  {
+    "country": "Spain",
+    "type": "consulate-general",
+    "name": "Consulate General of Portugal in Barcelona",
+    "city": "Barcelona",
+    "address": "Ronda de Sant Pere 7, 1st Floor, 08010 Barcelona",
+    "phone": "+34 93 318 8150"
+  },
+  {
+    "country": "Brazil",
+    "type": "embassy",
+    "name": "Embassy of Portugal in Brasilia",
+    "city": "Brasilia",
+    "address": "SES Avenida das Nações, Quadra 801, Lote 2, 70402-900 Brasilia DF",
+    "phone": "+55 (61) 3032-9600"
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate-general",
+    "name": "Consulate General of Portugal in São Paulo",
+    "city": "São Paulo",
+    "address": "Avenida São Luís 112, 8th Floor, 01046-000 São Paulo",
+    "phone": "+55 (11) 3120-8600"
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate-general",
+    "name": "Consulate General of Portugal in Rio de Janeiro",
+    "city": "Rio de Janeiro",
+    "address": "Praia do Botafogo 228, Sala 1201, 22250-906 Rio de Janeiro",
+    "phone": "+55 (21) 3802-7288"
+  },
+  {
+    "country": "Canada",
+    "type": "embassy",
+    "name": "Embassy of Portugal in Ottawa",
+    "city": "Ottawa",
+    "address": "645 Island Park Drive, Ottawa, ON K1Y 0B8",
+    "phone": "+1 (613) 729-0883"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Consulate General of Portugal in Toronto",
+    "city": "Toronto",
+    "address": "438 University Avenue, Suite 1400, Toronto, ON M5G 2K8",
+    "phone": "+1 (416) 217-0966"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Consulate General of Portugal in Montreal",
+    "city": "Montreal",
+    "address": "2020 Rue University, Suite 1725, Montreal, QC H3A 2A5",
+    "phone": "+1 (514) 499-0359"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Consulate General of Portugal in Vancouver",
+    "city": "Vancouver",
+    "address": "1200-1075 West Georgia Street, Vancouver, BC V6E 3C9",
+    "phone": "+1 (604) 688-6514"
+  },
+  {
+    "country": "Japan",
+    "type": "embassy",
+    "name": "Embassy of Portugal in Tokyo",
+    "city": "Tokyo",
+    "address": "3-10-3 Kojimachi, Chiyoda-ku, Tokyo 102-0083",
+    "phone": "+81 (3) 5212-7322"
+  },
+  {
+    "country": "China",
+    "type": "embassy",
+    "name": "Embassy of Portugal in Beijing",
+    "city": "Beijing",
+    "address": "Tayuan Diplomatic Office Bldg 2-15-1, 14 Liangmahe Nanlu, Chaoyang District, Beijing 100600",
+    "phone": "+86 (10) 6532-3497"
+  },
+  {
+    "country": "China",
+    "type": "consulate-general",
+    "name": "Consulate General of Portugal in Macau",
+    "city": "Macau",
+    "address": "Rua Pedro Nolasco da Silva 43, Macau",
+    "phone": "+853 2835-6660"
+  },
+  {
+    "country": "India",
+    "type": "embassy",
+    "name": "Embassy of Portugal in New Delhi",
+    "city": "New Delhi",
+    "address": "4 Panchsheel Marg, Chanakyapuri, New Delhi 110021",
+    "phone": "+91 (11) 2419-6212"
+  },
+  {
+    "country": "India",
+    "type": "consulate",
+    "name": "Consulate of Portugal in Goa",
+    "city": "Panaji, Goa",
+    "address": "Rua de Ourem, Panjim, Goa 403001",
+    "phone": "+91 (832) 222-5812"
+  },
+  {
+    "country": "Australia",
+    "type": "embassy",
+    "name": "Embassy of Portugal in Canberra",
+    "city": "Canberra",
+    "address": "23 Culgoa Circuit, O'Malley, ACT 2606",
+    "phone": "+61 (2) 6290-1733"
+  },
+  {
+    "country": "Mexico",
+    "type": "embassy",
+    "name": "Embassy of Portugal in Mexico City",
+    "city": "Mexico City",
+    "address": "Alpes 1370, Col. Lomas de Chapultepec, 11000 Mexico City",
+    "phone": "+52 (55) 5520-7897"
+  },
+  {
+    "country": "Italy",
+    "type": "embassy",
+    "name": "Embassy of Portugal in Rome",
+    "city": "Rome",
+    "address": "Via Giacinta Pezzana 9, 00197 Rome",
+    "phone": "+39 06 844 801"
+  },
+  {
+    "country": "Israel",
+    "type": "embassy",
+    "name": "Embassy of Portugal in Tel Aviv",
+    "city": "Tel Aviv",
+    "address": "Beit Yachin, 5th Floor, 2 Weizmann Street, Tel Aviv 6423902",
+    "phone": "+972 (3) 695-8371"
+  },
+  {
+    "country": "South Africa",
+    "type": "embassy",
+    "name": "Embassy of Portugal in Pretoria",
+    "city": "Pretoria",
+    "address": "599 Leyds Street, Muckleneuk, Pretoria 0002",
+    "phone": "+27 (12) 341-2340"
+  },
+  {
+    "country": "Angola",
+    "type": "embassy",
+    "name": "Embassy of Portugal in Luanda",
+    "city": "Luanda",
+    "address": "Rua Karl Marx 49, Luanda",
+    "phone": "+244 (222) 391-007"
+  },
+  {
+    "country": "Mozambique",
+    "type": "embassy",
+    "name": "Embassy of Portugal in Maputo",
+    "city": "Maputo",
+    "address": "Avenida Julius Nyerere 720, Maputo",
+    "phone": "+258 (21) 490-316"
+  },
+  {
+    "country": "United Nations",
+    "type": "mission",
+    "name": "Permanent Mission of Portugal to the United Nations",
+    "city": "New York, NY",
+    "address": "866 Second Avenue, 9th Floor, New York, NY 10017",
+    "phone": "+1 (212) 759-9444"
+  }
+]

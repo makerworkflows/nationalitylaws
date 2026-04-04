@@ -1,0 +1,242 @@
+[
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Embassy of Guyana in Washington D.C.",
+    "city": "Washington D.C.",
+    "address": "2490 Tracy Place NW, Washington, D.C. 20008",
+    "phone": "+1 202 265 6900"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Guyana in New York",
+    "city": "New York",
+    "address": "370 Seventh Avenue, Suite 402, New York, NY 10001",
+    "phone": "+1 212 947 5110"
+  },
+  {
+    "country": "United States",
+    "type": "consulate",
+    "name": "Consulate of Guyana in Miami",
+    "city": "Miami",
+    "address": "3250 Mary Street, Miami, FL 33133",
+    "phone": "+1 305 442 7011"
+  },
+  {
+    "country": "United States",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Guyana in Houston",
+    "city": "Houston",
+    "address": "Houston, TX",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Guyana in Orlando",
+    "city": "Orlando",
+    "address": "Orlando, FL",
+    "phone": ""
+  },
+  {
+    "country": "United Kingdom",
+    "type": "high-commission",
+    "name": "Guyana High Commission in London",
+    "city": "London",
+    "address": "3 Palace Court, Bayswater Road, London W2 4LP",
+    "phone": "+44 20 7229 7684"
+  },
+  {
+    "country": "Canada",
+    "type": "high-commission",
+    "name": "Guyana High Commission in Ottawa",
+    "city": "Ottawa",
+    "address": "151 Slater Street, Suite 800, Ottawa, ON K1P 5H3",
+    "phone": "+1 613 235 7249"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Consulate General of Guyana in Toronto",
+    "city": "Toronto",
+    "address": "505 Consumers Road, Suite 206, Toronto, ON M2J 4V8",
+    "phone": "+1 416 494 6040"
+  },
+  {
+    "country": "Brazil",
+    "type": "embassy",
+    "name": "Embassy of Guyana in Brasília",
+    "city": "Brasília",
+    "address": "SHIS QI 05, Chácara 30, 71600-050 Brasília, DF",
+    "phone": "+55 61 3248 0874"
+  },
+  {
+    "country": "Venezuela",
+    "type": "embassy",
+    "name": "Embassy of Guyana in Caracas",
+    "city": "Caracas",
+    "address": "Quinta Roraima, Avenida El Paseo, Prados del Este, Caracas",
+    "phone": "+58 212 977 1158"
+  },
+  {
+    "country": "Suriname",
+    "type": "embassy",
+    "name": "Embassy of Guyana in Paramaribo",
+    "city": "Paramaribo",
+    "address": "Gravenstraat 82, Paramaribo, Suriname",
+    "phone": "+597 477 895"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "type": "high-commission",
+    "name": "Guyana High Commission in Port of Spain",
+    "city": "Port of Spain",
+    "address": "Young Street, Port of Spain, Trinidad and Tobago",
+    "phone": "+1 868 625 4390"
+  },
+  {
+    "country": "Jamaica",
+    "type": "high-commission",
+    "name": "Guyana High Commission in Kingston",
+    "city": "Kingston",
+    "address": "2 Balmoral Avenue, Kingston 10, Jamaica",
+    "phone": "+1 876 927 7218"
+  },
+  {
+    "country": "Barbados",
+    "type": "high-commission",
+    "name": "Guyana High Commission in Bridgetown",
+    "city": "Bridgetown",
+    "address": "Dayrells Road, Christ Church, Bridgetown, Barbados",
+    "phone": "+1 246 435 7004"
+  },
+  {
+    "country": "Cuba",
+    "type": "embassy",
+    "name": "Embassy of Guyana in Havana",
+    "city": "Havana",
+    "address": "Calle 18 No. 506, Miramar, Havana, Cuba",
+    "phone": "+53 7 204 2252"
+  },
+  {
+    "country": "Belgium",
+    "type": "embassy",
+    "name": "Embassy of Guyana in Brussels (accredited to EU)",
+    "city": "Brussels",
+    "address": "Rue de la Loi 120, 1040 Brussels, Belgium",
+    "phone": "+32 2 675 6216"
+  },
+  {
+    "country": "United States",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Guyana to the United Nations",
+    "city": "New York",
+    "address": "801 Second Avenue, Suite 601, New York, NY 10017",
+    "phone": "+1 212 527 3232"
+  },
+  {
+    "country": "Switzerland",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Guyana to the UN in Geneva and WTO",
+    "city": "Geneva",
+    "address": "Geneva, Switzerland",
+    "phone": ""
+  },
+  {
+    "country": "China",
+    "type": "embassy",
+    "name": "Embassy of Guyana in Beijing",
+    "city": "Beijing",
+    "address": "1 Xiushui Dongjie, Chaoyang District, Beijing, China",
+    "phone": "+86 10 6532 1601"
+  },
+  {
+    "country": "India",
+    "type": "high-commission",
+    "name": "Guyana High Commission in New Delhi",
+    "city": "New Delhi",
+    "address": "B-5/29, Vasant Vihar, New Delhi 110057, India",
+    "phone": "+91 11 2614 5560"
+  },
+  {
+    "country": "Colombia",
+    "type": "embassy",
+    "name": "Embassy of Guyana in Bogotá",
+    "city": "Bogotá",
+    "address": "Carrera 9 No. 80-15, Oficina 501, Bogotá, Colombia",
+    "phone": "+57 1 317 1486"
+  },
+  {
+    "country": "Ecuador",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Guyana in Quito",
+    "city": "Quito",
+    "address": "Quito, Ecuador",
+    "phone": ""
+  },
+  {
+    "country": "Mexico",
+    "type": "embassy",
+    "name": "Embassy of Guyana in Mexico City",
+    "city": "Mexico City",
+    "address": "Rio Lerma 188, Colonia Cuauhtemoc, Mexico City",
+    "phone": "+52 55 5514 6863"
+  },
+  {
+    "country": "Germany",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Guyana in Hamburg",
+    "city": "Hamburg",
+    "address": "Hamburg, Germany",
+    "phone": ""
+  },
+  {
+    "country": "Netherlands",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Guyana in The Hague",
+    "city": "The Hague",
+    "address": "The Hague, Netherlands",
+    "phone": ""
+  },
+  {
+    "country": "France",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Guyana in Paris",
+    "city": "Paris",
+    "address": "Paris, France",
+    "phone": ""
+  },
+  {
+    "country": "Belize",
+    "type": "high-commission",
+    "name": "Guyana High Commission in Belmopan",
+    "city": "Belmopan",
+    "address": "Belmopan, Belize",
+    "phone": ""
+  },
+  {
+    "country": "Haiti",
+    "type": "embassy",
+    "name": "Embassy of Guyana in Port-au-Prince",
+    "city": "Port-au-Prince",
+    "address": "Port-au-Prince, Haiti",
+    "phone": ""
+  },
+  {
+    "country": "Dominican Republic",
+    "type": "embassy",
+    "name": "Embassy of Guyana in Santo Domingo",
+    "city": "Santo Domingo",
+    "address": "Calle Gustavo Mejia Ricart, Santo Domingo, Dominican Republic",
+    "phone": ""
+  },
+  {
+    "country": "Guyana",
+    "type": "consulate",
+    "name": "Consulate of Guyana in Lethem (border area)",
+    "city": "Lethem",
+    "address": "Lethem, Rupununi, Guyana",
+    "phone": ""
+  }
+]

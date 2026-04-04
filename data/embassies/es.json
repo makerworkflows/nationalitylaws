@@ -1,0 +1,322 @@
+[
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Embassy of Spain in Washington",
+    "city": "Washington, D.C.",
+    "address": "2375 Pennsylvania Avenue NW, Washington, DC 20037",
+    "phone": "+1 (202) 452-0100"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Spain in New York",
+    "city": "New York, NY",
+    "address": "150 East 58th Street, 30th Floor, New York, NY 10155",
+    "phone": "+1 (212) 355-4080"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Spain in Los Angeles",
+    "city": "Los Angeles, CA",
+    "address": "5055 Wilshire Blvd, Suite 860, Los Angeles, CA 90036",
+    "phone": "+1 (323) 938-0158"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Spain in Chicago",
+    "city": "Chicago, IL",
+    "address": "180 North Michigan Avenue, Suite 1500, Chicago, IL 60601",
+    "phone": "+1 (312) 782-4588"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Spain in Houston",
+    "city": "Houston, TX",
+    "address": "1800 Bering Drive, Suite 660, Houston, TX 77057",
+    "phone": "+1 (713) 783-6200"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Spain in San Francisco",
+    "city": "San Francisco, CA",
+    "address": "1405 Sutter Street, San Francisco, CA 94109",
+    "phone": "+1 (415) 922-2995"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Spain in Miami",
+    "city": "Miami, FL",
+    "address": "2655 Le Jeune Road, Suite 203, Coral Gables, FL 33134",
+    "phone": "+1 (305) 446-5511"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Spain in Boston",
+    "city": "Boston, MA",
+    "address": "31 St James Avenue, Suite 905, Boston, MA 02116",
+    "phone": "+1 (617) 536-2506"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "embassy",
+    "name": "Embassy of Spain in London",
+    "city": "London",
+    "address": "39 Chesham Place, London SW1X 8SB",
+    "phone": "+44 (0)20 7235 5555"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "consulate-general",
+    "name": "Consulate General of Spain in London",
+    "city": "London",
+    "address": "20 Draycott Place, London SW3 2RZ",
+    "phone": "+44 (0)20 7589 8989"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "consulate-general",
+    "name": "Consulate General of Spain in Edinburgh",
+    "city": "Edinburgh",
+    "address": "63 North Castle Street, Edinburgh EH2 3LJ",
+    "phone": "+44 (0)131 220 1843"
+  },
+  {
+    "country": "France",
+    "type": "embassy",
+    "name": "Embassy of Spain in Paris",
+    "city": "Paris",
+    "address": "22 Avenue Marceau, 75008 Paris",
+    "phone": "+33 (1) 44 43 18 00"
+  },
+  {
+    "country": "France",
+    "type": "consulate-general",
+    "name": "Consulate General of Spain in Paris",
+    "city": "Paris",
+    "address": "165 Boulevard Malesherbes, 75017 Paris",
+    "phone": "+33 (1) 44 29 40 00"
+  },
+  {
+    "country": "Germany",
+    "type": "embassy",
+    "name": "Embassy of Spain in Berlin",
+    "city": "Berlin",
+    "address": "Lichtensteinallee 1, 10787 Berlin",
+    "phone": "+49 (30) 254 007 0"
+  },
+  {
+    "country": "Germany",
+    "type": "consulate-general",
+    "name": "Consulate General of Spain in Frankfurt",
+    "city": "Frankfurt",
+    "address": "Nibelungenplatz 3, 60318 Frankfurt am Main",
+    "phone": "+49 (69) 959 166 0"
+  },
+  {
+    "country": "Germany",
+    "type": "consulate-general",
+    "name": "Consulate General of Spain in Munich",
+    "city": "Munich",
+    "address": "Oberföhringer Straße 45, 81925 Munich",
+    "phone": "+49 (89) 998 474 0"
+  },
+  {
+    "country": "Germany",
+    "type": "consulate-general",
+    "name": "Consulate General of Spain in Düsseldorf",
+    "city": "Düsseldorf",
+    "address": "Homberger Straße 16, 40474 Düsseldorf",
+    "phone": "+49 (211) 436 080"
+  },
+  {
+    "country": "Germany",
+    "type": "consulate-general",
+    "name": "Consulate General of Spain in Hamburg",
+    "city": "Hamburg",
+    "address": "Mittelweg 37, 20148 Hamburg",
+    "phone": "+49 (40) 414 646 0"
+  },
+  {
+    "country": "Japan",
+    "type": "embassy",
+    "name": "Embassy of Spain in Tokyo",
+    "city": "Tokyo",
+    "address": "1-3-29 Roppongi, Minato-ku, Tokyo 106-0032",
+    "phone": "+81 (3) 3583-8531"
+  },
+  {
+    "country": "China",
+    "type": "embassy",
+    "name": "Embassy of Spain in Beijing",
+    "city": "Beijing",
+    "address": "9 Sanlitun Road, Chaoyang District, Beijing 100600",
+    "phone": "+86 (10) 6532-3629"
+  },
+  {
+    "country": "China",
+    "type": "consulate-general",
+    "name": "Consulate General of Spain in Shanghai",
+    "city": "Shanghai",
+    "address": "12th Floor, Nanjing West Road 1168, Shanghai 200041",
+    "phone": "+86 (21) 6321-3543"
+  },
+  {
+    "country": "India",
+    "type": "embassy",
+    "name": "Embassy of Spain in New Delhi",
+    "city": "New Delhi",
+    "address": "12 Prithviraj Road, New Delhi 110011",
+    "phone": "+91 (11) 4129-5600"
+  },
+  {
+    "country": "India",
+    "type": "consulate-general",
+    "name": "Consulate General of Spain in Mumbai",
+    "city": "Mumbai",
+    "address": "Maker Chambers VI, 5th Floor, 220 Jamnalal Bajaj Road, Nariman Point, Mumbai 400021",
+    "phone": "+91 (22) 2287-4692"
+  },
+  {
+    "country": "Brazil",
+    "type": "embassy",
+    "name": "Embassy of Spain in Brasilia",
+    "city": "Brasilia",
+    "address": "SES Avenida das Nações, Quadra 811, Lote 44, 70429-900 Brasilia DF",
+    "phone": "+55 (61) 3242-1636"
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate-general",
+    "name": "Consulate General of Spain in São Paulo",
+    "city": "São Paulo",
+    "address": "Avenida Brasil 903, Jardim América, 01431-000 São Paulo",
+    "phone": "+55 (11) 4506-1400"
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate-general",
+    "name": "Consulate General of Spain in Rio de Janeiro",
+    "city": "Rio de Janeiro",
+    "address": "Rua Lauro Muller 116, Suite 2302, Botafogo, 22290-160 Rio de Janeiro",
+    "phone": "+55 (21) 2543-3200"
+  },
+  {
+    "country": "Canada",
+    "type": "embassy",
+    "name": "Embassy of Spain in Ottawa",
+    "city": "Ottawa",
+    "address": "74 Stanley Avenue, Ottawa, ON K1M 1P4",
+    "phone": "+1 (613) 747-2252"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Consulate General of Spain in Toronto",
+    "city": "Toronto",
+    "address": "170 University Avenue, Suite 602, Toronto, ON M5H 3B3",
+    "phone": "+1 (416) 977-1661"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Consulate General of Spain in Montreal",
+    "city": "Montreal",
+    "address": "1200 Avenue McGill College, Suite 2025, Montreal, QC H3B 4G7",
+    "phone": "+1 (514) 935-5235"
+  },
+  {
+    "country": "Australia",
+    "type": "embassy",
+    "name": "Embassy of Spain in Canberra",
+    "city": "Canberra",
+    "address": "15 Arkana Street, Yarralumla, ACT 2600",
+    "phone": "+61 (2) 6273-3555"
+  },
+  {
+    "country": "Australia",
+    "type": "consulate-general",
+    "name": "Consulate General of Spain in Sydney",
+    "city": "Sydney",
+    "address": "Level 24, St Martins Tower, 31 Market Street, Sydney NSW 2000",
+    "phone": "+61 (2) 9261-2433"
+  },
+  {
+    "country": "Mexico",
+    "type": "embassy",
+    "name": "Embassy of Spain in Mexico City",
+    "city": "Mexico City",
+    "address": "Galileo 114, Col. Polanco, 11560 Mexico City",
+    "phone": "+52 (55) 5282-2974"
+  },
+  {
+    "country": "Italy",
+    "type": "embassy",
+    "name": "Embassy of Spain in Rome",
+    "city": "Rome",
+    "address": "Palazzo Borghese, Largo della Fontanella di Borghese 19, 00186 Rome",
+    "phone": "+39 06 684 0401"
+  },
+  {
+    "country": "Portugal",
+    "type": "embassy",
+    "name": "Embassy of Spain in Lisbon",
+    "city": "Lisbon",
+    "address": "Rua do Salitre 1, 1269-052 Lisbon",
+    "phone": "+351 21 347 2381"
+  },
+  {
+    "country": "Argentina",
+    "type": "embassy",
+    "name": "Embassy of Spain in Buenos Aires",
+    "city": "Buenos Aires",
+    "address": "Mariscal Ramón Castilla 2720, C1425DZF Buenos Aires",
+    "phone": "+54 (11) 4809-1700"
+  },
+  {
+    "country": "Colombia",
+    "type": "embassy",
+    "name": "Embassy of Spain in Bogota",
+    "city": "Bogota",
+    "address": "Calle 94A No. 11A-70, Bogota",
+    "phone": "+57 (1) 622-0090"
+  },
+  {
+    "country": "Israel",
+    "type": "embassy",
+    "name": "Embassy of Spain in Tel Aviv",
+    "city": "Tel Aviv",
+    "address": "Dubnov Tower, 16th Floor, 7 Dubnov Street, Tel Aviv 6473707",
+    "phone": "+972 (3) 696-9218"
+  },
+  {
+    "country": "Morocco",
+    "type": "embassy",
+    "name": "Embassy of Spain in Rabat",
+    "city": "Rabat",
+    "address": "3 bis, Zankat Madnine, Rabat",
+    "phone": "+212 (537) 633-900"
+  },
+  {
+    "country": "South Korea",
+    "type": "embassy",
+    "name": "Embassy of Spain in Seoul",
+    "city": "Seoul",
+    "address": "726-52 Hannam-dong, Yongsan-gu, Seoul 04402",
+    "phone": "+82 (2) 794-3581"
+  },
+  {
+    "country": "United Nations",
+    "type": "mission",
+    "name": "Permanent Mission of Spain to the United Nations",
+    "city": "New York, NY",
+    "address": "One Dag Hammarskjöld Plaza, 245 East 47th Street, 36th Floor, New York, NY 10017",
+    "phone": "+1 (212) 661-1050"
+  }
+]

@@ -1,0 +1,370 @@
+[
+  {
+    "country": "Argentina",
+    "type": "embassy",
+    "name": "Embassy of Nicaragua in Buenos Aires",
+    "city": "Buenos Aires",
+    "address": "Buenos Aires, Argentina",
+    "phone": ""
+  },
+  {
+    "country": "Belgium",
+    "type": "embassy",
+    "name": "Embassy of Nicaragua in Brussels",
+    "city": "Brussels",
+    "address": "Brussels, Belgium",
+    "phone": ""
+  },
+  {
+    "country": "Belize",
+    "type": "embassy",
+    "name": "Embassy of Nicaragua in Belize City",
+    "city": "Belize City",
+    "address": "Belize City, Belize",
+    "phone": ""
+  },
+  {
+    "country": "Bolivia",
+    "type": "embassy",
+    "name": "Embassy of Nicaragua in La Paz",
+    "city": "La Paz",
+    "address": "La Paz, Bolivia",
+    "phone": ""
+  },
+  {
+    "country": "Brazil",
+    "type": "embassy",
+    "name": "Embassy of Nicaragua in Brasilia",
+    "city": "Brasilia",
+    "address": "Brasilia, Brazil",
+    "phone": ""
+  },
+  {
+    "country": "Canada",
+    "type": "embassy",
+    "name": "Embassy of Nicaragua in Ottawa",
+    "city": "Ottawa",
+    "address": "Ottawa, Canada",
+    "phone": ""
+  },
+  {
+    "country": "Chile",
+    "type": "embassy",
+    "name": "Embassy of Nicaragua in Santiago",
+    "city": "Santiago",
+    "address": "Santiago, Chile",
+    "phone": ""
+  },
+  {
+    "country": "China",
+    "type": "embassy",
+    "name": "Embassy of Nicaragua in Beijing",
+    "city": "Beijing",
+    "address": "Beijing, China",
+    "phone": ""
+  },
+  {
+    "country": "Colombia",
+    "type": "embassy",
+    "name": "Embassy of Nicaragua in Bogota",
+    "city": "Bogota",
+    "address": "Bogota, Colombia",
+    "phone": ""
+  },
+  {
+    "country": "Costa Rica",
+    "type": "embassy",
+    "name": "Embassy of Nicaragua in San Jose",
+    "city": "San Jose",
+    "address": "San Jose, Costa Rica",
+    "phone": ""
+  },
+  {
+    "country": "Cuba",
+    "type": "embassy",
+    "name": "Embassy of Nicaragua in Havana",
+    "city": "Havana",
+    "address": "Havana, Cuba",
+    "phone": ""
+  },
+  {
+    "country": "Denmark",
+    "type": "embassy",
+    "name": "Embassy of Nicaragua in Copenhagen",
+    "city": "Copenhagen",
+    "address": "Copenhagen, Denmark",
+    "phone": ""
+  },
+  {
+    "country": "Dominican Republic",
+    "type": "embassy",
+    "name": "Embassy of Nicaragua in Santo Domingo",
+    "city": "Santo Domingo",
+    "address": "Santo Domingo, Dominican Republic",
+    "phone": ""
+  },
+  {
+    "country": "Ecuador",
+    "type": "embassy",
+    "name": "Embassy of Nicaragua in Quito",
+    "city": "Quito",
+    "address": "Quito, Ecuador",
+    "phone": ""
+  },
+  {
+    "country": "Egypt",
+    "type": "embassy",
+    "name": "Embassy of Nicaragua in Cairo",
+    "city": "Cairo",
+    "address": "Cairo, Egypt",
+    "phone": ""
+  },
+  {
+    "country": "El Salvador",
+    "type": "embassy",
+    "name": "Embassy of Nicaragua in San Salvador",
+    "city": "San Salvador",
+    "address": "San Salvador, El Salvador",
+    "phone": ""
+  },
+  {
+    "country": "France",
+    "type": "embassy",
+    "name": "Embassy of Nicaragua in Paris",
+    "city": "Paris",
+    "address": "Paris, France",
+    "phone": ""
+  },
+  {
+    "country": "Germany",
+    "type": "embassy",
+    "name": "Embassy of Nicaragua in Berlin",
+    "city": "Berlin",
+    "address": "Berlin, Germany",
+    "phone": ""
+  },
+  {
+    "country": "Greece",
+    "type": "embassy",
+    "name": "Embassy of Nicaragua in Athens",
+    "city": "Athens",
+    "address": "Athens, Greece",
+    "phone": ""
+  },
+  {
+    "country": "Guatemala",
+    "type": "embassy",
+    "name": "Embassy of Nicaragua in Guatemala City",
+    "city": "Guatemala City",
+    "address": "Guatemala City, Guatemala",
+    "phone": ""
+  },
+  {
+    "country": "Honduras",
+    "type": "embassy",
+    "name": "Embassy of Nicaragua in Tegucigalpa",
+    "city": "Tegucigalpa",
+    "address": "Tegucigalpa, Honduras",
+    "phone": ""
+  },
+  {
+    "country": "India",
+    "type": "embassy",
+    "name": "Embassy of Nicaragua in New Delhi",
+    "city": "New Delhi",
+    "address": "New Delhi, India",
+    "phone": ""
+  },
+  {
+    "country": "Iran",
+    "type": "embassy",
+    "name": "Embassy of Nicaragua in Tehran",
+    "city": "Tehran",
+    "address": "Tehran, Iran",
+    "phone": ""
+  },
+  {
+    "country": "Italy",
+    "type": "embassy",
+    "name": "Embassy of Nicaragua in Rome",
+    "city": "Rome",
+    "address": "Rome, Italy",
+    "phone": ""
+  },
+  {
+    "country": "Japan",
+    "type": "embassy",
+    "name": "Embassy of Nicaragua in Tokyo",
+    "city": "Tokyo",
+    "address": "Tokyo, Japan",
+    "phone": ""
+  },
+  {
+    "country": "Libya",
+    "type": "embassy",
+    "name": "Embassy of Nicaragua in Tripoli",
+    "city": "Tripoli",
+    "address": "Tripoli, Libya",
+    "phone": ""
+  },
+  {
+    "country": "Mexico",
+    "type": "embassy",
+    "name": "Embassy of Nicaragua in Mexico City",
+    "city": "Mexico City",
+    "address": "Mexico City, Mexico",
+    "phone": ""
+  },
+  {
+    "country": "Netherlands",
+    "type": "embassy",
+    "name": "Embassy of Nicaragua in The Hague",
+    "city": "The Hague",
+    "address": "The Hague, Netherlands",
+    "phone": ""
+  },
+  {
+    "country": "Panama",
+    "type": "embassy",
+    "name": "Embassy of Nicaragua in Panama City",
+    "city": "Panama City",
+    "address": "Panama City, Panama",
+    "phone": ""
+  },
+  {
+    "country": "Peru",
+    "type": "embassy",
+    "name": "Embassy of Nicaragua in Lima",
+    "city": "Lima",
+    "address": "Lima, Peru",
+    "phone": ""
+  },
+  {
+    "country": "Russia",
+    "type": "embassy",
+    "name": "Embassy of Nicaragua in Moscow",
+    "city": "Moscow",
+    "address": "Moscow, Russia",
+    "phone": ""
+  },
+  {
+    "country": "South Korea",
+    "type": "embassy",
+    "name": "Embassy of Nicaragua in Seoul",
+    "city": "Seoul",
+    "address": "Seoul, South Korea",
+    "phone": ""
+  },
+  {
+    "country": "Spain",
+    "type": "embassy",
+    "name": "Embassy of Nicaragua in Madrid",
+    "city": "Madrid",
+    "address": "Madrid, Spain",
+    "phone": ""
+  },
+  {
+    "country": "Sweden",
+    "type": "embassy",
+    "name": "Embassy of Nicaragua in Stockholm",
+    "city": "Stockholm",
+    "address": "Stockholm, Sweden",
+    "phone": ""
+  },
+  {
+    "country": "Switzerland",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Nicaragua to the United Nations in Geneva",
+    "city": "Geneva",
+    "address": "Geneva, Switzerland",
+    "phone": ""
+  },
+  {
+    "country": "Taiwan",
+    "type": "embassy",
+    "name": "Embassy of Nicaragua in Taipei",
+    "city": "Taipei",
+    "address": "Taipei, Taiwan",
+    "phone": ""
+  },
+  {
+    "country": "United Kingdom",
+    "type": "embassy",
+    "name": "Embassy of Nicaragua in London",
+    "city": "London",
+    "address": "London, United Kingdom",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Embassy of Nicaragua in Washington DC",
+    "city": "Washington DC",
+    "address": "Washington DC, United States",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Nicaragua in Houston",
+    "city": "Houston",
+    "address": "Houston, United States",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Nicaragua in Los Angeles",
+    "city": "Los Angeles",
+    "address": "Los Angeles, United States",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Nicaragua in Miami",
+    "city": "Miami",
+    "address": "Miami, United States",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Nicaragua in New York",
+    "city": "New York",
+    "address": "New York, United States",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "consulate",
+    "name": "Consulate of Nicaragua in San Francisco",
+    "city": "San Francisco",
+    "address": "San Francisco, United States",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Nicaragua to the United Nations in New York",
+    "city": "New York",
+    "address": "New York, United States",
+    "phone": ""
+  },
+  {
+    "country": "Venezuela",
+    "type": "embassy",
+    "name": "Embassy of Nicaragua in Caracas",
+    "city": "Caracas",
+    "address": "Caracas, Venezuela",
+    "phone": ""
+  },
+  {
+    "country": "Vietnam",
+    "type": "embassy",
+    "name": "Embassy of Nicaragua in Hanoi",
+    "city": "Hanoi",
+    "address": "Hanoi, Vietnam",
+    "phone": ""
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Australian Embassy in Washington",
+    "city": "Washington, D.C.",
+    "address": "1601 Massachusetts Ave NW, Washington, DC 20036",
+    "phone": "+1 (202) 797-3000"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Australian Consulate General in New York",
+    "city": "New York, NY",
+    "address": "150 East 42nd Street, 34th Floor, New York, NY 10017",
+    "phone": "+1 (212) 351-6500"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Australian Consulate General in Los Angeles",
+    "city": "Los Angeles, CA",
+    "address": "2029 Century Park East, Suite 3150, Los Angeles, CA 90067",
+    "phone": "+1 (310) 229-2300"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Australian Consulate General in Chicago",
+    "city": "Chicago, IL",
+    "address": "123 North Wacker Drive, Suite 1330, Chicago, IL 60606",
+    "phone": "+1 (312) 419-1480"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Australian Consulate General in San Francisco",
+    "city": "San Francisco, CA",
+    "address": "575 Market Street, Suite 1800, San Francisco, CA 94105",
+    "phone": "+1 (415) 644-3620"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Australian Consulate General in Houston",
+    "city": "Houston, TX",
+    "address": "3009 Post Oak Blvd, Suite 1310, Houston, TX 77056",
+    "phone": "+1 (832) 962-8420"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "high-commission",
+    "name": "Australian High Commission in London",
+    "city": "London",
+    "address": "Australia House, Strand, London WC2B 4LA",
+    "phone": "+44 (0)20 7379 4334"
+  },
+  {
+    "country": "Canada",
+    "type": "high-commission",
+    "name": "Australian High Commission in Ottawa",
+    "city": "Ottawa",
+    "address": "50 O'Connor Street, Suite 710, Ottawa, ON K1P 6L2",
+    "phone": "+1 (613) 236-0841"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Australian Consulate General in Toronto",
+    "city": "Toronto",
+    "address": "175 Bloor Street East, Suite 1100, Toronto, ON M4W 3R8",
+    "phone": "+1 (416) 323-1155"
+  },
+  {
+    "country": "France",
+    "type": "embassy",
+    "name": "Australian Embassy in Paris",
+    "city": "Paris",
+    "address": "4 Rue Jean Rey, 75015 Paris",
+    "phone": "+33 (1) 40 59 33 00"
+  },
+  {
+    "country": "Germany",
+    "type": "embassy",
+    "name": "Australian Embassy in Berlin",
+    "city": "Berlin",
+    "address": "Wallstraße 76-79, 10179 Berlin",
+    "phone": "+49 (30) 880 088 0"
+  },
+  {
+    "country": "Japan",
+    "type": "embassy",
+    "name": "Australian Embassy in Tokyo",
+    "city": "Tokyo",
+    "address": "2-1-14 Mita, Minato-ku, Tokyo 108-8361",
+    "phone": "+81 (3) 5232-4111"
+  },
+  {
+    "country": "China",
+    "type": "embassy",
+    "name": "Australian Embassy in Beijing",
+    "city": "Beijing",
+    "address": "21 Dongzhimenwai Dajie, Chaoyang District, Beijing 100600",
+    "phone": "+86 (10) 5140-4111"
+  },
+  {
+    "country": "China",
+    "type": "consulate-general",
+    "name": "Australian Consulate General in Shanghai",
+    "city": "Shanghai",
+    "address": "Level 22, CITIC Square, 1168 Nanjing West Road, Shanghai 200041",
+    "phone": "+86 (21) 2215-5200"
+  },
+  {
+    "country": "China",
+    "type": "consulate-general",
+    "name": "Australian Consulate General in Guangzhou",
+    "city": "Guangzhou",
+    "address": "Development Centre, 3 Linjiang Dadao, Zhujiang New Town, Tianhe District, Guangzhou 510623",
+    "phone": "+86 (20) 3814-0111"
+  },
+  {
+    "country": "India",
+    "type": "high-commission",
+    "name": "Australian High Commission in New Delhi",
+    "city": "New Delhi",
+    "address": "1/50-G Shantipath, Chanakyapuri, New Delhi 110021",
+    "phone": "+91 (11) 4139-9900"
+  },
+  {
+    "country": "India",
+    "type": "consulate-general",
+    "name": "Australian Consulate General in Mumbai",
+    "city": "Mumbai",
+    "address": "Level 10, Crescenzo Building, G-Block, Bandra Kurla Complex, Mumbai 400051",
+    "phone": "+91 (22) 6757-4900"
+  },
+  {
+    "country": "India",
+    "type": "consulate-general",
+    "name": "Australian Consulate General in Chennai",
+    "city": "Chennai",
+    "address": "Level 7, ASV Suntech Park, Bagalur Main Road, Chennai 600037",
+    "phone": "+91 (44) 6168-4400"
+  },
+  {
+    "country": "Brazil",
+    "type": "embassy",
+    "name": "Australian Embassy in Brasilia",
+    "city": "Brasilia",
+    "address": "SES Quadra 801, Conjunto K, Lote 7, 70200-010 Brasilia DF",
+    "phone": "+55 (61) 3226-3111"
+  },
+  {
+    "country": "Mexico",
+    "type": "embassy",
+    "name": "Australian Embassy in Mexico City",
+    "city": "Mexico City",
+    "address": "Rubén Darío 55, Col. Polanco, 11580 Mexico City",
+    "phone": "+52 (55) 1101-2200"
+  },
+  {
+    "country": "New Zealand",
+    "type": "high-commission",
+    "name": "Australian High Commission in Wellington",
+    "city": "Wellington",
+    "address": "72-76 Hobson Street, Thorndon, Wellington 6011",
+    "phone": "+64 (4) 473-6411"
+  },
+  {
+    "country": "Indonesia",
+    "type": "embassy",
+    "name": "Australian Embassy in Jakarta",
+    "city": "Jakarta",
+    "address": "Jl. Patra Kuningan Raya Kav. 1-4, Jakarta Selatan 12950",
+    "phone": "+62 (21) 2550-5555"
+  },
+  {
+    "country": "Italy",
+    "type": "embassy",
+    "name": "Australian Embassy in Rome",
+    "city": "Rome",
+    "address": "Via Antonio Bosio 5, 00161 Rome",
+    "phone": "+39 06 852 721"
+  },
+  {
+    "country": "Spain",
+    "type": "embassy",
+    "name": "Australian Embassy in Madrid",
+    "city": "Madrid",
+    "address": "Torre Espacio, Paseo de la Castellana 259D, Planta 24, 28046 Madrid",
+    "phone": "+34 91 353 6600"
+  },
+  {
+    "country": "South Korea",
+    "type": "embassy",
+    "name": "Australian Embassy in Seoul",
+    "city": "Seoul",
+    "address": "19th Floor, Kyobo Building, 1 Jongno 1-ga, Jongno-gu, Seoul 03154",
+    "phone": "+82 (2) 2003-0100"
+  },
+  {
+    "country": "Singapore",
+    "type": "high-commission",
+    "name": "Australian High Commission in Singapore",
+    "city": "Singapore",
+    "address": "25 Napier Road, Singapore 258507",
+    "phone": "+65 6836-4100"
+  },
+  {
+    "country": "Thailand",
+    "type": "embassy",
+    "name": "Australian Embassy in Bangkok",
+    "city": "Bangkok",
+    "address": "181 Wireless Road, Lumphini, Pathumwan, Bangkok 10330",
+    "phone": "+66 (2) 344-6300"
+  },
+  {
+    "country": "Philippines",
+    "type": "embassy",
+    "name": "Australian Embassy in Manila",
+    "city": "Manila",
+    "address": "Level 23-Tower 2, RCBC Plaza, 6819 Ayala Avenue, Makati City 1200",
+    "phone": "+63 (2) 8757-8100"
+  },
+  {
+    "country": "Israel",
+    "type": "embassy",
+    "name": "Australian Embassy in Tel Aviv",
+    "city": "Tel Aviv",
+    "address": "Discount Bank Tower, Level 28, 23 Yehuda Halevi Street, Tel Aviv 6513601",
+    "phone": "+972 (3) 693-5000"
+  },
+  {
+    "country": "United Nations",
+    "type": "mission",
+    "name": "Permanent Mission of Australia to the United Nations",
+    "city": "New York, NY",
+    "address": "150 East 42nd Street, 33rd Floor, New York, NY 10017",
+    "phone": "+1 (212) 351-6600"
+  }
+]

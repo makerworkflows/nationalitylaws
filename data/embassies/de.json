@@ -1,0 +1,322 @@
+[
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Embassy of Germany in Washington",
+    "city": "Washington, D.C.",
+    "address": "4645 Reservoir Road NW, Washington, DC 20007",
+    "phone": "+1 (202) 298-4000"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "German Consulate General in New York",
+    "city": "New York, NY",
+    "address": "871 United Nations Plaza, New York, NY 10017",
+    "phone": "+1 (212) 610-9700"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "German Consulate General in Los Angeles",
+    "city": "Los Angeles, CA",
+    "address": "6222 Wilshire Blvd, Suite 500, Los Angeles, CA 90048",
+    "phone": "+1 (323) 930-2703"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "German Consulate General in Chicago",
+    "city": "Chicago, IL",
+    "address": "676 North Michigan Avenue, Suite 3200, Chicago, IL 60611",
+    "phone": "+1 (312) 202-0480"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "German Consulate General in Houston",
+    "city": "Houston, TX",
+    "address": "1330 Post Oak Blvd, Suite 1850, Houston, TX 77056",
+    "phone": "+1 (713) 627-7770"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "German Consulate General in San Francisco",
+    "city": "San Francisco, CA",
+    "address": "1960 Jackson Street, San Francisco, CA 94109",
+    "phone": "+1 (415) 775-1061"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "German Consulate General in Miami",
+    "city": "Miami, FL",
+    "address": "100 North Biscayne Blvd, Suite 2200, Miami, FL 33132",
+    "phone": "+1 (305) 358-0290"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "German Consulate General in Boston",
+    "city": "Boston, MA",
+    "address": "Three Copley Place, Suite 500, Boston, MA 02116",
+    "phone": "+1 (617) 369-4900"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "German Consulate General in Atlanta",
+    "city": "Atlanta, GA",
+    "address": "285 Peachtree Center Avenue NE, Suite 901, Atlanta, GA 30303",
+    "phone": "+1 (404) 659-4760"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "embassy",
+    "name": "Embassy of Germany in London",
+    "city": "London",
+    "address": "23 Belgrave Square, London SW1X 8PZ",
+    "phone": "+44 (0)20 7824 1300"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "consulate-general",
+    "name": "German Consulate General in Edinburgh",
+    "city": "Edinburgh",
+    "address": "16 Eglinton Crescent, Edinburgh EH12 5DG",
+    "phone": "+44 (0)131 337 2323"
+  },
+  {
+    "country": "France",
+    "type": "embassy",
+    "name": "Embassy of Germany in Paris",
+    "city": "Paris",
+    "address": "13-15 Avenue Franklin D. Roosevelt, 75008 Paris",
+    "phone": "+33 (1) 53 83 45 00"
+  },
+  {
+    "country": "Japan",
+    "type": "embassy",
+    "name": "Embassy of Germany in Tokyo",
+    "city": "Tokyo",
+    "address": "4-5-10 Minami-Azabu, Minato-ku, Tokyo 106-0047",
+    "phone": "+81 (3) 5791-7700"
+  },
+  {
+    "country": "Japan",
+    "type": "consulate-general",
+    "name": "German Consulate General in Osaka-Kobe",
+    "city": "Osaka",
+    "address": "35th Floor, Umeda Sky Building Tower East, 1-1-88 Oyodonaka, Kita-ku, Osaka 531-6035",
+    "phone": "+81 (6) 6440-5070"
+  },
+  {
+    "country": "China",
+    "type": "embassy",
+    "name": "Embassy of Germany in Beijing",
+    "city": "Beijing",
+    "address": "17 Dongzhimenwai Dajie, Chaoyang District, Beijing 100600",
+    "phone": "+86 (10) 8532-9000"
+  },
+  {
+    "country": "China",
+    "type": "consulate-general",
+    "name": "German Consulate General in Shanghai",
+    "city": "Shanghai",
+    "address": "181 Yongfu Road, Shanghai 200031",
+    "phone": "+86 (21) 3401-0106"
+  },
+  {
+    "country": "China",
+    "type": "consulate-general",
+    "name": "German Consulate General in Guangzhou",
+    "city": "Guangzhou",
+    "address": "14th Floor, Teem Tower, 208 Tianhe Road, Tianhe District, Guangzhou 510620",
+    "phone": "+86 (20) 8313-0000"
+  },
+  {
+    "country": "India",
+    "type": "embassy",
+    "name": "Embassy of Germany in New Delhi",
+    "city": "New Delhi",
+    "address": "6/50-G Shantipath, Chanakyapuri, New Delhi 110021",
+    "phone": "+91 (11) 4419-9199"
+  },
+  {
+    "country": "India",
+    "type": "consulate-general",
+    "name": "German Consulate General in Mumbai",
+    "city": "Mumbai",
+    "address": "Hoechst House, 10th Floor, Nariman Point, Mumbai 400021",
+    "phone": "+91 (22) 2283-2422"
+  },
+  {
+    "country": "India",
+    "type": "consulate-general",
+    "name": "German Consulate General in Bengaluru",
+    "city": "Bengaluru",
+    "address": "1st Floor, Prestige Point, 12 Cunningham Road, Bengaluru 560052",
+    "phone": "+91 (80) 4053-3500"
+  },
+  {
+    "country": "India",
+    "type": "consulate-general",
+    "name": "German Consulate General in Chennai",
+    "city": "Chennai",
+    "address": "9 Boat Club Road, R.A. Puram, Chennai 600028",
+    "phone": "+91 (44) 2430-1600"
+  },
+  {
+    "country": "Brazil",
+    "type": "embassy",
+    "name": "Embassy of Germany in Brasilia",
+    "city": "Brasilia",
+    "address": "SES Avenida das Nações, Quadra 807, Lote 25, 70415-900 Brasilia DF",
+    "phone": "+55 (61) 3442-7000"
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate-general",
+    "name": "German Consulate General in São Paulo",
+    "city": "São Paulo",
+    "address": "Avenida Brigadeiro Faria Lima 2092, 12th Floor, 01451-905 São Paulo",
+    "phone": "+55 (11) 3097-6644"
+  },
+  {
+    "country": "Canada",
+    "type": "embassy",
+    "name": "Embassy of Germany in Ottawa",
+    "city": "Ottawa",
+    "address": "1 Waverley Street, Ottawa, ON K2P 0T8",
+    "phone": "+1 (613) 232-1101"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "German Consulate General in Toronto",
+    "city": "Toronto",
+    "address": "2 Bloor Street East, Suite 1900, Toronto, ON M4W 1A8",
+    "phone": "+1 (416) 925-2813"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "German Consulate General in Vancouver",
+    "city": "Vancouver",
+    "address": "999 Canada Place, Suite 704, Vancouver, BC V6C 3E1",
+    "phone": "+1 (604) 684-8377"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "German Consulate General in Montreal",
+    "city": "Montreal",
+    "address": "1250 Boulevard René-Lévesque Ouest, Suite 4315, Montreal, QC H3B 4W8",
+    "phone": "+1 (514) 931-2277"
+  },
+  {
+    "country": "Australia",
+    "type": "embassy",
+    "name": "Embassy of Germany in Canberra",
+    "city": "Canberra",
+    "address": "119 Empire Circuit, Yarralumla, ACT 2600",
+    "phone": "+61 (2) 6270-1911"
+  },
+  {
+    "country": "Australia",
+    "type": "consulate-general",
+    "name": "German Consulate General in Sydney",
+    "city": "Sydney",
+    "address": "13 Trelawney Street, Woollahra, NSW 2025",
+    "phone": "+61 (2) 9328-7733"
+  },
+  {
+    "country": "Mexico",
+    "type": "embassy",
+    "name": "Embassy of Germany in Mexico City",
+    "city": "Mexico City",
+    "address": "Horacio 1506, Col. Los Morales, 11510 Mexico City",
+    "phone": "+52 (55) 5283-2200"
+  },
+  {
+    "country": "Italy",
+    "type": "embassy",
+    "name": "Embassy of Germany in Rome",
+    "city": "Rome",
+    "address": "Via San Martino della Battaglia 4, 00185 Rome",
+    "phone": "+39 06 492 131"
+  },
+  {
+    "country": "Italy",
+    "type": "consulate-general",
+    "name": "German Consulate General in Milan",
+    "city": "Milan",
+    "address": "Via Solferino 40, 20121 Milan",
+    "phone": "+39 02 623 11 01"
+  },
+  {
+    "country": "Spain",
+    "type": "embassy",
+    "name": "Embassy of Germany in Madrid",
+    "city": "Madrid",
+    "address": "Calle de Fortuny 8, 28010 Madrid",
+    "phone": "+34 91 557 9000"
+  },
+  {
+    "country": "Spain",
+    "type": "consulate-general",
+    "name": "German Consulate General in Barcelona",
+    "city": "Barcelona",
+    "address": "Passeig de Gràcia 111, Àtic, 08008 Barcelona",
+    "phone": "+34 93 292 1000"
+  },
+  {
+    "country": "Portugal",
+    "type": "embassy",
+    "name": "Embassy of Germany in Lisbon",
+    "city": "Lisbon",
+    "address": "Campo dos Mártires da Pátria 38, 1169-043 Lisbon",
+    "phone": "+351 21 881 0210"
+  },
+  {
+    "country": "Israel",
+    "type": "embassy",
+    "name": "Embassy of Germany in Tel Aviv",
+    "city": "Tel Aviv",
+    "address": "19th Floor, Daniel Frisch Street 3, Tel Aviv 6473104",
+    "phone": "+972 (3) 693-1313"
+  },
+  {
+    "country": "South Korea",
+    "type": "embassy",
+    "name": "Embassy of Germany in Seoul",
+    "city": "Seoul",
+    "address": "8th Floor, Seoul Square, 416 Hangang-daero, Jung-gu, Seoul 04637",
+    "phone": "+82 (2) 748-4114"
+  },
+  {
+    "country": "Russia",
+    "type": "embassy",
+    "name": "Embassy of Germany in Moscow",
+    "city": "Moscow",
+    "address": "Mosfilmovskaya ulitsa 56, 119285 Moscow",
+    "phone": "+7 (495) 937-9500"
+  },
+  {
+    "country": "Turkey",
+    "type": "embassy",
+    "name": "Embassy of Germany in Ankara",
+    "city": "Ankara",
+    "address": "Atatürk Bulvarı 114, Kavaklıdere, 06680 Ankara",
+    "phone": "+90 (312) 455-5100"
+  },
+  {
+    "country": "United Nations",
+    "type": "mission",
+    "name": "Permanent Mission of Germany to the United Nations",
+    "city": "New York, NY",
+    "address": "871 United Nations Plaza, New York, NY 10017",
+    "phone": "+1 (212) 940-0400"
+  }
+]

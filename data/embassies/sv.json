@@ -1,0 +1,434 @@
+[
+  {
+    "country": "Argentina",
+    "type": "embassy",
+    "name": "Embassy of El Salvador in Buenos Aires",
+    "city": "Buenos Aires",
+    "address": "Buenos Aires, Argentina",
+    "phone": ""
+  },
+  {
+    "country": "Austria",
+    "type": "embassy",
+    "name": "Embassy of El Salvador in Vienna",
+    "city": "Vienna",
+    "address": "Vienna, Austria",
+    "phone": ""
+  },
+  {
+    "country": "Belize",
+    "type": "embassy",
+    "name": "Embassy of El Salvador in Belmopan",
+    "city": "Belmopan",
+    "address": "Belmopan, Belize",
+    "phone": ""
+  },
+  {
+    "country": "Bolivia",
+    "type": "embassy",
+    "name": "Embassy of El Salvador in La Paz",
+    "city": "La Paz",
+    "address": "La Paz, Bolivia",
+    "phone": ""
+  },
+  {
+    "country": "Brazil",
+    "type": "embassy",
+    "name": "Embassy of El Salvador in Brasilia",
+    "city": "Brasilia",
+    "address": "Brasilia, Brazil",
+    "phone": ""
+  },
+  {
+    "country": "Canada",
+    "type": "embassy",
+    "name": "Embassy of El Salvador in Ottawa",
+    "city": "Ottawa",
+    "address": "Ottawa, Canada",
+    "phone": ""
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Consulate General of El Salvador in Toronto",
+    "city": "Toronto",
+    "address": "Toronto, Canada",
+    "phone": ""
+  },
+  {
+    "country": "Chile",
+    "type": "embassy",
+    "name": "Embassy of El Salvador in Santiago",
+    "city": "Santiago",
+    "address": "Santiago, Chile",
+    "phone": ""
+  },
+  {
+    "country": "Colombia",
+    "type": "embassy",
+    "name": "Embassy of El Salvador in Bogota",
+    "city": "Bogota",
+    "address": "Bogota, Colombia",
+    "phone": ""
+  },
+  {
+    "country": "Costa Rica",
+    "type": "embassy",
+    "name": "Embassy of El Salvador in San Jose",
+    "city": "San Jose",
+    "address": "San Jose, Costa Rica",
+    "phone": ""
+  },
+  {
+    "country": "Dominican Republic",
+    "type": "embassy",
+    "name": "Embassy of El Salvador in Santo Domingo",
+    "city": "Santo Domingo",
+    "address": "Santo Domingo, Dominican Republic",
+    "phone": ""
+  },
+  {
+    "country": "Ecuador",
+    "type": "embassy",
+    "name": "Embassy of El Salvador in Quito",
+    "city": "Quito",
+    "address": "Quito, Ecuador",
+    "phone": ""
+  },
+  {
+    "country": "France",
+    "type": "embassy",
+    "name": "Embassy of El Salvador in Paris",
+    "city": "Paris",
+    "address": "Paris, France",
+    "phone": ""
+  },
+  {
+    "country": "Germany",
+    "type": "embassy",
+    "name": "Embassy of El Salvador in Berlin",
+    "city": "Berlin",
+    "address": "Berlin, Germany",
+    "phone": ""
+  },
+  {
+    "country": "Greece",
+    "type": "embassy",
+    "name": "Embassy of El Salvador in Athens",
+    "city": "Athens",
+    "address": "Athens, Greece",
+    "phone": ""
+  },
+  {
+    "country": "Guatemala",
+    "type": "embassy",
+    "name": "Embassy of El Salvador in Guatemala City",
+    "city": "Guatemala City",
+    "address": "Guatemala City, Guatemala",
+    "phone": ""
+  },
+  {
+    "country": "Honduras",
+    "type": "embassy",
+    "name": "Embassy of El Salvador in Tegucigalpa",
+    "city": "Tegucigalpa",
+    "address": "Tegucigalpa, Honduras",
+    "phone": ""
+  },
+  {
+    "country": "Iceland",
+    "type": "embassy",
+    "name": "Embassy of El Salvador in Reykjavik",
+    "city": "Reykjavik",
+    "address": "Reykjavik, Iceland",
+    "phone": ""
+  },
+  {
+    "country": "Italy",
+    "type": "embassy",
+    "name": "Embassy of El Salvador in Rome",
+    "city": "Rome",
+    "address": "Rome, Italy",
+    "phone": ""
+  },
+  {
+    "country": "Japan",
+    "type": "embassy",
+    "name": "Embassy of El Salvador in Tokyo",
+    "city": "Tokyo",
+    "address": "Tokyo, Japan",
+    "phone": ""
+  },
+  {
+    "country": "Mexico",
+    "type": "embassy",
+    "name": "Embassy of El Salvador in Mexico City",
+    "city": "Mexico City",
+    "address": "Mexico City, Mexico",
+    "phone": ""
+  },
+  {
+    "country": "Netherlands",
+    "type": "embassy",
+    "name": "Embassy of El Salvador in The Hague",
+    "city": "The Hague",
+    "address": "The Hague, Netherlands",
+    "phone": ""
+  },
+  {
+    "country": "Nicaragua",
+    "type": "embassy",
+    "name": "Embassy of El Salvador in Managua",
+    "city": "Managua",
+    "address": "Managua, Nicaragua",
+    "phone": ""
+  },
+  {
+    "country": "Norway",
+    "type": "embassy",
+    "name": "Embassy of El Salvador in Oslo",
+    "city": "Oslo",
+    "address": "Oslo, Norway",
+    "phone": ""
+  },
+  {
+    "country": "Panama",
+    "type": "embassy",
+    "name": "Embassy of El Salvador in Panama City",
+    "city": "Panama City",
+    "address": "Panama City, Panama",
+    "phone": ""
+  },
+  {
+    "country": "Peru",
+    "type": "embassy",
+    "name": "Embassy of El Salvador in Lima",
+    "city": "Lima",
+    "address": "Lima, Peru",
+    "phone": ""
+  },
+  {
+    "country": "South Korea",
+    "type": "embassy",
+    "name": "Embassy of El Salvador in Seoul",
+    "city": "Seoul",
+    "address": "Seoul, South Korea",
+    "phone": ""
+  },
+  {
+    "country": "Spain",
+    "type": "embassy",
+    "name": "Embassy of El Salvador in Madrid",
+    "city": "Madrid",
+    "address": "Madrid, Spain",
+    "phone": ""
+  },
+  {
+    "country": "Sweden",
+    "type": "embassy",
+    "name": "Embassy of El Salvador in Stockholm",
+    "city": "Stockholm",
+    "address": "Stockholm, Sweden",
+    "phone": ""
+  },
+  {
+    "country": "Switzerland",
+    "type": "embassy",
+    "name": "Embassy of El Salvador in Geneva",
+    "city": "Geneva",
+    "address": "Geneva, Switzerland",
+    "phone": ""
+  },
+  {
+    "country": "Taiwan",
+    "type": "embassy",
+    "name": "Embassy of El Salvador in Taipei",
+    "city": "Taipei",
+    "address": "Taipei, Taiwan",
+    "phone": ""
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "type": "embassy",
+    "name": "Embassy of El Salvador in Port of Spain",
+    "city": "Port of Spain",
+    "address": "Port of Spain, Trinidad and Tobago",
+    "phone": ""
+  },
+  {
+    "country": "United Kingdom",
+    "type": "embassy",
+    "name": "Embassy of El Salvador in London",
+    "city": "London",
+    "address": "London, United Kingdom",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Embassy of El Salvador in Washington DC",
+    "city": "Washington DC",
+    "address": "Washington DC, United States",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of El Salvador in New York",
+    "city": "New York",
+    "address": "New York, United States",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of El Salvador in Los Angeles",
+    "city": "Los Angeles",
+    "address": "Los Angeles, United States",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of El Salvador in Houston",
+    "city": "Houston",
+    "address": "Houston, United States",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of El Salvador in Miami",
+    "city": "Miami",
+    "address": "Miami, United States",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of El Salvador in Chicago",
+    "city": "Chicago",
+    "address": "Chicago, United States",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "consulate",
+    "name": "Consulate of El Salvador in Dallas",
+    "city": "Dallas",
+    "address": "Dallas, United States",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "consulate",
+    "name": "Consulate of El Salvador in Atlanta",
+    "city": "Atlanta",
+    "address": "Atlanta, United States",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "consulate",
+    "name": "Consulate of El Salvador in San Francisco",
+    "city": "San Francisco",
+    "address": "San Francisco, United States",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "consulate",
+    "name": "Consulate of El Salvador in Las Vegas",
+    "city": "Las Vegas",
+    "address": "Las Vegas, United States",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "consulate",
+    "name": "Consulate of El Salvador in Long Island",
+    "city": "Long Island",
+    "address": "Long Island, United States",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of El Salvador to the United Nations in New York",
+    "city": "New York",
+    "address": "New York, United States",
+    "phone": ""
+  },
+  {
+    "country": "Vatican City",
+    "type": "embassy",
+    "name": "Embassy of El Salvador to the Holy See",
+    "city": "Vatican City",
+    "address": "Vatican City",
+    "phone": ""
+  },
+  {
+    "country": "Venezuela",
+    "type": "embassy",
+    "name": "Embassy of El Salvador in Caracas",
+    "city": "Caracas",
+    "address": "Caracas, Venezuela",
+    "phone": ""
+  },
+  {
+    "country": "Belgium",
+    "type": "embassy",
+    "name": "Embassy of El Salvador in Brussels",
+    "city": "Brussels",
+    "address": "Brussels, Belgium",
+    "phone": ""
+  },
+  {
+    "country": "Qatar",
+    "type": "embassy",
+    "name": "Embassy of El Salvador in Doha",
+    "city": "Doha",
+    "address": "Doha, Qatar",
+    "phone": ""
+  },
+  {
+    "country": "Australia",
+    "type": "consulate",
+    "name": "Consulate of El Salvador in Sydney",
+    "city": "Sydney",
+    "address": "Sydney, Australia",
+    "phone": ""
+  },
+  {
+    "country": "Aruba",
+    "type": "consulate",
+    "name": "Consulate of El Salvador in Oranjestad",
+    "city": "Oranjestad",
+    "address": "Oranjestad, Aruba",
+    "phone": ""
+  },
+  {
+    "country": "Puerto Rico",
+    "type": "consulate",
+    "name": "Consulate of El Salvador in San Juan",
+    "city": "San Juan",
+    "address": "San Juan, Puerto Rico",
+    "phone": ""
+  },
+  {
+    "country": "Uruguay",
+    "type": "embassy",
+    "name": "Embassy of El Salvador in Montevideo",
+    "city": "Montevideo",
+    "address": "Montevideo, Uruguay",
+    "phone": ""
+  },
+  {
+    "country": "Monaco",
+    "type": "consulate",
+    "name": "Consulate of El Salvador in Monaco",
+    "city": "Monaco",
+    "address": "Monaco, Monaco",
+    "phone": ""
+  }
+]

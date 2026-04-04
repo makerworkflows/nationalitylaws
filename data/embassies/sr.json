@@ -1,0 +1,234 @@
+[
+  {
+    "country": "Netherlands",
+    "type": "embassy",
+    "name": "Embassy of Suriname in The Hague",
+    "city": "The Hague",
+    "address": "Alexander Gogelweg 2, 2517 JH The Hague, Netherlands",
+    "phone": "+31 70 365 0844"
+  },
+  {
+    "country": "Netherlands",
+    "type": "consulate-general",
+    "name": "Consulate General of Suriname in Amsterdam",
+    "city": "Amsterdam",
+    "address": "Van Eeghenstraat 108, 1071 GL Amsterdam, Netherlands",
+    "phone": "+31 20 664 7089"
+  },
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Embassy of Suriname in Washington D.C.",
+    "city": "Washington D.C.",
+    "address": "4301 Connecticut Avenue NW, Suite 460, Washington, D.C. 20008",
+    "phone": "+1 202 244 7488"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Suriname in Miami",
+    "city": "Miami",
+    "address": "7235 NW 19th Street, Suite A, Miami, FL 33126",
+    "phone": "+1 305 593 2163"
+  },
+  {
+    "country": "United States",
+    "type": "consulate",
+    "name": "Consulate of Suriname in New York",
+    "city": "New York",
+    "address": "1 United Nations Plaza, Suite 320, New York, NY 10017",
+    "phone": "+1 212 826 0660"
+  },
+  {
+    "country": "Brazil",
+    "type": "embassy",
+    "name": "Embassy of Suriname in Brasília",
+    "city": "Brasília",
+    "address": "SHIS QI 09, Conj. 9, Casa 24, Lago Sul, 71625-290 Brasília, DF",
+    "phone": "+55 61 3248 6769"
+  },
+  {
+    "country": "Guyana",
+    "type": "embassy",
+    "name": "Embassy of Suriname in Georgetown",
+    "city": "Georgetown",
+    "address": "304 Church Street, Georgetown, Guyana",
+    "phone": "+592 225 7743"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "type": "embassy",
+    "name": "Embassy of Suriname in Port of Spain",
+    "city": "Port of Spain",
+    "address": "7B Ellerslie Park, Maraval, Port of Spain, Trinidad and Tobago",
+    "phone": "+1 868 628 0704"
+  },
+  {
+    "country": "Cuba",
+    "type": "embassy",
+    "name": "Embassy of Suriname in Havana",
+    "city": "Havana",
+    "address": "Calle 12 No. 714, Miramar, Havana, Cuba",
+    "phone": "+53 7 204 1962"
+  },
+  {
+    "country": "Venezuela",
+    "type": "embassy",
+    "name": "Embassy of Suriname in Caracas",
+    "city": "Caracas",
+    "address": "Avenida Luis Roche, Altamira, Caracas, Venezuela",
+    "phone": "+58 212 261 0302"
+  },
+  {
+    "country": "Colombia",
+    "type": "embassy",
+    "name": "Embassy of Suriname in Bogotá",
+    "city": "Bogotá",
+    "address": "Carrera 15 No. 88-64, Oficina 204, Bogotá, Colombia",
+    "phone": "+57 1 257 3944"
+  },
+  {
+    "country": "India",
+    "type": "embassy",
+    "name": "Embassy of Suriname in New Delhi",
+    "city": "New Delhi",
+    "address": "B-8/1 Vasant Vihar, New Delhi 110057, India",
+    "phone": "+91 11 2615 2000"
+  },
+  {
+    "country": "China",
+    "type": "embassy",
+    "name": "Embassy of Suriname in Beijing",
+    "city": "Beijing",
+    "address": "2-4-22 Ta Yuan Diplomatic Office Building, Beijing, China",
+    "phone": "+86 10 6532 2939"
+  },
+  {
+    "country": "Indonesia",
+    "type": "embassy",
+    "name": "Embassy of Suriname in Jakarta",
+    "city": "Jakarta",
+    "address": "Jalan Sisingamangaraja 59, Jakarta Selatan, Indonesia",
+    "phone": "+62 21 7279 3000"
+  },
+  {
+    "country": "Belgium",
+    "type": "permanent-mission",
+    "name": "Mission of Suriname to the European Union",
+    "city": "Brussels",
+    "address": "Av. Louise 379, 1050 Brussels, Belgium",
+    "phone": "+32 2 640 1172"
+  },
+  {
+    "country": "United States",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Suriname to the United Nations",
+    "city": "New York",
+    "address": "866 United Nations Plaza, Suite 320, New York, NY 10017",
+    "phone": "+1 212 826 0660"
+  },
+  {
+    "country": "Switzerland",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Suriname to the UN in Geneva",
+    "city": "Geneva",
+    "address": "Geneva, Switzerland",
+    "phone": ""
+  },
+  {
+    "country": "France",
+    "type": "consulate-general",
+    "name": "Consulate General of Suriname in Cayenne (French Guiana)",
+    "city": "Cayenne",
+    "address": "38 Rue Christophe Colomb, Cayenne, French Guiana",
+    "phone": "+594 594 285 800"
+  },
+  {
+    "country": "Barbados",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Suriname in Bridgetown",
+    "city": "Bridgetown",
+    "address": "Bridgetown, Barbados",
+    "phone": ""
+  },
+  {
+    "country": "Jamaica",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Suriname in Kingston",
+    "city": "Kingston",
+    "address": "Kingston, Jamaica",
+    "phone": ""
+  },
+  {
+    "country": "Haiti",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Suriname in Port-au-Prince",
+    "city": "Port-au-Prince",
+    "address": "Port-au-Prince, Haiti",
+    "phone": ""
+  },
+  {
+    "country": "Germany",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Suriname in Frankfurt",
+    "city": "Frankfurt",
+    "address": "Frankfurt, Germany",
+    "phone": ""
+  },
+  {
+    "country": "Germany",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Suriname in Hamburg",
+    "city": "Hamburg",
+    "address": "Hamburg, Germany",
+    "phone": ""
+  },
+  {
+    "country": "Canada",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Suriname in Ottawa",
+    "city": "Ottawa",
+    "address": "Ottawa, ON, Canada",
+    "phone": ""
+  },
+  {
+    "country": "Japan",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Suriname in Tokyo",
+    "city": "Tokyo",
+    "address": "Tokyo, Japan",
+    "phone": ""
+  },
+  {
+    "country": "Panama",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Suriname in Panama City",
+    "city": "Panama City",
+    "address": "Panama City, Panama",
+    "phone": ""
+  },
+  {
+    "country": "Mexico",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Suriname in Mexico City",
+    "city": "Mexico City",
+    "address": "Mexico City, Mexico",
+    "phone": ""
+  },
+  {
+    "country": "Argentina",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Suriname in Buenos Aires",
+    "city": "Buenos Aires",
+    "address": "Buenos Aires, Argentina",
+    "phone": ""
+  },
+  {
+    "country": "South Africa",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Suriname in Johannesburg",
+    "city": "Johannesburg",
+    "address": "Johannesburg, South Africa",
+    "phone": ""
+  }
+]

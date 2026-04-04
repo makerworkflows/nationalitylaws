@@ -1,0 +1,410 @@
+[
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "British Embassy in Washington",
+    "city": "Washington, D.C.",
+    "address": "3100 Massachusetts Avenue NW, Washington, DC 20008",
+    "phone": "+1 (202) 588-6500"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "British Consulate General in New York",
+    "city": "New York, NY",
+    "address": "885 Second Avenue, New York, NY 10017",
+    "phone": "+1 (212) 745-0200"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "British Consulate General in Los Angeles",
+    "city": "Los Angeles, CA",
+    "address": "2029 Century Park East, Suite 1350, Los Angeles, CA 90067",
+    "phone": "+1 (310) 789-0031"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "British Consulate General in Chicago",
+    "city": "Chicago, IL",
+    "address": "625 North Michigan Avenue, Suite 2200, Chicago, IL 60611",
+    "phone": "+1 (312) 970-3800"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "British Consulate General in Houston",
+    "city": "Houston, TX",
+    "address": "1301 Fannin Street, Suite 2400, Houston, TX 77002",
+    "phone": "+1 (713) 659-6270"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "British Consulate General in San Francisco",
+    "city": "San Francisco, CA",
+    "address": "1 Sansome Street, Suite 850, San Francisco, CA 94104",
+    "phone": "+1 (415) 617-1300"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "British Consulate General in Miami",
+    "city": "Miami, FL",
+    "address": "1001 Brickell Bay Drive, Suite 2800, Miami, FL 33131",
+    "phone": "+1 (305) 400-6400"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "British Consulate General in Atlanta",
+    "city": "Atlanta, GA",
+    "address": "133 Peachtree Street NE, Suite 3400, Atlanta, GA 30303",
+    "phone": "+1 (404) 954-7700"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "British Consulate General in Boston",
+    "city": "Boston, MA",
+    "address": "1 Broadway, Cambridge, MA 02142",
+    "phone": "+1 (617) 245-4500"
+  },
+  {
+    "country": "France",
+    "type": "embassy",
+    "name": "British Embassy in Paris",
+    "city": "Paris",
+    "address": "35 Rue du Faubourg Saint-Honoré, 75008 Paris",
+    "phone": "+33 (1) 44 51 31 00"
+  },
+  {
+    "country": "France",
+    "type": "consulate-general",
+    "name": "British Consulate General in Marseille",
+    "city": "Marseille",
+    "address": "24 Avenue du Prado, 13006 Marseille",
+    "phone": "+33 (4) 91 15 72 10"
+  },
+  {
+    "country": "Germany",
+    "type": "embassy",
+    "name": "British Embassy in Berlin",
+    "city": "Berlin",
+    "address": "Wilhelmstraße 70-71, 10117 Berlin",
+    "phone": "+49 (30) 204 570"
+  },
+  {
+    "country": "Germany",
+    "type": "consulate-general",
+    "name": "British Consulate General in Munich",
+    "city": "Munich",
+    "address": "Möhlstraße 5, 81675 Munich",
+    "phone": "+49 (89) 211 090"
+  },
+  {
+    "country": "Germany",
+    "type": "consulate-general",
+    "name": "British Consulate General in Düsseldorf",
+    "city": "Düsseldorf",
+    "address": "Oststraße 86, 40210 Düsseldorf",
+    "phone": "+49 (211) 944 80"
+  },
+  {
+    "country": "Japan",
+    "type": "embassy",
+    "name": "British Embassy in Tokyo",
+    "city": "Tokyo",
+    "address": "1 Ichiban-cho, Chiyoda-ku, Tokyo 102-8381",
+    "phone": "+81 (3) 5211-1100"
+  },
+  {
+    "country": "Japan",
+    "type": "consulate-general",
+    "name": "British Consulate General in Osaka",
+    "city": "Osaka",
+    "address": "3-5-1 Bakuro-machi, Chuo-ku, Osaka 541-0059",
+    "phone": "+81 (6) 6120-5600"
+  },
+  {
+    "country": "China",
+    "type": "embassy",
+    "name": "British Embassy in Beijing",
+    "city": "Beijing",
+    "address": "11 Guang Hua Lu, Chaoyang District, Beijing 100600",
+    "phone": "+86 (10) 5192-4000"
+  },
+  {
+    "country": "China",
+    "type": "consulate-general",
+    "name": "British Consulate General in Shanghai",
+    "city": "Shanghai",
+    "address": "Suite 301, Shanghai Centre, 1376 Nanjing Xi Lu, Shanghai 200040",
+    "phone": "+86 (21) 3279-2000"
+  },
+  {
+    "country": "China",
+    "type": "consulate-general",
+    "name": "British Consulate General in Guangzhou",
+    "city": "Guangzhou",
+    "address": "2nd Floor, Guangzhou International Finance Centre, 5 Zhujiang West Road, Zhujiang New Town, Guangzhou 510623",
+    "phone": "+86 (20) 8314-3000"
+  },
+  {
+    "country": "India",
+    "type": "high-commission",
+    "name": "British High Commission in New Delhi",
+    "city": "New Delhi",
+    "address": "Shantipath, Chanakyapuri, New Delhi 110021",
+    "phone": "+91 (11) 2419-2100"
+  },
+  {
+    "country": "India",
+    "type": "consulate-general",
+    "name": "British Deputy High Commission in Mumbai",
+    "city": "Mumbai",
+    "address": "Naman Chambers, C/32, G Block, Bandra Kurla Complex, Bandra East, Mumbai 400051",
+    "phone": "+91 (22) 6650-2222"
+  },
+  {
+    "country": "India",
+    "type": "consulate-general",
+    "name": "British Deputy High Commission in Chennai",
+    "city": "Chennai",
+    "address": "20 Anderson Road, Chennai 600006",
+    "phone": "+91 (44) 4219-2151"
+  },
+  {
+    "country": "India",
+    "type": "consulate-general",
+    "name": "British Deputy High Commission in Bengaluru",
+    "city": "Bengaluru",
+    "address": "Prestige Takt, 23 Kasturba Road Cross, Bengaluru 560001",
+    "phone": "+91 (80) 2210-0200"
+  },
+  {
+    "country": "India",
+    "type": "consulate-general",
+    "name": "British Deputy High Commission in Kolkata",
+    "city": "Kolkata",
+    "address": "1A Ho Chi Minh Sarani, Kolkata 700071",
+    "phone": "+91 (33) 2288-5172"
+  },
+  {
+    "country": "Canada",
+    "type": "high-commission",
+    "name": "British High Commission in Ottawa",
+    "city": "Ottawa",
+    "address": "80 Elgin Street, Ottawa, ON K1P 5K7",
+    "phone": "+1 (613) 237-1530"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "British Consulate General in Toronto",
+    "city": "Toronto",
+    "address": "777 Bay Street, Suite 2800, Toronto, ON M5G 2G2",
+    "phone": "+1 (416) 593-1290"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "British Consulate General in Vancouver",
+    "city": "Vancouver",
+    "address": "1111 Melville Street, Suite 800, Vancouver, BC V6E 3V6",
+    "phone": "+1 (604) 683-4421"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "British Consulate General in Montreal",
+    "city": "Montreal",
+    "address": "2000 McGill College Avenue, Suite 1940, Montreal, QC H3A 3H3",
+    "phone": "+1 (514) 866-5863"
+  },
+  {
+    "country": "Australia",
+    "type": "high-commission",
+    "name": "British High Commission in Canberra",
+    "city": "Canberra",
+    "address": "Commonwealth Avenue, Yarralumla, ACT 2600",
+    "phone": "+61 (2) 6270-6666"
+  },
+  {
+    "country": "Australia",
+    "type": "consulate-general",
+    "name": "British Consulate General in Sydney",
+    "city": "Sydney",
+    "address": "Level 16, Gateway Building, 1 Macquarie Place, Sydney NSW 2000",
+    "phone": "+61 (2) 9247-7521"
+  },
+  {
+    "country": "Australia",
+    "type": "consulate-general",
+    "name": "British Consulate General in Melbourne",
+    "city": "Melbourne",
+    "address": "Level 17, 90 Collins Street, Melbourne VIC 3000",
+    "phone": "+61 (3) 9652-1600"
+  },
+  {
+    "country": "Brazil",
+    "type": "embassy",
+    "name": "British Embassy in Brasilia",
+    "city": "Brasilia",
+    "address": "SES Quadra 801, Conjunto K, 70408-900 Brasilia DF",
+    "phone": "+55 (61) 3329-2300"
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate-general",
+    "name": "British Consulate General in São Paulo",
+    "city": "São Paulo",
+    "address": "Rua Ferreira de Araújo 741, 2nd Floor, Pinheiros, 05428-002 São Paulo",
+    "phone": "+55 (11) 3094-2700"
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate-general",
+    "name": "British Consulate General in Rio de Janeiro",
+    "city": "Rio de Janeiro",
+    "address": "Praia do Flamengo 284, 2nd Floor, Flamengo, 22210-030 Rio de Janeiro",
+    "phone": "+55 (21) 2555-9600"
+  },
+  {
+    "country": "Mexico",
+    "type": "embassy",
+    "name": "British Embassy in Mexico City",
+    "city": "Mexico City",
+    "address": "Río Lerma 71, Col. Cuauhtémoc, 06500 Mexico City",
+    "phone": "+52 (55) 1670-3200"
+  },
+  {
+    "country": "Italy",
+    "type": "embassy",
+    "name": "British Embassy in Rome",
+    "city": "Rome",
+    "address": "Via XX Settembre 80a, 00187 Rome",
+    "phone": "+39 06 4220 0001"
+  },
+  {
+    "country": "Spain",
+    "type": "embassy",
+    "name": "British Embassy in Madrid",
+    "city": "Madrid",
+    "address": "Torre Espacio, Paseo de la Castellana 259D, 28046 Madrid",
+    "phone": "+34 91 714 6300"
+  },
+  {
+    "country": "Spain",
+    "type": "consulate-general",
+    "name": "British Consulate General in Barcelona",
+    "city": "Barcelona",
+    "address": "Edificio Torre de Barcelona, Avda. Diagonal 477, Planta 13, 08036 Barcelona",
+    "phone": "+34 93 366 6200"
+  },
+  {
+    "country": "Portugal",
+    "type": "embassy",
+    "name": "British Embassy in Lisbon",
+    "city": "Lisbon",
+    "address": "Rua de São Bernardo 33, 1249-082 Lisbon",
+    "phone": "+351 21 392 4000"
+  },
+  {
+    "country": "Israel",
+    "type": "embassy",
+    "name": "British Embassy in Tel Aviv",
+    "city": "Tel Aviv",
+    "address": "192 Hayarkon Street, Tel Aviv 6340502",
+    "phone": "+972 (3) 725-1222"
+  },
+  {
+    "country": "New Zealand",
+    "type": "high-commission",
+    "name": "British High Commission in Wellington",
+    "city": "Wellington",
+    "address": "44 Hill Street, Thorndon, Wellington 6011",
+    "phone": "+64 (4) 924-2888"
+  },
+  {
+    "country": "South Africa",
+    "type": "high-commission",
+    "name": "British High Commission in Pretoria",
+    "city": "Pretoria",
+    "address": "255 Hill Street, Arcadia, Pretoria 0002",
+    "phone": "+27 (12) 421-7500"
+  },
+  {
+    "country": "Singapore",
+    "type": "high-commission",
+    "name": "British High Commission in Singapore",
+    "city": "Singapore",
+    "address": "100 Tanglin Road, Singapore 247919",
+    "phone": "+65 6424-4200"
+  },
+  {
+    "country": "Nigeria",
+    "type": "high-commission",
+    "name": "British High Commission in Abuja",
+    "city": "Abuja",
+    "address": "Dangote House, Aguiyi Ironsi Street, Maitama, Abuja",
+    "phone": "+234 (9) 462-2200"
+  },
+  {
+    "country": "Kenya",
+    "type": "high-commission",
+    "name": "British High Commission in Nairobi",
+    "city": "Nairobi",
+    "address": "Upper Hill Road, P.O. Box 30465-00100, Nairobi",
+    "phone": "+254 (20) 287-3000"
+  },
+  {
+    "country": "Pakistan",
+    "type": "high-commission",
+    "name": "British High Commission in Islamabad",
+    "city": "Islamabad",
+    "address": "Diplomatic Enclave, Ramna 5, Islamabad",
+    "phone": "+92 (51) 201-2000"
+  },
+  {
+    "country": "Egypt",
+    "type": "embassy",
+    "name": "British Embassy in Cairo",
+    "city": "Cairo",
+    "address": "7 Ahmed Ragheb Street, Garden City, Cairo",
+    "phone": "+20 (2) 2791-6000"
+  },
+  {
+    "country": "Turkey",
+    "type": "embassy",
+    "name": "British Embassy in Ankara",
+    "city": "Ankara",
+    "address": "Şehit Ersan Caddesi 46/A, Çankaya, 06680 Ankara",
+    "phone": "+90 (312) 455-3344"
+  },
+  {
+    "country": "United Arab Emirates",
+    "type": "embassy",
+    "name": "British Embassy in Abu Dhabi",
+    "city": "Abu Dhabi",
+    "address": "Al Seef Road, P.O. Box 248, Abu Dhabi",
+    "phone": "+971 (2) 610-1100"
+  },
+  {
+    "country": "South Korea",
+    "type": "embassy",
+    "name": "British Embassy in Seoul",
+    "city": "Seoul",
+    "address": "Sejong-daero 19-gil 24, Jung-gu, Seoul 04519",
+    "phone": "+82 (2) 3210-5500"
+  },
+  {
+    "country": "United Nations",
+    "type": "mission",
+    "name": "UK Mission to the United Nations",
+    "city": "New York, NY",
+    "address": "One Dag Hammarskjöld Plaza, 885 Second Avenue, New York, NY 10017",
+    "phone": "+1 (212) 745-9200"
+  }
+]

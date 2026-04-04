@@ -1,0 +1,42 @@
+[
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Embassy of Grenada in Washington, D.C.",
+    "city": "Washington, D.C.",
+    "address": "1701 New Hampshire Avenue NW, Washington, DC 20009",
+    "phone": "+1 (202) 265-2561"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Grenada in New York",
+    "city": "New York, NY",
+    "address": "800 Second Avenue, Suite 400K, New York, NY 10017",
+    "phone": "+1 (212) 599-0301"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "high-commission",
+    "name": "Grenada High Commission in London",
+    "city": "London",
+    "address": "The Chapel, Archel Road, London W14 9QH",
+    "phone": "+44 (0)20 7385 4415"
+  },
+  {
+    "country": "Canada",
+    "type": "high-commission",
+    "name": "Grenada High Commission in Ottawa",
+    "city": "Ottawa, ON",
+    "address": "130 Albert Street, Suite 700, Ottawa, ON K1P 5G4",
+    "phone": "+1 (613) 567-5765"
+  },
+  {
+    "country": "United Nations",
+    "type": "embassy",
+    "name": "Permanent Mission of Grenada to the United Nations",
+    "city": "New York, NY",
+    "address": "800 Second Avenue, Suite 400K, New York, NY 10017",
+    "phone": "+1 (212) 599-0301"
+  }
+]

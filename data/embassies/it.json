@@ -1,0 +1,322 @@
+[
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Embassy of Italy in Washington",
+    "city": "Washington, D.C.",
+    "address": "3000 Whitehaven Street NW, Washington, DC 20008",
+    "phone": "+1 (202) 612-4400"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Italian Consulate General in New York",
+    "city": "New York, NY",
+    "address": "690 Park Avenue, New York, NY 10065",
+    "phone": "+1 (212) 737-9100"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Italian Consulate General in Los Angeles",
+    "city": "Los Angeles, CA",
+    "address": "1900 Avenue of the Stars, Suite 1250, Los Angeles, CA 90067",
+    "phone": "+1 (310) 820-0622"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Italian Consulate General in Chicago",
+    "city": "Chicago, IL",
+    "address": "500 North Michigan Avenue, Suite 1850, Chicago, IL 60611",
+    "phone": "+1 (312) 467-1550"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Italian Consulate General in Houston",
+    "city": "Houston, TX",
+    "address": "1300 Post Oak Blvd, Suite 660, Houston, TX 77056",
+    "phone": "+1 (713) 850-7520"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Italian Consulate General in San Francisco",
+    "city": "San Francisco, CA",
+    "address": "2590 Webster Street, San Francisco, CA 94115",
+    "phone": "+1 (415) 292-9200"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Italian Consulate General in Miami",
+    "city": "Miami, FL",
+    "address": "4000 Ponce de Leon Blvd, Suite 590, Coral Gables, FL 33146",
+    "phone": "+1 (305) 374-6322"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Italian Consulate General in Boston",
+    "city": "Boston, MA",
+    "address": "600 Atlantic Avenue, Suite 1200, Boston, MA 02210",
+    "phone": "+1 (617) 722-9201"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Italian Consulate General in Philadelphia",
+    "city": "Philadelphia, PA",
+    "address": "150 South Independence Mall West, Suite 1026, Philadelphia, PA 19106",
+    "phone": "+1 (215) 592-7329"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Italian Consulate General in Detroit",
+    "city": "Detroit, MI",
+    "address": "535 Griswold Street, Suite 1840, Detroit, MI 48226",
+    "phone": "+1 (313) 963-8560"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "embassy",
+    "name": "Embassy of Italy in London",
+    "city": "London",
+    "address": "14 Three Kings Yard, London W1K 4EH",
+    "phone": "+44 (0)20 7312 2200"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "consulate-general",
+    "name": "Italian Consulate General in London",
+    "city": "London",
+    "address": "63-66 Hatton Garden, London EC1N 8LE",
+    "phone": "+44 (0)20 7936 5900"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "consulate-general",
+    "name": "Italian Consulate General in Edinburgh",
+    "city": "Edinburgh",
+    "address": "32 Melville Street, Edinburgh EH3 7HA",
+    "phone": "+44 (0)131 220 3695"
+  },
+  {
+    "country": "France",
+    "type": "embassy",
+    "name": "Embassy of Italy in Paris",
+    "city": "Paris",
+    "address": "51 Rue de Varenne, 75007 Paris",
+    "phone": "+33 (1) 49 54 03 00"
+  },
+  {
+    "country": "France",
+    "type": "consulate-general",
+    "name": "Italian Consulate General in Paris",
+    "city": "Paris",
+    "address": "5 Boulevard Emile Augier, 75116 Paris",
+    "phone": "+33 (1) 44 30 47 00"
+  },
+  {
+    "country": "Germany",
+    "type": "embassy",
+    "name": "Embassy of Italy in Berlin",
+    "city": "Berlin",
+    "address": "Hiroshimastraße 1, 10785 Berlin",
+    "phone": "+49 (30) 254 400"
+  },
+  {
+    "country": "Germany",
+    "type": "consulate-general",
+    "name": "Italian Consulate General in Frankfurt",
+    "city": "Frankfurt",
+    "address": "Kettenhofweg 1, 60325 Frankfurt am Main",
+    "phone": "+49 (69) 753 131"
+  },
+  {
+    "country": "Germany",
+    "type": "consulate-general",
+    "name": "Italian Consulate General in Munich",
+    "city": "Munich",
+    "address": "Möhlstraße 3, 81675 Munich",
+    "phone": "+49 (89) 418 003 0"
+  },
+  {
+    "country": "Japan",
+    "type": "embassy",
+    "name": "Embassy of Italy in Tokyo",
+    "city": "Tokyo",
+    "address": "2-5-4 Mita, Minato-ku, Tokyo 108-8302",
+    "phone": "+81 (3) 3453-5291"
+  },
+  {
+    "country": "Japan",
+    "type": "consulate-general",
+    "name": "Italian Consulate General in Osaka",
+    "city": "Osaka",
+    "address": "Twin 21 MID Tower, 28th Floor, 2-1-61 Shiromi, Chuo-ku, Osaka 540-6128",
+    "phone": "+81 (6) 6949-1619"
+  },
+  {
+    "country": "China",
+    "type": "embassy",
+    "name": "Embassy of Italy in Beijing",
+    "city": "Beijing",
+    "address": "2 Dong Er Jie, San Li Tun, Chaoyang District, Beijing 100600",
+    "phone": "+86 (10) 6532-7600"
+  },
+  {
+    "country": "China",
+    "type": "consulate-general",
+    "name": "Italian Consulate General in Shanghai",
+    "city": "Shanghai",
+    "address": "989 Changle Road, Shanghai 200031",
+    "phone": "+86 (21) 6472-5500"
+  },
+  {
+    "country": "India",
+    "type": "embassy",
+    "name": "Embassy of Italy in New Delhi",
+    "city": "New Delhi",
+    "address": "50-E Chandragupta Marg, Chanakyapuri, New Delhi 110021",
+    "phone": "+91 (11) 2611-4355"
+  },
+  {
+    "country": "India",
+    "type": "consulate-general",
+    "name": "Italian Consulate General in Mumbai",
+    "city": "Mumbai",
+    "address": "Kanchanjunga Building, 16th Floor, 72 Peddar Road, Mumbai 400026",
+    "phone": "+91 (22) 2380-4071"
+  },
+  {
+    "country": "Brazil",
+    "type": "embassy",
+    "name": "Embassy of Italy in Brasilia",
+    "city": "Brasilia",
+    "address": "SES Avenida das Nações, Quadra 807, Lote 30, 70420-900 Brasilia DF",
+    "phone": "+55 (61) 3442-9900"
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate-general",
+    "name": "Italian Consulate General in São Paulo",
+    "city": "São Paulo",
+    "address": "Rua Estados Unidos 1059, Jardim América, 01427-001 São Paulo",
+    "phone": "+55 (11) 3549-5311"
+  },
+  {
+    "country": "Canada",
+    "type": "embassy",
+    "name": "Embassy of Italy in Ottawa",
+    "city": "Ottawa",
+    "address": "275 Slater Street, 21st Floor, Ottawa, ON K1P 5H9",
+    "phone": "+1 (613) 232-2401"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Italian Consulate General in Toronto",
+    "city": "Toronto",
+    "address": "136 Beverley Street, Toronto, ON M5T 1Y5",
+    "phone": "+1 (416) 977-1566"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Italian Consulate General in Montreal",
+    "city": "Montreal",
+    "address": "3489 Drummond Street, Montreal, QC H3G 1X6",
+    "phone": "+1 (514) 849-8351"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Italian Consulate General in Vancouver",
+    "city": "Vancouver",
+    "address": "1100-510 West Hastings Street, Vancouver, BC V6B 1L8",
+    "phone": "+1 (604) 684-7288"
+  },
+  {
+    "country": "Australia",
+    "type": "embassy",
+    "name": "Embassy of Italy in Canberra",
+    "city": "Canberra",
+    "address": "12 Grey Street, Deakin, ACT 2600",
+    "phone": "+61 (2) 6273-3333"
+  },
+  {
+    "country": "Australia",
+    "type": "consulate-general",
+    "name": "Italian Consulate General in Sydney",
+    "city": "Sydney",
+    "address": "Level 45, Gateway Building, 1 Macquarie Place, Sydney NSW 2000",
+    "phone": "+61 (2) 9392-7900"
+  },
+  {
+    "country": "Australia",
+    "type": "consulate-general",
+    "name": "Italian Consulate General in Melbourne",
+    "city": "Melbourne",
+    "address": "509 St Kilda Road, Melbourne VIC 3004",
+    "phone": "+61 (3) 9867-5744"
+  },
+  {
+    "country": "Mexico",
+    "type": "embassy",
+    "name": "Embassy of Italy in Mexico City",
+    "city": "Mexico City",
+    "address": "Paseo de las Palmas 1994, Col. Lomas de Chapultepec, 11000 Mexico City",
+    "phone": "+52 (55) 5596-3655"
+  },
+  {
+    "country": "Spain",
+    "type": "embassy",
+    "name": "Embassy of Italy in Madrid",
+    "city": "Madrid",
+    "address": "Calle Lagasca 98, 28006 Madrid",
+    "phone": "+34 91 423 3300"
+  },
+  {
+    "country": "Spain",
+    "type": "consulate-general",
+    "name": "Italian Consulate General in Barcelona",
+    "city": "Barcelona",
+    "address": "Carrer de Mallorca 270, 08008 Barcelona",
+    "phone": "+34 93 467 7305"
+  },
+  {
+    "country": "Argentina",
+    "type": "embassy",
+    "name": "Embassy of Italy in Buenos Aires",
+    "city": "Buenos Aires",
+    "address": "Billinghurst 2577, C1425DTK Buenos Aires",
+    "phone": "+54 (11) 4011-2100"
+  },
+  {
+    "country": "Israel",
+    "type": "embassy",
+    "name": "Embassy of Italy in Tel Aviv",
+    "city": "Tel Aviv",
+    "address": "Trade Tower, 25 Hamered Street, 68125 Tel Aviv",
+    "phone": "+972 (3) 510-4004"
+  },
+  {
+    "country": "South Korea",
+    "type": "embassy",
+    "name": "Embassy of Italy in Seoul",
+    "city": "Seoul",
+    "address": "1-398 Hannam-dong, Yongsan-gu, Seoul 04417",
+    "phone": "+82 (2) 750-0200"
+  },
+  {
+    "country": "United Nations",
+    "type": "mission",
+    "name": "Permanent Mission of Italy to the United Nations",
+    "city": "New York, NY",
+    "address": "One Dag Hammarskjöld Plaza, 885 Second Avenue, 49th Floor, New York, NY 10017",
+    "phone": "+1 (212) 486-9191"
+  }
+]

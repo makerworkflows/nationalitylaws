@@ -1,0 +1,42 @@
+[
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Embassy of Barbados in Washington, D.C.",
+    "city": "Washington, D.C.",
+    "address": "2144 Wyoming Avenue NW, Washington, DC 20008",
+    "phone": "+1 (202) 939-9200"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Barbados in New York",
+    "city": "New York, NY",
+    "address": "820 Second Avenue, 5th Floor, New York, NY 10017",
+    "phone": "+1 (212) 867-8435"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "high-commission",
+    "name": "Barbados High Commission in London",
+    "city": "London",
+    "address": "1 Great Russell Street, London WC1B 3ND",
+    "phone": "+44 (0)20 7631 4975"
+  },
+  {
+    "country": "Canada",
+    "type": "high-commission",
+    "name": "Barbados High Commission in Ottawa",
+    "city": "Ottawa",
+    "address": "55 Metcalfe Street, Suite 470, Ottawa, ON K1P 6L5",
+    "phone": "+1 (613) 236-9517"
+  },
+  {
+    "country": "United Nations",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Barbados to the United Nations",
+    "city": "New York, NY",
+    "address": "820 Second Avenue, 9th Floor, New York, NY 10017",
+    "phone": "+1 (212) 867-8431"
+  }
+]

@@ -1,0 +1,554 @@
+[
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Embassy of Turkey in Washington",
+    "city": "Washington, D.C.",
+    "address": "2525 Massachusetts Avenue NW, Washington, DC 20008",
+    "phone": "+1 (202) 612-6700"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Turkey in New York",
+    "city": "New York, NY",
+    "address": "825 Third Avenue, 28th Floor, New York, NY 10022",
+    "phone": "+1 (212) 949-0160"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Turkey in Los Angeles",
+    "city": "Los Angeles, CA",
+    "address": "6300 Wilshire Blvd, Suite 2010, Los Angeles, CA 90048",
+    "phone": "+1 (323) 655-8832"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Turkey in Chicago",
+    "city": "Chicago, IL",
+    "address": "360 North Michigan Avenue, Suite 1405, Chicago, IL 60601",
+    "phone": "+1 (312) 263-0644"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Turkey in Houston",
+    "city": "Houston, TX",
+    "address": "1990 Post Oak Blvd, Suite 1300, Houston, TX 77056",
+    "phone": "+1 (713) 622-5849"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Turkey in Boston",
+    "city": "Boston, MA",
+    "address": "535 Boylston Street, Suite 602, Boston, MA 02116",
+    "phone": "+1 (617) 266-8860"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Turkey in Miami",
+    "city": "Miami, FL",
+    "address": "80 SW 8th Street, Suite 2900, Miami, FL 33130",
+    "phone": "+1 (305) 416-3700"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "embassy",
+    "name": "Embassy of Turkey in London",
+    "city": "London",
+    "address": "43 Belgrave Square, London SW1X 8PA",
+    "phone": "+44 (20) 7393-0202"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "consulate-general",
+    "name": "Consulate General of Turkey in Edinburgh",
+    "city": "Edinburgh",
+    "address": "21 Hill Street, Edinburgh EH2 3JP",
+    "phone": "+44 (131) 225-0003"
+  },
+  {
+    "country": "Germany",
+    "type": "embassy",
+    "name": "Embassy of Turkey in Berlin",
+    "city": "Berlin",
+    "address": "Rungestrasse 9, 10179 Berlin",
+    "phone": "+49 (30) 275-8500"
+  },
+  {
+    "country": "Germany",
+    "type": "consulate-general",
+    "name": "Consulate General of Turkey in Frankfurt",
+    "city": "Frankfurt am Main",
+    "address": "Gutleutstrasse 175, 60327 Frankfurt am Main",
+    "phone": "+49 (69) 920-5990"
+  },
+  {
+    "country": "Germany",
+    "type": "consulate-general",
+    "name": "Consulate General of Turkey in Munich",
+    "city": "Munich",
+    "address": "Mauerkircher Strasse 26, 81679 Munich",
+    "phone": "+49 (89) 451-5250"
+  },
+  {
+    "country": "Germany",
+    "type": "consulate-general",
+    "name": "Consulate General of Turkey in Hamburg",
+    "city": "Hamburg",
+    "address": "Am Dammtor 1, 20354 Hamburg",
+    "phone": "+49 (40) 414-190"
+  },
+  {
+    "country": "Germany",
+    "type": "consulate-general",
+    "name": "Consulate General of Turkey in Dusseldorf",
+    "city": "Dusseldorf",
+    "address": "Karl-Harr-Strasse 1, 40213 Dusseldorf",
+    "phone": "+49 (211) 170-050"
+  },
+  {
+    "country": "Germany",
+    "type": "consulate-general",
+    "name": "Consulate General of Turkey in Stuttgart",
+    "city": "Stuttgart",
+    "address": "Vordernbergstrasse 6, 70191 Stuttgart",
+    "phone": "+49 (711) 164-550"
+  },
+  {
+    "country": "Germany",
+    "type": "consulate-general",
+    "name": "Consulate General of Turkey in Nuremberg",
+    "city": "Nuremberg",
+    "address": "Burgschmietstrasse 7, 90419 Nuremberg",
+    "phone": "+49 (911) 398-1860"
+  },
+  {
+    "country": "Germany",
+    "type": "consulate-general",
+    "name": "Consulate General of Turkey in Cologne",
+    "city": "Cologne",
+    "address": "Universitatsstrasse 37, 50931 Cologne",
+    "phone": "+49 (221) 946-1610"
+  },
+  {
+    "country": "France",
+    "type": "embassy",
+    "name": "Embassy of Turkey in Paris",
+    "city": "Paris",
+    "address": "16 Avenue de Lamballe, 75016 Paris",
+    "phone": "+33 (1) 53-92-70-00"
+  },
+  {
+    "country": "France",
+    "type": "consulate-general",
+    "name": "Consulate General of Turkey in Marseille",
+    "city": "Marseille",
+    "address": "8 Boulevard Rabatau, 13008 Marseille",
+    "phone": "+33 (4) 91-54-19-18"
+  },
+  {
+    "country": "France",
+    "type": "consulate-general",
+    "name": "Consulate General of Turkey in Strasbourg",
+    "city": "Strasbourg",
+    "address": "7 Rue Gottfried, 67000 Strasbourg",
+    "phone": "+33 (3) 88-35-21-66"
+  },
+  {
+    "country": "France",
+    "type": "consulate-general",
+    "name": "Consulate General of Turkey in Lyon",
+    "city": "Lyon",
+    "address": "10 Place Carnot, 69002 Lyon",
+    "phone": "+33 (4) 78-37-79-07"
+  },
+  {
+    "country": "Belgium",
+    "type": "embassy",
+    "name": "Embassy of Turkey in Brussels",
+    "city": "Brussels",
+    "address": "Rue Montoyer 4, 1000 Brussels",
+    "phone": "+32 (2) 513-4095"
+  },
+  {
+    "country": "Netherlands",
+    "type": "embassy",
+    "name": "Embassy of Turkey in The Hague",
+    "city": "The Hague",
+    "address": "Jan Evertsenstraat 15, 2514 BS The Hague",
+    "phone": "+31 (70) 360-4912"
+  },
+  {
+    "country": "Netherlands",
+    "type": "consulate-general",
+    "name": "Consulate General of Turkey in Rotterdam",
+    "city": "Rotterdam",
+    "address": "Westblaak 1-A, 3012 KH Rotterdam",
+    "phone": "+31 (10) 413-9450"
+  },
+  {
+    "country": "Austria",
+    "type": "embassy",
+    "name": "Embassy of Turkey in Vienna",
+    "city": "Vienna",
+    "address": "Prinz-Eugen-Strasse 40, 1040 Vienna",
+    "phone": "+43 (1) 505-7381"
+  },
+  {
+    "country": "Switzerland",
+    "type": "embassy",
+    "name": "Embassy of Turkey in Bern",
+    "city": "Bern",
+    "address": "Lombach-Weg 6, 3006 Bern",
+    "phone": "+41 (31) 352-3072"
+  },
+  {
+    "country": "Switzerland",
+    "type": "consulate-general",
+    "name": "Consulate General of Turkey in Geneva",
+    "city": "Geneva",
+    "address": "28 Rue de Moillebeau, 1209 Geneva",
+    "phone": "+41 (22) 732-1215"
+  },
+  {
+    "country": "Sweden",
+    "type": "embassy",
+    "name": "Embassy of Turkey in Stockholm",
+    "city": "Stockholm",
+    "address": "Dalaro-vagen 40, 181 57 Lidingo, Stockholm",
+    "phone": "+46 (8) 767-0200"
+  },
+  {
+    "country": "Denmark",
+    "type": "embassy",
+    "name": "Embassy of Turkey in Copenhagen",
+    "city": "Copenhagen",
+    "address": "Rosbaekvej 15, 2100 Copenhagen O",
+    "phone": "+45 3923-6088"
+  },
+  {
+    "country": "Norway",
+    "type": "embassy",
+    "name": "Embassy of Turkey in Oslo",
+    "city": "Oslo",
+    "address": "Oscarsgate 18, 0352 Oslo",
+    "phone": "+47 2212-3310"
+  },
+  {
+    "country": "Italy",
+    "type": "embassy",
+    "name": "Embassy of Turkey in Rome",
+    "city": "Rome",
+    "address": "Palazzo Cenci-Bolognetti, Via Palestro 28, 00185 Rome",
+    "phone": "+39 (06) 446-9932"
+  },
+  {
+    "country": "Spain",
+    "type": "embassy",
+    "name": "Embassy of Turkey in Madrid",
+    "city": "Madrid",
+    "address": "Calle Rafael Calvo 18, 3rd Floor, 28010 Madrid",
+    "phone": "+34 (91) 319-8064"
+  },
+  {
+    "country": "Portugal",
+    "type": "embassy",
+    "name": "Embassy of Turkey in Lisbon",
+    "city": "Lisbon",
+    "address": "Avenida das Descobertas 22, 1400-092 Lisbon",
+    "phone": "+351 (21) 303-2100"
+  },
+  {
+    "country": "Greece",
+    "type": "embassy",
+    "name": "Embassy of Turkey in Athens",
+    "city": "Athens",
+    "address": "8 Vasilissis Georgion B Street, Psychiko, Athens 15452",
+    "phone": "+30 (210) 726-3000"
+  },
+  {
+    "country": "Greece",
+    "type": "consulate-general",
+    "name": "Consulate General of Turkey in Thessaloniki",
+    "city": "Thessaloniki",
+    "address": "Agiou Dimitriou 151, Thessaloniki 54636",
+    "phone": "+30 (2310) 248-452"
+  },
+  {
+    "country": "Russia",
+    "type": "embassy",
+    "name": "Embassy of Turkey in Moscow",
+    "city": "Moscow",
+    "address": "Vadkovsky Pereulok 7-9, 127055 Moscow",
+    "phone": "+7 (495) 681-1003"
+  },
+  {
+    "country": "Russia",
+    "type": "consulate-general",
+    "name": "Consulate General of Turkey in St. Petersburg",
+    "city": "St. Petersburg",
+    "address": "Furshtatskaya Street 21, St. Petersburg 191028",
+    "phone": "+7 (812) 275-8118"
+  },
+  {
+    "country": "Ukraine",
+    "type": "embassy",
+    "name": "Embassy of Turkey in Kyiv",
+    "city": "Kyiv",
+    "address": "Arsenalna Street 18, Kyiv 01011",
+    "phone": "+380 (44) 286-0577"
+  },
+  {
+    "country": "Poland",
+    "type": "embassy",
+    "name": "Embassy of Turkey in Warsaw",
+    "city": "Warsaw",
+    "address": "Ulica Malczewskiego 32, 02-622 Warsaw",
+    "phone": "+48 (22) 565-0520"
+  },
+  {
+    "country": "Romania",
+    "type": "embassy",
+    "name": "Embassy of Turkey in Bucharest",
+    "city": "Bucharest",
+    "address": "Calea Dorobantilor 72, Sector 1, Bucharest",
+    "phone": "+40 (21) 230-9490"
+  },
+  {
+    "country": "Bulgaria",
+    "type": "embassy",
+    "name": "Embassy of Turkey in Sofia",
+    "city": "Sofia",
+    "address": "Blvd Vasil Levski 80, Sofia 1142",
+    "phone": "+359 (2) 935-5500"
+  },
+  {
+    "country": "Saudi Arabia",
+    "type": "embassy",
+    "name": "Embassy of Turkey in Riyadh",
+    "city": "Riyadh",
+    "address": "Diplomatic Quarter, Riyadh 11693",
+    "phone": "+966 (11) 488-6400"
+  },
+  {
+    "country": "Saudi Arabia",
+    "type": "consulate-general",
+    "name": "Consulate General of Turkey in Jeddah",
+    "city": "Jeddah",
+    "address": "Tahlia Street, Al-Andalus District, Jeddah 21431",
+    "phone": "+966 (12) 667-1600"
+  },
+  {
+    "country": "UAE",
+    "type": "embassy",
+    "name": "Embassy of Turkey in Abu Dhabi",
+    "city": "Abu Dhabi",
+    "address": "Plot 31-33, Diplomatic Area, Abu Dhabi",
+    "phone": "+971 (2) 665-2322"
+  },
+  {
+    "country": "UAE",
+    "type": "consulate-general",
+    "name": "Consulate General of Turkey in Dubai",
+    "city": "Dubai",
+    "address": "JLT Cluster I, Platinum Tower, Dubai",
+    "phone": "+971 (4) 455-6700"
+  },
+  {
+    "country": "Egypt",
+    "type": "embassy",
+    "name": "Embassy of Turkey in Cairo",
+    "city": "Cairo",
+    "address": "26 Feleki Street, Bab el-Louq, Cairo",
+    "phone": "+20 (2) 2792-0118"
+  },
+  {
+    "country": "Iran",
+    "type": "embassy",
+    "name": "Embassy of Turkey in Tehran",
+    "city": "Tehran",
+    "address": "314 Forsat Avenue, Tehran",
+    "phone": "+98 (21) 8880-7990"
+  },
+  {
+    "country": "Iraq",
+    "type": "embassy",
+    "name": "Embassy of Turkey in Baghdad",
+    "city": "Baghdad",
+    "address": "Waziriya Quarter, Baghdad",
+    "phone": "+964 (1) 422-4208"
+  },
+  {
+    "country": "Iraq",
+    "type": "consulate-general",
+    "name": "Consulate General of Turkey in Erbil",
+    "city": "Erbil",
+    "address": "60 Meter Street, District 29, Erbil",
+    "phone": "+964 (66) 223-2590"
+  },
+  {
+    "country": "Jordan",
+    "type": "embassy",
+    "name": "Embassy of Turkey in Amman",
+    "city": "Amman",
+    "address": "4th Circle, Al-Madeenah Al-Munawarrah Street, Amman",
+    "phone": "+962 (6) 464-1251"
+  },
+  {
+    "country": "India",
+    "type": "embassy",
+    "name": "Embassy of Turkey in New Delhi",
+    "city": "New Delhi",
+    "address": "N-50, Niti Marg, Chanakyapuri, New Delhi 110021",
+    "phone": "+91 (11) 2688-8053"
+  },
+  {
+    "country": "China",
+    "type": "embassy",
+    "name": "Embassy of Turkey in Beijing",
+    "city": "Beijing",
+    "address": "9 Dongwu Street, Sanlitun, Beijing 100600",
+    "phone": "+86 (10) 6532-2650"
+  },
+  {
+    "country": "Japan",
+    "type": "embassy",
+    "name": "Embassy of Turkey in Tokyo",
+    "city": "Tokyo",
+    "address": "2-33-6 Jingumae, Shibuya-ku, Tokyo 150-0001",
+    "phone": "+81 (3) 3470-5131"
+  },
+  {
+    "country": "South Korea",
+    "type": "embassy",
+    "name": "Embassy of Turkey in Seoul",
+    "city": "Seoul",
+    "address": "Hannam-daero 196, Yongsan-gu, Seoul 04407",
+    "phone": "+82 (2) 794-0255"
+  },
+  {
+    "country": "Australia",
+    "type": "embassy",
+    "name": "Embassy of Turkey in Canberra",
+    "city": "Canberra",
+    "address": "6 Moonah Place, Yarralumla, ACT 2600",
+    "phone": "+61 (2) 6234-0000"
+  },
+  {
+    "country": "Australia",
+    "type": "consulate-general",
+    "name": "Consulate General of Turkey in Sydney",
+    "city": "Sydney",
+    "address": "Level 8, 60 Carrington Street, Sydney NSW 2000",
+    "phone": "+61 (2) 9223-3533"
+  },
+  {
+    "country": "Canada",
+    "type": "embassy",
+    "name": "Embassy of Turkey in Ottawa",
+    "city": "Ottawa",
+    "address": "197 Wurtemburg Street, Ottawa, ON K1N 8L9",
+    "phone": "+1 (613) 244-2470"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Consulate General of Turkey in Toronto",
+    "city": "Toronto",
+    "address": "171 Bay Street, Suite 2701, Toronto, ON M5J 2S1",
+    "phone": "+1 (416) 359-0700"
+  },
+  {
+    "country": "Mexico",
+    "type": "embassy",
+    "name": "Embassy of Turkey in Mexico City",
+    "city": "Mexico City",
+    "address": "Monte Libano 885, Lomas de Chapultepec, 11000 Mexico City",
+    "phone": "+52 (55) 5520-1800"
+  },
+  {
+    "country": "Brazil",
+    "type": "embassy",
+    "name": "Embassy of Turkey in Brasilia",
+    "city": "Brasilia",
+    "address": "SES Quadra 801, Lote 23, Brasilia 70410-900",
+    "phone": "+55 (61) 3242-1850"
+  },
+  {
+    "country": "Argentina",
+    "type": "embassy",
+    "name": "Embassy of Turkey in Buenos Aires",
+    "city": "Buenos Aires",
+    "address": "Avenida del Libertador 1071, Piso 8, C1112AAF Buenos Aires",
+    "phone": "+54 (11) 4393-9555"
+  },
+  {
+    "country": "South Africa",
+    "type": "embassy",
+    "name": "Embassy of Turkey in Pretoria",
+    "city": "Pretoria",
+    "address": "1067 Church Street, Hatfield, Pretoria 0083",
+    "phone": "+27 (12) 342-6053"
+  },
+  {
+    "country": "Ethiopia",
+    "type": "embassy",
+    "name": "Embassy of Turkey in Addis Ababa",
+    "city": "Addis Ababa",
+    "address": "Djibouti Street, Kirkos Sub-City, Addis Ababa",
+    "phone": "+251 (11) 662-9000"
+  },
+  {
+    "country": "Morocco",
+    "type": "embassy",
+    "name": "Embassy of Turkey in Rabat",
+    "city": "Rabat",
+    "address": "7 Rue d'Agadir, Rabat 10010",
+    "phone": "+212 (537) 76-3410"
+  },
+  {
+    "country": "Azerbaijan",
+    "type": "embassy",
+    "name": "Embassy of Turkey in Baku",
+    "city": "Baku",
+    "address": "5 Khagani Street, Baku AZ 1000",
+    "phone": "+994 (12) 493-8700"
+  },
+  {
+    "country": "Kazakhstan",
+    "type": "embassy",
+    "name": "Embassy of Turkey in Astana",
+    "city": "Astana",
+    "address": "Diplomatic Area, Astana 010000",
+    "phone": "+7 (7172) 97-3100"
+  },
+  {
+    "country": "United Nations (New York)",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Turkey to the United Nations",
+    "city": "New York, NY",
+    "address": "821 United Nations Plaza, New York, NY 10017",
+    "phone": "+1 (212) 949-0150"
+  },
+  {
+    "country": "United Nations (Geneva)",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Turkey to the UN Office in Geneva",
+    "city": "Geneva",
+    "address": "Palais des Nations, Avenue de la Paix, Geneva",
+    "phone": "+41 (22) 918-5000"
+  },
+  {
+    "country": "European Union",
+    "type": "permanent-mission",
+    "name": "Mission of Turkey to the European Union",
+    "city": "Brussels",
+    "address": "Avenue des Arts 54, 1000 Brussels",
+    "phone": "+32 (2) 513-2797"
+  }
+]

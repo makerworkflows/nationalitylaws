@@ -1,0 +1,42 @@
+[
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Embassy of Saint Vincent and the Grenadines in Washington, D.C.",
+    "city": "Washington, D.C.",
+    "address": "3216 New Mexico Avenue NW, Washington, DC 20016",
+    "phone": "+1 (202) 364-6730"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Saint Vincent and the Grenadines in New York",
+    "city": "New York, NY",
+    "address": "801 Second Avenue, 21st Floor, New York, NY 10017",
+    "phone": "+1 (212) 687-4490"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "high-commission",
+    "name": "Saint Vincent and the Grenadines High Commission in London",
+    "city": "London",
+    "address": "10 Kensington Court, London W8 5DL",
+    "phone": "+44 (0)20 7937 6570"
+  },
+  {
+    "country": "Canada",
+    "type": "high-commission",
+    "name": "Saint Vincent and the Grenadines High Commission in Ottawa",
+    "city": "Ottawa, ON",
+    "address": "130 Albert Street, Suite 1010, Ottawa, ON K1P 5G4",
+    "phone": "+1 (613) 233-4839"
+  },
+  {
+    "country": "United Nations",
+    "type": "embassy",
+    "name": "Permanent Mission of Saint Vincent and the Grenadines to the United Nations",
+    "city": "New York, NY",
+    "address": "801 Second Avenue, 21st Floor, New York, NY 10017",
+    "phone": "+1 (212) 599-0950"
+  }
+]

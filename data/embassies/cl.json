@@ -1,0 +1,482 @@
+[
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Embassy of Chile in Washington D.C.",
+    "city": "Washington D.C.",
+    "address": "1732 Massachusetts Ave NW, Washington D.C. 20036",
+    "phone": "+1 202 785-1746"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Chilean Consulate General in New York",
+    "city": "New York",
+    "address": "866 United Nations Plaza, Suite 601, New York, NY 10017",
+    "phone": "+1 212 355-0612"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Chilean Consulate General in Los Angeles",
+    "city": "Los Angeles",
+    "address": "6100 Wilshire Blvd, Suite 1240, Los Angeles, CA 90048",
+    "phone": "+1 323 933-3697"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Chilean Consulate General in Miami",
+    "city": "Miami",
+    "address": "1444 Biscayne Blvd, Suite 410, Miami, FL 33132",
+    "phone": "+1 305 373-8623"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Chilean Consulate General in San Francisco",
+    "city": "San Francisco",
+    "address": "870 Market Street, Suite 1058, San Francisco, CA 94102",
+    "phone": "+1 415 982-7662"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Chilean Consulate General in Chicago",
+    "city": "Chicago",
+    "address": "875 N Michigan Ave, Suite 3352, Chicago, IL 60611",
+    "phone": "+1 312 654-8780"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Chilean Consulate General in Houston",
+    "city": "Houston",
+    "address": "1300 Post Oak Blvd, Suite 2050, Houston, TX 77056",
+    "phone": "+1 713 621-5853"
+  },
+  {
+    "country": "Canada",
+    "type": "embassy",
+    "name": "Embassy of Chile in Ottawa",
+    "city": "Ottawa",
+    "address": "50 O'Connor Street, Suite 1413, Ottawa, Ontario K1P 6L2",
+    "phone": "+1 613 235-4402"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Chilean Consulate General in Toronto",
+    "city": "Toronto",
+    "address": "2 Bloor Street West, Suite 1801, Toronto, Ontario M4W 3E2",
+    "phone": "+1 416 924-0106"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Chilean Consulate General in Vancouver",
+    "city": "Vancouver",
+    "address": "1200 West 73rd Ave, Suite 1040, Vancouver, BC V6P 6G5",
+    "phone": "+1 604 681-9162"
+  },
+  {
+    "country": "Mexico",
+    "type": "embassy",
+    "name": "Embassy of Chile in Mexico City",
+    "city": "Mexico City",
+    "address": "Andres Bello 10, Piso 18, Polanco, 11560 Mexico City",
+    "phone": "+52 55 5280-9681"
+  },
+  {
+    "country": "Argentina",
+    "type": "embassy",
+    "name": "Embassy of Chile in Buenos Aires",
+    "city": "Buenos Aires",
+    "address": "Tagle 2762, C1425EEH Buenos Aires",
+    "phone": "+54 11 4808-8600"
+  },
+  {
+    "country": "Argentina",
+    "type": "consulate-general",
+    "name": "Chilean Consulate General in Mendoza",
+    "city": "Mendoza",
+    "address": "Av. Emilio Civit 76, M5500 Mendoza",
+    "phone": "+54 261 425-5024"
+  },
+  {
+    "country": "Brazil",
+    "type": "embassy",
+    "name": "Embassy of Chile in Brasília",
+    "city": "Brasília",
+    "address": "SES Quadra 803, Lote 18-A, Brasília DF 70200-035",
+    "phone": "+55 61 3242-5151"
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate-general",
+    "name": "Chilean Consulate General in São Paulo",
+    "city": "São Paulo",
+    "address": "Av. Paulista 1009, 11° andar, São Paulo SP 01311-918",
+    "phone": "+55 11 3284-2044"
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate-general",
+    "name": "Chilean Consulate General in Porto Alegre",
+    "city": "Porto Alegre",
+    "address": "Rua Coronel Genuíno 421, Sala 104, Porto Alegre RS",
+    "phone": "+55 51 3212-8070"
+  },
+  {
+    "country": "Peru",
+    "type": "embassy",
+    "name": "Embassy of Chile in Lima",
+    "city": "Lima",
+    "address": "Av. Javier Prado Oeste 790, San Isidro, Lima 27",
+    "phone": "+51 1 611-2200"
+  },
+  {
+    "country": "Colombia",
+    "type": "embassy",
+    "name": "Embassy of Chile in Bogotá",
+    "city": "Bogotá",
+    "address": "Calle 100 No. 11B-44, Piso 9, Bogotá",
+    "phone": "+57 1 621-4545"
+  },
+  {
+    "country": "Bolivia",
+    "type": "embassy",
+    "name": "Embassy of Chile in La Paz",
+    "city": "La Paz",
+    "address": "Av. Hernando Siles 5843, La Paz",
+    "phone": "+591 2 279-0523"
+  },
+  {
+    "country": "Ecuador",
+    "type": "embassy",
+    "name": "Embassy of Chile in Quito",
+    "city": "Quito",
+    "address": "Juan Pablo Sanz N35-85 y Av. Amazonas, Quito",
+    "phone": "+593 2 224-9403"
+  },
+  {
+    "country": "Venezuela",
+    "type": "embassy",
+    "name": "Embassy of Chile in Caracas",
+    "city": "Caracas",
+    "address": "Av. El Bosque, Quinta Chile, Caracas 1060",
+    "phone": "+58 212 951-5575"
+  },
+  {
+    "country": "Uruguay",
+    "type": "embassy",
+    "name": "Embassy of Chile in Montevideo",
+    "city": "Montevideo",
+    "address": "Av. Italia 2549, Montevideo 11600",
+    "phone": "+598 2 707-0700"
+  },
+  {
+    "country": "Paraguay",
+    "type": "embassy",
+    "name": "Embassy of Chile in Asunción",
+    "city": "Asunción",
+    "address": "Guido Spano 1687 esq. Carlos Antonio Lopez, Asunción",
+    "phone": "+595 21 600-674"
+  },
+  {
+    "country": "Cuba",
+    "type": "embassy",
+    "name": "Embassy of Chile in Havana",
+    "city": "Havana",
+    "address": "Calle 22 No. 455 entre 5ta y 7ma, Miramar, Havana",
+    "phone": "+53 7 204-2242"
+  },
+  {
+    "country": "Spain",
+    "type": "embassy",
+    "name": "Embassy of Chile in Madrid",
+    "city": "Madrid",
+    "address": "Lagasca 88, 3° planta, 28001 Madrid",
+    "phone": "+34 91 431-8672"
+  },
+  {
+    "country": "Spain",
+    "type": "consulate-general",
+    "name": "Chilean Consulate General in Barcelona",
+    "city": "Barcelona",
+    "address": "Gran Via de les Corts Catalanes 679, 5° planta, 08013 Barcelona",
+    "phone": "+34 93 342-9843"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "embassy",
+    "name": "Embassy of Chile in London",
+    "city": "London",
+    "address": "37-41 Old Queen Street, London SW1H 9JA",
+    "phone": "+44 20 7222-2361"
+  },
+  {
+    "country": "France",
+    "type": "embassy",
+    "name": "Embassy of Chile in Paris",
+    "city": "Paris",
+    "address": "2 avenue de la Motte-Picquet, 75007 Paris",
+    "phone": "+33 1 4451-8051"
+  },
+  {
+    "country": "Germany",
+    "type": "embassy",
+    "name": "Embassy of Chile in Berlin",
+    "city": "Berlin",
+    "address": "Mohrenstraße 42, 10117 Berlin",
+    "phone": "+49 30 726-2011"
+  },
+  {
+    "country": "Italy",
+    "type": "embassy",
+    "name": "Embassy of Chile in Rome",
+    "city": "Rome",
+    "address": "Via Po 23, 00198 Rome",
+    "phone": "+39 06 844-9823"
+  },
+  {
+    "country": "Switzerland",
+    "type": "embassy",
+    "name": "Embassy of Chile in Bern",
+    "city": "Bern",
+    "address": "Eigerstrasse 65, 3007 Bern",
+    "phone": "+41 31 370-0909"
+  },
+  {
+    "country": "Netherlands",
+    "type": "embassy",
+    "name": "Embassy of Chile in The Hague",
+    "city": "The Hague",
+    "address": "Mauritskade 51, 2514 HG The Hague",
+    "phone": "+31 70 364-7308"
+  },
+  {
+    "country": "Belgium",
+    "type": "embassy",
+    "name": "Embassy of Chile in Brussels",
+    "city": "Brussels",
+    "address": "Avenue des Arts 40, 1040 Brussels",
+    "phone": "+32 2 287-0060"
+  },
+  {
+    "country": "Sweden",
+    "type": "embassy",
+    "name": "Embassy of Chile in Stockholm",
+    "city": "Stockholm",
+    "address": "Kommendörsgatan 35, 114 58 Stockholm",
+    "phone": "+46 8 411-2755"
+  },
+  {
+    "country": "Austria",
+    "type": "embassy",
+    "name": "Embassy of Chile in Vienna",
+    "city": "Vienna",
+    "address": "Lugeck 1/IV/12, 1010 Vienna",
+    "phone": "+43 1 512-9208"
+  },
+  {
+    "country": "Portugal",
+    "type": "embassy",
+    "name": "Embassy of Chile in Lisbon",
+    "city": "Lisbon",
+    "address": "Rua do Alecrim 79, 1200-016 Lisbon",
+    "phone": "+351 21 324-2340"
+  },
+  {
+    "country": "Russia",
+    "type": "embassy",
+    "name": "Embassy of Chile in Moscow",
+    "city": "Moscow",
+    "address": "Ulitsa Denezhniy Pereulok 7, Str. 1, Moscow 119121",
+    "phone": "+7 495 241-0126"
+  },
+  {
+    "country": "China",
+    "type": "embassy",
+    "name": "Embassy of Chile in Beijing",
+    "city": "Beijing",
+    "address": "San Li Tun Dongsi Street 1, Chaoyang, Beijing 100600",
+    "phone": "+86 10 6532-3176"
+  },
+  {
+    "country": "China",
+    "type": "consulate-general",
+    "name": "Chilean Consulate General in Shanghai",
+    "city": "Shanghai",
+    "address": "Yongfu Rd 258, Xuhui District, Shanghai 200031",
+    "phone": "+86 21 6474-7678"
+  },
+  {
+    "country": "Japan",
+    "type": "embassy",
+    "name": "Embassy of Chile in Tokyo",
+    "city": "Tokyo",
+    "address": "Niban-cho, 3-1, Chiyoda-ku, Tokyo 102-0084",
+    "phone": "+81 3 3452-7561"
+  },
+  {
+    "country": "South Korea",
+    "type": "embassy",
+    "name": "Embassy of Chile in Seoul",
+    "city": "Seoul",
+    "address": "31 Sowol-ro 2-gil, Yongsan-gu, Seoul 04340",
+    "phone": "+82 2 798-7740"
+  },
+  {
+    "country": "Australia",
+    "type": "embassy",
+    "name": "Embassy of Chile in Canberra",
+    "city": "Canberra",
+    "address": "10 Culgoa Circuit, O'Malley, ACT 2606",
+    "phone": "+61 2 6286-2430"
+  },
+  {
+    "country": "Australia",
+    "type": "consulate-general",
+    "name": "Chilean Consulate General in Sydney",
+    "city": "Sydney",
+    "address": "Level 24, St. Martin's Tower, 31 Market Street, Sydney NSW 2000",
+    "phone": "+61 2 9299-2533"
+  },
+  {
+    "country": "India",
+    "type": "embassy",
+    "name": "Embassy of Chile in New Delhi",
+    "city": "New Delhi",
+    "address": "B-2/23, Vasant Vihar, New Delhi 110057",
+    "phone": "+91 11 2614-1411"
+  },
+  {
+    "country": "South Africa",
+    "type": "embassy",
+    "name": "Embassy of Chile in Pretoria",
+    "city": "Pretoria",
+    "address": "1016 Schoeman Street, Hatfield, Pretoria 0083",
+    "phone": "+27 12 430-9400"
+  },
+  {
+    "country": "Egypt",
+    "type": "embassy",
+    "name": "Embassy of Chile in Cairo",
+    "city": "Cairo",
+    "address": "5 Sharia Ibn El Malek, Giza, Cairo",
+    "phone": "+20 2 3761-7400"
+  },
+  {
+    "country": "Israel",
+    "type": "embassy",
+    "name": "Embassy of Chile in Tel Aviv",
+    "city": "Tel Aviv",
+    "address": "HaYarkon 50, Tel Aviv 63432",
+    "phone": "+972 3 695-5278"
+  },
+  {
+    "country": "Turkey",
+    "type": "embassy",
+    "name": "Embassy of Chile in Ankara",
+    "city": "Ankara",
+    "address": "Kılıç Ali Paşa Mh., Meclis-i Mebusan Cad., Ankara",
+    "phone": "+90 312 446-6882"
+  },
+  {
+    "country": "United Arab Emirates",
+    "type": "embassy",
+    "name": "Embassy of Chile in Abu Dhabi",
+    "city": "Abu Dhabi",
+    "address": "Al Bateen District, Abu Dhabi",
+    "phone": "+971 2 671-4999"
+  },
+  {
+    "country": "Indonesia",
+    "type": "embassy",
+    "name": "Embassy of Chile in Jakarta",
+    "city": "Jakarta",
+    "address": "Gedung World Trade Center 1, Lt. 10, Jl. Jend. Sudirman Kav. 29-31, Jakarta 12920",
+    "phone": "+62 21 521-2380"
+  },
+  {
+    "country": "Thailand",
+    "type": "embassy",
+    "name": "Embassy of Chile in Bangkok",
+    "city": "Bangkok",
+    "address": "Tonson Tower, 9th Floor, 900 Ploenchit Road, Bangkok 10330",
+    "phone": "+66 2 252-0305"
+  },
+  {
+    "country": "Morocco",
+    "type": "embassy",
+    "name": "Embassy of Chile in Rabat",
+    "city": "Rabat",
+    "address": "Quartier Hassan, Rue Ibn Batouta, Rabat",
+    "phone": "+212 537-706-900"
+  },
+  {
+    "country": "United Nations (New York)",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Chile to the United Nations (New York)",
+    "city": "New York",
+    "address": "One Dag Hammarskjold Plaza, 885 Second Ave, New York, NY 10017",
+    "phone": "+1 212 355-6240"
+  },
+  {
+    "country": "United Nations (Geneva)",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Chile to the United Nations (Geneva)",
+    "city": "Geneva",
+    "address": "Rue de Moillebeau 58, 1209 Geneva",
+    "phone": "+41 22 918-0200"
+  },
+  {
+    "country": "European Union",
+    "type": "permanent-mission",
+    "name": "Mission of Chile to the European Union",
+    "city": "Brussels",
+    "address": "Avenue des Arts 40, 1040 Brussels",
+    "phone": "+32 2 287-0060"
+  },
+  {
+    "country": "OECD (Paris)",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Chile to the OECD",
+    "city": "Paris",
+    "address": "2 avenue de la Motte-Picquet, 75007 Paris",
+    "phone": "+33 1 4451-8051"
+  },
+  {
+    "country": "OAS (Washington)",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Chile to the OAS",
+    "city": "Washington D.C.",
+    "address": "1732 Massachusetts Ave NW, Washington D.C. 20036",
+    "phone": "+1 202 785-1746"
+  },
+  {
+    "country": "Poland",
+    "type": "embassy",
+    "name": "Embassy of Chile in Warsaw",
+    "city": "Warsaw",
+    "address": "ul. Willowa 7, 00-790 Warsaw",
+    "phone": "+48 22 583-1000"
+  },
+  {
+    "country": "Czech Republic",
+    "type": "embassy",
+    "name": "Embassy of Chile in Prague",
+    "city": "Prague",
+    "address": "Muchova 9, 160 00 Prague 6",
+    "phone": "+420 2 2431-0870"
+  },
+  {
+    "country": "Mexico",
+    "type": "consulate-general",
+    "name": "Chilean Consulate General in Guadalajara",
+    "city": "Guadalajara",
+    "address": "Av. Insurgentes Sur 2453, Guadalajara",
+    "phone": "+52 33 3631-7880"
+  }
+]

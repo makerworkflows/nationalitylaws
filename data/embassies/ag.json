@@ -1,0 +1,42 @@
+[
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Embassy of Antigua and Barbuda in Washington, D.C.",
+    "city": "Washington, D.C.",
+    "address": "3216 New Mexico Avenue NW, Washington, DC 20016",
+    "phone": "+1 (202) 362-5122"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Antigua and Barbuda in New York",
+    "city": "New York, NY",
+    "address": "305 East 47th Street, 6th Floor, New York, NY 10017",
+    "phone": "+1 (212) 541-4117"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "high-commission",
+    "name": "Antigua and Barbuda High Commission in London",
+    "city": "London",
+    "address": "2nd Floor, 45 Crawford Place, London W1H 4LP",
+    "phone": "+44 (0)20 7258 0070"
+  },
+  {
+    "country": "Canada",
+    "type": "high-commission",
+    "name": "Antigua and Barbuda High Commission in Ottawa",
+    "city": "Ottawa, ON",
+    "address": "130 Albert Street, Suite 1010, Ottawa, ON K1P 5G4",
+    "phone": "+1 (613) 238-8601"
+  },
+  {
+    "country": "United Nations",
+    "type": "embassy",
+    "name": "Permanent Mission of Antigua and Barbuda to the United Nations",
+    "city": "New York, NY",
+    "address": "305 East 47th Street, 6th Floor, New York, NY 10017",
+    "phone": "+1 (212) 541-4117"
+  }
+]

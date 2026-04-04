@@ -1,0 +1,586 @@
+[
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Embassy of Honduras in Washington, D.C.",
+    "city": "Washington, D.C.",
+    "address": "1220 19th Street NW, Suite 320, Washington, DC 20036",
+    "phone": "+1 (202) 966-7702"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Honduras in New York",
+    "city": "New York, NY",
+    "address": "255 West 36th Street, New York, NY 10018",
+    "phone": "+1 (646) 370-3608"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Honduras in Los Angeles",
+    "city": "Los Angeles, CA",
+    "address": "3550 Wilshire Blvd, Suite 230, Los Angeles, CA 90010",
+    "phone": "+1 (213) 995-6408"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Honduras in Houston",
+    "city": "Houston, TX",
+    "address": "6001 Savoy Drive, Suite 310, Houston, TX 77036",
+    "phone": "+1 (713) 995-3012"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Honduras in Miami",
+    "city": "Miami, FL",
+    "address": "8600 NW 36th Street, Suite 101, Miami, FL 33166",
+    "phone": "+1 (305) 269-3131"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Honduras in Chicago",
+    "city": "Chicago, IL",
+    "address": "4506 S. Archer Avenue, Chicago, IL 60632",
+    "phone": "+1 (773) 342-8281"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Honduras in Dallas",
+    "city": "Dallas, TX",
+    "address": "Dallas, TX",
+    "phone": "+1 (214) 536-1253"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Honduras in Atlanta",
+    "city": "Atlanta, GA",
+    "address": "3625 Brookside Parkway, Suite 220, Alpharetta, GA 30022",
+    "phone": "+1 (770) 645-8881"
+  },
+  {
+    "country": "United States",
+    "type": "consulate",
+    "name": "Consulate of Honduras in New Orleans",
+    "city": "New Orleans, LA",
+    "address": "321 St. Charles Avenue, Suite 217, New Orleans, LA 70130",
+    "phone": "+1 (504) 522-3118"
+  },
+  {
+    "country": "United States",
+    "type": "consulate",
+    "name": "Consulate of Honduras in San Francisco",
+    "city": "San Francisco, CA",
+    "address": "870 Market Street, Suite 516, San Francisco, CA 94102",
+    "phone": "+1 (415) 392-0076"
+  },
+  {
+    "country": "United States",
+    "type": "consulate",
+    "name": "Consulate of Honduras in McAllen",
+    "city": "McAllen, TX",
+    "address": "McAllen, TX",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Honduras to the United Nations",
+    "city": "New York, NY",
+    "address": "866 United Nations Plaza, Suite 417, New York, NY 10017",
+    "phone": "+1 (212) 752-3370"
+  },
+  {
+    "country": "United States",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Honduras to the Organization of American States",
+    "city": "Washington, D.C.",
+    "address": "1250 Connecticut Avenue NW, Suite 700, Washington, DC 20036",
+    "phone": "+1 (202) 234-4637"
+  },
+  {
+    "country": "Mexico",
+    "type": "embassy",
+    "name": "Embassy of Honduras in Mexico City",
+    "city": "Mexico City",
+    "address": "Alfonso Reyes 220, Hipódromo Condesa, Cuauhtémoc, 06170 Ciudad de México",
+    "phone": "+52 55 5211-5747"
+  },
+  {
+    "country": "Mexico",
+    "type": "consulate",
+    "name": "Consulate of Honduras in Tapachula",
+    "city": "Tapachula, Chiapas",
+    "address": "2a Calle Oriente No. 33, Tapachula, Chiapas 30700",
+    "phone": "+52 (962) 626-1345"
+  },
+  {
+    "country": "Mexico",
+    "type": "consulate",
+    "name": "Consulate of Honduras in Villahermosa",
+    "city": "Villahermosa, Tabasco",
+    "address": "Villahermosa, Tabasco",
+    "phone": ""
+  },
+  {
+    "country": "Mexico",
+    "type": "consulate",
+    "name": "Consulate of Honduras in Monterrey",
+    "city": "Monterrey, Nuevo León",
+    "address": "Monterrey, Nuevo León",
+    "phone": ""
+  },
+  {
+    "country": "Mexico",
+    "type": "consulate",
+    "name": "Consulate of Honduras in Cancún",
+    "city": "Cancún, Quintana Roo",
+    "address": "Cancún, Quintana Roo",
+    "phone": ""
+  },
+  {
+    "country": "Mexico",
+    "type": "consulate",
+    "name": "Consulate of Honduras in Puebla",
+    "city": "Puebla",
+    "address": "Puebla, Puebla",
+    "phone": ""
+  },
+  {
+    "country": "Guatemala",
+    "type": "embassy",
+    "name": "Embassy of Honduras in Guatemala City",
+    "city": "Guatemala City",
+    "address": "Avenida Reforma 6-64, Zona 9, Edificio Plaza Corporativa, Torre 2, Oficina 202, Guatemala City",
+    "phone": "+502 2332-6281"
+  },
+  {
+    "country": "Guatemala",
+    "type": "consulate",
+    "name": "Consulate of Honduras in Puerto Barrios",
+    "city": "Puerto Barrios, Izabal",
+    "address": "Puerto Barrios, Izabal",
+    "phone": ""
+  },
+  {
+    "country": "Guatemala",
+    "type": "consulate",
+    "name": "Consulate of Honduras in Esquipulas",
+    "city": "Esquipulas, Chiquimula",
+    "address": "Esquipulas, Chiquimula",
+    "phone": ""
+  },
+  {
+    "country": "El Salvador",
+    "type": "embassy",
+    "name": "Embassy of Honduras in San Salvador",
+    "city": "San Salvador",
+    "address": "89 Avenida Norte No. 561, Colonia Escalón, San Salvador",
+    "phone": "+503 2263-2808"
+  },
+  {
+    "country": "El Salvador",
+    "type": "consulate",
+    "name": "Consulate of Honduras in Santa Ana",
+    "city": "Santa Ana",
+    "address": "Santa Ana, El Salvador",
+    "phone": ""
+  },
+  {
+    "country": "Nicaragua",
+    "type": "embassy",
+    "name": "Embassy of Honduras in Managua",
+    "city": "Managua",
+    "address": "De la Rotonda El Güegüense, 1 cuadra al Oeste, Managua",
+    "phone": "+505 2266-8513"
+  },
+  {
+    "country": "Nicaragua",
+    "type": "consulate",
+    "name": "Consulate of Honduras in Chinandega",
+    "city": "Chinandega",
+    "address": "Chinandega, Nicaragua",
+    "phone": ""
+  },
+  {
+    "country": "Costa Rica",
+    "type": "embassy",
+    "name": "Embassy of Honduras in San José",
+    "city": "San José",
+    "address": "Residencial Los Colegios, Moravia, San José",
+    "phone": "+506 2234-9502"
+  },
+  {
+    "country": "Panama",
+    "type": "embassy",
+    "name": "Embassy of Honduras in Panama City",
+    "city": "Panama City",
+    "address": "Edificio Plaza Credicorp Bank, Calle 50, Piso 15, Panama City",
+    "phone": "+507 225-8200"
+  },
+  {
+    "country": "Belize",
+    "type": "embassy",
+    "name": "Embassy of Honduras in Belmopan",
+    "city": "Belmopan",
+    "address": "114/116 New Road, Belmopan",
+    "phone": "+501 822-2020"
+  },
+  {
+    "country": "Cuba",
+    "type": "embassy",
+    "name": "Embassy of Honduras in Havana",
+    "city": "Havana",
+    "address": "Calle 18 No. 753 entre 25 y 27, Vedado, Havana",
+    "phone": "+53 7 836-4073"
+  },
+  {
+    "country": "Dominican Republic",
+    "type": "embassy",
+    "name": "Embassy of Honduras in Santo Domingo",
+    "city": "Santo Domingo",
+    "address": "Calle Andrés Julio Aybar No. 21, Ensanche Naco, Santo Domingo",
+    "phone": "+1 (809) 562-0663"
+  },
+  {
+    "country": "Jamaica",
+    "type": "consulate",
+    "name": "Consulate of Honduras in Kingston",
+    "city": "Kingston",
+    "address": "Kingston, Jamaica",
+    "phone": ""
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "type": "consulate",
+    "name": "Consulate of Honduras in Port of Spain",
+    "city": "Port of Spain",
+    "address": "Port of Spain, Trinidad and Tobago",
+    "phone": ""
+  },
+  {
+    "country": "Colombia",
+    "type": "embassy",
+    "name": "Embassy of Honduras in Bogotá",
+    "city": "Bogotá",
+    "address": "Calle 93A No. 13-24, Piso 3, Bogotá",
+    "phone": "+57 (1) 622-0970"
+  },
+  {
+    "country": "Venezuela",
+    "type": "embassy",
+    "name": "Embassy of Honduras in Caracas",
+    "city": "Caracas",
+    "address": "Avenida La Estancia, Centro Banaven, Torre C, Piso 7, Chuao, Caracas",
+    "phone": "+58 (212) 991-5646"
+  },
+  {
+    "country": "Ecuador",
+    "type": "embassy",
+    "name": "Embassy of Honduras in Quito",
+    "city": "Quito",
+    "address": "Avenida República de El Salvador N34-164 y Suiza, Edificio Athos, Piso 5, Quito",
+    "phone": "+593 (2) 245-4306"
+  },
+  {
+    "country": "Peru",
+    "type": "embassy",
+    "name": "Embassy of Honduras in Lima",
+    "city": "Lima",
+    "address": "Avenida Salaverry 3006, Piso 8, San Isidro, Lima",
+    "phone": "+51 (1) 264-2275"
+  },
+  {
+    "country": "Brazil",
+    "type": "embassy",
+    "name": "Embassy of Honduras in Brasília",
+    "city": "Brasília",
+    "address": "SHIS QI 09, Conjunto 17, Casa 19, Lago Sul, 71625-170 Brasília, DF",
+    "phone": "+55 (61) 3248-6352"
+  },
+  {
+    "country": "Chile",
+    "type": "embassy",
+    "name": "Embassy of Honduras in Santiago",
+    "city": "Santiago",
+    "address": "Alcántara 74, Oficina 501, Las Condes, Santiago",
+    "phone": "+56 (2) 2232-1143"
+  },
+  {
+    "country": "Argentina",
+    "type": "embassy",
+    "name": "Embassy of Honduras in Buenos Aires",
+    "city": "Buenos Aires",
+    "address": "Avenida Santa Fe 1845, Piso 4, C1123AAA Buenos Aires",
+    "phone": "+54 (11) 4815-1648"
+  },
+  {
+    "country": "Uruguay",
+    "type": "embassy",
+    "name": "Embassy of Honduras in Montevideo",
+    "city": "Montevideo",
+    "address": "Montevideo, Uruguay",
+    "phone": ""
+  },
+  {
+    "country": "Bolivia",
+    "type": "embassy",
+    "name": "Embassy of Honduras in La Paz",
+    "city": "La Paz",
+    "address": "La Paz, Bolivia",
+    "phone": ""
+  },
+  {
+    "country": "Paraguay",
+    "type": "embassy",
+    "name": "Embassy of Honduras in Asunción",
+    "city": "Asunción",
+    "address": "Asunción, Paraguay",
+    "phone": ""
+  },
+  {
+    "country": "Canada",
+    "type": "embassy",
+    "name": "Embassy of Honduras in Ottawa",
+    "city": "Ottawa",
+    "address": "151 Slater Street, Suite 805, Ottawa, ON K1P 5H3",
+    "phone": "+1 (613) 233-8900"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate",
+    "name": "Consulate of Honduras in Montreal",
+    "city": "Montreal, QC",
+    "address": "Montreal, QC",
+    "phone": ""
+  },
+  {
+    "country": "Spain",
+    "type": "embassy",
+    "name": "Embassy of Honduras in Madrid",
+    "city": "Madrid",
+    "address": "Paseo de la Castellana 164, 2o Derecha, 28046 Madrid",
+    "phone": "+34 91 579-0251"
+  },
+  {
+    "country": "Spain",
+    "type": "consulate",
+    "name": "Consulate of Honduras in Barcelona",
+    "city": "Barcelona",
+    "address": "Barcelona, Spain",
+    "phone": ""
+  },
+  {
+    "country": "France",
+    "type": "embassy",
+    "name": "Embassy of Honduras in Paris",
+    "city": "Paris",
+    "address": "8 Rue Crevaux, 75116 Paris",
+    "phone": "+33 1 47 55 86 48"
+  },
+  {
+    "country": "Germany",
+    "type": "embassy",
+    "name": "Embassy of Honduras in Berlin",
+    "city": "Berlin",
+    "address": "Cuxhavener Strasse 14, 10555 Berlin",
+    "phone": "+49 30 3974-9710"
+  },
+  {
+    "country": "Italy",
+    "type": "embassy",
+    "name": "Embassy of Honduras in Rome",
+    "city": "Rome",
+    "address": "Via Giambattista Vico 40, Int. 8, 00196 Rome",
+    "phone": "+39 06 3207-0236"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "embassy",
+    "name": "Embassy of Honduras in London",
+    "city": "London",
+    "address": "115 Gloucester Place, London W1U 6JT",
+    "phone": "+44 20 7486-4880"
+  },
+  {
+    "country": "Belgium",
+    "type": "embassy",
+    "name": "Embassy of Honduras in Brussels",
+    "city": "Brussels",
+    "address": "Avenue des Gaulois 3, 5th Floor, 1040 Brussels",
+    "phone": "+32 2 734-0000"
+  },
+  {
+    "country": "Netherlands",
+    "type": "embassy",
+    "name": "Embassy of Honduras in The Hague",
+    "city": "The Hague",
+    "address": "The Hague, Netherlands",
+    "phone": ""
+  },
+  {
+    "country": "Vatican City",
+    "type": "embassy",
+    "name": "Embassy of Honduras to the Holy See",
+    "city": "Rome",
+    "address": "Via Giambattista Vico 40, 00196 Rome",
+    "phone": "+39 06 3207-0236"
+  },
+  {
+    "country": "Portugal",
+    "type": "consulate",
+    "name": "Consulate of Honduras in Lisbon",
+    "city": "Lisbon",
+    "address": "Lisbon, Portugal",
+    "phone": ""
+  },
+  {
+    "country": "Sweden",
+    "type": "consulate",
+    "name": "Consulate of Honduras in Stockholm",
+    "city": "Stockholm",
+    "address": "Stockholm, Sweden",
+    "phone": ""
+  },
+  {
+    "country": "Norway",
+    "type": "consulate",
+    "name": "Consulate of Honduras in Oslo",
+    "city": "Oslo",
+    "address": "Oslo, Norway",
+    "phone": ""
+  },
+  {
+    "country": "Greece",
+    "type": "consulate",
+    "name": "Consulate of Honduras in Athens",
+    "city": "Athens",
+    "address": "Athens, Greece",
+    "phone": ""
+  },
+  {
+    "country": "Switzerland",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Honduras to the United Nations in Geneva",
+    "city": "Geneva",
+    "address": "72, rue de Lausanne, 1202 Geneva",
+    "phone": "+41 22 710-0760"
+  },
+  {
+    "country": "Austria",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Honduras to the International Organizations in Vienna",
+    "city": "Vienna",
+    "address": "Vienna, Austria",
+    "phone": ""
+  },
+  {
+    "country": "Japan",
+    "type": "embassy",
+    "name": "Embassy of Honduras in Tokyo",
+    "city": "Tokyo",
+    "address": "No. 38 Kowa Building, Room 802, 4-12-24 Nishi-Azabu, Minato-ku, Tokyo 106-0031",
+    "phone": "+81 3 3409-1150"
+  },
+  {
+    "country": "South Korea",
+    "type": "embassy",
+    "name": "Embassy of Honduras in Seoul",
+    "city": "Seoul",
+    "address": "Hannam Tower Building, 730-66 Hannam-dong, Yongsan-gu, Seoul",
+    "phone": "+82 2 738-8402"
+  },
+  {
+    "country": "China",
+    "type": "embassy",
+    "name": "Embassy of Honduras in Beijing",
+    "city": "Beijing",
+    "address": "Beijing, China",
+    "phone": ""
+  },
+  {
+    "country": "Taiwan",
+    "type": "embassy",
+    "name": "Embassy of Honduras in Taipei",
+    "city": "Taipei",
+    "address": "6F, No. 2, Tien Chin Street, Taipei 104",
+    "phone": "+886 2 2507-4256"
+  },
+  {
+    "country": "India",
+    "type": "embassy",
+    "name": "Embassy of Honduras in New Delhi",
+    "city": "New Delhi",
+    "address": "New Delhi, India",
+    "phone": ""
+  },
+  {
+    "country": "Israel",
+    "type": "embassy",
+    "name": "Embassy of Honduras in Jerusalem",
+    "city": "Jerusalem",
+    "address": "Jerusalem, Israel",
+    "phone": ""
+  },
+  {
+    "country": "Qatar",
+    "type": "embassy",
+    "name": "Embassy of Honduras in Doha",
+    "city": "Doha",
+    "address": "Doha, Qatar",
+    "phone": ""
+  },
+  {
+    "country": "United Arab Emirates",
+    "type": "embassy",
+    "name": "Embassy of Honduras in Abu Dhabi",
+    "city": "Abu Dhabi",
+    "address": "Abu Dhabi, UAE",
+    "phone": ""
+  },
+  {
+    "country": "Saudi Arabia",
+    "type": "embassy",
+    "name": "Embassy of Honduras in Riyadh",
+    "city": "Riyadh",
+    "address": "Riyadh, Saudi Arabia",
+    "phone": ""
+  },
+  {
+    "country": "Egypt",
+    "type": "embassy",
+    "name": "Embassy of Honduras in Cairo",
+    "city": "Cairo",
+    "address": "Cairo, Egypt",
+    "phone": ""
+  },
+  {
+    "country": "South Africa",
+    "type": "embassy",
+    "name": "Embassy of Honduras in Pretoria",
+    "city": "Pretoria",
+    "address": "Pretoria, South Africa",
+    "phone": ""
+  },
+  {
+    "country": "Australia",
+    "type": "consulate",
+    "name": "Consulate of Honduras in Sydney",
+    "city": "Sydney",
+    "address": "Sydney, Australia",
+    "phone": ""
+  },
+  {
+    "country": "Honduras",
+    "type": "consulate-general",
+    "name": "Secretaría de Relaciones Exteriores y Cooperación Internacional",
+    "city": "Tegucigalpa",
+    "address": "Centro Cívico Gubernamental, Boulevard Fuerzas Armadas, Tegucigalpa",
+    "phone": "+504 2234-1962"
+  }
+]

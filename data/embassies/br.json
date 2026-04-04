@@ -1,0 +1,290 @@
+[
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Embassy of Brazil in Washington",
+    "city": "Washington, D.C.",
+    "address": "3006 Massachusetts Ave NW, Washington, DC 20008",
+    "phone": "+1 (202) 238-2700"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Brazil in New York",
+    "city": "New York, NY",
+    "address": "225 East 41st Street, New York, NY 10017",
+    "phone": "+1 (917) 777-7777"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Brazil in Los Angeles",
+    "city": "Los Angeles, CA",
+    "address": "8484 Wilshire Blvd, Suite 300, Beverly Hills, CA 90211",
+    "phone": "+1 (323) 651-2664"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Brazil in Miami",
+    "city": "Miami, FL",
+    "address": "80 SW 8th Street, Suite 2600, Miami, FL 33130",
+    "phone": "+1 (305) 285-6200"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Brazil in Houston",
+    "city": "Houston, TX",
+    "address": "1233 West Loop South, Suite 1150, Houston, TX 77027",
+    "phone": "+1 (713) 961-3063"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Brazil in Chicago",
+    "city": "Chicago, IL",
+    "address": "401 North Michigan Avenue, Suite 1850, Chicago, IL 60611",
+    "phone": "+1 (312) 464-0244"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Brazil in Boston",
+    "city": "Boston, MA",
+    "address": "175 Purchase Street, Suite 520, Boston, MA 02110",
+    "phone": "+1 (617) 542-4000"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Brazil in San Francisco",
+    "city": "San Francisco, CA",
+    "address": "300 Montgomery Street, Suite 300, San Francisco, CA 94104",
+    "phone": "+1 (415) 981-8170"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Brazil in Atlanta",
+    "city": "Atlanta, GA",
+    "address": "3500 Lenox Road NE, Suite 800, Atlanta, GA 30326",
+    "phone": "+1 (404) 949-0180"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "embassy",
+    "name": "Embassy of Brazil in London",
+    "city": "London",
+    "address": "14-16 Cockspur Street, London SW1Y 5BL",
+    "phone": "+44 (0)20 7747 4500"
+  },
+  {
+    "country": "France",
+    "type": "embassy",
+    "name": "Embassy of Brazil in Paris",
+    "city": "Paris",
+    "address": "34 Cours Albert 1er, 75008 Paris",
+    "phone": "+33 (1) 45 61 63 00"
+  },
+  {
+    "country": "Germany",
+    "type": "embassy",
+    "name": "Embassy of Brazil in Berlin",
+    "city": "Berlin",
+    "address": "Wallstraße 57, 10179 Berlin",
+    "phone": "+49 (30) 726 280"
+  },
+  {
+    "country": "Germany",
+    "type": "consulate-general",
+    "name": "Consulate General of Brazil in Frankfurt",
+    "city": "Frankfurt",
+    "address": "Hansaallee 32-36, 60322 Frankfurt am Main",
+    "phone": "+49 (69) 920 742 0"
+  },
+  {
+    "country": "Germany",
+    "type": "consulate-general",
+    "name": "Consulate General of Brazil in Munich",
+    "city": "Munich",
+    "address": "Sonnenstraße 31, 80331 Munich",
+    "phone": "+49 (89) 210 316 0"
+  },
+  {
+    "country": "Japan",
+    "type": "embassy",
+    "name": "Embassy of Brazil in Tokyo",
+    "city": "Tokyo",
+    "address": "2-11-12 Kita-Aoyama, Minato-ku, Tokyo 107-8633",
+    "phone": "+81 (3) 3404-5211"
+  },
+  {
+    "country": "Japan",
+    "type": "consulate-general",
+    "name": "Consulate General of Brazil in Hamamatsu",
+    "city": "Hamamatsu",
+    "address": "3-17-1 Takamachi, Naka-ku, Hamamatsu, Shizuoka 430-0933",
+    "phone": "+81 (53) 452-0404"
+  },
+  {
+    "country": "Japan",
+    "type": "consulate-general",
+    "name": "Consulate General of Brazil in Nagoya",
+    "city": "Nagoya",
+    "address": "1-10-29 Marunouchi, Naka-ku, Nagoya, Aichi 460-0002",
+    "phone": "+81 (52) 222-1867"
+  },
+  {
+    "country": "China",
+    "type": "embassy",
+    "name": "Embassy of Brazil in Beijing",
+    "city": "Beijing",
+    "address": "27 Guang Hua Lu, Chaoyang District, Beijing 100600",
+    "phone": "+86 (10) 6532-2881"
+  },
+  {
+    "country": "China",
+    "type": "consulate-general",
+    "name": "Consulate General of Brazil in Shanghai",
+    "city": "Shanghai",
+    "address": "Room 1307, Haitong Securities Building, 689 Guangdong Road, Shanghai 200001",
+    "phone": "+86 (21) 6437-0110"
+  },
+  {
+    "country": "India",
+    "type": "embassy",
+    "name": "Embassy of Brazil in New Delhi",
+    "city": "New Delhi",
+    "address": "8 Aurangzeb Road, New Delhi 110011",
+    "phone": "+91 (11) 2301-7301"
+  },
+  {
+    "country": "Canada",
+    "type": "embassy",
+    "name": "Embassy of Brazil in Ottawa",
+    "city": "Ottawa",
+    "address": "450 Wilbrod Street, Ottawa, ON K1N 6M8",
+    "phone": "+1 (613) 237-1090"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Consulate General of Brazil in Toronto",
+    "city": "Toronto",
+    "address": "77 Bloor Street West, Suite 1109, Toronto, ON M5S 1M2",
+    "phone": "+1 (416) 922-2503"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Consulate General of Brazil in Vancouver",
+    "city": "Vancouver",
+    "address": "2020-1055 West Hastings Street, Vancouver, BC V6E 2E9",
+    "phone": "+1 (604) 696-5311"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Consulate General of Brazil in Montreal",
+    "city": "Montreal",
+    "address": "2000 Mansfield Street, Suite 1700, Montreal, QC H3A 2Z7",
+    "phone": "+1 (514) 499-0968"
+  },
+  {
+    "country": "Australia",
+    "type": "embassy",
+    "name": "Embassy of Brazil in Canberra",
+    "city": "Canberra",
+    "address": "19 Forster Crescent, Yarralumla, ACT 2600",
+    "phone": "+61 (2) 6273-2372"
+  },
+  {
+    "country": "Australia",
+    "type": "consulate-general",
+    "name": "Consulate General of Brazil in Sydney",
+    "city": "Sydney",
+    "address": "Level 23, 1 Market Street, Sydney, NSW 2000",
+    "phone": "+61 (2) 9267-4414"
+  },
+  {
+    "country": "Mexico",
+    "type": "embassy",
+    "name": "Embassy of Brazil in Mexico City",
+    "city": "Mexico City",
+    "address": "Lope de Armendáriz 130, Col. Lomas Virreyes, 11000 Mexico City",
+    "phone": "+52 (55) 5201-4530"
+  },
+  {
+    "country": "Italy",
+    "type": "embassy",
+    "name": "Embassy of Brazil in Rome",
+    "city": "Rome",
+    "address": "Piazza Navona 14, 00186 Rome",
+    "phone": "+39 06 6838 9661"
+  },
+  {
+    "country": "Spain",
+    "type": "embassy",
+    "name": "Embassy of Brazil in Madrid",
+    "city": "Madrid",
+    "address": "Calle Fernando el Santo 6, 1°, 28010 Madrid",
+    "phone": "+34 91 700 4650"
+  },
+  {
+    "country": "Portugal",
+    "type": "embassy",
+    "name": "Embassy of Brazil in Lisbon",
+    "city": "Lisbon",
+    "address": "Estrada das Laranjeiras 144, 1649-021 Lisbon",
+    "phone": "+351 21 724 8510"
+  },
+  {
+    "country": "Portugal",
+    "type": "consulate-general",
+    "name": "Consulate General of Brazil in Porto",
+    "city": "Porto",
+    "address": "Av. de França 20, 1st Floor, 4050-275 Porto",
+    "phone": "+351 22 607 4010"
+  },
+  {
+    "country": "Israel",
+    "type": "embassy",
+    "name": "Embassy of Brazil in Tel Aviv",
+    "city": "Tel Aviv",
+    "address": "Yehuda Halevi 23, Top Tower, 25th Floor, Tel Aviv 6513403",
+    "phone": "+972 (3) 797-7500"
+  },
+  {
+    "country": "Argentina",
+    "type": "embassy",
+    "name": "Embassy of Brazil in Buenos Aires",
+    "city": "Buenos Aires",
+    "address": "Cerrito 1350, C1010ABB Buenos Aires",
+    "phone": "+54 (11) 4515-2400"
+  },
+  {
+    "country": "South Korea",
+    "type": "embassy",
+    "name": "Embassy of Brazil in Seoul",
+    "city": "Seoul",
+    "address": "4th Floor, 141 Dosan-daero, Gangnam-gu, Seoul 06035",
+    "phone": "+82 (2) 738-4970"
+  },
+  {
+    "country": "South Africa",
+    "type": "embassy",
+    "name": "Embassy of Brazil in Pretoria",
+    "city": "Pretoria",
+    "address": "Hillcrest Office Park, Block C, 177 Dyer Road, Hillcrest, Pretoria 0083",
+    "phone": "+27 (12) 366-5200"
+  },
+  {
+    "country": "United Nations",
+    "type": "mission",
+    "name": "Permanent Mission of Brazil to the United Nations",
+    "city": "New York, NY",
+    "address": "747 Third Avenue, 9th Floor, New York, NY 10017",
+    "phone": "+1 (212) 372-2600"
+  }
+]

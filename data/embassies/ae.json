@@ -1,0 +1,490 @@
+[
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Washington",
+    "city": "Washington, D.C.",
+    "address": "3522 International Court NW, Washington, DC 20008",
+    "phone": "+1 (202) 243-2400"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of the UAE in New York",
+    "city": "New York, NY",
+    "address": "305 East 47th Street, New York, NY 10017",
+    "phone": "+1 (212) 371-0480"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of the UAE in Los Angeles",
+    "city": "Los Angeles, CA",
+    "address": "11766 Wilshire Blvd, Suite 1540, Los Angeles, CA 90025",
+    "phone": "+1 (310) 575-0015"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of the UAE in Houston",
+    "city": "Houston, TX",
+    "address": "9 Greenway Plaza, Suite 2970, Houston, TX 77046",
+    "phone": "+1 (713) 400-5700"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in London",
+    "city": "London",
+    "address": "30 Princes Gate, London SW7 1PT",
+    "phone": "+44 (20) 7581-1281"
+  },
+  {
+    "country": "France",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Paris",
+    "city": "Paris",
+    "address": "3 Rue de Lota, 75116 Paris",
+    "phone": "+33 (1) 44-34-02-00"
+  },
+  {
+    "country": "Germany",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Berlin",
+    "city": "Berlin",
+    "address": "Hiroshimastrasse 18-20, 10785 Berlin",
+    "phone": "+49 (30) 516-516-0"
+  },
+  {
+    "country": "Italy",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Rome",
+    "city": "Rome",
+    "address": "Via della Camilluccia 492, 00135 Rome",
+    "phone": "+39 (06) 3608-3500"
+  },
+  {
+    "country": "Spain",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Madrid",
+    "city": "Madrid",
+    "address": "Calle Pedro de Valdivia 26, 28006 Madrid",
+    "phone": "+34 (91) 353-7100"
+  },
+  {
+    "country": "Belgium",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Brussels",
+    "city": "Brussels",
+    "address": "73 Avenue des Gaulois, 1040 Brussels",
+    "phone": "+32 (2) 640-6000"
+  },
+  {
+    "country": "Netherlands",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in The Hague",
+    "city": "The Hague",
+    "address": "Alkemadelaan 608, 2597 AT The Hague",
+    "phone": "+31 (70) 383-3444"
+  },
+  {
+    "country": "Switzerland",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Bern",
+    "city": "Bern",
+    "address": "Brunnadernrain 36, 3006 Bern",
+    "phone": "+41 (31) 356-6960"
+  },
+  {
+    "country": "Austria",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Vienna",
+    "city": "Vienna",
+    "address": "Peter-Jordan-Strasse 66, 1180 Vienna",
+    "phone": "+43 (1) 368-4848"
+  },
+  {
+    "country": "Sweden",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Stockholm",
+    "city": "Stockholm",
+    "address": "Lidovagen 11, 115 25 Stockholm",
+    "phone": "+46 (8) 667-9900"
+  },
+  {
+    "country": "Greece",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Athens",
+    "city": "Athens",
+    "address": "21 Xenofondos Street, Kolonaki, 10557 Athens",
+    "phone": "+30 (210) 672-7900"
+  },
+  {
+    "country": "Turkey",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Ankara",
+    "city": "Ankara",
+    "address": "Kizkulesi Sokak 8, Gaziosmanpasa, 06700 Ankara",
+    "phone": "+90 (312) 446-6838"
+  },
+  {
+    "country": "Turkey",
+    "type": "consulate-general",
+    "name": "Consulate General of the UAE in Istanbul",
+    "city": "Istanbul",
+    "address": "Buyukdere Caddesi No. 209, Sisli, Istanbul",
+    "phone": "+90 (212) 705-5200"
+  },
+  {
+    "country": "Egypt",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Cairo",
+    "city": "Cairo",
+    "address": "4 Ibn Zanki Street, Zamalek, Cairo",
+    "phone": "+20 (2) 2736-5300"
+  },
+  {
+    "country": "Saudi Arabia",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Riyadh",
+    "city": "Riyadh",
+    "address": "Diplomatic Quarter, Riyadh 11693",
+    "phone": "+966 (11) 482-6888"
+  },
+  {
+    "country": "Jordan",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Amman",
+    "city": "Amman",
+    "address": "4th Circle, Al-Rabia Street, Amman",
+    "phone": "+962 (6) 593-4777"
+  },
+  {
+    "country": "Qatar",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Doha",
+    "city": "Doha",
+    "address": "Al Luqta Street, Diplomatic Area, Doha",
+    "phone": "+974 4496-6999"
+  },
+  {
+    "country": "Kuwait",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Kuwait City",
+    "city": "Kuwait City",
+    "address": "Arabian Gulf Street, Block 4, Kuwait City",
+    "phone": "+965 2253-6444"
+  },
+  {
+    "country": "Bahrain",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Manama",
+    "city": "Manama",
+    "address": "Road 1702, Block 317, Diplomatic Area, Manama",
+    "phone": "+973 1772-8800"
+  },
+  {
+    "country": "Oman",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Muscat",
+    "city": "Muscat",
+    "address": "Al Khuwair Diplomatic Area, Muscat",
+    "phone": "+968 2469-1919"
+  },
+  {
+    "country": "Lebanon",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Beirut",
+    "city": "Beirut",
+    "address": "Yarze, Embassy District, Beirut",
+    "phone": "+961 (4) 920-210"
+  },
+  {
+    "country": "Iran",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Tehran",
+    "city": "Tehran",
+    "address": "Darrous, Tehran",
+    "phone": "+98 (21) 222-39800"
+  },
+  {
+    "country": "Iraq",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Baghdad",
+    "city": "Baghdad",
+    "address": "District 911, Baghdad International Zone, Baghdad",
+    "phone": "+964 (1) 718-9100"
+  },
+  {
+    "country": "India",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in New Delhi",
+    "city": "New Delhi",
+    "address": "EP-12, Chandragupta Marg, Chanakyapuri, New Delhi 110021",
+    "phone": "+91 (11) 2614-7900"
+  },
+  {
+    "country": "India",
+    "type": "consulate-general",
+    "name": "Consulate General of the UAE in Mumbai",
+    "city": "Mumbai",
+    "address": "10 Floor, Express Towers, Nariman Point, Mumbai 400021",
+    "phone": "+91 (22) 2202-5800"
+  },
+  {
+    "country": "Pakistan",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Islamabad",
+    "city": "Islamabad",
+    "address": "Plot 5-6, Diplomatic Enclave, Islamabad",
+    "phone": "+92 (51) 281-7040"
+  },
+  {
+    "country": "Pakistan",
+    "type": "consulate-general",
+    "name": "Consulate General of the UAE in Karachi",
+    "city": "Karachi",
+    "address": "Block 8, Clifton, Karachi",
+    "phone": "+92 (21) 111-823-823"
+  },
+  {
+    "country": "China",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Beijing",
+    "city": "Beijing",
+    "address": "1-15-2 Tayuan Diplomatic Office Building, Beijing 100600",
+    "phone": "+86 (10) 6532-6063"
+  },
+  {
+    "country": "China",
+    "type": "consulate-general",
+    "name": "Consulate General of the UAE in Shanghai",
+    "city": "Shanghai",
+    "address": "Suite 17A, CITIC Square, 1168 Nanjing West Road, Shanghai",
+    "phone": "+86 (21) 3218-5000"
+  },
+  {
+    "country": "Japan",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Tokyo",
+    "city": "Tokyo",
+    "address": "9-10 Nanpeidai-cho, Shibuya-ku, Tokyo 150-0036",
+    "phone": "+81 (3) 5489-0804"
+  },
+  {
+    "country": "South Korea",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Seoul",
+    "city": "Seoul",
+    "address": "5-5 Hannam-dong, Yongsan-gu, Seoul 04401",
+    "phone": "+82 (2) 790-3235"
+  },
+  {
+    "country": "Malaysia",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "1, Jalan Diplomatik 3/6, Presint 15, 62050 Putrajaya",
+    "phone": "+60 (3) 8880-5500"
+  },
+  {
+    "country": "Indonesia",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Jakarta",
+    "city": "Jakarta",
+    "address": "Jalan Sisingamangaraja Kav. 16-17, Kebayoran Baru, Jakarta Selatan",
+    "phone": "+62 (21) 2729-6000"
+  },
+  {
+    "country": "Thailand",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Bangkok",
+    "city": "Bangkok",
+    "address": "17th Floor, Regent House Building, 183 Rajdamri Road, Bangkok 10330",
+    "phone": "+66 (2) 251-8080"
+  },
+  {
+    "country": "Singapore",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Singapore",
+    "city": "Singapore",
+    "address": "9 Temasek Boulevard, #36-02 Suntec Tower Two, Singapore 038989",
+    "phone": "+65 6836-6655"
+  },
+  {
+    "country": "Australia",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Canberra",
+    "city": "Canberra",
+    "address": "36 Culgoa Circuit, O'Malley, ACT 2606",
+    "phone": "+61 (2) 6286-8900"
+  },
+  {
+    "country": "Australia",
+    "type": "consulate-general",
+    "name": "Consulate General of the UAE in Sydney",
+    "city": "Sydney",
+    "address": "Level 15, Tower 2, 201 Sussex Street, Sydney NSW 2000",
+    "phone": "+61 (2) 9551-9800"
+  },
+  {
+    "country": "Canada",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Ottawa",
+    "city": "Ottawa",
+    "address": "45 O'Connor Street, Suite 1800, Ottawa, ON K1P 1A4",
+    "phone": "+1 (613) 565-7272"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Consulate General of the UAE in Toronto",
+    "city": "Toronto",
+    "address": "181 University Avenue, Suite 2000, Toronto, ON M5H 3M7",
+    "phone": "+1 (416) 368-9400"
+  },
+  {
+    "country": "Brazil",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Brasilia",
+    "city": "Brasilia",
+    "address": "SES Avenida das Nacoes, Quadra 801, Lote 07, Brasilia 70413-900",
+    "phone": "+55 (61) 3248-7667"
+  },
+  {
+    "country": "Argentina",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Buenos Aires",
+    "city": "Buenos Aires",
+    "address": "Avenida del Libertador 7200, Piso 6, C1429BNM Buenos Aires",
+    "phone": "+54 (11) 4778-2600"
+  },
+  {
+    "country": "Mexico",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Mexico City",
+    "city": "Mexico City",
+    "address": "Paseo de las Palmas 435, Lomas de Chapultepec, 11000 Mexico City",
+    "phone": "+52 (55) 5540-6200"
+  },
+  {
+    "country": "South Africa",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Pretoria",
+    "city": "Pretoria",
+    "address": "980 Duncan Street, Brooklyn, Pretoria 0181",
+    "phone": "+27 (12) 346-3633"
+  },
+  {
+    "country": "Ethiopia",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Addis Ababa",
+    "city": "Addis Ababa",
+    "address": "Bole Sub City, Kebele 03, Addis Ababa",
+    "phone": "+251 (11) 515-0700"
+  },
+  {
+    "country": "Kenya",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Nairobi",
+    "city": "Nairobi",
+    "address": "Museum Hill Road, Westlands, Nairobi",
+    "phone": "+254 (20) 444-5555"
+  },
+  {
+    "country": "Morocco",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Rabat",
+    "city": "Rabat",
+    "address": "Rue Zalagh, Quartier Souissi, Rabat",
+    "phone": "+212 (537) 63-1600"
+  },
+  {
+    "country": "Russia",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Moscow",
+    "city": "Moscow",
+    "address": "Ulofa Palme Street 4, Moscow 119311",
+    "phone": "+7 (495) 147-2700"
+  },
+  {
+    "country": "Portugal",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Lisbon",
+    "city": "Lisbon",
+    "address": "Rua dos Lusíadas 17, 1300-372 Lisbon",
+    "phone": "+351 (21) 363-0622"
+  },
+  {
+    "country": "Poland",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Warsaw",
+    "city": "Warsaw",
+    "address": "Krolewska 16, 00-103 Warsaw",
+    "phone": "+48 (22) 444-0020"
+  },
+  {
+    "country": "United Nations (Geneva)",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of the UAE to the UN Office in Geneva",
+    "city": "Geneva",
+    "address": "56 Rue de Moillebeau, 1209 Geneva",
+    "phone": "+41 (22) 919-9000"
+  },
+  {
+    "country": "United Nations (New York)",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of the UAE to the United Nations",
+    "city": "New York, NY",
+    "address": "3 Dag Hammarskjold Plaza, 305 East 47th Street, New York, NY 10017",
+    "phone": "+1 (212) 371-0480"
+  },
+  {
+    "country": "European Union",
+    "type": "permanent-mission",
+    "name": "Mission of the UAE to the European Union",
+    "city": "Brussels",
+    "address": "Avenue de l'Orée 34, 1000 Brussels",
+    "phone": "+32 (2) 640-6000"
+  },
+  {
+    "country": "Philippines",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Manila",
+    "city": "Manila",
+    "address": "Villa Nicanor Garcia Street, Bel-Air Village, Makati City",
+    "phone": "+63 (2) 8815-8100"
+  },
+  {
+    "country": "Sri Lanka",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Colombo",
+    "city": "Colombo",
+    "address": "No. 14, Malalasekera Mawatha, Colombo 03",
+    "phone": "+94 (11) 257-5600"
+  },
+  {
+    "country": "Bangladesh",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Dhaka",
+    "city": "Dhaka",
+    "address": "Road 113, House 01, Gulshan 2, Dhaka 1212",
+    "phone": "+880 (2) 9888-400"
+  },
+  {
+    "country": "Nepal",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Kathmandu",
+    "city": "Kathmandu",
+    "address": "Lazimpat, Ward 2, Kathmandu",
+    "phone": "+977 (1) 440-0370"
+  },
+  {
+    "country": "Tanzania",
+    "type": "embassy",
+    "name": "Embassy of the United Arab Emirates in Dar es Salaam",
+    "city": "Dar es Salaam",
+    "address": "Plot 1006, Msasani Peninsula, Dar es Salaam",
+    "phone": "+255 (22) 266-7000"
+  }
+]

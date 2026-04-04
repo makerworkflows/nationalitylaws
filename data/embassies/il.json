@@ -1,0 +1,242 @@
+[
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Embassy of Israel in Washington",
+    "city": "Washington, D.C.",
+    "address": "3514 International Drive NW, Washington, DC 20008",
+    "phone": "+1 (202) 364-5500"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Israel in New York",
+    "city": "New York, NY",
+    "address": "800 Second Avenue, New York, NY 10017",
+    "phone": "+1 (212) 499-5000"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Israel in Los Angeles",
+    "city": "Los Angeles, CA",
+    "address": "11766 Wilshire Blvd, Suite 1600, Los Angeles, CA 90025",
+    "phone": "+1 (323) 852-5500"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Israel in Chicago",
+    "city": "Chicago, IL",
+    "address": "500 West Madison Street, Suite 3100, Chicago, IL 60661",
+    "phone": "+1 (312) 297-4800"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Israel in Houston",
+    "city": "Houston, TX",
+    "address": "24 Greenway Plaza, Suite 1500, Houston, TX 77046",
+    "phone": "+1 (713) 627-3780"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Israel in San Francisco",
+    "city": "San Francisco, CA",
+    "address": "456 Montgomery Street, Suite 2100, San Francisco, CA 94104",
+    "phone": "+1 (415) 844-7500"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Israel in Miami",
+    "city": "Miami, FL",
+    "address": "100 North Biscayne Blvd, Suite 1800, Miami, FL 33132",
+    "phone": "+1 (305) 925-9400"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Israel in Atlanta",
+    "city": "Atlanta, GA",
+    "address": "1100 Spring Street NW, Suite 440, Atlanta, GA 30309",
+    "phone": "+1 (404) 487-6500"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Israel in Boston",
+    "city": "Boston, MA",
+    "address": "20 Park Plaza, Suite 1020, Boston, MA 02116",
+    "phone": "+1 (617) 535-0200"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "embassy",
+    "name": "Embassy of Israel in London",
+    "city": "London",
+    "address": "2 Palace Green, London W8 4QB",
+    "phone": "+44 (0)20 7957 9500"
+  },
+  {
+    "country": "France",
+    "type": "embassy",
+    "name": "Embassy of Israel in Paris",
+    "city": "Paris",
+    "address": "3 Rue Rabelais, 75008 Paris",
+    "phone": "+33 (1) 40 76 55 00"
+  },
+  {
+    "country": "Germany",
+    "type": "embassy",
+    "name": "Embassy of Israel in Berlin",
+    "city": "Berlin",
+    "address": "Auguste-Viktoria-Straße 74-76, 14193 Berlin",
+    "phone": "+49 (30) 8904 5500"
+  },
+  {
+    "country": "Japan",
+    "type": "embassy",
+    "name": "Embassy of Israel in Tokyo",
+    "city": "Tokyo",
+    "address": "3 Nibancho, Chiyoda-ku, Tokyo 102-0084",
+    "phone": "+81 (3) 3264-0911"
+  },
+  {
+    "country": "China",
+    "type": "embassy",
+    "name": "Embassy of Israel in Beijing",
+    "city": "Beijing",
+    "address": "17 Tianzelu, Chaoyang District, Beijing 100600",
+    "phone": "+86 (10) 8532-0500"
+  },
+  {
+    "country": "India",
+    "type": "embassy",
+    "name": "Embassy of Israel in New Delhi",
+    "city": "New Delhi",
+    "address": "3 Aurangzeb Road, New Delhi 110011",
+    "phone": "+91 (11) 3041-4500"
+  },
+  {
+    "country": "India",
+    "type": "consulate-general",
+    "name": "Consulate General of Israel in Mumbai",
+    "city": "Mumbai",
+    "address": "Marathon Nextgen Innova, B Wing, 18th Floor, Off Ganpatrao Kadam Marg, Lower Parel, Mumbai 400013",
+    "phone": "+91 (22) 6160-8500"
+  },
+  {
+    "country": "India",
+    "type": "consulate-general",
+    "name": "Consulate General of Israel in Bengaluru",
+    "city": "Bengaluru",
+    "address": "Prestige Obelisk, 3 Kasturba Road, Bengaluru 560001",
+    "phone": "+91 (80) 4940-9500"
+  },
+  {
+    "country": "Brazil",
+    "type": "embassy",
+    "name": "Embassy of Israel in Brasilia",
+    "city": "Brasilia",
+    "address": "SES Avenida das Nações, Quadra 809, Lote 38, 70200-901 Brasilia DF",
+    "phone": "+55 (61) 2105-0500"
+  },
+  {
+    "country": "Canada",
+    "type": "embassy",
+    "name": "Embassy of Israel in Ottawa",
+    "city": "Ottawa",
+    "address": "50 O'Connor Street, Suite 1005, Ottawa, ON K1P 6L2",
+    "phone": "+1 (613) 567-6450"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Consulate General of Israel in Toronto",
+    "city": "Toronto",
+    "address": "180 Bloor Street West, Suite 700, Toronto, ON M5S 2V6",
+    "phone": "+1 (416) 640-8500"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Consulate General of Israel in Montreal",
+    "city": "Montreal",
+    "address": "1 Westmount Square, Suite 500, Montreal, QC H3Z 2P9",
+    "phone": "+1 (514) 940-8555"
+  },
+  {
+    "country": "Australia",
+    "type": "embassy",
+    "name": "Embassy of Israel in Canberra",
+    "city": "Canberra",
+    "address": "6 Turrana Street, Yarralumla, ACT 2600",
+    "phone": "+61 (2) 6215-4500"
+  },
+  {
+    "country": "Mexico",
+    "type": "embassy",
+    "name": "Embassy of Israel in Mexico City",
+    "city": "Mexico City",
+    "address": "Sierra Madre 215, Col. Lomas de Chapultepec, 11000 Mexico City",
+    "phone": "+52 (55) 5201-1500"
+  },
+  {
+    "country": "Italy",
+    "type": "embassy",
+    "name": "Embassy of Israel in Rome",
+    "city": "Rome",
+    "address": "Via Michele Mercati 14, 00197 Rome",
+    "phone": "+39 06 3619 8500"
+  },
+  {
+    "country": "Spain",
+    "type": "embassy",
+    "name": "Embassy of Israel in Madrid",
+    "city": "Madrid",
+    "address": "Calle de Velázquez 150, 7th Floor, 28002 Madrid",
+    "phone": "+34 91 782 9500"
+  },
+  {
+    "country": "Egypt",
+    "type": "embassy",
+    "name": "Embassy of Israel in Cairo",
+    "city": "Cairo",
+    "address": "6 Ibn El Malek Street, Giza, Cairo",
+    "phone": "+20 (2) 3332-6000"
+  },
+  {
+    "country": "Jordan",
+    "type": "embassy",
+    "name": "Embassy of Israel in Amman",
+    "city": "Amman",
+    "address": "47 Mithqal Al-Fayez Street, Rabiah, Amman",
+    "phone": "+962 (6) 550-4500"
+  },
+  {
+    "country": "Turkey",
+    "type": "embassy",
+    "name": "Embassy of Israel in Ankara",
+    "city": "Ankara",
+    "address": "Mahatma Gandhi Caddesi 85, Gaziosmanpaşa, 06700 Ankara",
+    "phone": "+90 (312) 457-7100"
+  },
+  {
+    "country": "South Korea",
+    "type": "embassy",
+    "name": "Embassy of Israel in Seoul",
+    "city": "Seoul",
+    "address": "18th Floor, Leema Building, 146-1 Susong-dong, Jongno-gu, Seoul 03051",
+    "phone": "+82 (2) 3210-8500"
+  },
+  {
+    "country": "United Nations",
+    "type": "mission",
+    "name": "Permanent Mission of Israel to the United Nations",
+    "city": "New York, NY",
+    "address": "800 Second Avenue, New York, NY 10017",
+    "phone": "+1 (212) 499-5510"
+  }
+]

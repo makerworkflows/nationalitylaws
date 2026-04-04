@@ -1,0 +1,58 @@
+[
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Jamaica Embassy in Washington D.C.",
+    "city": "Washington D.C.",
+    "address": "1520 New Hampshire Avenue NW, Washington, D.C. 20036",
+    "phone": "+1 202 452 0660"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Jamaica in New York",
+    "city": "New York",
+    "address": "767 Third Avenue, 2nd Floor, New York, NY 10017",
+    "phone": "+1 212 935 9000"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Jamaica in Miami",
+    "city": "Miami",
+    "address": "25 SE 2nd Avenue, Suite 760, Miami, FL 33131",
+    "phone": "+1 305 374 8431"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "high-commission",
+    "name": "Jamaica High Commission in London",
+    "city": "London",
+    "address": "1-2 Prince Consort Road, London SW7 2BZ",
+    "phone": "+44 20 7823 9911"
+  },
+  {
+    "country": "Canada",
+    "type": "high-commission",
+    "name": "Jamaica High Commission in Ottawa",
+    "city": "Ottawa",
+    "address": "151 Slater Street, Suite 1000, Ottawa, ON K1P 5H3",
+    "phone": "+1 613 233 9311"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Consulate General of Jamaica in Toronto",
+    "city": "Toronto",
+    "address": "4 King Street West, Suite 1115, Toronto, ON M5H 1B6",
+    "phone": "+1 416 598 3008"
+  },
+  {
+    "country": "United States",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Jamaica to the United Nations",
+    "city": "New York",
+    "address": "767 Third Avenue, 2nd Floor, New York, NY 10017",
+    "phone": "+1 212 935 7509"
+  }
+]

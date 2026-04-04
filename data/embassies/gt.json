@@ -1,0 +1,754 @@
+[
+  {
+    "country": "Argentina",
+    "type": "embassy",
+    "name": "Embassy of Guatemala in Buenos Aires",
+    "city": "Buenos Aires",
+    "address": "Buenos Aires, Argentina",
+    "phone": ""
+  },
+  {
+    "country": "Austria",
+    "type": "embassy",
+    "name": "Embassy of Guatemala in Vienna",
+    "city": "Vienna",
+    "address": "Vienna, Austria",
+    "phone": ""
+  },
+  {
+    "country": "Belgium",
+    "type": "embassy",
+    "name": "Embassy of Guatemala in Brussels",
+    "city": "Brussels",
+    "address": "Brussels, Belgium",
+    "phone": ""
+  },
+  {
+    "country": "Belize",
+    "type": "embassy",
+    "name": "Embassy of Guatemala in Belmopan",
+    "city": "Belmopan",
+    "address": "Belmopan, Belize",
+    "phone": ""
+  },
+  {
+    "country": "Brazil",
+    "type": "embassy",
+    "name": "Embassy of Guatemala in Brasilia",
+    "city": "Brasilia",
+    "address": "Brasilia, Brazil",
+    "phone": ""
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate",
+    "name": "Consulate of Guatemala in Rio de Janeiro",
+    "city": "Rio de Janeiro",
+    "address": "Rio de Janeiro, Brazil",
+    "phone": ""
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate-general",
+    "name": "Consulate General of Guatemala in Sao Paulo",
+    "city": "Sao Paulo",
+    "address": "Sao Paulo, Brazil",
+    "phone": ""
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate",
+    "name": "Consulate of Guatemala in Porto Alegre",
+    "city": "Porto Alegre",
+    "address": "Porto Alegre, Brazil",
+    "phone": ""
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate",
+    "name": "Consulate of Guatemala in Recife",
+    "city": "Recife",
+    "address": "Recife, Brazil",
+    "phone": ""
+  },
+  {
+    "country": "Canada",
+    "type": "embassy",
+    "name": "Embassy of Guatemala in Ottawa",
+    "city": "Ottawa",
+    "address": "Ottawa, Canada",
+    "phone": ""
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Consulate General of Guatemala in Montreal",
+    "city": "Montreal",
+    "address": "Montreal, Canada",
+    "phone": ""
+  },
+  {
+    "country": "Canada",
+    "type": "consulate",
+    "name": "Consulate of Guatemala in Calgary",
+    "city": "Calgary",
+    "address": "Calgary, Canada",
+    "phone": ""
+  },
+  {
+    "country": "Canada",
+    "type": "consulate",
+    "name": "Consulate of Guatemala in Ontario",
+    "city": "Ontario",
+    "address": "Ontario, Canada",
+    "phone": ""
+  },
+  {
+    "country": "Chile",
+    "type": "embassy",
+    "name": "Embassy of Guatemala in Santiago",
+    "city": "Santiago",
+    "address": "Santiago, Chile",
+    "phone": ""
+  },
+  {
+    "country": "Chile",
+    "type": "consulate",
+    "name": "Consulate of Guatemala in Valparaiso",
+    "city": "Valparaiso",
+    "address": "Valparaiso, Chile",
+    "phone": ""
+  },
+  {
+    "country": "Colombia",
+    "type": "embassy",
+    "name": "Embassy of Guatemala in Bogota",
+    "city": "Bogota",
+    "address": "Bogota, Colombia",
+    "phone": ""
+  },
+  {
+    "country": "Colombia",
+    "type": "consulate",
+    "name": "Consulate of Guatemala in Cartagena",
+    "city": "Cartagena",
+    "address": "Cartagena, Colombia",
+    "phone": ""
+  },
+  {
+    "country": "Costa Rica",
+    "type": "embassy",
+    "name": "Embassy of Guatemala in San Jose",
+    "city": "San Jose",
+    "address": "San Jose, Costa Rica",
+    "phone": ""
+  },
+  {
+    "country": "Cuba",
+    "type": "embassy",
+    "name": "Embassy of Guatemala in Havana",
+    "city": "Havana",
+    "address": "Havana, Cuba",
+    "phone": ""
+  },
+  {
+    "country": "Ecuador",
+    "type": "embassy",
+    "name": "Embassy of Guatemala in Quito",
+    "city": "Quito",
+    "address": "Quito, Ecuador",
+    "phone": ""
+  },
+  {
+    "country": "Egypt",
+    "type": "embassy",
+    "name": "Embassy of Guatemala in Cairo",
+    "city": "Cairo",
+    "address": "Cairo, Egypt",
+    "phone": ""
+  },
+  {
+    "country": "El Salvador",
+    "type": "embassy",
+    "name": "Embassy of Guatemala in San Salvador",
+    "city": "San Salvador",
+    "address": "San Salvador, El Salvador",
+    "phone": ""
+  },
+  {
+    "country": "France",
+    "type": "embassy",
+    "name": "Embassy of Guatemala in Paris",
+    "city": "Paris",
+    "address": "Paris, France",
+    "phone": ""
+  },
+  {
+    "country": "France",
+    "type": "consulate",
+    "name": "Consulate of Guatemala in Marseille",
+    "city": "Marseille",
+    "address": "Marseille, France",
+    "phone": ""
+  },
+  {
+    "country": "France",
+    "type": "consulate",
+    "name": "Consulate of Guatemala in Bordeaux",
+    "city": "Bordeaux",
+    "address": "Bordeaux, France",
+    "phone": ""
+  },
+  {
+    "country": "France",
+    "type": "consulate",
+    "name": "Consulate of Guatemala in Strasbourg",
+    "city": "Strasbourg",
+    "address": "Strasbourg, France",
+    "phone": ""
+  },
+  {
+    "country": "France",
+    "type": "consulate",
+    "name": "Consulate of Guatemala in Lyon",
+    "city": "Lyon",
+    "address": "Lyon, France",
+    "phone": ""
+  },
+  {
+    "country": "Germany",
+    "type": "embassy",
+    "name": "Embassy of Guatemala in Berlin",
+    "city": "Berlin",
+    "address": "Berlin, Germany",
+    "phone": ""
+  },
+  {
+    "country": "Germany",
+    "type": "consulate",
+    "name": "Consulate of Guatemala in Hamburg",
+    "city": "Hamburg",
+    "address": "Hamburg, Germany",
+    "phone": ""
+  },
+  {
+    "country": "Germany",
+    "type": "consulate",
+    "name": "Consulate of Guatemala in Dusseldorf",
+    "city": "Dusseldorf",
+    "address": "Dusseldorf, Germany",
+    "phone": ""
+  },
+  {
+    "country": "Germany",
+    "type": "consulate",
+    "name": "Consulate of Guatemala in Munich",
+    "city": "Munich",
+    "address": "Munich, Germany",
+    "phone": ""
+  },
+  {
+    "country": "Greece",
+    "type": "embassy",
+    "name": "Embassy of Guatemala in Athens",
+    "city": "Athens",
+    "address": "Athens, Greece",
+    "phone": ""
+  },
+  {
+    "country": "Honduras",
+    "type": "embassy",
+    "name": "Embassy of Guatemala in Tegucigalpa",
+    "city": "Tegucigalpa",
+    "address": "Tegucigalpa, Honduras",
+    "phone": ""
+  },
+  {
+    "country": "Honduras",
+    "type": "consulate-general",
+    "name": "Consulate General of Guatemala in San Pedro Sula",
+    "city": "San Pedro Sula",
+    "address": "San Pedro Sula, Honduras",
+    "phone": ""
+  },
+  {
+    "country": "Israel",
+    "type": "embassy",
+    "name": "Embassy of Guatemala in Tel Aviv",
+    "city": "Tel Aviv",
+    "address": "Tel Aviv, Israel",
+    "phone": ""
+  },
+  {
+    "country": "Italy",
+    "type": "embassy",
+    "name": "Embassy of Guatemala in Rome",
+    "city": "Rome",
+    "address": "Rome, Italy",
+    "phone": ""
+  },
+  {
+    "country": "Italy",
+    "type": "consulate",
+    "name": "Consulate of Guatemala in Naples",
+    "city": "Naples",
+    "address": "Naples, Italy",
+    "phone": ""
+  },
+  {
+    "country": "Italy",
+    "type": "consulate",
+    "name": "Consulate of Guatemala in Genoa",
+    "city": "Genoa",
+    "address": "Genoa, Italy",
+    "phone": ""
+  },
+  {
+    "country": "Italy",
+    "type": "consulate-general",
+    "name": "Consulate General of Guatemala in Milan",
+    "city": "Milan",
+    "address": "Milan, Italy",
+    "phone": ""
+  },
+  {
+    "country": "Italy",
+    "type": "consulate",
+    "name": "Consulate of Guatemala in Trieste",
+    "city": "Trieste",
+    "address": "Trieste, Italy",
+    "phone": ""
+  },
+  {
+    "country": "Italy",
+    "type": "consulate",
+    "name": "Consulate of Guatemala in Turin",
+    "city": "Turin",
+    "address": "Turin, Italy",
+    "phone": ""
+  },
+  {
+    "country": "Japan",
+    "type": "embassy",
+    "name": "Embassy of Guatemala in Tokyo",
+    "city": "Tokyo",
+    "address": "Tokyo, Japan",
+    "phone": ""
+  },
+  {
+    "country": "Jordan",
+    "type": "embassy",
+    "name": "Embassy of Guatemala in Amman",
+    "city": "Amman",
+    "address": "Amman, Jordan",
+    "phone": ""
+  },
+  {
+    "country": "Lebanon",
+    "type": "embassy",
+    "name": "Embassy of Guatemala in Beirut",
+    "city": "Beirut",
+    "address": "Beirut, Lebanon",
+    "phone": ""
+  },
+  {
+    "country": "Mexico",
+    "type": "embassy",
+    "name": "Embassy of Guatemala in Mexico City",
+    "city": "Mexico City",
+    "address": "Mexico City, Mexico",
+    "phone": ""
+  },
+  {
+    "country": "Mexico",
+    "type": "consulate",
+    "name": "Consulate of Guatemala in Ciudad Hidalgo",
+    "city": "Ciudad Hidalgo",
+    "address": "Ciudad Hidalgo, Mexico",
+    "phone": ""
+  },
+  {
+    "country": "Mexico",
+    "type": "consulate",
+    "name": "Consulate of Guatemala in Chetumal",
+    "city": "Chetumal",
+    "address": "Chetumal, Mexico",
+    "phone": ""
+  },
+  {
+    "country": "Mexico",
+    "type": "consulate",
+    "name": "Consulate of Guatemala in Comitan",
+    "city": "Comitan",
+    "address": "Comitan, Mexico",
+    "phone": ""
+  },
+  {
+    "country": "Mexico",
+    "type": "consulate-general",
+    "name": "Consulate General of Guatemala in Monterrey",
+    "city": "Monterrey",
+    "address": "Monterrey, Mexico",
+    "phone": ""
+  },
+  {
+    "country": "Mexico",
+    "type": "consulate",
+    "name": "Consulate of Guatemala in Puebla",
+    "city": "Puebla",
+    "address": "Puebla, Mexico",
+    "phone": ""
+  },
+  {
+    "country": "Mexico",
+    "type": "consulate-general",
+    "name": "Consulate General of Guatemala in Tapachula",
+    "city": "Tapachula",
+    "address": "Tapachula, Mexico",
+    "phone": ""
+  },
+  {
+    "country": "Mexico",
+    "type": "consulate",
+    "name": "Consulate of Guatemala in Tijuana",
+    "city": "Tijuana",
+    "address": "Tijuana, Mexico",
+    "phone": ""
+  },
+  {
+    "country": "Mexico",
+    "type": "consulate",
+    "name": "Consulate of Guatemala in Veracruz",
+    "city": "Veracruz",
+    "address": "Veracruz, Mexico",
+    "phone": ""
+  },
+  {
+    "country": "Mexico",
+    "type": "consulate",
+    "name": "Consulate of Guatemala in Cancun",
+    "city": "Cancun",
+    "address": "Cancun, Mexico",
+    "phone": ""
+  },
+  {
+    "country": "Mexico",
+    "type": "consulate-general",
+    "name": "Consulate General of Guatemala in Guadalajara",
+    "city": "Guadalajara",
+    "address": "Guadalajara, Mexico",
+    "phone": ""
+  },
+  {
+    "country": "Mexico",
+    "type": "consulate",
+    "name": "Consulate of Guatemala in Mazatlan",
+    "city": "Mazatlan",
+    "address": "Mazatlan, Mexico",
+    "phone": ""
+  },
+  {
+    "country": "Mexico",
+    "type": "consulate",
+    "name": "Consulate of Guatemala in Tabasco",
+    "city": "Tabasco",
+    "address": "Tabasco, Mexico",
+    "phone": ""
+  },
+  {
+    "country": "Monaco",
+    "type": "consulate",
+    "name": "Consulate of Guatemala in Monte Carlo",
+    "city": "Monte Carlo",
+    "address": "Monte Carlo, Monaco",
+    "phone": ""
+  },
+  {
+    "country": "Netherlands",
+    "type": "embassy",
+    "name": "Embassy of Guatemala in The Hague",
+    "city": "The Hague",
+    "address": "The Hague, Netherlands",
+    "phone": ""
+  },
+  {
+    "country": "Nicaragua",
+    "type": "embassy",
+    "name": "Embassy of Guatemala in Managua",
+    "city": "Managua",
+    "address": "Managua, Nicaragua",
+    "phone": ""
+  },
+  {
+    "country": "Norway",
+    "type": "embassy",
+    "name": "Embassy of Guatemala in Oslo",
+    "city": "Oslo",
+    "address": "Oslo, Norway",
+    "phone": ""
+  },
+  {
+    "country": "Panama",
+    "type": "embassy",
+    "name": "Embassy of Guatemala in Panama City",
+    "city": "Panama City",
+    "address": "Panama City, Panama",
+    "phone": ""
+  },
+  {
+    "country": "Peru",
+    "type": "embassy",
+    "name": "Embassy of Guatemala in Lima",
+    "city": "Lima",
+    "address": "Lima, Peru",
+    "phone": ""
+  },
+  {
+    "country": "Portugal",
+    "type": "embassy",
+    "name": "Embassy of Guatemala in Lisbon",
+    "city": "Lisbon",
+    "address": "Lisbon, Portugal",
+    "phone": ""
+  },
+  {
+    "country": "Russia",
+    "type": "embassy",
+    "name": "Embassy of Guatemala in Moscow",
+    "city": "Moscow",
+    "address": "Moscow, Russia",
+    "phone": ""
+  },
+  {
+    "country": "South Korea",
+    "type": "embassy",
+    "name": "Embassy of Guatemala in Seoul",
+    "city": "Seoul",
+    "address": "Seoul, South Korea",
+    "phone": ""
+  },
+  {
+    "country": "Spain",
+    "type": "embassy",
+    "name": "Embassy of Guatemala in Madrid",
+    "city": "Madrid",
+    "address": "Madrid, Spain",
+    "phone": ""
+  },
+  {
+    "country": "Spain",
+    "type": "consulate-general",
+    "name": "Consulate General of Guatemala in Barcelona",
+    "city": "Barcelona",
+    "address": "Barcelona, Spain",
+    "phone": ""
+  },
+  {
+    "country": "Spain",
+    "type": "consulate",
+    "name": "Consulate of Guatemala in Bilbao",
+    "city": "Bilbao",
+    "address": "Bilbao, Spain",
+    "phone": ""
+  },
+  {
+    "country": "Spain",
+    "type": "consulate",
+    "name": "Consulate of Guatemala in Valencia",
+    "city": "Valencia",
+    "address": "Valencia, Spain",
+    "phone": ""
+  },
+  {
+    "country": "Spain",
+    "type": "consulate",
+    "name": "Consulate of Guatemala in Santander",
+    "city": "Santander",
+    "address": "Santander, Spain",
+    "phone": ""
+  },
+  {
+    "country": "Spain",
+    "type": "consulate",
+    "name": "Consulate of Guatemala in Santa Cruz de Tenerife",
+    "city": "Santa Cruz de Tenerife",
+    "address": "Santa Cruz de Tenerife, Spain",
+    "phone": ""
+  },
+  {
+    "country": "Spain",
+    "type": "consulate",
+    "name": "Consulate of Guatemala in Murcia",
+    "city": "Murcia",
+    "address": "Murcia, Spain",
+    "phone": ""
+  },
+  {
+    "country": "Spain",
+    "type": "consulate",
+    "name": "Consulate of Guatemala in Las Palmas",
+    "city": "Las Palmas",
+    "address": "Las Palmas, Spain",
+    "phone": ""
+  },
+  {
+    "country": "Spain",
+    "type": "consulate",
+    "name": "Consulate of Guatemala in La Coruna",
+    "city": "La Coruna",
+    "address": "La Coruna, Spain",
+    "phone": ""
+  },
+  {
+    "country": "Spain",
+    "type": "consulate",
+    "name": "Consulate of Guatemala in Alicante",
+    "city": "Alicante",
+    "address": "Alicante, Spain",
+    "phone": ""
+  },
+  {
+    "country": "Sweden",
+    "type": "embassy",
+    "name": "Embassy of Guatemala in Stockholm",
+    "city": "Stockholm",
+    "address": "Stockholm, Sweden",
+    "phone": ""
+  },
+  {
+    "country": "Sweden",
+    "type": "consulate",
+    "name": "Consulate of Guatemala in Helsingborg",
+    "city": "Helsingborg",
+    "address": "Helsingborg, Sweden",
+    "phone": ""
+  },
+  {
+    "country": "Switzerland",
+    "type": "embassy",
+    "name": "Embassy of Guatemala in Geneva",
+    "city": "Geneva",
+    "address": "Geneva, Switzerland",
+    "phone": ""
+  },
+  {
+    "country": "Taiwan",
+    "type": "embassy",
+    "name": "Embassy of Guatemala in Taipei",
+    "city": "Taipei",
+    "address": "Taipei, Taiwan",
+    "phone": ""
+  },
+  {
+    "country": "United Kingdom",
+    "type": "embassy",
+    "name": "Embassy of Guatemala in London",
+    "city": "London",
+    "address": "London, United Kingdom",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Embassy of Guatemala in Washington DC",
+    "city": "Washington DC",
+    "address": "Washington DC, United States",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Guatemala in Chicago",
+    "city": "Chicago",
+    "address": "Chicago, United States",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Guatemala in Los Angeles",
+    "city": "Los Angeles",
+    "address": "Los Angeles, United States",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Guatemala in New York",
+    "city": "New York",
+    "address": "New York, United States",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Guatemala in Miami",
+    "city": "Miami",
+    "address": "Miami, United States",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Guatemala in Houston",
+    "city": "Houston",
+    "address": "Houston, United States",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "consulate",
+    "name": "Consulate of Guatemala in Denver",
+    "city": "Denver",
+    "address": "Denver, United States",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "consulate",
+    "name": "Consulate of Guatemala in San Francisco",
+    "city": "San Francisco",
+    "address": "San Francisco, United States",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "consulate",
+    "name": "Consulate of Guatemala in Philadelphia",
+    "city": "Philadelphia",
+    "address": "Philadelphia, United States",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Guatemala to the United Nations in New York",
+    "city": "New York",
+    "address": "New York, United States",
+    "phone": ""
+  },
+  {
+    "country": "Uruguay",
+    "type": "embassy",
+    "name": "Embassy of Guatemala in Montevideo",
+    "city": "Montevideo",
+    "address": "Montevideo, Uruguay",
+    "phone": ""
+  },
+  {
+    "country": "Venezuela",
+    "type": "embassy",
+    "name": "Embassy of Guatemala in Caracas",
+    "city": "Caracas",
+    "address": "Caracas, Venezuela",
+    "phone": ""
+  },
+  {
+    "country": "Venezuela",
+    "type": "consulate",
+    "name": "Consulate of Guatemala in Maracaibo",
+    "city": "Maracaibo",
+    "address": "Maracaibo, Venezuela",
+    "phone": ""
+  }
+]

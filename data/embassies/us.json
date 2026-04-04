@@ -1,0 +1,482 @@
+[
+  {
+    "country": "Mexico",
+    "type": "embassy",
+    "name": "U.S. Embassy in Mexico City",
+    "city": "Mexico City",
+    "address": "Paseo de la Reforma 305, Col. Cuauhtémoc, 06500 Ciudad de México",
+    "phone": "+52 (55) 5080-2000"
+  },
+  {
+    "country": "Mexico",
+    "type": "consulate-general",
+    "name": "U.S. Consulate General Guadalajara",
+    "city": "Guadalajara",
+    "address": "Progreso 175, Col. Americana, 44600 Guadalajara, Jalisco",
+    "phone": "+52 (33) 3268-2100"
+  },
+  {
+    "country": "Mexico",
+    "type": "consulate-general",
+    "name": "U.S. Consulate General Monterrey",
+    "city": "Monterrey",
+    "address": "Av. Alfonso Reyes 150, Col. Sierra Madre, 64810 Monterrey, Nuevo León",
+    "phone": "+52 (81) 8047-3100"
+  },
+  {
+    "country": "Mexico",
+    "type": "consulate-general",
+    "name": "U.S. Consulate General Tijuana",
+    "city": "Tijuana",
+    "address": "Paseo de las Culturas s/n, Mesa de Otay, 22425 Tijuana, Baja California",
+    "phone": "+52 (664) 977-2000"
+  },
+  {
+    "country": "Mexico",
+    "type": "consulate-general",
+    "name": "U.S. Consulate General Ciudad Juárez",
+    "city": "Ciudad Juárez",
+    "address": "Paseo de la Victoria 3650, Partido Senecú, 32543 Ciudad Juárez, Chihuahua",
+    "phone": "+52 (656) 227-4000"
+  },
+  {
+    "country": "Mexico",
+    "type": "consulate-general",
+    "name": "U.S. Consulate General Mérida",
+    "city": "Mérida",
+    "address": "Calle 60 No. 338-K x 29 y 31, Col. Alcalá Martín, 97050 Mérida, Yucatán",
+    "phone": "+52 (999) 942-5700"
+  },
+  {
+    "country": "Canada",
+    "type": "embassy",
+    "name": "U.S. Embassy in Ottawa",
+    "city": "Ottawa",
+    "address": "490 Sussex Drive, Ottawa, Ontario K1N 1G8",
+    "phone": "+1 (613) 688-5335"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "U.S. Consulate General Toronto",
+    "city": "Toronto",
+    "address": "360 University Avenue, Toronto, Ontario M5G 1S4",
+    "phone": "+1 (416) 595-1700"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "U.S. Consulate General Vancouver",
+    "city": "Vancouver",
+    "address": "1075 West Pender Street, Vancouver, British Columbia V6E 2M6",
+    "phone": "+1 (604) 685-4311"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "U.S. Consulate General Montreal",
+    "city": "Montreal",
+    "address": "1134 Saint-Catherine Street West, Montreal, Quebec H3B 1H4",
+    "phone": "+1 (514) 398-9695"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "U.S. Consulate General Calgary",
+    "city": "Calgary",
+    "address": "615 Macleod Trail SE, Suite 1000, Calgary, Alberta T2G 4T8",
+    "phone": "+1 (403) 266-8962"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "embassy",
+    "name": "U.S. Embassy in London",
+    "city": "London",
+    "address": "33 Nine Elms Lane, London SW11 7US",
+    "phone": "+44 (20) 7499-9000"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "consulate-general",
+    "name": "U.S. Consulate General Edinburgh",
+    "city": "Edinburgh",
+    "address": "3 Regent Terrace, Edinburgh EH7 5BW",
+    "phone": "+44 (131) 556-8315"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "consulate-general",
+    "name": "U.S. Consulate General Belfast",
+    "city": "Belfast",
+    "address": "Danesfort House, 223 Stranmillis Road, Belfast BT9 5GR",
+    "phone": "+44 (28) 9038-6100"
+  },
+  {
+    "country": "France",
+    "type": "embassy",
+    "name": "U.S. Embassy in Paris",
+    "city": "Paris",
+    "address": "2 Avenue Gabriel, 75008 Paris",
+    "phone": "+33 (1) 43-12-22-22"
+  },
+  {
+    "country": "Germany",
+    "type": "embassy",
+    "name": "U.S. Embassy in Berlin",
+    "city": "Berlin",
+    "address": "Pariser Platz 2, 10117 Berlin",
+    "phone": "+49 (30) 8305-0"
+  },
+  {
+    "country": "Germany",
+    "type": "consulate-general",
+    "name": "U.S. Consulate General Frankfurt",
+    "city": "Frankfurt",
+    "address": "Gießener Straße 30, 60435 Frankfurt am Main",
+    "phone": "+49 (69) 7535-0"
+  },
+  {
+    "country": "Germany",
+    "type": "consulate-general",
+    "name": "U.S. Consulate General Munich",
+    "city": "Munich",
+    "address": "Königinstraße 5, 80539 Munich",
+    "phone": "+49 (89) 2888-0"
+  },
+  {
+    "country": "Italy",
+    "type": "embassy",
+    "name": "U.S. Embassy in Rome",
+    "city": "Rome",
+    "address": "Via Vittorio Veneto 121, 00187 Roma",
+    "phone": "+39 06 46741"
+  },
+  {
+    "country": "Italy",
+    "type": "consulate-general",
+    "name": "U.S. Consulate General Milan",
+    "city": "Milan",
+    "address": "Via Principe Amedeo 2/10, 20121 Milan",
+    "phone": "+39 02 290-351"
+  },
+  {
+    "country": "Italy",
+    "type": "consulate-general",
+    "name": "U.S. Consulate General Florence",
+    "city": "Florence",
+    "address": "Lungarno Amerigo Vespucci 38, 50123 Florence",
+    "phone": "+39 055 266-951"
+  },
+  {
+    "country": "Italy",
+    "type": "consulate-general",
+    "name": "U.S. Consulate General Naples",
+    "city": "Naples",
+    "address": "Piazza della Repubblica 2, 80122 Naples",
+    "phone": "+39 081 583-8111"
+  },
+  {
+    "country": "Spain",
+    "type": "embassy",
+    "name": "U.S. Embassy in Madrid",
+    "city": "Madrid",
+    "address": "Calle de Serrano 75, 28006 Madrid",
+    "phone": "+34 (91) 587-2200"
+  },
+  {
+    "country": "Spain",
+    "type": "consulate-general",
+    "name": "U.S. Consulate General Barcelona",
+    "city": "Barcelona",
+    "address": "Passeig de la Reina Elisenda de Montcada 23, 08034 Barcelona",
+    "phone": "+34 (93) 280-2227"
+  },
+  {
+    "country": "Portugal",
+    "type": "embassy",
+    "name": "U.S. Embassy in Lisbon",
+    "city": "Lisbon",
+    "address": "Avenida das Forças Armadas, 1600-081 Lisboa",
+    "phone": "+351 (21) 727-3300"
+  },
+  {
+    "country": "Japan",
+    "type": "embassy",
+    "name": "U.S. Embassy in Tokyo",
+    "city": "Tokyo",
+    "address": "1-10-5 Akasaka, Minato-ku, Tokyo 107-8420",
+    "phone": "+81 (3) 3224-5000"
+  },
+  {
+    "country": "Japan",
+    "type": "consulate-general",
+    "name": "U.S. Consulate General Osaka-Kobe",
+    "city": "Osaka",
+    "address": "2-11-5 Nishitenma, Kita-ku, Osaka 530-8543",
+    "phone": "+81 (6) 6315-5900"
+  },
+  {
+    "country": "Japan",
+    "type": "consulate",
+    "name": "U.S. Consulate Naha (Okinawa)",
+    "city": "Naha",
+    "address": "2-1-1 Toyama, Urasoe-shi, Okinawa 901-2104",
+    "phone": "+81 (98) 876-4211"
+  },
+  {
+    "country": "Japan",
+    "type": "consulate",
+    "name": "U.S. Consulate Sapporo",
+    "city": "Sapporo",
+    "address": "Kita 1-jo Nishi 28-chome, Chuo-ku, Sapporo 064-0821",
+    "phone": "+81 (11) 641-1115"
+  },
+  {
+    "country": "Japan",
+    "type": "consulate",
+    "name": "U.S. Consulate Fukuoka",
+    "city": "Fukuoka",
+    "address": "5-26 Ohori 2-chome, Chuo-ku, Fukuoka 810-0052",
+    "phone": "+81 (92) 751-9331"
+  },
+  {
+    "country": "China",
+    "type": "embassy",
+    "name": "U.S. Embassy in Beijing",
+    "city": "Beijing",
+    "address": "No. 55 An Jia Lou Road, Chaoyang District, Beijing 100600",
+    "phone": "+86 (10) 8531-3000"
+  },
+  {
+    "country": "China",
+    "type": "consulate-general",
+    "name": "U.S. Consulate General Shanghai",
+    "city": "Shanghai",
+    "address": "1469 Huaihai Zhong Road, Shanghai 200031",
+    "phone": "+86 (21) 8011-2200"
+  },
+  {
+    "country": "China",
+    "type": "consulate-general",
+    "name": "U.S. Consulate General Guangzhou",
+    "city": "Guangzhou",
+    "address": "No. 43 Hua Jiu Road, Zhujiang New Town, Tianhe District, Guangzhou 510623",
+    "phone": "+86 (20) 3814-5000"
+  },
+  {
+    "country": "India",
+    "type": "embassy",
+    "name": "U.S. Embassy in New Delhi",
+    "city": "New Delhi",
+    "address": "Shantipath, Chanakyapuri, New Delhi 110021",
+    "phone": "+91 (11) 2419-8000"
+  },
+  {
+    "country": "India",
+    "type": "consulate-general",
+    "name": "U.S. Consulate General Mumbai",
+    "city": "Mumbai",
+    "address": "C-49, G-Block, Bandra Kurla Complex, Bandra East, Mumbai 400051",
+    "phone": "+91 (22) 2672-4000"
+  },
+  {
+    "country": "India",
+    "type": "consulate-general",
+    "name": "U.S. Consulate General Chennai",
+    "city": "Chennai",
+    "address": "220 Anna Salai, Gemini Circle, Chennai 600006",
+    "phone": "+91 (44) 2857-4000"
+  },
+  {
+    "country": "Brazil",
+    "type": "embassy",
+    "name": "U.S. Embassy in Brasilia",
+    "city": "Brasilia",
+    "address": "SES Av. das Nações, Quadra 801, Lote 03, 70403-900 Brasilia DF",
+    "phone": "+55 (61) 3312-7000"
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate-general",
+    "name": "U.S. Consulate General São Paulo",
+    "city": "São Paulo",
+    "address": "Rua Henri Dunant 500, Chácara Santo Antônio, 04709-110 São Paulo SP",
+    "phone": "+55 (11) 3250-5000"
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate-general",
+    "name": "U.S. Consulate General Rio de Janeiro",
+    "city": "Rio de Janeiro",
+    "address": "Av. Presidente Wilson 147, Castelo, 20030-020 Rio de Janeiro RJ",
+    "phone": "+55 (21) 3823-2000"
+  },
+  {
+    "country": "Australia",
+    "type": "embassy",
+    "name": "U.S. Embassy in Canberra",
+    "city": "Canberra",
+    "address": "Moonah Place, Yarralumla, ACT 2600",
+    "phone": "+61 (2) 6214-5600"
+  },
+  {
+    "country": "Australia",
+    "type": "consulate-general",
+    "name": "U.S. Consulate General Sydney",
+    "city": "Sydney",
+    "address": "Level 10, MLC Centre, 19-29 Martin Place, Sydney NSW 2000",
+    "phone": "+61 (2) 9373-9200"
+  },
+  {
+    "country": "Australia",
+    "type": "consulate-general",
+    "name": "U.S. Consulate General Melbourne",
+    "city": "Melbourne",
+    "address": "553 St Kilda Road, Melbourne VIC 3004",
+    "phone": "+61 (3) 9526-5900"
+  },
+  {
+    "country": "Australia",
+    "type": "consulate-general",
+    "name": "U.S. Consulate General Perth",
+    "city": "Perth",
+    "address": "Level 4, 16 St Georges Terrace, Perth WA 6000",
+    "phone": "+61 (8) 6144-5100"
+  },
+  {
+    "country": "Israel",
+    "type": "embassy",
+    "name": "U.S. Embassy in Jerusalem",
+    "city": "Jerusalem",
+    "address": "14 David Flusser Street, Jerusalem 9378322",
+    "phone": "+972 (2) 630-4000"
+  },
+  {
+    "country": "South Korea",
+    "type": "embassy",
+    "name": "U.S. Embassy in Seoul",
+    "city": "Seoul",
+    "address": "188 Sejong-daero, Jongno-gu, Seoul 03141",
+    "phone": "+82 (2) 397-4114"
+  },
+  {
+    "country": "Argentina",
+    "type": "embassy",
+    "name": "U.S. Embassy in Buenos Aires",
+    "city": "Buenos Aires",
+    "address": "Avenida Colombia 4300, C1425GMN Buenos Aires",
+    "phone": "+54 (11) 5777-4533"
+  },
+  {
+    "country": "Colombia",
+    "type": "embassy",
+    "name": "U.S. Embassy in Bogota",
+    "city": "Bogota",
+    "address": "Calle 24 Bis No. 48-50, Bogota",
+    "phone": "+57 (1) 275-2000"
+  },
+  {
+    "country": "Singapore",
+    "type": "embassy",
+    "name": "U.S. Embassy in Singapore",
+    "city": "Singapore",
+    "address": "27 Napier Road, Singapore 258508",
+    "phone": "+65 6476-9100"
+  },
+  {
+    "country": "Thailand",
+    "type": "embassy",
+    "name": "U.S. Embassy in Bangkok",
+    "city": "Bangkok",
+    "address": "95 Wireless Road, Lumphini, Pathumwan, Bangkok 10330",
+    "phone": "+66 (2) 205-4000"
+  },
+  {
+    "country": "Philippines",
+    "type": "embassy",
+    "name": "U.S. Embassy in Manila",
+    "city": "Manila",
+    "address": "1201 Roxas Boulevard, Manila 1000",
+    "phone": "+63 (2) 5301-2000"
+  },
+  {
+    "country": "Egypt",
+    "type": "embassy",
+    "name": "U.S. Embassy in Cairo",
+    "city": "Cairo",
+    "address": "5 Tawfik Diab Street, Garden City, Cairo",
+    "phone": "+20 (2) 2797-3300"
+  },
+  {
+    "country": "South Africa",
+    "type": "embassy",
+    "name": "U.S. Embassy in Pretoria",
+    "city": "Pretoria",
+    "address": "877 Pretorius Street, Arcadia, Pretoria 0083",
+    "phone": "+27 (12) 431-4000"
+  },
+  {
+    "country": "Nigeria",
+    "type": "embassy",
+    "name": "U.S. Embassy in Abuja",
+    "city": "Abuja",
+    "address": "Plot 1075, Diplomatic Drive, Central District Area, Abuja",
+    "phone": "+234 (9) 461-4000"
+  },
+  {
+    "country": "Turkey",
+    "type": "embassy",
+    "name": "U.S. Embassy in Ankara",
+    "city": "Ankara",
+    "address": "110 Atatürk Boulevard, Kavaklıdere, 06100 Ankara",
+    "phone": "+90 (312) 455-5555"
+  },
+  {
+    "country": "Saudi Arabia",
+    "type": "embassy",
+    "name": "U.S. Embassy in Riyadh",
+    "city": "Riyadh",
+    "address": "P.O. Box 94309, Riyadh 11693",
+    "phone": "+966 (11) 488-3800"
+  },
+  {
+    "country": "United Arab Emirates",
+    "type": "embassy",
+    "name": "U.S. Embassy in Abu Dhabi",
+    "city": "Abu Dhabi",
+    "address": "Embassies District, Plot 38, Sector W59-02, Abu Dhabi",
+    "phone": "+971 (2) 414-2200"
+  },
+  {
+    "country": "Kenya",
+    "type": "embassy",
+    "name": "U.S. Embassy in Nairobi",
+    "city": "Nairobi",
+    "address": "United Nations Avenue, Gigiri, P.O. Box 606, 00621 Nairobi",
+    "phone": "+254 (20) 363-6000"
+  },
+  {
+    "country": "Switzerland",
+    "type": "mission",
+    "name": "U.S. Mission to the United Nations in Geneva",
+    "city": "Geneva",
+    "address": "Route de Pregny 11, 1292 Chambésy, Geneva",
+    "phone": "+41 (22) 749-4111"
+  },
+  {
+    "country": "Belgium",
+    "type": "mission",
+    "name": "U.S. Mission to NATO",
+    "city": "Brussels",
+    "address": "Boulevard Léopold III, 1110 Brussels",
+    "phone": "+32 (2) 724-3111"
+  },
+  {
+    "country": "Taiwan",
+    "type": "mission",
+    "name": "American Institute in Taiwan (AIT)",
+    "city": "Taipei",
+    "address": "No. 100, Jinhu Road, Neihu District, Taipei 11461",
+    "phone": "+886 (2) 2162-2000"
+  }
+]

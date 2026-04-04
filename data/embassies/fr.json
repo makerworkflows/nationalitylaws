@@ -1,0 +1,338 @@
+[
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Embassy of France in Washington",
+    "city": "Washington, D.C.",
+    "address": "4101 Reservoir Road NW, Washington, DC 20007",
+    "phone": "+1 (202) 944-6000"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "French Consulate General in New York",
+    "city": "New York, NY",
+    "address": "934 Fifth Avenue, New York, NY 10021",
+    "phone": "+1 (212) 606-3600"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "French Consulate General in Los Angeles",
+    "city": "Los Angeles, CA",
+    "address": "10390 Santa Monica Blvd, Suite 410, Los Angeles, CA 90025",
+    "phone": "+1 (310) 235-3200"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "French Consulate General in Chicago",
+    "city": "Chicago, IL",
+    "address": "205 North Michigan Avenue, Suite 3700, Chicago, IL 60601",
+    "phone": "+1 (312) 327-5200"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "French Consulate General in Houston",
+    "city": "Houston, TX",
+    "address": "777 Post Oak Blvd, Suite 600, Houston, TX 77056",
+    "phone": "+1 (713) 572-2799"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "French Consulate General in San Francisco",
+    "city": "San Francisco, CA",
+    "address": "88 Kearny Street, Suite 600, San Francisco, CA 94108",
+    "phone": "+1 (415) 397-4330"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "French Consulate General in Miami",
+    "city": "Miami, FL",
+    "address": "1395 Brickell Avenue, Suite 1050, Miami, FL 33131",
+    "phone": "+1 (305) 403-4150"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "French Consulate General in Atlanta",
+    "city": "Atlanta, GA",
+    "address": "3475 Piedmont Road NE, Suite 1840, Atlanta, GA 30305",
+    "phone": "+1 (404) 495-1660"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "French Consulate General in Boston",
+    "city": "Boston, MA",
+    "address": "31 St. James Avenue, Suite 750, Boston, MA 02116",
+    "phone": "+1 (617) 832-4400"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "embassy",
+    "name": "Embassy of France in London",
+    "city": "London",
+    "address": "58 Knightsbridge, London SW1X 7JT",
+    "phone": "+44 (0)20 7073 1000"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "consulate-general",
+    "name": "French Consulate General in London",
+    "city": "London",
+    "address": "21 Cromwell Road, London SW7 2EN",
+    "phone": "+44 (0)20 7073 1200"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "consulate-general",
+    "name": "French Consulate General in Edinburgh",
+    "city": "Edinburgh",
+    "address": "11 Randolph Crescent, Edinburgh EH3 7TT",
+    "phone": "+44 (0)131 225 7954"
+  },
+  {
+    "country": "Germany",
+    "type": "embassy",
+    "name": "Embassy of France in Berlin",
+    "city": "Berlin",
+    "address": "Pariser Platz 5, 10117 Berlin",
+    "phone": "+49 (0)30 590 039 000"
+  },
+  {
+    "country": "Germany",
+    "type": "consulate-general",
+    "name": "French Consulate General in Frankfurt",
+    "city": "Frankfurt",
+    "address": "Zeppelinallee 35, 60325 Frankfurt am Main",
+    "phone": "+49 (0)69 795 096 0"
+  },
+  {
+    "country": "Germany",
+    "type": "consulate-general",
+    "name": "French Consulate General in Munich",
+    "city": "Munich",
+    "address": "Heimeranstraße 31, 80339 Munich",
+    "phone": "+49 (0)89 419 4110"
+  },
+  {
+    "country": "Germany",
+    "type": "consulate-general",
+    "name": "French Consulate General in Hamburg",
+    "city": "Hamburg",
+    "address": "Heimhuder Straße 55, 20148 Hamburg",
+    "phone": "+49 (0)40 413 2590"
+  },
+  {
+    "country": "Japan",
+    "type": "embassy",
+    "name": "Embassy of France in Tokyo",
+    "city": "Tokyo",
+    "address": "4-11-44 Minami-Azabu, Minato-ku, Tokyo 106-8514",
+    "phone": "+81 (0)3 5798 6000"
+  },
+  {
+    "country": "Japan",
+    "type": "consulate-general",
+    "name": "French Consulate General in Kyoto",
+    "city": "Kyoto",
+    "address": "8F Kankoboko-cho Bldg, Muromachi-dori, Nakagyo-ku, Kyoto 604-8152",
+    "phone": "+81 (0)75 222 1300"
+  },
+  {
+    "country": "China",
+    "type": "embassy",
+    "name": "Embassy of France in Beijing",
+    "city": "Beijing",
+    "address": "60 Tianze Lu, Chaoyang District, Beijing 100600",
+    "phone": "+86 (0)10 8532 8080"
+  },
+  {
+    "country": "China",
+    "type": "consulate-general",
+    "name": "French Consulate General in Shanghai",
+    "city": "Shanghai",
+    "address": "Haitong Securities Building, 18th Floor, 689 Guangdong Road, Shanghai 200001",
+    "phone": "+86 (0)21 6103 2200"
+  },
+  {
+    "country": "China",
+    "type": "consulate-general",
+    "name": "French Consulate General in Guangzhou",
+    "city": "Guangzhou",
+    "address": "Suite 810, Main Tower, Guangdong International Hotel, 339 Huanshi Dong Road, Guangzhou 510098",
+    "phone": "+86 (0)20 2829 2000"
+  },
+  {
+    "country": "India",
+    "type": "embassy",
+    "name": "Embassy of France in New Delhi",
+    "city": "New Delhi",
+    "address": "2/50-E Shantipath, Chanakyapuri, New Delhi 110021",
+    "phone": "+91 (0)11 4319 6100"
+  },
+  {
+    "country": "India",
+    "type": "consulate-general",
+    "name": "French Consulate General in Mumbai",
+    "city": "Mumbai",
+    "address": "Wockhardt Towers, 1st Floor, Bandra Kurla Complex, Bandra East, Mumbai 400051",
+    "phone": "+91 (0)22 6669 4000"
+  },
+  {
+    "country": "India",
+    "type": "consulate-general",
+    "name": "French Consulate General in Bengaluru",
+    "city": "Bengaluru",
+    "address": "Prestige Towers, 2nd Floor, 99 & 100 Residency Road, Bengaluru 560025",
+    "phone": "+91 (0)80 4214 5000"
+  },
+  {
+    "country": "Brazil",
+    "type": "embassy",
+    "name": "Embassy of France in Brasilia",
+    "city": "Brasilia",
+    "address": "SES Avenida das Nações, Lote 04, Quadra 801, 70404-900 Brasilia DF",
+    "phone": "+55 (61) 3222-3999"
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate-general",
+    "name": "French Consulate General in São Paulo",
+    "city": "São Paulo",
+    "address": "Avenida Paulista 1842, Torre Norte, 14th Floor, 01310-200 São Paulo",
+    "phone": "+55 (11) 3371-5400"
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate-general",
+    "name": "French Consulate General in Rio de Janeiro",
+    "city": "Rio de Janeiro",
+    "address": "Avenida Presidente Antônio Carlos 58, 6th Floor, Centro, 20020-010 Rio de Janeiro",
+    "phone": "+55 (21) 3974-6699"
+  },
+  {
+    "country": "Canada",
+    "type": "embassy",
+    "name": "Embassy of France in Ottawa",
+    "city": "Ottawa",
+    "address": "42 Sussex Drive, Ottawa, ON K1M 2C9",
+    "phone": "+1 (613) 789-1795"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "French Consulate General in Montreal",
+    "city": "Montreal",
+    "address": "1501 McGill College Avenue, Suite 1000, Montreal, QC H3A 3M8",
+    "phone": "+1 (514) 878-4385"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "French Consulate General in Toronto",
+    "city": "Toronto",
+    "address": "2 Bloor Street East, Suite 2200, Toronto, ON M4W 1A8",
+    "phone": "+1 (416) 847-1900"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "French Consulate General in Vancouver",
+    "city": "Vancouver",
+    "address": "1130 West Pender Street, Suite 1100, Vancouver, BC V6E 4A4",
+    "phone": "+1 (604) 637-5300"
+  },
+  {
+    "country": "Australia",
+    "type": "embassy",
+    "name": "Embassy of France in Canberra",
+    "city": "Canberra",
+    "address": "6 Perth Avenue, Yarralumla, ACT 2600",
+    "phone": "+61 (0)2 6216 0100"
+  },
+  {
+    "country": "Australia",
+    "type": "consulate-general",
+    "name": "French Consulate General in Sydney",
+    "city": "Sydney",
+    "address": "Level 26, 31 Market Street, Sydney, NSW 2000",
+    "phone": "+61 (0)2 9268 2400"
+  },
+  {
+    "country": "Italy",
+    "type": "embassy",
+    "name": "Embassy of France in Rome",
+    "city": "Rome",
+    "address": "Piazza Farnese 67, 00186 Rome",
+    "phone": "+39 06 686 011"
+  },
+  {
+    "country": "Italy",
+    "type": "consulate-general",
+    "name": "French Consulate General in Milan",
+    "city": "Milan",
+    "address": "Via della Moscova 12, 20121 Milan",
+    "phone": "+39 02 655 91 41"
+  },
+  {
+    "country": "Spain",
+    "type": "embassy",
+    "name": "Embassy of France in Madrid",
+    "city": "Madrid",
+    "address": "Calle de Salustiano Olguín 9, 28001 Madrid",
+    "phone": "+34 91 423 8900"
+  },
+  {
+    "country": "Spain",
+    "type": "consulate-general",
+    "name": "French Consulate General in Barcelona",
+    "city": "Barcelona",
+    "address": "Ronda de la Universitat 22 B, 4th Floor, 08007 Barcelona",
+    "phone": "+34 93 270 3000"
+  },
+  {
+    "country": "Mexico",
+    "type": "embassy",
+    "name": "Embassy of France in Mexico City",
+    "city": "Mexico City",
+    "address": "Campos Elíseos 339, Col. Polanco, 11560 Mexico City",
+    "phone": "+52 (55) 9171-9700"
+  },
+  {
+    "country": "South Korea",
+    "type": "embassy",
+    "name": "Embassy of France in Seoul",
+    "city": "Seoul",
+    "address": "30 Hap-dong, Seodaemun-gu, Seoul 03718",
+    "phone": "+82 (0)2 3149 4300"
+  },
+  {
+    "country": "Israel",
+    "type": "embassy",
+    "name": "Embassy of France in Tel Aviv",
+    "city": "Tel Aviv",
+    "address": "112 Herbert Samuel Promenade, Tel Aviv 6343229",
+    "phone": "+972 (3) 520-8500"
+  },
+  {
+    "country": "Russia",
+    "type": "embassy",
+    "name": "Embassy of France in Moscow",
+    "city": "Moscow",
+    "address": "Bolshaya Yakimanka 45, 119049 Moscow",
+    "phone": "+7 (495) 937 1500"
+  },
+  {
+    "country": "United Nations",
+    "type": "mission",
+    "name": "Permanent Mission of France to the United Nations",
+    "city": "New York, NY",
+    "address": "One Dag Hammarskjöld Plaza, 245 East 47th Street, 44th Floor, New York, NY 10017",
+    "phone": "+1 (212) 308-5700"
+  }
+]

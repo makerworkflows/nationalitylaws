@@ -1,0 +1,162 @@
+[
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Embassy of St. Kitts and Nevis in Washington, D.C.",
+    "city": "Washington, D.C.",
+    "address": "3216 New Mexico Avenue NW, Washington, DC 20016",
+    "phone": "+1 (202) 686-2636"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of St. Kitts and Nevis in New York",
+    "city": "New York, NY",
+    "address": "414 East 75th Street, 5th Floor, New York, NY 10021",
+    "phone": "+1 (212) 535-1234"
+  },
+  {
+    "country": "United States",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of St. Kitts and Nevis in Los Angeles",
+    "city": "Los Angeles, CA",
+    "address": "Los Angeles, CA",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of St. Kitts and Nevis in Miami",
+    "city": "Miami, FL",
+    "address": "Miami, FL",
+    "phone": ""
+  },
+  {
+    "country": "United Kingdom",
+    "type": "high-commission",
+    "name": "St. Kitts and Nevis High Commission in London",
+    "city": "London",
+    "address": "10 Kensington Court, London W8 5DL",
+    "phone": "+44 (0)20 7937 9718"
+  },
+  {
+    "country": "Canada",
+    "type": "high-commission",
+    "name": "St. Kitts and Nevis High Commission in Ottawa",
+    "city": "Ottawa",
+    "address": "130 Albert Street, Suite 700, Ottawa, ON K1P 5G4",
+    "phone": "+1 (613) 236-8952"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Consulate General of St. Kitts and Nevis in Toronto",
+    "city": "Toronto",
+    "address": "Toronto, ON",
+    "phone": ""
+  },
+  {
+    "country": "Belgium",
+    "type": "embassy",
+    "name": "Embassy of St. Kitts and Nevis in Brussels",
+    "city": "Brussels",
+    "address": "Avenue de Tervuren 182, 1150 Brussels",
+    "phone": "+32 (2) 741 0960"
+  },
+  {
+    "country": "Belgium",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of St. Kitts and Nevis to the European Union",
+    "city": "Brussels",
+    "address": "Avenue de Tervuren 182, 1150 Brussels",
+    "phone": "+32 (2) 741 0960"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "type": "high-commission",
+    "name": "St. Kitts and Nevis High Commission in Port of Spain",
+    "city": "Port of Spain",
+    "address": "Victoria Avenue, Port of Spain, Trinidad",
+    "phone": "+1 (868) 622-1258"
+  },
+  {
+    "country": "Barbados",
+    "type": "high-commission",
+    "name": "St. Kitts and Nevis High Commission in Bridgetown",
+    "city": "Bridgetown",
+    "address": "Bridgetown, Barbados",
+    "phone": ""
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "type": "high-commission",
+    "name": "St. Kitts and Nevis High Commission in St. John's",
+    "city": "St. John's",
+    "address": "St. John's, Antigua",
+    "phone": ""
+  },
+  {
+    "country": "Cuba",
+    "type": "embassy",
+    "name": "Embassy of St. Kitts and Nevis in Havana",
+    "city": "Havana",
+    "address": "Havana, Cuba",
+    "phone": ""
+  },
+  {
+    "country": "Venezuela",
+    "type": "embassy",
+    "name": "Embassy of St. Kitts and Nevis in Caracas",
+    "city": "Caracas",
+    "address": "Caracas, Venezuela",
+    "phone": ""
+  },
+  {
+    "country": "Panama",
+    "type": "embassy",
+    "name": "Embassy of St. Kitts and Nevis in Panama City",
+    "city": "Panama City",
+    "address": "Panama City, Panama",
+    "phone": ""
+  },
+  {
+    "country": "China",
+    "type": "embassy",
+    "name": "Embassy of St. Kitts and Nevis in Beijing",
+    "city": "Beijing",
+    "address": "Beijing, China",
+    "phone": ""
+  },
+  {
+    "country": "Taiwan",
+    "type": "embassy",
+    "name": "Embassy of St. Kitts and Nevis in Taipei",
+    "city": "Taipei",
+    "address": "Taipei, Taiwan (St. Kitts recognizes Taiwan — maintains diplomatic ties)",
+    "phone": ""
+  },
+  {
+    "country": "United Nations",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of St. Kitts and Nevis to the United Nations",
+    "city": "New York, NY",
+    "address": "414 East 75th Street, 5th Floor, New York, NY 10021",
+    "phone": "+1 (212) 535-1234"
+  },
+  {
+    "country": "Jamaica",
+    "type": "high-commission",
+    "name": "St. Kitts and Nevis High Commission in Kingston",
+    "city": "Kingston",
+    "address": "Kingston, Jamaica",
+    "phone": ""
+  },
+  {
+    "country": "Guyana",
+    "type": "high-commission",
+    "name": "St. Kitts and Nevis High Commission in Georgetown",
+    "city": "Georgetown",
+    "address": "Georgetown, Guyana",
+    "phone": ""
+  }
+]

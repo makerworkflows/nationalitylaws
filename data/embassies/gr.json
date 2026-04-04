@@ -1,0 +1,426 @@
+[
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Embassy of Greece in Washington",
+    "city": "Washington, D.C.",
+    "address": "2217 Massachusetts Avenue NW, Washington, DC 20008",
+    "phone": "+1 (202) 939-1300"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Greece in New York",
+    "city": "New York, NY",
+    "address": "69 East 79th Street, New York, NY 10075",
+    "phone": "+1 (212) 988-5500"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Greece in Boston",
+    "city": "Boston, MA",
+    "address": "86 Beacon Street, Boston, MA 02108",
+    "phone": "+1 (617) 523-0100"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Greece in Chicago",
+    "city": "Chicago, IL",
+    "address": "650 North St. Clair Street, Chicago, IL 60611",
+    "phone": "+1 (312) 335-3915"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Greece in Los Angeles",
+    "city": "Los Angeles, CA",
+    "address": "12424 Wilshire Blvd, Suite 800, Los Angeles, CA 90025",
+    "phone": "+1 (310) 826-5555"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Greece in Houston",
+    "city": "Houston, TX",
+    "address": "1360 Post Oak Blvd, Suite 2450, Houston, TX 77056",
+    "phone": "+1 (713) 840-7522"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Greece in San Francisco",
+    "city": "San Francisco, CA",
+    "address": "253 Post Street, Suite 600, San Francisco, CA 94108",
+    "phone": "+1 (415) 775-2102"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Greece in Atlanta",
+    "city": "Atlanta, GA",
+    "address": "3525 Piedmont Rd NE, Building 7, Suite 908, Atlanta, GA 30305",
+    "phone": "+1 (404) 261-3313"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "embassy",
+    "name": "Embassy of Greece in London",
+    "city": "London",
+    "address": "1A Holland Park, London W11 3TP",
+    "phone": "+44 (20) 7229-3850"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "consulate-general",
+    "name": "Consulate General of Greece in Edinburgh",
+    "city": "Edinburgh",
+    "address": "53 George Street, Edinburgh EH2 2HT",
+    "phone": "+44 (131) 225-3000"
+  },
+  {
+    "country": "Germany",
+    "type": "embassy",
+    "name": "Embassy of Greece in Berlin",
+    "city": "Berlin",
+    "address": "Jaegerstrasse 54-55, 10117 Berlin",
+    "phone": "+49 (30) 206-2660"
+  },
+  {
+    "country": "Germany",
+    "type": "consulate-general",
+    "name": "Consulate General of Greece in Munich",
+    "city": "Munich",
+    "address": "Ismaninger Strasse 33, 81675 Munich",
+    "phone": "+49 (89) 498-390"
+  },
+  {
+    "country": "Germany",
+    "type": "consulate-general",
+    "name": "Consulate General of Greece in Dusseldorf",
+    "city": "Dusseldorf",
+    "address": "Immermannstrasse 8, 40210 Dusseldorf",
+    "phone": "+49 (211) 358-100"
+  },
+  {
+    "country": "Germany",
+    "type": "consulate-general",
+    "name": "Consulate General of Greece in Frankfurt",
+    "city": "Frankfurt am Main",
+    "address": "Wolfsgangstrasse 61, 60322 Frankfurt am Main",
+    "phone": "+49 (69) 954-490"
+  },
+  {
+    "country": "Germany",
+    "type": "consulate-general",
+    "name": "Consulate General of Greece in Hamburg",
+    "city": "Hamburg",
+    "address": "Harvestehuder Weg 79, 20149 Hamburg",
+    "phone": "+49 (40) 415-750"
+  },
+  {
+    "country": "France",
+    "type": "embassy",
+    "name": "Embassy of Greece in Paris",
+    "city": "Paris",
+    "address": "17 Rue Auguste-Vacquerie, 75116 Paris",
+    "phone": "+33 (1) 47-23-72-28"
+  },
+  {
+    "country": "France",
+    "type": "consulate-general",
+    "name": "Consulate General of Greece in Marseille",
+    "city": "Marseille",
+    "address": "2 Rue Jules Ferry, 13001 Marseille",
+    "phone": "+33 (4) 91-91-01-55"
+  },
+  {
+    "country": "Italy",
+    "type": "embassy",
+    "name": "Embassy of Greece in Rome",
+    "city": "Rome",
+    "address": "Via S. Mercadante 36, 00198 Rome",
+    "phone": "+39 (06) 8549-630"
+  },
+  {
+    "country": "Spain",
+    "type": "embassy",
+    "name": "Embassy of Greece in Madrid",
+    "city": "Madrid",
+    "address": "Avenida Doctor Arce 24, 28002 Madrid",
+    "phone": "+34 (91) 564-4653"
+  },
+  {
+    "country": "Netherlands",
+    "type": "embassy",
+    "name": "Embassy of Greece in The Hague",
+    "city": "The Hague",
+    "address": "Koninginnegraht 55, 2514 AE The Hague",
+    "phone": "+31 (70) 363-8700"
+  },
+  {
+    "country": "Belgium",
+    "type": "embassy",
+    "name": "Embassy of Greece in Brussels",
+    "city": "Brussels",
+    "address": "Avenue Louise 76, 1050 Brussels",
+    "phone": "+32 (2) 545-5500"
+  },
+  {
+    "country": "Switzerland",
+    "type": "embassy",
+    "name": "Embassy of Greece in Bern",
+    "city": "Bern",
+    "address": "Kirchenfeldstrasse 73, 3005 Bern",
+    "phone": "+41 (31) 356-3370"
+  },
+  {
+    "country": "Austria",
+    "type": "embassy",
+    "name": "Embassy of Greece in Vienna",
+    "city": "Vienna",
+    "address": "Argentinierstrasse 14, 1040 Vienna",
+    "phone": "+43 (1) 533-3868"
+  },
+  {
+    "country": "Sweden",
+    "type": "embassy",
+    "name": "Embassy of Greece in Stockholm",
+    "city": "Stockholm",
+    "address": "Riddargatan 60, 114 57 Stockholm",
+    "phone": "+46 (8) 663-2140"
+  },
+  {
+    "country": "Norway",
+    "type": "embassy",
+    "name": "Embassy of Greece in Oslo",
+    "city": "Oslo",
+    "address": "Niels Juelsgate 45B, 0272 Oslo",
+    "phone": "+47 2244-2728"
+  },
+  {
+    "country": "Denmark",
+    "type": "embassy",
+    "name": "Embassy of Greece in Copenhagen",
+    "city": "Copenhagen",
+    "address": "Borgergade 16, 1300 Copenhagen K",
+    "phone": "+45 3311-4533"
+  },
+  {
+    "country": "Portugal",
+    "type": "embassy",
+    "name": "Embassy of Greece in Lisbon",
+    "city": "Lisbon",
+    "address": "Rua do Alto do Duque 5, 1400-009 Lisbon",
+    "phone": "+351 (21) 301-0040"
+  },
+  {
+    "country": "Poland",
+    "type": "embassy",
+    "name": "Embassy of Greece in Warsaw",
+    "city": "Warsaw",
+    "address": "Ulica Gornosliaska 35, 00-432 Warsaw",
+    "phone": "+48 (22) 629-6100"
+  },
+  {
+    "country": "Romania",
+    "type": "embassy",
+    "name": "Embassy of Greece in Bucharest",
+    "city": "Bucharest",
+    "address": "Strada Dr. Burghelea 9, Sector 2, Bucharest",
+    "phone": "+40 (21) 210-0243"
+  },
+  {
+    "country": "Bulgaria",
+    "type": "embassy",
+    "name": "Embassy of Greece in Sofia",
+    "city": "Sofia",
+    "address": "54 San Stefano Street, Sofia 1504",
+    "phone": "+359 (2) 946-1005"
+  },
+  {
+    "country": "Albania",
+    "type": "embassy",
+    "name": "Embassy of Greece in Tirana",
+    "city": "Tirana",
+    "address": "Rruga Frederik Shiroka 3, Tirana",
+    "phone": "+355 (4) 234-290"
+  },
+  {
+    "country": "North Macedonia",
+    "type": "embassy",
+    "name": "Embassy of Greece in Skopje",
+    "city": "Skopje",
+    "address": "Borisav Kidric 12, 1000 Skopje",
+    "phone": "+389 (2) 3248-700"
+  },
+  {
+    "country": "Serbia",
+    "type": "embassy",
+    "name": "Embassy of Greece in Belgrade",
+    "city": "Belgrade",
+    "address": "Francuska 33, 11000 Belgrade",
+    "phone": "+381 (11) 323-2523"
+  },
+  {
+    "country": "Cyprus",
+    "type": "embassy",
+    "name": "Embassy of Greece in Nicosia",
+    "city": "Nicosia",
+    "address": "8-10 Byron Avenue, 1096 Nicosia",
+    "phone": "+357 (22) 441-880"
+  },
+  {
+    "country": "Turkey",
+    "type": "embassy",
+    "name": "Embassy of Greece in Ankara",
+    "city": "Ankara",
+    "address": "Ziaur Rahman Caddesi 9-11, 06450 Gaziosmanpasa, Ankara",
+    "phone": "+90 (312) 448-0647"
+  },
+  {
+    "country": "Turkey",
+    "type": "consulate-general",
+    "name": "Consulate General of Greece in Istanbul",
+    "city": "Istanbul",
+    "address": "Tur Yolu Sokak 4, Beyoglu, Istanbul",
+    "phone": "+90 (212) 293-0810"
+  },
+  {
+    "country": "Russia",
+    "type": "embassy",
+    "name": "Embassy of Greece in Moscow",
+    "city": "Moscow",
+    "address": "Leontievsky Pereulok 4, 125009 Moscow",
+    "phone": "+7 (495) 695-0274"
+  },
+  {
+    "country": "Ukraine",
+    "type": "embassy",
+    "name": "Embassy of Greece in Kyiv",
+    "city": "Kyiv",
+    "address": "Pankovska Street 12, Kyiv 01011",
+    "phone": "+380 (44) 234-2470"
+  },
+  {
+    "country": "Egypt",
+    "type": "embassy",
+    "name": "Embassy of Greece in Cairo",
+    "city": "Cairo",
+    "address": "18 Aisha al-Taymoriya Street, Garden City, Cairo",
+    "phone": "+20 (2) 2795-5915"
+  },
+  {
+    "country": "Israel",
+    "type": "embassy",
+    "name": "Embassy of Greece in Tel Aviv",
+    "city": "Tel Aviv",
+    "address": "65 Rehov Zeitlin, Tel Aviv 6428516",
+    "phone": "+972 (3) 695-6660"
+  },
+  {
+    "country": "Jordan",
+    "type": "embassy",
+    "name": "Embassy of Greece in Amman",
+    "city": "Amman",
+    "address": "Mohammed Hafiz Ibrahim Street 12, Jabal Amman, Amman",
+    "phone": "+962 (6) 592-6451"
+  },
+  {
+    "country": "Lebanon",
+    "type": "embassy",
+    "name": "Embassy of Greece in Beirut",
+    "city": "Beirut",
+    "address": "Sursock Street, Achrafieh, Beirut",
+    "phone": "+961 (1) 617-360"
+  },
+  {
+    "country": "India",
+    "type": "embassy",
+    "name": "Embassy of Greece in New Delhi",
+    "city": "New Delhi",
+    "address": "16 Sunder Nagar, New Delhi 110003",
+    "phone": "+91 (11) 2435-0240"
+  },
+  {
+    "country": "China",
+    "type": "embassy",
+    "name": "Embassy of Greece in Beijing",
+    "city": "Beijing",
+    "address": "19 Guanghua Lu, Jianguomenwai, Beijing 100600",
+    "phone": "+86 (10) 6532-1317"
+  },
+  {
+    "country": "Japan",
+    "type": "embassy",
+    "name": "Embassy of Greece in Tokyo",
+    "city": "Tokyo",
+    "address": "3-16-30 Nishi-Azabu, Minato-ku, Tokyo 106-0031",
+    "phone": "+81 (3) 3403-0871"
+  },
+  {
+    "country": "Australia",
+    "type": "embassy",
+    "name": "Embassy of Greece in Canberra",
+    "city": "Canberra",
+    "address": "9 Turrana Street, Yarralumla, ACT 2600",
+    "phone": "+61 (2) 6273-3011"
+  },
+  {
+    "country": "Australia",
+    "type": "consulate-general",
+    "name": "Consulate General of Greece in Sydney",
+    "city": "Sydney",
+    "address": "Level 5, 152-158 St Georges Terrace, Sydney NSW 2000",
+    "phone": "+61 (2) 9261-1866"
+  },
+  {
+    "country": "Australia",
+    "type": "consulate-general",
+    "name": "Consulate General of Greece in Melbourne",
+    "city": "Melbourne",
+    "address": "168 Toorak Road West, South Yarra, Melbourne VIC 3141",
+    "phone": "+61 (3) 9866-4524"
+  },
+  {
+    "country": "Canada",
+    "type": "embassy",
+    "name": "Embassy of Greece in Ottawa",
+    "city": "Ottawa",
+    "address": "76-80 MacLaren Street, Ottawa, ON K2P 0K6",
+    "phone": "+1 (613) 238-6271"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Consulate General of Greece in Toronto",
+    "city": "Toronto",
+    "address": "1200 Bay Street, Suite 1002, Toronto, ON M5R 2A5",
+    "phone": "+1 (416) 515-0133"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Consulate General of Greece in Montreal",
+    "city": "Montreal",
+    "address": "1170 Place du Frere-Andre, Suite 300, Montreal, QC H3B 3C6",
+    "phone": "+1 (514) 875-2119"
+  },
+  {
+    "country": "United Nations (New York)",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Greece to the United Nations",
+    "city": "New York, NY",
+    "address": "866 Second Avenue, 13th Floor, New York, NY 10017",
+    "phone": "+1 (212) 888-6900"
+  },
+  {
+    "country": "European Union",
+    "type": "permanent-mission",
+    "name": "Permanent Representation of Greece to the EU",
+    "city": "Brussels",
+    "address": "Rue Jacques de Lalaing 19-21, 1040 Brussels",
+    "phone": "+32 (2) 551-5611"
+  }
+]

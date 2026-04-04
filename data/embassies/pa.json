@@ -1,0 +1,546 @@
+[
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Embassy of Panama in Washington, D.C.",
+    "city": "Washington, D.C.",
+    "address": "2862 McGill Terrace NW, Washington, DC 20008",
+    "phone": "+1 202 483-1407"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Panama in Miami",
+    "city": "Miami",
+    "address": "5775 Blue Lagoon Drive, Suite 200, Miami, FL 33126",
+    "phone": "+1 305 447-2543"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Panama in New York",
+    "city": "New York",
+    "address": "1212 Avenue of the Americas, Floor 20, New York, NY 10036",
+    "phone": "+1 212 840-2450"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Panama in Los Angeles",
+    "city": "Los Angeles",
+    "address": "3580 Wilshire Blvd, Suite 1830, Los Angeles, CA 90010",
+    "phone": "+1 213 386-1148"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Panama in Houston",
+    "city": "Houston",
+    "address": "24 Greenway Plaza, Suite 1307, Houston, TX 77046",
+    "phone": "+1 713 622-4451"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Panama in Chicago",
+    "city": "Chicago",
+    "address": "180 N. Michigan Ave., Suite 2210, Chicago, IL 60601",
+    "phone": "+1 312 649-0907"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Panama in Tampa",
+    "city": "Tampa",
+    "address": "4801 George J. Bean Pkwy, Suite 200, Tampa, FL 33607",
+    "phone": "+1 813 879-7181"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Panama in Philadelphia",
+    "city": "Philadelphia",
+    "address": "1628 JFK Blvd, Suite 1600, Philadelphia, PA 19103",
+    "phone": "+1 215 561-5650"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Panama in New Orleans",
+    "city": "New Orleans",
+    "address": "Poydras Center, 650 Poydras St, Suite 2310, New Orleans, LA 70130",
+    "phone": "+1 504 525-3458"
+  },
+  {
+    "country": "Mexico",
+    "type": "embassy",
+    "name": "Embassy of Panama in Mexico City",
+    "city": "Mexico City",
+    "address": "Schiller 326, Col. Polanco, Delegación Miguel Hidalgo, México DF",
+    "phone": "+52 55 5250-4229"
+  },
+  {
+    "country": "Guatemala",
+    "type": "embassy",
+    "name": "Embassy of Panama in Guatemala City",
+    "city": "Guatemala City",
+    "address": "5a. Ave. 15-45, Zona 10, Guatemala City",
+    "phone": "+502 2366-2527"
+  },
+  {
+    "country": "El Salvador",
+    "type": "embassy",
+    "name": "Embassy of Panama in San Salvador",
+    "city": "San Salvador",
+    "address": "83 Av. Norte, Col. Escalon, San Salvador",
+    "phone": "+503 2264-3459"
+  },
+  {
+    "country": "Honduras",
+    "type": "embassy",
+    "name": "Embassy of Panama in Tegucigalpa",
+    "city": "Tegucigalpa",
+    "address": "Col. Lomas del Guijarro Sur, Tegucigalpa",
+    "phone": "+504 2239-5508"
+  },
+  {
+    "country": "Nicaragua",
+    "type": "embassy",
+    "name": "Embassy of Panama in Managua",
+    "city": "Managua",
+    "address": "Km 5.5 Carretera Sur, Managua",
+    "phone": "+505 2266-7005"
+  },
+  {
+    "country": "Costa Rica",
+    "type": "embassy",
+    "name": "Embassy of Panama in San José",
+    "city": "San José",
+    "address": "San José, Costa Rica",
+    "phone": "+506 2280-1570"
+  },
+  {
+    "country": "Colombia",
+    "type": "embassy",
+    "name": "Embassy of Panama in Bogotá",
+    "city": "Bogotá",
+    "address": "Cra. 7a No. 76-21, Oficina 703, Bogotá",
+    "phone": "+57 1 248-1500"
+  },
+  {
+    "country": "Colombia",
+    "type": "consulate-general",
+    "name": "Consulate General of Panama in Cali",
+    "city": "Cali",
+    "address": "Cali, Colombia",
+    "phone": "+57 2 661-4220"
+  },
+  {
+    "country": "Venezuela",
+    "type": "embassy",
+    "name": "Embassy of Panama in Caracas",
+    "city": "Caracas",
+    "address": "Av. El Paseo, Prados del Este, Caracas",
+    "phone": "+58 212 977-2520"
+  },
+  {
+    "country": "Ecuador",
+    "type": "embassy",
+    "name": "Embassy of Panama in Quito",
+    "city": "Quito",
+    "address": "Av. Portugal 228 y Av. 6 de Diciembre, Quito",
+    "phone": "+593 2 246-0150"
+  },
+  {
+    "country": "Peru",
+    "type": "embassy",
+    "name": "Embassy of Panama in Lima",
+    "city": "Lima",
+    "address": "Av. José Pardo 641, Miraflores, Lima",
+    "phone": "+51 1 440-0494"
+  },
+  {
+    "country": "Brazil",
+    "type": "embassy",
+    "name": "Embassy of Panama in Brasília",
+    "city": "Brasília",
+    "address": "SES, Quadra 805, Lote 19, Brasília DF",
+    "phone": "+55 61 3248-6456"
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate",
+    "name": "Consulate of Panama in Manaus",
+    "city": "Manaus",
+    "address": "Manaus, Amazonas, Brazil",
+    "phone": "+55 92 3633-4700"
+  },
+  {
+    "country": "Argentina",
+    "type": "embassy",
+    "name": "Embassy of Panama in Buenos Aires",
+    "city": "Buenos Aires",
+    "address": "Santa Fe 885, Piso 7, Buenos Aires",
+    "phone": "+54 11 4311-2146"
+  },
+  {
+    "country": "Chile",
+    "type": "embassy",
+    "name": "Embassy of Panama in Santiago",
+    "city": "Santiago",
+    "address": "Holanda 2390, Providencia, Santiago",
+    "phone": "+56 2 2231-5146"
+  },
+  {
+    "country": "Bolivia",
+    "type": "embassy",
+    "name": "Embassy of Panama in La Paz",
+    "city": "La Paz",
+    "address": "Calacoto, La Paz",
+    "phone": "+591 2 277-2206"
+  },
+  {
+    "country": "Paraguay",
+    "type": "embassy",
+    "name": "Embassy of Panama in Asunción",
+    "city": "Asunción",
+    "address": "Asunción, Paraguay",
+    "phone": "+595 21 615-417"
+  },
+  {
+    "country": "Uruguay",
+    "type": "embassy",
+    "name": "Embassy of Panama in Montevideo",
+    "city": "Montevideo",
+    "address": "Rambla Gandhi 628, Montevideo",
+    "phone": "+598 2 710-7716"
+  },
+  {
+    "country": "Cuba",
+    "type": "embassy",
+    "name": "Embassy of Panama in Havana",
+    "city": "Havana",
+    "address": "Calle 26 No. 109 entre 1ra y 3ra, Miramar, Havana",
+    "phone": "+53 7 204-2881"
+  },
+  {
+    "country": "Dominican Republic",
+    "type": "embassy",
+    "name": "Embassy of Panama in Santo Domingo",
+    "city": "Santo Domingo",
+    "address": "Av. Anacaona, Mirador del Sur, Santo Domingo",
+    "phone": "+1 809 562-6468"
+  },
+  {
+    "country": "Haiti",
+    "type": "embassy",
+    "name": "Embassy of Panama in Port-au-Prince",
+    "city": "Port-au-Prince",
+    "address": "Port-au-Prince, Haiti",
+    "phone": "+509 2813-1170"
+  },
+  {
+    "country": "Jamaica",
+    "type": "embassy",
+    "name": "Embassy of Panama in Kingston",
+    "city": "Kingston",
+    "address": "Kingston, Jamaica",
+    "phone": "+1 876 926-3736"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "type": "embassy",
+    "name": "Embassy of Panama in Port of Spain",
+    "city": "Port of Spain",
+    "address": "Port of Spain, Trinidad and Tobago",
+    "phone": "+1 868 622-1435"
+  },
+  {
+    "country": "Canada",
+    "type": "embassy",
+    "name": "Embassy of Panama in Ottawa",
+    "city": "Ottawa",
+    "address": "130 Albert Street, Suite 300, Ottawa, ON K1P 5G4",
+    "phone": "+1 613 236-7177"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Consulate General of Panama in Montreal",
+    "city": "Montreal",
+    "address": "1000 De La Gauchetière Street West, Suite 2700, Montreal, QC",
+    "phone": "+1 514 874-1929"
+  },
+  {
+    "country": "Spain",
+    "type": "embassy",
+    "name": "Embassy of Panama in Madrid",
+    "city": "Madrid",
+    "address": "Claudio Coello, 86, 1° Dcha., 28006 Madrid",
+    "phone": "+34 91 576-6001"
+  },
+  {
+    "country": "Spain",
+    "type": "consulate-general",
+    "name": "Consulate General of Panama in Barcelona",
+    "city": "Barcelona",
+    "address": "Barcelona, Spain",
+    "phone": "+34 93 414-1155"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "embassy",
+    "name": "Embassy of Panama in London",
+    "city": "London",
+    "address": "40 Hertford Street, London W1J 7SH",
+    "phone": "+44 20 7493-4646"
+  },
+  {
+    "country": "France",
+    "type": "embassy",
+    "name": "Embassy of Panama in Paris",
+    "city": "Paris",
+    "address": "145 Avenue de Suffren, 75015 Paris",
+    "phone": "+33 1 45-66-4244"
+  },
+  {
+    "country": "Germany",
+    "type": "embassy",
+    "name": "Embassy of Panama in Berlin",
+    "city": "Berlin",
+    "address": "Joachim-Karnatz-Allee 45, 10557 Berlin",
+    "phone": "+49 30 226-0570"
+  },
+  {
+    "country": "Italy",
+    "type": "embassy",
+    "name": "Embassy of Panama in Rome",
+    "city": "Rome",
+    "address": "Via Tiziano 52, 00196 Rome",
+    "phone": "+39 06 3600-3540"
+  },
+  {
+    "country": "Netherlands",
+    "type": "embassy",
+    "name": "Embassy of Panama in The Hague",
+    "city": "The Hague",
+    "address": "Koninginnegracht 14, 2514 AA The Hague",
+    "phone": "+31 70 360-5311"
+  },
+  {
+    "country": "Belgium",
+    "type": "embassy",
+    "name": "Embassy of Panama in Brussels",
+    "city": "Brussels",
+    "address": "Boulevard Louis Schmidt 42, 1040 Brussels",
+    "phone": "+32 2 649-0765"
+  },
+  {
+    "country": "Switzerland",
+    "type": "embassy",
+    "name": "Embassy of Panama in Bern",
+    "city": "Bern",
+    "address": "Kramgasse 54, 3011 Bern",
+    "phone": "+41 31 311-2250"
+  },
+  {
+    "country": "Austria",
+    "type": "embassy",
+    "name": "Embassy of Panama in Vienna",
+    "city": "Vienna",
+    "address": "Naglergasse 9/5, 1010 Vienna",
+    "phone": "+43 1 516-1370"
+  },
+  {
+    "country": "Sweden",
+    "type": "embassy",
+    "name": "Embassy of Panama in Stockholm",
+    "city": "Stockholm",
+    "address": "Birger Jarlsgatan 27, Stockholm",
+    "phone": "+46 8 545-454-00"
+  },
+  {
+    "country": "Russia",
+    "type": "embassy",
+    "name": "Embassy of Panama in Moscow",
+    "city": "Moscow",
+    "address": "Koroviy Val 7, Building 1, Moscow",
+    "phone": "+7 495 230-0024"
+  },
+  {
+    "country": "China",
+    "type": "embassy",
+    "name": "Embassy of Panama in Beijing",
+    "city": "Beijing",
+    "address": "No. 2 Dong Er Jie, San Li Tun, Chaoyang District, Beijing",
+    "phone": "+86 10 6532-2189"
+  },
+  {
+    "country": "China",
+    "type": "consulate-general",
+    "name": "Consulate General of Panama in Shanghai",
+    "city": "Shanghai",
+    "address": "Shanghai, China",
+    "phone": "+86 21 6267-0440"
+  },
+  {
+    "country": "Japan",
+    "type": "embassy",
+    "name": "Embassy of Panama in Tokyo",
+    "city": "Tokyo",
+    "address": "4-6-4 Minami Azabu, Minato-ku, Tokyo 106-0047",
+    "phone": "+81 3 3499-3741"
+  },
+  {
+    "country": "South Korea",
+    "type": "embassy",
+    "name": "Embassy of Panama in Seoul",
+    "city": "Seoul",
+    "address": "Taepyeong-ro 1-ga 60, Chung-gu, Seoul",
+    "phone": "+82 2 734-8610"
+  },
+  {
+    "country": "Taiwan",
+    "type": "embassy",
+    "name": "Embassy of Panama in Taipei",
+    "city": "Taipei",
+    "address": "11F, 337 Fu Hsing North Road, Taipei",
+    "phone": "+886 2 2716-8333"
+  },
+  {
+    "country": "India",
+    "type": "embassy",
+    "name": "Embassy of Panama in New Delhi",
+    "city": "New Delhi",
+    "address": "New Delhi, India",
+    "phone": "+91 11 2611-3333"
+  },
+  {
+    "country": "Israel",
+    "type": "embassy",
+    "name": "Embassy of Panama in Tel Aviv",
+    "city": "Tel Aviv",
+    "address": "Medinat Hayehudim 60, Herzliya Pituach, Tel Aviv",
+    "phone": "+972 9 952-5222"
+  },
+  {
+    "country": "Egypt",
+    "type": "embassy",
+    "name": "Embassy of Panama in Cairo",
+    "city": "Cairo",
+    "address": "Cairo, Egypt",
+    "phone": "+20 2 2736-1180"
+  },
+  {
+    "country": "South Africa",
+    "type": "embassy",
+    "name": "Embassy of Panama in Pretoria",
+    "city": "Pretoria",
+    "address": "Pretoria, South Africa",
+    "phone": "+27 12 346-3270"
+  },
+  {
+    "country": "Nigeria",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Panama in Lagos",
+    "city": "Lagos",
+    "address": "Lagos, Nigeria",
+    "phone": ""
+  },
+  {
+    "country": "Morocco",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Panama in Casablanca",
+    "city": "Casablanca",
+    "address": "Casablanca, Morocco",
+    "phone": ""
+  },
+  {
+    "country": "Greece",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Panama in Piraeus",
+    "city": "Piraeus",
+    "address": "Piraeus, Greece",
+    "phone": "+30 210 453-2375"
+  },
+  {
+    "country": "Portugal",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Panama in Lisbon",
+    "city": "Lisbon",
+    "address": "Lisbon, Portugal",
+    "phone": "+351 21 797-4343"
+  },
+  {
+    "country": "Denmark",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Panama in Copenhagen",
+    "city": "Copenhagen",
+    "address": "Copenhagen, Denmark",
+    "phone": "+45 3317-1090"
+  },
+  {
+    "country": "Finland",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Panama in Helsinki",
+    "city": "Helsinki",
+    "address": "Helsinki, Finland",
+    "phone": "+358 9 622-9380"
+  },
+  {
+    "country": "Norway",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Panama in Oslo",
+    "city": "Oslo",
+    "address": "Oslo, Norway",
+    "phone": "+47 22 550-535"
+  },
+  {
+    "country": "Australia",
+    "type": "consulate-general",
+    "name": "Consulate General of Panama in Sydney",
+    "city": "Sydney",
+    "address": "Sydney, New South Wales, Australia",
+    "phone": "+61 2 9232-7230"
+  },
+  {
+    "country": "Singapore",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Panama in Singapore",
+    "city": "Singapore",
+    "address": "Singapore",
+    "phone": "+65 6735-9140"
+  },
+  {
+    "country": "Philippines",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Panama in Manila",
+    "city": "Manila",
+    "address": "Manila, Philippines",
+    "phone": "+63 2 815-9536"
+  },
+  {
+    "country": "United Nations (New York)",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Panama to the United Nations",
+    "city": "New York",
+    "address": "866 United Nations Plaza, Suite 4030, New York, NY 10017",
+    "phone": "+1 212 421-5420"
+  },
+  {
+    "country": "United Nations (Geneva)",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Panama to the United Nations in Geneva",
+    "city": "Geneva",
+    "address": "Rue de Lausanne 72, 1202 Geneva",
+    "phone": "+41 22 906-4001"
+  },
+  {
+    "country": "European Union",
+    "type": "permanent-mission",
+    "name": "Mission of Panama to the European Union",
+    "city": "Brussels",
+    "address": "Boulevard Louis Schmidt 42, 1040 Brussels",
+    "phone": "+32 2 649-0765"
+  }
+]

@@ -1,0 +1,554 @@
+[
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Embassy of Peru in Washington D.C.",
+    "city": "Washington D.C.",
+    "address": "1700 Massachusetts Ave NW, Washington D.C. 20036",
+    "phone": "+1 202 833-9860"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Peruvian Consulate General in New York",
+    "city": "New York",
+    "address": "241 East 49th Street, New York, NY 10017",
+    "phone": "+1 212 481-7410"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Peruvian Consulate General in Los Angeles",
+    "city": "Los Angeles",
+    "address": "3530 Wilshire Blvd, Suite 1500, Los Angeles, CA 90010",
+    "phone": "+1 213 252-5910"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Peruvian Consulate General in Miami",
+    "city": "Miami",
+    "address": "444 Brickell Ave, Suite M135, Miami, FL 33131",
+    "phone": "+1 305 374-1407"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Peruvian Consulate General in Houston",
+    "city": "Houston",
+    "address": "5177 Richmond Ave, Suite 695, Houston, TX 77056",
+    "phone": "+1 713 355-9517"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Peruvian Consulate General in Chicago",
+    "city": "Chicago",
+    "address": "180 N Michigan Ave, Suite 1830, Chicago, IL 60601",
+    "phone": "+1 312 782-1599"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Peruvian Consulate General in San Francisco",
+    "city": "San Francisco",
+    "address": "870 Market Street, Suite 1060, San Francisco, CA 94102",
+    "phone": "+1 415 362-5185"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Peruvian Consulate General in Paterson",
+    "city": "Paterson",
+    "address": "100 Hamilton Plaza, Suite 1208, Paterson, NJ 07505",
+    "phone": "+1 973 278-3324"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Peruvian Consulate General in Dallas",
+    "city": "Dallas",
+    "address": "1999 Bryan Street, Suite 2150, Dallas, TX 75201",
+    "phone": "+1 214 740-0034"
+  },
+  {
+    "country": "Canada",
+    "type": "embassy",
+    "name": "Embassy of Peru in Ottawa",
+    "city": "Ottawa",
+    "address": "130 Albert Street, Suite 1901, Ottawa, Ontario K1P 5G4",
+    "phone": "+1 613 238-1777"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Peruvian Consulate General in Toronto",
+    "city": "Toronto",
+    "address": "10 Saint Mary Street, Suite 301, Toronto, Ontario M4Y 1P9",
+    "phone": "+1 416 963-9696"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Peruvian Consulate General in Vancouver",
+    "city": "Vancouver",
+    "address": "789 West Pender Street, Suite 755, Vancouver, BC V6C 1H2",
+    "phone": "+1 604 662-8880"
+  },
+  {
+    "country": "Mexico",
+    "type": "embassy",
+    "name": "Embassy of Peru in Mexico City",
+    "city": "Mexico City",
+    "address": "Paseo de la Reforma 2601, Lomas de Chapultepec, 11000 Mexico City",
+    "phone": "+52 55 5280-7790"
+  },
+  {
+    "country": "Argentina",
+    "type": "embassy",
+    "name": "Embassy of Peru in Buenos Aires",
+    "city": "Buenos Aires",
+    "address": "Av. del Libertador 1720, 1425 Buenos Aires",
+    "phone": "+54 11 4802-2000"
+  },
+  {
+    "country": "Argentina",
+    "type": "consulate-general",
+    "name": "Peruvian Consulate General in Córdoba",
+    "city": "Córdoba",
+    "address": "Av. Hipólito Irigoyen 530, Piso 3, Córdoba 5000",
+    "phone": "+54 351 424-0333"
+  },
+  {
+    "country": "Argentina",
+    "type": "consulate-general",
+    "name": "Peruvian Consulate General in Mendoza",
+    "city": "Mendoza",
+    "address": "Av. España 1131, Piso 7, M5500 Mendoza",
+    "phone": "+54 261 420-5516"
+  },
+  {
+    "country": "Brazil",
+    "type": "embassy",
+    "name": "Embassy of Peru in Brasília",
+    "city": "Brasília",
+    "address": "SHIS QI 11, Conjunto 8, Casa 24, Lago Sul, Brasília DF 71625-280",
+    "phone": "+55 61 3242-9933"
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate-general",
+    "name": "Peruvian Consulate General in São Paulo",
+    "city": "São Paulo",
+    "address": "Rua Suécia 122, Jardim Europa, São Paulo SP 01457-000",
+    "phone": "+55 11 3085-4656"
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate-general",
+    "name": "Peruvian Consulate General in Manaus",
+    "city": "Manaus",
+    "address": "Rua Ferreira Pena 179, Centro, Manaus AM 69010-080",
+    "phone": "+55 92 3233-2244"
+  },
+  {
+    "country": "Chile",
+    "type": "embassy",
+    "name": "Embassy of Peru in Santiago",
+    "city": "Santiago",
+    "address": "Av. Andrés Bello 1751, Providencia, Santiago",
+    "phone": "+56 2 2339-2600"
+  },
+  {
+    "country": "Chile",
+    "type": "consulate-general",
+    "name": "Peruvian Consulate General in Arica",
+    "city": "Arica",
+    "address": "San Martín 235, Arica",
+    "phone": "+56 58 225-4020"
+  },
+  {
+    "country": "Chile",
+    "type": "consulate-general",
+    "name": "Peruvian Consulate General in Iquique",
+    "city": "Iquique",
+    "address": "Ramírez 548, Iquique",
+    "phone": "+56 57 241-6900"
+  },
+  {
+    "country": "Colombia",
+    "type": "embassy",
+    "name": "Embassy of Peru in Bogotá",
+    "city": "Bogotá",
+    "address": "Carrera 9 No. 76-27, Piso 1, Bogotá",
+    "phone": "+57 1 326-6270"
+  },
+  {
+    "country": "Ecuador",
+    "type": "embassy",
+    "name": "Embassy of Peru in Quito",
+    "city": "Quito",
+    "address": "Av. República del El Salvador 495 y Suecia, Quito",
+    "phone": "+593 2 246-8430"
+  },
+  {
+    "country": "Ecuador",
+    "type": "consulate-general",
+    "name": "Peruvian Consulate General in Guayaquil",
+    "city": "Guayaquil",
+    "address": "Av. 9 de Octubre 729 y Boyacá, Guayaquil",
+    "phone": "+593 4 232-8470"
+  },
+  {
+    "country": "Bolivia",
+    "type": "embassy",
+    "name": "Embassy of Peru in La Paz",
+    "city": "La Paz",
+    "address": "Av. Arce 2932, Sopocachi, La Paz",
+    "phone": "+591 2 244-1250"
+  },
+  {
+    "country": "Venezuela",
+    "type": "embassy",
+    "name": "Embassy of Peru in Caracas",
+    "city": "Caracas",
+    "address": "Calle Guaicaipuro, Piso 5, El Rosal, Caracas",
+    "phone": "+58 212 952-4121"
+  },
+  {
+    "country": "Uruguay",
+    "type": "embassy",
+    "name": "Embassy of Peru in Montevideo",
+    "city": "Montevideo",
+    "address": "Leandro Gómez 1374, Montevideo 11300",
+    "phone": "+598 2 916-0022"
+  },
+  {
+    "country": "Paraguay",
+    "type": "embassy",
+    "name": "Embassy of Peru in Asunción",
+    "city": "Asunción",
+    "address": "Av. Mariscal López 2556 esq. Cacique Lambaré, Asunción",
+    "phone": "+595 21 663-095"
+  },
+  {
+    "country": "Cuba",
+    "type": "embassy",
+    "name": "Embassy of Peru in Havana",
+    "city": "Havana",
+    "address": "Calle 30 No. 107, Miramar, Havana",
+    "phone": "+53 7 204-2477"
+  },
+  {
+    "country": "Panama",
+    "type": "embassy",
+    "name": "Embassy of Peru in Panama City",
+    "city": "Panama City",
+    "address": "Calle 53 Este, Marbella, Panama City",
+    "phone": "+507 264-5588"
+  },
+  {
+    "country": "Costa Rica",
+    "type": "embassy",
+    "name": "Embassy of Peru in San José",
+    "city": "San José",
+    "address": "Av. 0 y Calle 29 y 31, San José 10101",
+    "phone": "+506 2221-4702"
+  },
+  {
+    "country": "Spain",
+    "type": "embassy",
+    "name": "Embassy of Peru in Madrid",
+    "city": "Madrid",
+    "address": "Príncipe de Vergara 36, 28001 Madrid",
+    "phone": "+34 91 431-4242"
+  },
+  {
+    "country": "Spain",
+    "type": "consulate-general",
+    "name": "Peruvian Consulate General in Barcelona",
+    "city": "Barcelona",
+    "address": "Gran Via de les Corts Catalanes 634, 1° planta, 08007 Barcelona",
+    "phone": "+34 93 317-0420"
+  },
+  {
+    "country": "Spain",
+    "type": "consulate-general",
+    "name": "Peruvian Consulate General in Bilbao",
+    "city": "Bilbao",
+    "address": "Gran Vía 30, Piso 5, 48009 Bilbao",
+    "phone": "+34 94 415-0434"
+  },
+  {
+    "country": "Spain",
+    "type": "consulate",
+    "name": "Peruvian Consulate in Valencia",
+    "city": "Valencia",
+    "address": "Av. del Puerto 183, Piso 1, 46023 Valencia",
+    "phone": "+34 96 337-4980"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "embassy",
+    "name": "Embassy of Peru in London",
+    "city": "London",
+    "address": "52 Sloane Street, London SW1X 9SP",
+    "phone": "+44 20 7235-1917"
+  },
+  {
+    "country": "France",
+    "type": "embassy",
+    "name": "Embassy of Peru in Paris",
+    "city": "Paris",
+    "address": "50 avenue Kléber, 75116 Paris",
+    "phone": "+33 1 5370-4200"
+  },
+  {
+    "country": "Germany",
+    "type": "embassy",
+    "name": "Embassy of Peru in Berlin",
+    "city": "Berlin",
+    "address": "Mohrenstraße 42, 10117 Berlin",
+    "phone": "+49 30 206-4103"
+  },
+  {
+    "country": "Italy",
+    "type": "embassy",
+    "name": "Embassy of Peru in Rome",
+    "city": "Rome",
+    "address": "Via Francesco Siacci 2/B, 00197 Rome",
+    "phone": "+39 06 807-4990"
+  },
+  {
+    "country": "Italy",
+    "type": "consulate-general",
+    "name": "Peruvian Consulate General in Milan",
+    "city": "Milan",
+    "address": "Via Fontana 3, 20122 Milan",
+    "phone": "+39 02 8909-0881"
+  },
+  {
+    "country": "Switzerland",
+    "type": "embassy",
+    "name": "Embassy of Peru in Bern",
+    "city": "Bern",
+    "address": "Thunstrasse 36, 3005 Bern",
+    "phone": "+41 31 351-8555"
+  },
+  {
+    "country": "Netherlands",
+    "type": "embassy",
+    "name": "Embassy of Peru in The Hague",
+    "city": "The Hague",
+    "address": "Nassauplein 4, 2585 EA The Hague",
+    "phone": "+31 70 365-2082"
+  },
+  {
+    "country": "Belgium",
+    "type": "embassy",
+    "name": "Embassy of Peru in Brussels",
+    "city": "Brussels",
+    "address": "Avenue de Tervueren 179, 1150 Brussels",
+    "phone": "+32 2 733-3319"
+  },
+  {
+    "country": "Sweden",
+    "type": "embassy",
+    "name": "Embassy of Peru in Stockholm",
+    "city": "Stockholm",
+    "address": "Döbelnsgatan 63, 113 52 Stockholm",
+    "phone": "+46 8 673-7000"
+  },
+  {
+    "country": "Portugal",
+    "type": "embassy",
+    "name": "Embassy of Peru in Lisbon",
+    "city": "Lisbon",
+    "address": "Rua Castilho 50, 3° Esq., 1250-071 Lisbon",
+    "phone": "+351 21 383-6640"
+  },
+  {
+    "country": "Russia",
+    "type": "embassy",
+    "name": "Embassy of Peru in Moscow",
+    "city": "Moscow",
+    "address": "Smolensky Boulvar 22/14, App. 6, Moscow 119002",
+    "phone": "+7 495 248-7738"
+  },
+  {
+    "country": "China",
+    "type": "embassy",
+    "name": "Embassy of Peru in Beijing",
+    "city": "Beijing",
+    "address": "San Li Tun, Lu Street 2-82, Beijing 100600",
+    "phone": "+86 10 6532-3477"
+  },
+  {
+    "country": "China",
+    "type": "consulate-general",
+    "name": "Peruvian Consulate General in Shanghai",
+    "city": "Shanghai",
+    "address": "88 Huaihai Rd E (E), Huangpu District, Shanghai 200021",
+    "phone": "+86 21 6320-7878"
+  },
+  {
+    "country": "Japan",
+    "type": "embassy",
+    "name": "Embassy of Peru in Tokyo",
+    "city": "Tokyo",
+    "address": "4-4-27 Higashi, Shibuya-ku, Tokyo 150-0011",
+    "phone": "+81 3 3406-4240"
+  },
+  {
+    "country": "South Korea",
+    "type": "embassy",
+    "name": "Embassy of Peru in Seoul",
+    "city": "Seoul",
+    "address": "10F Seoul Finance Center, 136 Sejong-daero, Jongno-gu, Seoul 03186",
+    "phone": "+82 2 757-1735"
+  },
+  {
+    "country": "Australia",
+    "type": "embassy",
+    "name": "Embassy of Peru in Canberra",
+    "city": "Canberra",
+    "address": "40 Brisbane Ave, Barton, ACT 2600",
+    "phone": "+61 2 6273-7351"
+  },
+  {
+    "country": "Australia",
+    "type": "consulate-general",
+    "name": "Peruvian Consulate General in Sydney",
+    "city": "Sydney",
+    "address": "Level 11, 52-58 William Street, East Sydney, NSW 2011",
+    "phone": "+61 2 9380-3840"
+  },
+  {
+    "country": "India",
+    "type": "embassy",
+    "name": "Embassy of Peru in New Delhi",
+    "city": "New Delhi",
+    "address": "D-4/23, Vasant Vihar, New Delhi 110057",
+    "phone": "+91 11 2614-7180"
+  },
+  {
+    "country": "South Africa",
+    "type": "embassy",
+    "name": "Embassy of Peru in Pretoria",
+    "city": "Pretoria",
+    "address": "1030 Schoeman Street, Hatfield, Pretoria 0083",
+    "phone": "+27 12 342-0609"
+  },
+  {
+    "country": "Egypt",
+    "type": "embassy",
+    "name": "Embassy of Peru in Cairo",
+    "city": "Cairo",
+    "address": "Isis Street 12, 5th Floor, Zamalek, Cairo",
+    "phone": "+20 2 2736-0567"
+  },
+  {
+    "country": "Turkey",
+    "type": "embassy",
+    "name": "Embassy of Peru in Ankara",
+    "city": "Ankara",
+    "address": "Remzi Oguz Arık Cad. 43/1, Çankaya, Ankara",
+    "phone": "+90 312 442-7651"
+  },
+  {
+    "country": "Israel",
+    "type": "embassy",
+    "name": "Embassy of Peru in Tel Aviv",
+    "city": "Tel Aviv",
+    "address": "Hamered Street 37, 10th Floor, Tel Aviv 68125",
+    "phone": "+972 3 510-5000"
+  },
+  {
+    "country": "Saudi Arabia",
+    "type": "embassy",
+    "name": "Embassy of Peru in Riyadh",
+    "city": "Riyadh",
+    "address": "Diplomatic Quarter, Riyadh 11693",
+    "phone": "+966 11 488-3300"
+  },
+  {
+    "country": "United Arab Emirates",
+    "type": "embassy",
+    "name": "Embassy of Peru in Abu Dhabi",
+    "city": "Abu Dhabi",
+    "address": "Al Bateen District, PO Box 3006, Abu Dhabi",
+    "phone": "+971 2 635-2100"
+  },
+  {
+    "country": "Morocco",
+    "type": "embassy",
+    "name": "Embassy of Peru in Rabat",
+    "city": "Rabat",
+    "address": "6 Rue Hamza, Quartier Hassan, Rabat",
+    "phone": "+212 537-765-490"
+  },
+  {
+    "country": "Indonesia",
+    "type": "embassy",
+    "name": "Embassy of Peru in Jakarta",
+    "city": "Jakarta",
+    "address": "Gedung Nugra Santana, Lt. 12, Jl. Jend. Sudirman Kav. 7-8, Jakarta 10220",
+    "phone": "+62 21 570-5777"
+  },
+  {
+    "country": "Thailand",
+    "type": "embassy",
+    "name": "Embassy of Peru in Bangkok",
+    "city": "Bangkok",
+    "address": "Athenee Tower, 20th Floor, 63 Wireless Rd, Pathumwan, Bangkok 10330",
+    "phone": "+66 2 168-8500"
+  },
+  {
+    "country": "United Nations (New York)",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Peru to the United Nations (New York)",
+    "city": "New York",
+    "address": "820 Second Ave, Suite 1600, New York, NY 10017",
+    "phone": "+1 212 687-3336"
+  },
+  {
+    "country": "United Nations (Geneva)",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Peru to the United Nations (Geneva)",
+    "city": "Geneva",
+    "address": "Rue de Lausanne 63, 1202 Geneva",
+    "phone": "+41 22 715-7777"
+  },
+  {
+    "country": "European Union",
+    "type": "permanent-mission",
+    "name": "Mission of Peru to the European Union",
+    "city": "Brussels",
+    "address": "Avenue de Tervueren 179, 1150 Brussels",
+    "phone": "+32 2 733-3319"
+  },
+  {
+    "country": "OAS (Washington)",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Peru to the OAS",
+    "city": "Washington D.C.",
+    "address": "1700 Massachusetts Ave NW, Washington D.C. 20036",
+    "phone": "+1 202 833-9860"
+  },
+  {
+    "country": "Poland",
+    "type": "embassy",
+    "name": "Embassy of Peru in Warsaw",
+    "city": "Warsaw",
+    "address": "ul. Willowa 8/3, 00-790 Warsaw",
+    "phone": "+48 22 840-5080"
+  },
+  {
+    "country": "Czech Republic",
+    "type": "embassy",
+    "name": "Embassy of Peru in Prague",
+    "city": "Prague",
+    "address": "Muchova 9, 160 00 Prague 6",
+    "phone": "+420 2 2431-0888"
+  }
+]

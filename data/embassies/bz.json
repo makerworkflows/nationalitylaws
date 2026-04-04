@@ -1,0 +1,258 @@
+[
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Embassy of Belize in Washington D.C.",
+    "city": "Washington D.C.",
+    "address": "2535 Massachusetts Avenue NW, Washington, D.C. 20008",
+    "phone": "+1 202 332 9636"
+  },
+  {
+    "country": "United States",
+    "type": "consulate",
+    "name": "Consulate of Belize in Los Angeles",
+    "city": "Los Angeles",
+    "address": "5750 Wilshire Blvd, Suite 490, Los Angeles, CA 90036",
+    "phone": "+1 323 634 9900"
+  },
+  {
+    "country": "United States",
+    "type": "consulate",
+    "name": "Consulate of Belize in Chicago",
+    "city": "Chicago",
+    "address": "190 N. State Street, Suite 1510, Chicago, IL 60601",
+    "phone": "+1 312 263 6420"
+  },
+  {
+    "country": "United States",
+    "type": "consulate",
+    "name": "Consulate of Belize in Miami",
+    "city": "Miami",
+    "address": "3250 Mary Street, Suite 109, Miami, FL 33133",
+    "phone": "+1 305 443 4030"
+  },
+  {
+    "country": "United States",
+    "type": "consulate",
+    "name": "Consulate of Belize in New York",
+    "city": "New York",
+    "address": "675 Third Avenue, Suite 1911, New York, NY 10017",
+    "phone": "+1 212 986 1240"
+  },
+  {
+    "country": "United States",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Belize in San Francisco",
+    "city": "San Francisco",
+    "address": "San Francisco, CA",
+    "phone": ""
+  },
+  {
+    "country": "United Kingdom",
+    "type": "high-commission",
+    "name": "Belize High Commission in London",
+    "city": "London",
+    "address": "45 Crawford Place, London W1H 4LP",
+    "phone": "+44 20 7723 3603"
+  },
+  {
+    "country": "Mexico",
+    "type": "embassy",
+    "name": "Embassy of Belize in Mexico City",
+    "city": "Mexico City",
+    "address": "Bernardo de Galvez 215, Lomas de Chapultepec, 11000 Mexico City",
+    "phone": "+52 55 5520 1274"
+  },
+  {
+    "country": "Mexico",
+    "type": "consulate-general",
+    "name": "Consulate General of Belize in Chetumal",
+    "city": "Chetumal",
+    "address": "Av. Obregon 226, Chetumal, Quintana Roo, Mexico",
+    "phone": "+52 983 832 0376"
+  },
+  {
+    "country": "Guatemala",
+    "type": "embassy",
+    "name": "Embassy of Belize in Guatemala City",
+    "city": "Guatemala City",
+    "address": "Avenida La Reforma 1-50 Zona 9, Edificio El Reformador, Guatemala City",
+    "phone": "+502 2334 5531"
+  },
+  {
+    "country": "Guatemala",
+    "type": "consulate",
+    "name": "Consulate of Belize in Flores",
+    "city": "Flores",
+    "address": "Flores, Petén, Guatemala",
+    "phone": ""
+  },
+  {
+    "country": "Canada",
+    "type": "high-commission",
+    "name": "Belize High Commission in Ottawa",
+    "city": "Ottawa",
+    "address": "Suite 1800, 130 Albert Street, Ottawa, ON K1P 5G4",
+    "phone": "+1 613 562 3762"
+  },
+  {
+    "country": "Canada",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Belize in Toronto",
+    "city": "Toronto",
+    "address": "Toronto, ON",
+    "phone": ""
+  },
+  {
+    "country": "El Salvador",
+    "type": "embassy",
+    "name": "Embassy of Belize in San Salvador",
+    "city": "San Salvador",
+    "address": "Colonia Escalon, San Salvador, El Salvador",
+    "phone": "+503 2263 2844"
+  },
+  {
+    "country": "Honduras",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Belize in Tegucigalpa",
+    "city": "Tegucigalpa",
+    "address": "Tegucigalpa, Honduras",
+    "phone": ""
+  },
+  {
+    "country": "Venezuela",
+    "type": "embassy",
+    "name": "Embassy of Belize in Caracas",
+    "city": "Caracas",
+    "address": "Caracas, Venezuela",
+    "phone": ""
+  },
+  {
+    "country": "Cuba",
+    "type": "embassy",
+    "name": "Embassy of Belize in Havana",
+    "city": "Havana",
+    "address": "Calle 36 No. 1306, Miramar, Havana, Cuba",
+    "phone": "+53 7 204 6096"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "type": "high-commission",
+    "name": "Belize High Commission in Port of Spain",
+    "city": "Port of Spain",
+    "address": "Port of Spain, Trinidad and Tobago",
+    "phone": ""
+  },
+  {
+    "country": "Belgium",
+    "type": "permanent-mission",
+    "name": "Mission of Belize to the European Union (Brussels)",
+    "city": "Brussels",
+    "address": "Rue des Deux Eglises 37, 1000 Brussels, Belgium",
+    "phone": "+32 2 732 6204"
+  },
+  {
+    "country": "Belgium",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Belize to the United Nations (New York) -- also represented in Brussels",
+    "city": "Brussels",
+    "address": "Rue des Deux Eglises 37, 1000 Brussels, Belgium",
+    "phone": "+32 2 732 6204"
+  },
+  {
+    "country": "United States",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Belize to the United Nations",
+    "city": "New York",
+    "address": "675 Third Avenue, Suite 1911, New York, NY 10017",
+    "phone": "+1 212 986 1240"
+  },
+  {
+    "country": "Switzerland",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Belize to the UN in Geneva",
+    "city": "Geneva",
+    "address": "Geneva, Switzerland",
+    "phone": ""
+  },
+  {
+    "country": "Taiwan",
+    "type": "embassy",
+    "name": "Embassy of Belize in Taipei",
+    "city": "Taipei",
+    "address": "4F-1, 9 Lane 62, Tianmu West Road, Taipei, Taiwan",
+    "phone": "+886 2 2876 4849"
+  },
+  {
+    "country": "Japan",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Belize in Tokyo",
+    "city": "Tokyo",
+    "address": "Tokyo, Japan",
+    "phone": ""
+  },
+  {
+    "country": "Germany",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Belize in Hamburg",
+    "city": "Hamburg",
+    "address": "Hamburg, Germany",
+    "phone": ""
+  },
+  {
+    "country": "Netherlands",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Belize in Amsterdam",
+    "city": "Amsterdam",
+    "address": "Amsterdam, Netherlands",
+    "phone": ""
+  },
+  {
+    "country": "Spain",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Belize in Madrid",
+    "city": "Madrid",
+    "address": "Madrid, Spain",
+    "phone": ""
+  },
+  {
+    "country": "India",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Belize in New Delhi",
+    "city": "New Delhi",
+    "address": "New Delhi, India",
+    "phone": ""
+  },
+  {
+    "country": "Colombia",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Belize in Bogotá",
+    "city": "Bogotá",
+    "address": "Bogotá, Colombia",
+    "phone": ""
+  },
+  {
+    "country": "Costa Rica",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Belize in San José",
+    "city": "San José",
+    "address": "San José, Costa Rica",
+    "phone": ""
+  },
+  {
+    "country": "Panama",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Belize in Panama City",
+    "city": "Panama City",
+    "address": "Panama City, Panama",
+    "phone": ""
+  },
+  {
+    "country": "Bahamas",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Belize in Nassau",
+    "city": "Nassau",
+    "address": "Nassau, Bahamas",
+    "phone": ""
+  }
+]

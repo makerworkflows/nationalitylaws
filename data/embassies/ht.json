@@ -1,0 +1,290 @@
+[
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Embassy of Haiti in Washington D.C.",
+    "city": "Washington D.C.",
+    "address": "2311 Massachusetts Avenue NW, Washington, D.C. 20008",
+    "phone": "+1 202 332 4090"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Haiti in Miami",
+    "city": "Miami",
+    "address": "259 SW 13th Street, Miami, FL 33130",
+    "phone": "+1 305 859 2003"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Haiti in New York",
+    "city": "New York",
+    "address": "271 Madison Avenue, 17th Floor, New York, NY 10016",
+    "phone": "+1 212 697 9767"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Haiti in Boston",
+    "city": "Boston",
+    "address": "545 Boylston Street, Suite 201, Boston, MA 02116",
+    "phone": "+1 617 266 3660"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Haiti in Chicago",
+    "city": "Chicago",
+    "address": "220 S. Michigan Avenue, Suite 900, Chicago, IL 60604",
+    "phone": "+1 312 922 4004"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Haiti in Orlando",
+    "city": "Orlando",
+    "address": "800 Vineland Road, Suite A, Orlando, FL 32811",
+    "phone": "+1 407 644 0258"
+  },
+  {
+    "country": "United States",
+    "type": "consulate",
+    "name": "Consulate of Haiti in Atlanta",
+    "city": "Atlanta",
+    "address": "229 Peachtree Street NE, Suite 600, Atlanta, GA 30303",
+    "phone": "+1 404 659 8001"
+  },
+  {
+    "country": "Canada",
+    "type": "embassy",
+    "name": "Embassy of Haiti in Ottawa",
+    "city": "Ottawa",
+    "address": "130 Albert Street, Suite 1730, Ottawa, ON K1P 5G4",
+    "phone": "+1 613 238 1628"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Consulate General of Haiti in Montreal",
+    "city": "Montreal",
+    "address": "Place Mercantile, 770 Sherbrooke Ouest, Suite 1010, Montreal, QC H3A 1G1",
+    "phone": "+1 514 499 1919"
+  },
+  {
+    "country": "France",
+    "type": "embassy",
+    "name": "Embassy of Haiti in Paris",
+    "city": "Paris",
+    "address": "10 Rue Théodule Ribot, 75017 Paris, France",
+    "phone": "+33 1 47 63 47 78"
+  },
+  {
+    "country": "France",
+    "type": "consulate-general",
+    "name": "Consulate General of Haiti in Paris",
+    "city": "Paris",
+    "address": "10 Rue Théodule Ribot, 75017 Paris, France",
+    "phone": "+33 1 47 63 47 78"
+  },
+  {
+    "country": "Dominican Republic",
+    "type": "embassy",
+    "name": "Embassy of Haiti in Santo Domingo",
+    "city": "Santo Domingo",
+    "address": "Calle Juan Sanchez Ramirez 33, Gazcue, Santo Domingo",
+    "phone": "+1 809 686 5778"
+  },
+  {
+    "country": "Dominican Republic",
+    "type": "consulate-general",
+    "name": "Consulate General of Haiti in Santiago de los Caballeros",
+    "city": "Santiago",
+    "address": "Calle del Sol, Santiago de los Caballeros, Dominican Republic",
+    "phone": "+1 809 582 2016"
+  },
+  {
+    "country": "Cuba",
+    "type": "embassy",
+    "name": "Embassy of Haiti in Havana",
+    "city": "Havana",
+    "address": "Calle 5ta No. 309, Miramar, Havana, Cuba",
+    "phone": "+53 7 204 5421"
+  },
+  {
+    "country": "Jamaica",
+    "type": "embassy",
+    "name": "Embassy of Haiti in Kingston",
+    "city": "Kingston",
+    "address": "2 Monroe Road, Kingston 6, Jamaica",
+    "phone": "+1 876 927 7595"
+  },
+  {
+    "country": "Bahamas",
+    "type": "consulate-general",
+    "name": "Consulate General of Haiti in Nassau",
+    "city": "Nassau",
+    "address": "Nassau, Bahamas",
+    "phone": "+1 242 326 3850"
+  },
+  {
+    "country": "Guyana",
+    "type": "embassy",
+    "name": "Embassy of Haiti in Georgetown",
+    "city": "Georgetown",
+    "address": "Georgetown, Guyana",
+    "phone": ""
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "type": "embassy",
+    "name": "Embassy of Haiti in Port of Spain",
+    "city": "Port of Spain",
+    "address": "Port of Spain, Trinidad and Tobago",
+    "phone": ""
+  },
+  {
+    "country": "Venezuela",
+    "type": "embassy",
+    "name": "Embassy of Haiti in Caracas",
+    "city": "Caracas",
+    "address": "Quinta Avenida, Las Mercedes, Caracas, Venezuela",
+    "phone": "+58 212 993 8511"
+  },
+  {
+    "country": "Brazil",
+    "type": "embassy",
+    "name": "Embassy of Haiti in Brasília",
+    "city": "Brasília",
+    "address": "SHIS QI 11, Conj. 10, Casa 7, Lago Sul, 71625-300 Brasília, DF",
+    "phone": "+55 61 3364 0130"
+  },
+  {
+    "country": "Mexico",
+    "type": "embassy",
+    "name": "Embassy of Haiti in Mexico City",
+    "city": "Mexico City",
+    "address": "Calzada de los Leones No. 530, Lomas de Bezares, Mexico City",
+    "phone": "+52 55 5259 0163"
+  },
+  {
+    "country": "Colombia",
+    "type": "embassy",
+    "name": "Embassy of Haiti in Bogotá",
+    "city": "Bogotá",
+    "address": "Carrera 7 No. 79-97, Bogotá, Colombia",
+    "phone": "+57 1 317 0019"
+  },
+  {
+    "country": "Argentina",
+    "type": "embassy",
+    "name": "Embassy of Haiti in Buenos Aires",
+    "city": "Buenos Aires",
+    "address": "Avenida Figueroa Alcorta 3297, Buenos Aires, Argentina",
+    "phone": "+54 11 4806 7804"
+  },
+  {
+    "country": "Belgium",
+    "type": "embassy",
+    "name": "Embassy of Haiti in Brussels (accredited to EU and Belgium)",
+    "city": "Brussels",
+    "address": "Av. Louise 160, Boite 4, 1050 Brussels, Belgium",
+    "phone": "+32 2 649 7381"
+  },
+  {
+    "country": "United States",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Haiti to the United Nations",
+    "city": "New York",
+    "address": "815 Second Avenue, 7th Floor, New York, NY 10017",
+    "phone": "+1 212 370 4840"
+  },
+  {
+    "country": "Switzerland",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Haiti to the UN in Geneva",
+    "city": "Geneva",
+    "address": "Rue de Vermont 37-39, 1202 Geneva, Switzerland",
+    "phone": "+41 22 919 9220"
+  },
+  {
+    "country": "France",
+    "type": "permanent-mission",
+    "name": "Permanent Delegation of Haiti to UNESCO",
+    "city": "Paris",
+    "address": "1 Rue Miollis, 75015 Paris, France",
+    "phone": ""
+  },
+  {
+    "country": "Senegal",
+    "type": "embassy",
+    "name": "Embassy of Haiti in Dakar",
+    "city": "Dakar",
+    "address": "Dakar, Senegal",
+    "phone": ""
+  },
+  {
+    "country": "China",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Haiti in Hong Kong",
+    "city": "Hong Kong",
+    "address": "Hong Kong",
+    "phone": ""
+  },
+  {
+    "country": "Germany",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Haiti in Hamburg",
+    "city": "Hamburg",
+    "address": "Hamburg, Germany",
+    "phone": ""
+  },
+  {
+    "country": "Spain",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Haiti in Madrid",
+    "city": "Madrid",
+    "address": "Madrid, Spain",
+    "phone": ""
+  },
+  {
+    "country": "Italy",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Haiti in Rome",
+    "city": "Rome",
+    "address": "Rome, Italy",
+    "phone": ""
+  },
+  {
+    "country": "Guadeloupe",
+    "type": "consulate",
+    "name": "Consulate of Haiti in Pointe-à-Pitre",
+    "city": "Pointe-à-Pitre",
+    "address": "Pointe-à-Pitre, Guadeloupe",
+    "phone": ""
+  },
+  {
+    "country": "Martinique",
+    "type": "consulate",
+    "name": "Consulate of Haiti in Fort-de-France",
+    "city": "Fort-de-France",
+    "address": "Fort-de-France, Martinique",
+    "phone": ""
+  },
+  {
+    "country": "Chile",
+    "type": "embassy",
+    "name": "Embassy of Haiti in Santiago",
+    "city": "Santiago",
+    "address": "Av. Apoquindo 3885, Oficina 601, Las Condes, Santiago, Chile",
+    "phone": "+56 2 2246 0085"
+  },
+  {
+    "country": "Ecuador",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Haiti in Quito",
+    "city": "Quito",
+    "address": "Quito, Ecuador",
+    "phone": ""
+  }
+]

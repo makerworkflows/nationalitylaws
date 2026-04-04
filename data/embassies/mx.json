@@ -1,0 +1,290 @@
+[
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Embassy of Mexico in Washington",
+    "city": "Washington, D.C.",
+    "address": "1911 Pennsylvania Ave NW, Washington, DC 20006",
+    "phone": "+1 (202) 728-1600"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Mexico in New York",
+    "city": "New York, NY",
+    "address": "27 East 39th Street, New York, NY 10016",
+    "phone": "+1 (212) 217-6400"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Mexico in Los Angeles",
+    "city": "Los Angeles, CA",
+    "address": "2401 West 6th Street, Los Angeles, CA 90057",
+    "phone": "+1 (213) 351-6800"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Mexico in Chicago",
+    "city": "Chicago, IL",
+    "address": "204 South Ashland Avenue, Chicago, IL 60607",
+    "phone": "+1 (312) 738-2383"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Mexico in Houston",
+    "city": "Houston, TX",
+    "address": "4507 San Jacinto Street, Houston, TX 77004",
+    "phone": "+1 (713) 271-6800"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Mexico in San Antonio",
+    "city": "San Antonio, TX",
+    "address": "127 Navarro Street, San Antonio, TX 78205",
+    "phone": "+1 (210) 227-9145"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Mexico in Dallas",
+    "city": "Dallas, TX",
+    "address": "1210 River Bend Drive, Dallas, TX 75247",
+    "phone": "+1 (214) 932-8670"
+  },
+  {
+    "country": "United States",
+    "type": "consulate",
+    "name": "Consulate of Mexico in McAllen",
+    "city": "McAllen, TX",
+    "address": "600 South Broadway Street, McAllen, TX 78501",
+    "phone": "+1 (956) 686-0243"
+  },
+  {
+    "country": "United States",
+    "type": "consulate",
+    "name": "Consulate of Mexico in Laredo",
+    "city": "Laredo, TX",
+    "address": "1612 Farragut Street, Laredo, TX 78040",
+    "phone": "+1 (956) 723-0990"
+  },
+  {
+    "country": "United States",
+    "type": "consulate",
+    "name": "Consulate of Mexico in Brownsville",
+    "city": "Brownsville, TX",
+    "address": "724 East Elizabeth Street, Brownsville, TX 78520",
+    "phone": "+1 (956) 542-4431"
+  },
+  {
+    "country": "United States",
+    "type": "consulate",
+    "name": "Consulate of Mexico in El Paso",
+    "city": "El Paso, TX",
+    "address": "910 East San Antonio Avenue, El Paso, TX 79901",
+    "phone": "+1 (915) 533-3644"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Mexico in San Francisco",
+    "city": "San Francisco, CA",
+    "address": "532 Folsom Street, San Francisco, CA 94105",
+    "phone": "+1 (415) 354-1700"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Mexico in Miami",
+    "city": "Miami, FL",
+    "address": "1399 SW 1st Avenue, Suite 200, Miami, FL 33130",
+    "phone": "+1 (786) 268-4900"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Mexico in Denver",
+    "city": "Denver, CO",
+    "address": "5350 Leetsdale Drive, Suite 100, Denver, CO 80246",
+    "phone": "+1 (303) 331-1110"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Mexico in Phoenix",
+    "city": "Phoenix, AZ",
+    "address": "320 East McDowell Road, Phoenix, AZ 85004",
+    "phone": "+1 (602) 242-7398"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Mexico in Atlanta",
+    "city": "Atlanta, GA",
+    "address": "1700 Chantilly Drive NE, Atlanta, GA 30324",
+    "phone": "+1 (404) 266-2233"
+  },
+  {
+    "country": "Canada",
+    "type": "embassy",
+    "name": "Embassy of Mexico in Ottawa",
+    "city": "Ottawa",
+    "address": "45 O'Connor Street, Suite 1000, Ottawa, ON K1P 1A4",
+    "phone": "+1 (613) 233-8988"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Consulate General of Mexico in Toronto",
+    "city": "Toronto",
+    "address": "11 King Street West, Suite 350, Toronto, ON M5H 4C7",
+    "phone": "+1 (416) 368-2875"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Consulate General of Mexico in Vancouver",
+    "city": "Vancouver",
+    "address": "1177 West Hastings Street, Suite 610, Vancouver, BC V6E 2K3",
+    "phone": "+1 (604) 684-3547"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Consulate General of Mexico in Montreal",
+    "city": "Montreal",
+    "address": "2055 Rue Peel, Suite 1000, Montreal, QC H3A 1V4",
+    "phone": "+1 (514) 288-2502"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "embassy",
+    "name": "Embassy of Mexico in London",
+    "city": "London",
+    "address": "16 St George Street, London W1S 1FD",
+    "phone": "+44 (0)20 7499 8586"
+  },
+  {
+    "country": "France",
+    "type": "embassy",
+    "name": "Embassy of Mexico in Paris",
+    "city": "Paris",
+    "address": "9 Rue de Longchamp, 75116 Paris",
+    "phone": "+33 (1) 53 70 27 70"
+  },
+  {
+    "country": "Germany",
+    "type": "embassy",
+    "name": "Embassy of Mexico in Berlin",
+    "city": "Berlin",
+    "address": "Klingelhöferstrasse 3, 10785 Berlin",
+    "phone": "+49 (30) 269 323 0"
+  },
+  {
+    "country": "Spain",
+    "type": "embassy",
+    "name": "Embassy of Mexico in Madrid",
+    "city": "Madrid",
+    "address": "Carrera de San Jerónimo 46, 28014 Madrid",
+    "phone": "+34 (91) 369 2814"
+  },
+  {
+    "country": "Italy",
+    "type": "embassy",
+    "name": "Embassy of Mexico in Rome",
+    "city": "Rome",
+    "address": "Via Lazzaro Spallanzani 16, 00161 Rome",
+    "phone": "+39 06 441 15 09"
+  },
+  {
+    "country": "Japan",
+    "type": "embassy",
+    "name": "Embassy of Mexico in Tokyo",
+    "city": "Tokyo",
+    "address": "2-15-1 Nagata-cho, Chiyoda-ku, Tokyo 100-0014",
+    "phone": "+81 (3) 3581-1160"
+  },
+  {
+    "country": "China",
+    "type": "embassy",
+    "name": "Embassy of Mexico in Beijing",
+    "city": "Beijing",
+    "address": "5 Dong San Jie, San Li Tun, Chaoyang District, Beijing 100600",
+    "phone": "+86 (10) 6532-2574"
+  },
+  {
+    "country": "Brazil",
+    "type": "embassy",
+    "name": "Embassy of Mexico in Brasilia",
+    "city": "Brasilia",
+    "address": "SES Avenida das Nações, Lote 18, 70432-900 Brasilia DF",
+    "phone": "+55 (61) 3204-5200"
+  },
+  {
+    "country": "India",
+    "type": "embassy",
+    "name": "Embassy of Mexico in New Delhi",
+    "city": "New Delhi",
+    "address": "C-8 Anand Niketan, New Delhi 110021",
+    "phone": "+91 (11) 2411-4225"
+  },
+  {
+    "country": "Australia",
+    "type": "embassy",
+    "name": "Embassy of Mexico in Canberra",
+    "city": "Canberra",
+    "address": "14 Perth Avenue, Yarralumla, ACT 2600",
+    "phone": "+61 (2) 6273-3963"
+  },
+  {
+    "country": "Guatemala",
+    "type": "embassy",
+    "name": "Embassy of Mexico in Guatemala City",
+    "city": "Guatemala City",
+    "address": "2a Avenida 7-57, Zona 10, Guatemala City",
+    "phone": "+502 2420-3400"
+  },
+  {
+    "country": "Colombia",
+    "type": "embassy",
+    "name": "Embassy of Mexico in Bogota",
+    "city": "Bogota",
+    "address": "Calle 113 No. 7-21, Torre A, Piso 14, Bogota",
+    "phone": "+57 (1) 629-4959"
+  },
+  {
+    "country": "Argentina",
+    "type": "embassy",
+    "name": "Embassy of Mexico in Buenos Aires",
+    "city": "Buenos Aires",
+    "address": "Larrea 1230, C1117ABN Buenos Aires",
+    "phone": "+54 (11) 4821-7170"
+  },
+  {
+    "country": "Israel",
+    "type": "embassy",
+    "name": "Embassy of Mexico in Tel Aviv",
+    "city": "Tel Aviv",
+    "address": "23 Beit HaDefus Street, Building A, 7th Floor, Givat Shaul, Jerusalem 9548323",
+    "phone": "+972 (2) 581-6005"
+  },
+  {
+    "country": "South Korea",
+    "type": "embassy",
+    "name": "Embassy of Mexico in Seoul",
+    "city": "Seoul",
+    "address": "33 Daesagwan-ro 11-gil, Yongsan-gu, Seoul 04408",
+    "phone": "+82 (2) 798-1694"
+  },
+  {
+    "country": "United Nations",
+    "type": "mission",
+    "name": "Permanent Mission of Mexico to the United Nations",
+    "city": "New York, NY",
+    "address": "2 United Nations Plaza, 28th Floor, New York, NY 10017",
+    "phone": "+1 (212) 752-0220"
+  }
+]

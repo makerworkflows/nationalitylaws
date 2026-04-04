@@ -1,0 +1,378 @@
+[
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Embassy of Japan in Washington",
+    "city": "Washington, D.C.",
+    "address": "2520 Massachusetts Avenue NW, Washington, DC 20008",
+    "phone": "+1 (202) 238-6700"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Japan in New York",
+    "city": "New York, NY",
+    "address": "299 Park Avenue, 18th Floor, New York, NY 10171",
+    "phone": "+1 (212) 371-8222"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Japan in Los Angeles",
+    "city": "Los Angeles, CA",
+    "address": "350 South Grand Avenue, Suite 1700, Los Angeles, CA 90071",
+    "phone": "+1 (213) 617-6700"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Japan in Chicago",
+    "city": "Chicago, IL",
+    "address": "737 North Michigan Avenue, Suite 1100, Chicago, IL 60611",
+    "phone": "+1 (312) 280-0400"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Japan in Houston",
+    "city": "Houston, TX",
+    "address": "909 Fannin Street, Suite 3000, Houston, TX 77010",
+    "phone": "+1 (713) 652-2977"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Japan in San Francisco",
+    "city": "San Francisco, CA",
+    "address": "275 Battery Street, Suite 2100, San Francisco, CA 94111",
+    "phone": "+1 (415) 780-6000"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Japan in Miami",
+    "city": "Miami, FL",
+    "address": "80 SW 8th Street, Suite 3200, Miami, FL 33130",
+    "phone": "+1 (305) 530-9090"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Japan in Boston",
+    "city": "Boston, MA",
+    "address": "600 Atlantic Avenue, 22nd Floor, Boston, MA 02210",
+    "phone": "+1 (617) 973-9772"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Japan in Atlanta",
+    "city": "Atlanta, GA",
+    "address": "3500 Lenox Road NE, Suite 1600, Atlanta, GA 30326",
+    "phone": "+1 (404) 240-4300"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Japan in Seattle",
+    "city": "Seattle, WA",
+    "address": "601 Union Street, Suite 500, Seattle, WA 98101",
+    "phone": "+1 (206) 682-9107"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Japan in Denver",
+    "city": "Denver, CO",
+    "address": "1225 17th Street, Suite 3000, Denver, CO 80202",
+    "phone": "+1 (303) 534-1151"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Japan in Detroit",
+    "city": "Detroit, MI",
+    "address": "400 Renaissance Center, Suite 1600, Detroit, MI 48243",
+    "phone": "+1 (313) 567-0120"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Japan in Honolulu",
+    "city": "Honolulu, HI",
+    "address": "1742 Nuuanu Avenue, Honolulu, HI 96817",
+    "phone": "+1 (808) 543-3111"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "embassy",
+    "name": "Embassy of Japan in London",
+    "city": "London",
+    "address": "101-104 Piccadilly, London W1J 7JT",
+    "phone": "+44 (0)20 7465 6500"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "consulate-general",
+    "name": "Consulate General of Japan in Edinburgh",
+    "city": "Edinburgh",
+    "address": "2 Melville Crescent, Edinburgh EH3 7HW",
+    "phone": "+44 (0)131 225 4777"
+  },
+  {
+    "country": "France",
+    "type": "embassy",
+    "name": "Embassy of Japan in Paris",
+    "city": "Paris",
+    "address": "7 Avenue Hoche, 75008 Paris",
+    "phone": "+33 (1) 48 88 62 00"
+  },
+  {
+    "country": "Germany",
+    "type": "embassy",
+    "name": "Embassy of Japan in Berlin",
+    "city": "Berlin",
+    "address": "Hiroshimastraße 6, 10785 Berlin",
+    "phone": "+49 (30) 210 940"
+  },
+  {
+    "country": "Germany",
+    "type": "consulate-general",
+    "name": "Consulate General of Japan in Frankfurt",
+    "city": "Frankfurt",
+    "address": "MesseTurm, 34th Floor, Friedrich-Ebert-Anlage 49, 60327 Frankfurt am Main",
+    "phone": "+49 (69) 238 573 0"
+  },
+  {
+    "country": "Germany",
+    "type": "consulate-general",
+    "name": "Consulate General of Japan in Munich",
+    "city": "Munich",
+    "address": "Karl-Scharnagl-Ring 7, 80539 Munich",
+    "phone": "+49 (89) 417 604 0"
+  },
+  {
+    "country": "Germany",
+    "type": "consulate-general",
+    "name": "Consulate General of Japan in Hamburg",
+    "city": "Hamburg",
+    "address": "Rathausmarkt 5, 20095 Hamburg",
+    "phone": "+49 (40) 333 017 0"
+  },
+  {
+    "country": "Germany",
+    "type": "consulate-general",
+    "name": "Consulate General of Japan in Düsseldorf",
+    "city": "Düsseldorf",
+    "address": "Breite Straße 27, 40213 Düsseldorf",
+    "phone": "+49 (211) 164 820"
+  },
+  {
+    "country": "China",
+    "type": "embassy",
+    "name": "Embassy of Japan in Beijing",
+    "city": "Beijing",
+    "address": "1 Liangmaqiao Dongjie, Chaoyang District, Beijing 100600",
+    "phone": "+86 (10) 8531-9800"
+  },
+  {
+    "country": "China",
+    "type": "consulate-general",
+    "name": "Consulate General of Japan in Shanghai",
+    "city": "Shanghai",
+    "address": "8 Wan Shan Road, Shanghai 200336",
+    "phone": "+86 (21) 5257-4766"
+  },
+  {
+    "country": "China",
+    "type": "consulate-general",
+    "name": "Consulate General of Japan in Guangzhou",
+    "city": "Guangzhou",
+    "address": "Garden Tower, 368 Huanshi Dong Road, Guangzhou 510064",
+    "phone": "+86 (20) 8334-3009"
+  },
+  {
+    "country": "India",
+    "type": "embassy",
+    "name": "Embassy of Japan in New Delhi",
+    "city": "New Delhi",
+    "address": "50-G Shantipath, Chanakyapuri, New Delhi 110021",
+    "phone": "+91 (11) 4610-4610"
+  },
+  {
+    "country": "India",
+    "type": "consulate-general",
+    "name": "Consulate General of Japan in Mumbai",
+    "city": "Mumbai",
+    "address": "1st Floor, Crescenzo Building, C-38/39, G Block, Bandra Kurla Complex, Mumbai 400051",
+    "phone": "+91 (22) 2570-8331"
+  },
+  {
+    "country": "India",
+    "type": "consulate-general",
+    "name": "Consulate General of Japan in Bengaluru",
+    "city": "Bengaluru",
+    "address": "1st Floor, Prestige Nebula, 8-14 Cubbon Road, Bengaluru 560001",
+    "phone": "+91 (80) 4064-9999"
+  },
+  {
+    "country": "India",
+    "type": "consulate-general",
+    "name": "Consulate General of Japan in Chennai",
+    "city": "Chennai",
+    "address": "6th Floor, Cenotaph Road, Teynampet, Chennai 600018",
+    "phone": "+91 (44) 2432-3860"
+  },
+  {
+    "country": "Brazil",
+    "type": "embassy",
+    "name": "Embassy of Japan in Brasilia",
+    "city": "Brasilia",
+    "address": "SES Avenida das Nações, Quadra 811, Lote 39, 70425-900 Brasilia DF",
+    "phone": "+55 (61) 3442-4200"
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate-general",
+    "name": "Consulate General of Japan in São Paulo",
+    "city": "São Paulo",
+    "address": "Avenida Paulista 854, 3rd Floor, 01310-913 São Paulo",
+    "phone": "+55 (11) 3254-0100"
+  },
+  {
+    "country": "Canada",
+    "type": "embassy",
+    "name": "Embassy of Japan in Ottawa",
+    "city": "Ottawa",
+    "address": "255 Sussex Drive, Ottawa, ON K1N 9E6",
+    "phone": "+1 (613) 241-8541"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Consulate General of Japan in Toronto",
+    "city": "Toronto",
+    "address": "77 King Street West, Suite 3300, TD North Tower, Toronto, ON M5K 1A1",
+    "phone": "+1 (416) 363-7038"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Consulate General of Japan in Vancouver",
+    "city": "Vancouver",
+    "address": "900-1177 West Hastings Street, Vancouver, BC V6E 2K3",
+    "phone": "+1 (604) 684-5868"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Consulate General of Japan in Montreal",
+    "city": "Montreal",
+    "address": "1 Place Ville Marie, Suite 3333, Montreal, QC H3B 3N2",
+    "phone": "+1 (514) 866-3429"
+  },
+  {
+    "country": "Australia",
+    "type": "embassy",
+    "name": "Embassy of Japan in Canberra",
+    "city": "Canberra",
+    "address": "112 Empire Circuit, Yarralumla, ACT 2600",
+    "phone": "+61 (2) 6273-3244"
+  },
+  {
+    "country": "Australia",
+    "type": "consulate-general",
+    "name": "Consulate General of Japan in Sydney",
+    "city": "Sydney",
+    "address": "Level 12, 1 O'Connell Street, Sydney NSW 2000",
+    "phone": "+61 (2) 9250-1000"
+  },
+  {
+    "country": "Australia",
+    "type": "consulate-general",
+    "name": "Consulate General of Japan in Melbourne",
+    "city": "Melbourne",
+    "address": "Level 25, 570 Bourke Street, Melbourne VIC 3000",
+    "phone": "+61 (3) 9679-4510"
+  },
+  {
+    "country": "Mexico",
+    "type": "embassy",
+    "name": "Embassy of Japan in Mexico City",
+    "city": "Mexico City",
+    "address": "Paseo de la Reforma 395, Col. Cuauhtémoc, 06500 Mexico City",
+    "phone": "+52 (55) 5211-0028"
+  },
+  {
+    "country": "Mexico",
+    "type": "consulate",
+    "name": "Consulate of Japan in León",
+    "city": "León",
+    "address": "Blvd. Adolfo López Mateos 1505-1, Col. Los Gavilanes, 37270 León, Guanajuato",
+    "phone": "+52 (477) 343-4800"
+  },
+  {
+    "country": "Italy",
+    "type": "embassy",
+    "name": "Embassy of Japan in Rome",
+    "city": "Rome",
+    "address": "Via Quintino Sella 60, 00187 Rome",
+    "phone": "+39 06 487 991"
+  },
+  {
+    "country": "Spain",
+    "type": "embassy",
+    "name": "Embassy of Japan in Madrid",
+    "city": "Madrid",
+    "address": "Calle de Serrano 109, 28006 Madrid",
+    "phone": "+34 91 590 7600"
+  },
+  {
+    "country": "South Korea",
+    "type": "embassy",
+    "name": "Embassy of Japan in Seoul",
+    "city": "Seoul",
+    "address": "Lotte City Hotel, 2 Junghak-dong, Jongno-gu, Seoul 03062",
+    "phone": "+82 (2) 2170-5200"
+  },
+  {
+    "country": "Israel",
+    "type": "embassy",
+    "name": "Embassy of Japan in Tel Aviv",
+    "city": "Tel Aviv",
+    "address": "Museum Tower, 4 Berkowitz Street, 19th Floor, Tel Aviv 6423806",
+    "phone": "+972 (3) 695-7292"
+  },
+  {
+    "country": "Singapore",
+    "type": "embassy",
+    "name": "Embassy of Japan in Singapore",
+    "city": "Singapore",
+    "address": "16 Nassim Road, Singapore 258390",
+    "phone": "+65 6235-8855"
+  },
+  {
+    "country": "Thailand",
+    "type": "embassy",
+    "name": "Embassy of Japan in Bangkok",
+    "city": "Bangkok",
+    "address": "177 Witthayu Road, Lumphini, Pathumwan, Bangkok 10330",
+    "phone": "+66 (2) 207-8500"
+  },
+  {
+    "country": "Philippines",
+    "type": "embassy",
+    "name": "Embassy of Japan in Manila",
+    "city": "Manila",
+    "address": "2627 Roxas Boulevard, Pasay City 1300",
+    "phone": "+63 (2) 8551-5710"
+  },
+  {
+    "country": "United Nations",
+    "type": "mission",
+    "name": "Permanent Mission of Japan to the United Nations",
+    "city": "New York, NY",
+    "address": "866 United Nations Plaza, 2nd Floor, New York, NY 10017",
+    "phone": "+1 (212) 223-4300"
+  }
+]

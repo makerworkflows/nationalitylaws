@@ -1,0 +1,466 @@
+[
+  {
+    "country": "Argentina",
+    "type": "embassy",
+    "name": "Embajada de Uruguay en Argentina",
+    "city": "Buenos Aires",
+    "address": "Av. Las Heras 1907, C1127AAD Buenos Aires, Argentina",
+    "phone": "+54 11 4807-3040"
+  },
+  {
+    "country": "Argentina",
+    "type": "consulate-general",
+    "name": "Consulado General de Uruguay en Buenos Aires",
+    "city": "Buenos Aires",
+    "address": "Av. Córdoba 1538, C1055AAR Buenos Aires, Argentina",
+    "phone": "+54 11 4371-7100"
+  },
+  {
+    "country": "Argentina",
+    "type": "consulate-general",
+    "name": "Consulado General de Uruguay en Córdoba",
+    "city": "Córdoba",
+    "address": "Humberto Primo 656, X5000 Córdoba, Argentina",
+    "phone": "+54 351 422-0900"
+  },
+  {
+    "country": "Argentina",
+    "type": "consulate-general",
+    "name": "Consulado General de Uruguay en Rosario",
+    "city": "Rosario",
+    "address": "Av. Pellegrini 1456, S2000 Rosario, Argentina",
+    "phone": "+54 341 424-1616"
+  },
+  {
+    "country": "Brazil",
+    "type": "embassy",
+    "name": "Embajada de Uruguay en Brasil",
+    "city": "Brasília",
+    "address": "SES Quadra 803, Lote 17, 70200-230 Brasília, Brazil",
+    "phone": "+55 61 3322-1200"
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate-general",
+    "name": "Consulado General de Uruguay en São Paulo",
+    "city": "São Paulo",
+    "address": "Rua Brasílio Itiberê 30, Paraíso, 04004-040 São Paulo, Brazil",
+    "phone": "+55 11 3287-0544"
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate-general",
+    "name": "Consulado General de Uruguay en Porto Alegre",
+    "city": "Porto Alegre",
+    "address": "Rua Caldas Júnior 26, sala 401, Porto Alegre, Brazil",
+    "phone": "+55 51 3226-5411"
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate-general",
+    "name": "Consulado General de Uruguay en Río de Janeiro",
+    "city": "Rio de Janeiro",
+    "address": "Praia de Botafogo 228, sala 101, Rio de Janeiro, Brazil",
+    "phone": "+55 21 2553-6030"
+  },
+  {
+    "country": "Chile",
+    "type": "embassy",
+    "name": "Embajada de Uruguay en Chile",
+    "city": "Santiago",
+    "address": "Av. Pedro de Valdivia 711, Providencia, Santiago, Chile",
+    "phone": "+56 2 2204-7988"
+  },
+  {
+    "country": "Paraguay",
+    "type": "embassy",
+    "name": "Embajada de Uruguay en Paraguay",
+    "city": "Asunción",
+    "address": "Av. España 976 c/ Japón, Asunción, Paraguay",
+    "phone": "+595 21 200-720"
+  },
+  {
+    "country": "Bolivia",
+    "type": "embassy",
+    "name": "Embajada de Uruguay en Bolivia",
+    "city": "La Paz",
+    "address": "Calle 10 de Octubre No. 2275, La Paz, Bolivia",
+    "phone": "+591 2 241-7840"
+  },
+  {
+    "country": "Peru",
+    "type": "embassy",
+    "name": "Embajada de Uruguay en Perú",
+    "city": "Lima",
+    "address": "Av. Jorge Basadre 310, San Isidro, Lima, Peru",
+    "phone": "+51 1 422-3223"
+  },
+  {
+    "country": "Colombia",
+    "type": "embassy",
+    "name": "Embajada de Uruguay en Colombia",
+    "city": "Bogotá",
+    "address": "Calle 72 No. 6-44, piso 3, Bogotá, Colombia",
+    "phone": "+57 1 312-7666"
+  },
+  {
+    "country": "Venezuela",
+    "type": "embassy",
+    "name": "Embajada de Uruguay en Venezuela",
+    "city": "Caracas",
+    "address": "Av. Francisco de Miranda, Multicentro Empresarial del Este, Torre Miranda, Piso 7, Caracas, Venezuela",
+    "phone": "+58 212 265-0606"
+  },
+  {
+    "country": "Ecuador",
+    "type": "embassy",
+    "name": "Embajada de Uruguay en Ecuador",
+    "city": "Quito",
+    "address": "Av. 6 de Diciembre N26-07 y Av. Orellana, Quito, Ecuador",
+    "phone": "+593 2 256-3261"
+  },
+  {
+    "country": "Mexico",
+    "type": "embassy",
+    "name": "Embajada de Uruguay en México",
+    "city": "Ciudad de México",
+    "address": "Hegel 149, Polanco, 11560 Ciudad de México, Mexico",
+    "phone": "+52 55 5531-0880"
+  },
+  {
+    "country": "Cuba",
+    "type": "embassy",
+    "name": "Embajada de Uruguay en Cuba",
+    "city": "La Habana",
+    "address": "Calle 18 No. 508 e/ 5ta y 7ma, Miramar, La Habana, Cuba",
+    "phone": "+53 7 204-2311"
+  },
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Embajada de Uruguay en los Estados Unidos",
+    "city": "Washington D.C.",
+    "address": "1913 I Street NW, Washington, D.C. 20006, United States",
+    "phone": "+1 202 331-1313"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulado General de Uruguay en Nueva York",
+    "city": "New York",
+    "address": "420 Madison Avenue, Suite 700, New York, NY 10017, United States",
+    "phone": "+1 212 753-8191"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulado General de Uruguay en Los Angeles",
+    "city": "Los Angeles",
+    "address": "3550 Wilshire Blvd, Suite 1060, Los Angeles, CA 90010, United States",
+    "phone": "+1 213 375-9809"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulado General de Uruguay en Miami",
+    "city": "Miami",
+    "address": "1001 Brickell Bay Drive, Suite 1900, Miami, FL 33131, United States",
+    "phone": "+1 305 443-9764"
+  },
+  {
+    "country": "Canada",
+    "type": "embassy",
+    "name": "Embajada de Uruguay en Canadá",
+    "city": "Ottawa",
+    "address": "130 Albert Street, Suite 1905, Ottawa, ON K1P 5G4, Canada",
+    "phone": "+1 613 234-2727"
+  },
+  {
+    "country": "Spain",
+    "type": "embassy",
+    "name": "Embajada de Uruguay en España",
+    "city": "Madrid",
+    "address": "Paseo de la Castellana 114, 3°, 28046 Madrid, Spain",
+    "phone": "+34 91 561-3028"
+  },
+  {
+    "country": "Spain",
+    "type": "consulate-general",
+    "name": "Consulado General de Uruguay en Barcelona",
+    "city": "Barcelona",
+    "address": "Carrer de Mallorca 255, 08008 Barcelona, Spain",
+    "phone": "+34 93 322-4490"
+  },
+  {
+    "country": "France",
+    "type": "embassy",
+    "name": "Embajada de Uruguay en Francia",
+    "city": "Paris",
+    "address": "15 rue Le Sueur, 75116 Paris, France",
+    "phone": "+33 1 45 00 81 37"
+  },
+  {
+    "country": "Germany",
+    "type": "embassy",
+    "name": "Embajada de Uruguay en Alemania",
+    "city": "Berlin",
+    "address": "Budapester Straße 39, 10787 Berlin, Germany",
+    "phone": "+49 30 263-9016"
+  },
+  {
+    "country": "Italy",
+    "type": "embassy",
+    "name": "Embajada de Uruguay en Italia",
+    "city": "Rome",
+    "address": "Via Vittorio Veneto 183, 00187 Rome, Italy",
+    "phone": "+39 06 482-7715"
+  },
+  {
+    "country": "Italy",
+    "type": "consulate-general",
+    "name": "Consulado General de Uruguay en Milán",
+    "city": "Milan",
+    "address": "Via Statuto 1, 20121 Milan, Italy",
+    "phone": "+39 02 657-6977"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "embassy",
+    "name": "Embajada de Uruguay en el Reino Unido",
+    "city": "London",
+    "address": "125 Kensington High Street, London W8 5SF, United Kingdom",
+    "phone": "+44 20 7937-2226"
+  },
+  {
+    "country": "Portugal",
+    "type": "embassy",
+    "name": "Embajada de Uruguay en Portugal",
+    "city": "Lisbon",
+    "address": "Av. Berna 26-D, 1069-061 Lisbon, Portugal",
+    "phone": "+351 21 796-1223"
+  },
+  {
+    "country": "Switzerland",
+    "type": "embassy",
+    "name": "Embajada de Uruguay en Suiza",
+    "city": "Bern",
+    "address": "Kramgasse 55, 3011 Bern, Switzerland",
+    "phone": "+41 31 311-2552"
+  },
+  {
+    "country": "Belgium",
+    "type": "embassy",
+    "name": "Embajada de Uruguay en Bélgica",
+    "city": "Brussels",
+    "address": "Av. Louise 437, 1050 Brussels, Belgium",
+    "phone": "+32 2 640-1169"
+  },
+  {
+    "country": "Netherlands",
+    "type": "embassy",
+    "name": "Embajada de Uruguay en los Países Bajos",
+    "city": "The Hague",
+    "address": "Mauritskade 33, 2514 HD The Hague, Netherlands",
+    "phone": "+31 70 360-5825"
+  },
+  {
+    "country": "Sweden",
+    "type": "embassy",
+    "name": "Embajada de Uruguay en Suecia",
+    "city": "Stockholm",
+    "address": "Narvavägen 28, 115 22 Stockholm, Sweden",
+    "phone": "+46 8 660-5640"
+  },
+  {
+    "country": "Russia",
+    "type": "embassy",
+    "name": "Embajada de Uruguay en Rusia",
+    "city": "Moscow",
+    "address": "Ulitsa Lopukhina 7, 119034 Moscow, Russia",
+    "phone": "+7 495 730-7340"
+  },
+  {
+    "country": "China",
+    "type": "embassy",
+    "name": "Embajada de Uruguay en China",
+    "city": "Beijing",
+    "address": "Sanlitun Dongsi Jie 2-7-2, Chaoyang District, Beijing, China",
+    "phone": "+86 10 6532-4445"
+  },
+  {
+    "country": "Japan",
+    "type": "embassy",
+    "name": "Embajada de Uruguay en Japón",
+    "city": "Tokyo",
+    "address": "Kaminoseki-cho 12-3, Shinjuku-ku, Tokyo 160-0013, Japan",
+    "phone": "+81 3 3486-1888"
+  },
+  {
+    "country": "India",
+    "type": "embassy",
+    "name": "Embajada de Uruguay en India",
+    "city": "New Delhi",
+    "address": "E-10/17, Vasant Vihar, New Delhi 110057, India",
+    "phone": "+91 11 4605-7700"
+  },
+  {
+    "country": "South Korea",
+    "type": "embassy",
+    "name": "Embajada de Uruguay en Corea del Sur",
+    "city": "Seoul",
+    "address": "13th Floor, Korea Tourism Building, 40 Cheonggyecheon-ro, Seoul, South Korea",
+    "phone": "+82 2 756-8264"
+  },
+  {
+    "country": "South Africa",
+    "type": "embassy",
+    "name": "Embajada de Uruguay en Sudáfrica",
+    "city": "Pretoria",
+    "address": "Hatfield Gardens, 1147 Burnett Street, Hatfield, Pretoria, South Africa",
+    "phone": "+27 12 342-1163"
+  },
+  {
+    "country": "Egypt",
+    "type": "embassy",
+    "name": "Embajada de Uruguay en Egipto",
+    "city": "Cairo",
+    "address": "6 Kamel El Shenawi Street, Garden City, Cairo, Egypt",
+    "phone": "+20 2 2794-6262"
+  },
+  {
+    "country": "Nigeria",
+    "type": "honorary-consulate",
+    "name": "Consulado Honorario de Uruguay en Nigeria",
+    "city": "Lagos",
+    "address": "Lagos, Nigeria",
+    "phone": ""
+  },
+  {
+    "country": "Australia",
+    "type": "embassy",
+    "name": "Embajada de Uruguay en Australia",
+    "city": "Canberra",
+    "address": "PO Box 5058, Kingston ACT 2604, Australia",
+    "phone": "+61 2 6273-3066"
+  },
+  {
+    "country": "Israel",
+    "type": "embassy",
+    "name": "Embajada de Uruguay en Israel",
+    "city": "Tel Aviv",
+    "address": "Medinat Ha-Yehudim 60, Herzliya Pituah, Israel",
+    "phone": "+972 9 950-5555"
+  },
+  {
+    "country": "United Nations (Geneva)",
+    "type": "permanent-mission",
+    "name": "Misión Permanente de Uruguay ante la ONU en Ginebra",
+    "city": "Geneva",
+    "address": "56 Rue de Moillebeau, 1211 Geneva 19, Switzerland",
+    "phone": "+41 22 917-3250"
+  },
+  {
+    "country": "United Nations (New York)",
+    "type": "permanent-mission",
+    "name": "Misión Permanente de Uruguay ante la ONU en Nueva York",
+    "city": "New York",
+    "address": "866 UN Plaza, Suite 322, New York, NY 10017, United States",
+    "phone": "+1 212 752-8240"
+  },
+  {
+    "country": "Panama",
+    "type": "embassy",
+    "name": "Embajada de Uruguay en Panamá",
+    "city": "Panama City",
+    "address": "Calle 59E, Obarrio, Edificio Comosa, Piso 4, Panama City, Panama",
+    "phone": "+507 263-3266"
+  },
+  {
+    "country": "Costa Rica",
+    "type": "embassy",
+    "name": "Embajada de Uruguay en Costa Rica",
+    "city": "San José",
+    "address": "Curridabat, San José, Costa Rica",
+    "phone": "+506 2224-0626"
+  },
+  {
+    "country": "Guatemala",
+    "type": "honorary-consulate",
+    "name": "Consulado Honorario de Uruguay en Guatemala",
+    "city": "Guatemala City",
+    "address": "Guatemala City, Guatemala",
+    "phone": ""
+  },
+  {
+    "country": "Dominican Republic",
+    "type": "embassy",
+    "name": "Embajada de Uruguay en República Dominicana",
+    "city": "Santo Domingo",
+    "address": "Av. Gustavo Mejía Ricart 54, Torre Piantini, piso 11, Santo Domingo, Dominican Republic",
+    "phone": "+1 809 540-7099"
+  },
+  {
+    "country": "Turkey",
+    "type": "embassy",
+    "name": "Embajada de Uruguay en Turquía",
+    "city": "Ankara",
+    "address": "Mahatma Gandhi Caddesi 27, 06700 Ankara, Turkey",
+    "phone": "+90 312 441-5893"
+  },
+  {
+    "country": "Austria",
+    "type": "embassy",
+    "name": "Embajada de Uruguay ante Austria y Organismos Internacionales en Viena",
+    "city": "Vienna",
+    "address": "Obere Donaustraße 49-51, 1020 Vienna, Austria",
+    "phone": "+43 1 713-2906"
+  },
+  {
+    "country": "Greece",
+    "type": "honorary-consulate",
+    "name": "Consulado Honorario de Uruguay en Grecia",
+    "city": "Athens",
+    "address": "Athens, Greece",
+    "phone": ""
+  },
+  {
+    "country": "Poland",
+    "type": "honorary-consulate",
+    "name": "Consulado Honorario de Uruguay en Polonia",
+    "city": "Warsaw",
+    "address": "Warsaw, Poland",
+    "phone": ""
+  },
+  {
+    "country": "Morocco",
+    "type": "embassy",
+    "name": "Embajada de Uruguay en Marruecos",
+    "city": "Rabat",
+    "address": "Rue Ain Khalouia, Souissi, Rabat, Morocco",
+    "phone": "+212 537-75-2400"
+  },
+  {
+    "country": "Kenya",
+    "type": "honorary-consulate",
+    "name": "Consulado Honorario de Uruguay en Kenia",
+    "city": "Nairobi",
+    "address": "Nairobi, Kenya",
+    "phone": ""
+  },
+  {
+    "country": "Singapore",
+    "type": "honorary-consulate",
+    "name": "Consulado Honorario de Uruguay en Singapur",
+    "city": "Singapore",
+    "address": "Singapore",
+    "phone": ""
+  },
+  {
+    "country": "United Arab Emirates",
+    "type": "embassy",
+    "name": "Embajada de Uruguay en Emiratos Árabes Unidos",
+    "city": "Abu Dhabi",
+    "address": "Al Bateen, Abu Dhabi, United Arab Emirates",
+    "phone": "+971 2 443-9300"
+  }
+]

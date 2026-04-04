@@ -1,0 +1,322 @@
+[
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Embassy of Malta in Washington, D.C.",
+    "city": "Washington, D.C.",
+    "address": "2017 Connecticut Avenue NW, Washington, DC 20008",
+    "phone": "+1 (202) 462-3611"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Malta in New York",
+    "city": "New York, NY",
+    "address": "249 East 35th Street, New York, NY 10016",
+    "phone": "+1 (212) 725-2345"
+  },
+  {
+    "country": "United States",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Malta in Los Angeles",
+    "city": "Los Angeles, CA",
+    "address": "Los Angeles, CA",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Malta in Detroit",
+    "city": "Detroit, MI",
+    "address": "Detroit, MI",
+    "phone": ""
+  },
+  {
+    "country": "United States",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Malta in San Francisco",
+    "city": "San Francisco, CA",
+    "address": "San Francisco, CA",
+    "phone": ""
+  },
+  {
+    "country": "United Kingdom",
+    "type": "high-commission",
+    "name": "Malta High Commission in London",
+    "city": "London",
+    "address": "Malta House, 36-38 Piccadilly, London W1J 0LE",
+    "phone": "+44 (0)20 7292 4800"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "consulate",
+    "name": "Consulate of Malta in Edinburgh",
+    "city": "Edinburgh",
+    "address": "Edinburgh, Scotland",
+    "phone": ""
+  },
+  {
+    "country": "France",
+    "type": "embassy",
+    "name": "Embassy of Malta in Paris",
+    "city": "Paris",
+    "address": "92 Avenue des Champs-Élysées, 75008 Paris",
+    "phone": "+33 (1) 56 59 75 90"
+  },
+  {
+    "country": "Germany",
+    "type": "embassy",
+    "name": "Embassy of Malta in Berlin",
+    "city": "Berlin",
+    "address": "Klingelhöferstrasse 7, 10785 Berlin",
+    "phone": "+49 (30) 26 39 11 10"
+  },
+  {
+    "country": "Italy",
+    "type": "embassy",
+    "name": "Embassy of Malta in Rome",
+    "city": "Rome",
+    "address": "Lungotevere Marzio 12, 00186 Rome",
+    "phone": "+39 06 687 9990"
+  },
+  {
+    "country": "Italy",
+    "type": "consulate-general",
+    "name": "Consulate General of Malta in Milan",
+    "city": "Milan",
+    "address": "Via San Clemente 1, 20122 Milan",
+    "phone": "+39 02 72 00 84 51"
+  },
+  {
+    "country": "Spain",
+    "type": "embassy",
+    "name": "Embassy of Malta in Madrid",
+    "city": "Madrid",
+    "address": "Calle Jorge Juan 82, 28009 Madrid",
+    "phone": "+34 91 577 1685"
+  },
+  {
+    "country": "Belgium",
+    "type": "embassy",
+    "name": "Embassy of Malta in Brussels",
+    "city": "Brussels",
+    "address": "Rue Jules Lejeune 44, 1050 Brussels",
+    "phone": "+32 (2) 343 0195"
+  },
+  {
+    "country": "Belgium",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Malta to the European Union",
+    "city": "Brussels",
+    "address": "Rue Archimède 25, 1000 Brussels",
+    "phone": "+32 (2) 230 0944"
+  },
+  {
+    "country": "Netherlands",
+    "type": "embassy",
+    "name": "Embassy of Malta in The Hague",
+    "city": "The Hague",
+    "address": "Carnegielaan 4, 2517 KH The Hague",
+    "phone": "+31 (70) 356 1252"
+  },
+  {
+    "country": "Portugal",
+    "type": "embassy",
+    "name": "Embassy of Malta in Lisbon",
+    "city": "Lisbon",
+    "address": "Rua do Salitre 172, 1269-068 Lisbon",
+    "phone": "+351 21 355 0340"
+  },
+  {
+    "country": "Austria",
+    "type": "embassy",
+    "name": "Embassy of Malta in Vienna",
+    "city": "Vienna",
+    "address": "Opernring 5/6, 1010 Vienna",
+    "phone": "+43 (1) 586 5010"
+  },
+  {
+    "country": "Greece",
+    "type": "embassy",
+    "name": "Embassy of Malta in Athens",
+    "city": "Athens",
+    "address": "27 Irodotou Street, 10675 Athens",
+    "phone": "+30 210 72 33 200"
+  },
+  {
+    "country": "Switzerland",
+    "type": "embassy",
+    "name": "Embassy of Malta in Bern",
+    "city": "Bern",
+    "address": "Weltpoststrasse 4, 3015 Bern",
+    "phone": "+41 (31) 351 0040"
+  },
+  {
+    "country": "Russia",
+    "type": "embassy",
+    "name": "Embassy of Malta in Moscow",
+    "city": "Moscow",
+    "address": "Ulitsa Furshtatskaya 16 (via St. Petersburg consulate section), Moscow",
+    "phone": ""
+  },
+  {
+    "country": "Turkey",
+    "type": "embassy",
+    "name": "Embassy of Malta in Ankara",
+    "city": "Ankara",
+    "address": "Kizkulesi Sokak 30, Gaziosmanpasa, 06680 Ankara",
+    "phone": "+90 (312) 446 9420"
+  },
+  {
+    "country": "Egypt",
+    "type": "embassy",
+    "name": "Embassy of Malta in Cairo",
+    "city": "Cairo",
+    "address": "8 El Saleh Ayoub Street, Zamalek, Cairo 11211",
+    "phone": "+20 (2) 2736 5560"
+  },
+  {
+    "country": "Libya",
+    "type": "embassy",
+    "name": "Embassy of Malta in Tripoli",
+    "city": "Tripoli",
+    "address": "Hay El Andalus, Al-Shat Road, Tripoli",
+    "phone": "+218 21 483 0970"
+  },
+  {
+    "country": "Tunisia",
+    "type": "embassy",
+    "name": "Embassy of Malta in Tunis",
+    "city": "Tunis",
+    "address": "Rue du Lac de Constance, Les Berges du Lac, 1053 Tunis",
+    "phone": "+216 71 964 815"
+  },
+  {
+    "country": "Ethiopia",
+    "type": "embassy",
+    "name": "Embassy of Malta in Addis Ababa",
+    "city": "Addis Ababa",
+    "address": "Bole Sub City, Addis Ababa",
+    "phone": ""
+  },
+  {
+    "country": "Canada",
+    "type": "high-commission",
+    "name": "Malta High Commission in Ottawa",
+    "city": "Ottawa",
+    "address": "120 Albert Street, Suite 1000, Ottawa, ON K1P 5G4",
+    "phone": "+1 (613) 232-2242"
+  },
+  {
+    "country": "Canada",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Malta in Toronto",
+    "city": "Toronto",
+    "address": "Toronto, ON",
+    "phone": ""
+  },
+  {
+    "country": "Canada",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Malta in Montreal",
+    "city": "Montreal",
+    "address": "Montreal, QC",
+    "phone": ""
+  },
+  {
+    "country": "Australia",
+    "type": "high-commission",
+    "name": "Malta High Commission in Canberra",
+    "city": "Canberra",
+    "address": "261 La Perouse Street, Red Hill, ACT 2603",
+    "phone": "+61 (2) 6290 1724"
+  },
+  {
+    "country": "Australia",
+    "type": "consulate-general",
+    "name": "Consulate General of Malta in Sydney",
+    "city": "Sydney",
+    "address": "Sydney, NSW",
+    "phone": ""
+  },
+  {
+    "country": "Australia",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of Malta in Melbourne",
+    "city": "Melbourne",
+    "address": "Melbourne, VIC",
+    "phone": ""
+  },
+  {
+    "country": "China",
+    "type": "embassy",
+    "name": "Embassy of Malta in Beijing",
+    "city": "Beijing",
+    "address": "1 East 4th Street, Sanlitun, Chaoyang District, Beijing 100600",
+    "phone": "+86 (10) 6532 2114"
+  },
+  {
+    "country": "Japan",
+    "type": "embassy",
+    "name": "Embassy of Malta in Tokyo",
+    "city": "Tokyo",
+    "address": "Riverside Sumitomo Building, 7-13 Nishi-Azabu 3-chome, Minato-ku, Tokyo 106-0031",
+    "phone": "+81 (3) 5449 3455"
+  },
+  {
+    "country": "India",
+    "type": "high-commission",
+    "name": "Malta High Commission in New Delhi",
+    "city": "New Delhi",
+    "address": "25 Golf Links, New Delhi 110003",
+    "phone": "+91 (11) 2461 5000"
+  },
+  {
+    "country": "Jordan",
+    "type": "embassy",
+    "name": "Embassy of Malta in Amman",
+    "city": "Amman",
+    "address": "Khalda District, 4th Circle, Amman",
+    "phone": "+962 (6) 5930 360"
+  },
+  {
+    "country": "Lebanon",
+    "type": "embassy",
+    "name": "Embassy of Malta in Beirut",
+    "city": "Beirut",
+    "address": "Bir Hassan, Ghobeyri, Beirut",
+    "phone": "+961 (1) 853 000"
+  },
+  {
+    "country": "United Nations",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Malta to the United Nations (New York)",
+    "city": "New York, NY",
+    "address": "249 East 35th Street, New York, NY 10016",
+    "phone": "+1 (212) 725-2345"
+  },
+  {
+    "country": "Switzerland",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Malta to the UN and International Organizations in Geneva",
+    "city": "Geneva",
+    "address": "23 Chemin du Petit-Saconnex, 1209 Geneva",
+    "phone": "+41 (22) 918 0550"
+  },
+  {
+    "country": "Brazil",
+    "type": "embassy",
+    "name": "Embassy of Malta in Brasilia",
+    "city": "Brasilia",
+    "address": "SHIS QL 08, Conjunto 2, Casa 1, Lago Sul, 71620-225 Brasilia DF",
+    "phone": "+55 (61) 3248 3305"
+  },
+  {
+    "country": "Argentina",
+    "type": "embassy",
+    "name": "Embassy of Malta in Buenos Aires",
+    "city": "Buenos Aires",
+    "address": "Gorostiaga 2120, C1426CYF Buenos Aires",
+    "phone": "+54 (11) 4774 3660"
+  }
+]

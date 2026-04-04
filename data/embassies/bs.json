@@ -1,0 +1,50 @@
+[
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Bahamas Embassy in Washington D.C.",
+    "city": "Washington D.C.",
+    "address": "2220 Massachusetts Avenue NW, Washington, D.C. 20008",
+    "phone": "+1 202 319 2660"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of the Bahamas in Miami",
+    "city": "Miami",
+    "address": "25 SE 2nd Avenue, Suite 818, Miami, FL 33131",
+    "phone": "+1 305 373 6295"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of the Bahamas in New York",
+    "city": "New York",
+    "address": "231 East 46th Street, New York, NY 10017",
+    "phone": "+1 212 421 6420"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "high-commission",
+    "name": "Bahamas High Commission in London",
+    "city": "London",
+    "address": "10 Chesterfield Street, London W1J 5JL",
+    "phone": "+44 20 7408 4488"
+  },
+  {
+    "country": "Canada",
+    "type": "high-commission",
+    "name": "Bahamas High Commission in Ottawa",
+    "city": "Ottawa",
+    "address": "50 O'Connor Street, Suite 1313, Ottawa, ON K1P 6L2",
+    "phone": "+1 613 232 1724"
+  },
+  {
+    "country": "United States",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of the Bahamas to the United Nations",
+    "city": "New York",
+    "address": "231 East 46th Street, New York, NY 10017",
+    "phone": "+1 212 421 6925"
+  }
+]

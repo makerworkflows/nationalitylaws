@@ -1,0 +1,482 @@
+[
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Embassy of the Dominican Republic in Washington, D.C.",
+    "city": "Washington, D.C.",
+    "address": "1715 22nd Street NW, Washington, DC 20008",
+    "phone": "+1 202 332-6280"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of the Dominican Republic in New York",
+    "city": "New York",
+    "address": "1501 Broadway, Suite 410, New York, NY 10036",
+    "phone": "+1 212 768-2480"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of the Dominican Republic in Miami",
+    "city": "Miami",
+    "address": "1038 Brickell Avenue, Suite 900, Miami, FL 33131",
+    "phone": "+1 305 358-3221"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of the Dominican Republic in Boston",
+    "city": "Boston",
+    "address": "20 Park Plaza, Suite 601, Boston, MA 02116",
+    "phone": "+1 617 482-8121"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of the Dominican Republic in Chicago",
+    "city": "Chicago",
+    "address": "55 E. Monroe Street, Suite 3200, Chicago, IL 60603",
+    "phone": "+1 312 750-0400"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of the Dominican Republic in Houston",
+    "city": "Houston",
+    "address": "2408 Taft Street, Houston, TX 77006",
+    "phone": "+1 713 521-0550"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of the Dominican Republic in Los Angeles",
+    "city": "Los Angeles",
+    "address": "1070 W. Beverly Blvd, Los Angeles, CA 90026",
+    "phone": "+1 213 387-0777"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of the Dominican Republic in San Juan",
+    "city": "San Juan",
+    "address": "Condominio St. James, Suite 402, Calle Quisqueya, San Juan, PR 00917",
+    "phone": "+1 787 724-0068"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of the Dominican Republic in Orlando",
+    "city": "Orlando",
+    "address": "645 Commerce Drive, Suite 1015, Altamonte Springs, FL 32714",
+    "phone": "+1 407 834-3939"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of the Dominican Republic in Philadelphia",
+    "city": "Philadelphia",
+    "address": "1 Penn Center, Suite 1820, Philadelphia, PA 19103",
+    "phone": "+1 215 561-9887"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of the Dominican Republic in Atlanta",
+    "city": "Atlanta",
+    "address": "270 Peachtree Street NW, Suite 1504, Atlanta, GA 30303",
+    "phone": "+1 404 659-6980"
+  },
+  {
+    "country": "United States",
+    "type": "consulate",
+    "name": "Consulate of the Dominican Republic in New Orleans",
+    "city": "New Orleans",
+    "address": "New Orleans, LA",
+    "phone": "+1 504 529-1541"
+  },
+  {
+    "country": "United States",
+    "type": "consulate",
+    "name": "Consulate of the Dominican Republic in San Francisco",
+    "city": "San Francisco",
+    "address": "870 Market Street, Suite 580, San Francisco, CA 94102",
+    "phone": "+1 415 398-7166"
+  },
+  {
+    "country": "Canada",
+    "type": "embassy",
+    "name": "Embassy of the Dominican Republic in Ottawa",
+    "city": "Ottawa",
+    "address": "130 Albert Street, Suite 418, Ottawa, ON K1P 5G4",
+    "phone": "+1 613 569-9893"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Consulate General of the Dominican Republic in Montreal",
+    "city": "Montreal",
+    "address": "800 René-Lévesque Blvd. West, Suite 900, Montreal, QC H3B 1X9",
+    "phone": "+1 514 933-9008"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Consulate General of the Dominican Republic in Toronto",
+    "city": "Toronto",
+    "address": "5140 Yonge Street, Suite 1880, Toronto, ON M2N 6L7",
+    "phone": "+1 416 916-0409"
+  },
+  {
+    "country": "Mexico",
+    "type": "embassy",
+    "name": "Embassy of the Dominican Republic in Mexico City",
+    "city": "Mexico City",
+    "address": "Bernardo de Gálvez 15, Lomas de Chapultepec, México DF 11000",
+    "phone": "+52 55 5520-5131"
+  },
+  {
+    "country": "Guatemala",
+    "type": "embassy",
+    "name": "Embassy of the Dominican Republic in Guatemala City",
+    "city": "Guatemala City",
+    "address": "2a. Av. 15-53, Zona 14, Guatemala City",
+    "phone": "+502 2368-0490"
+  },
+  {
+    "country": "El Salvador",
+    "type": "embassy",
+    "name": "Embassy of the Dominican Republic in San Salvador",
+    "city": "San Salvador",
+    "address": "Col. San Benito, Calle La Ceiba, San Salvador",
+    "phone": "+503 2261-3800"
+  },
+  {
+    "country": "Honduras",
+    "type": "embassy",
+    "name": "Embassy of the Dominican Republic in Tegucigalpa",
+    "city": "Tegucigalpa",
+    "address": "Col. Palmira, Calle República de Chile, Tegucigalpa",
+    "phone": "+504 2239-6034"
+  },
+  {
+    "country": "Panama",
+    "type": "embassy",
+    "name": "Embassy of the Dominican Republic in Panama City",
+    "city": "Panama City",
+    "address": "Av. Federico Boyd, Paitilla, Panama City",
+    "phone": "+507 263-8900"
+  },
+  {
+    "country": "Colombia",
+    "type": "embassy",
+    "name": "Embassy of the Dominican Republic in Bogotá",
+    "city": "Bogotá",
+    "address": "Cra. 11 No. 96-50, Piso 3, Bogotá",
+    "phone": "+57 1 601-0400"
+  },
+  {
+    "country": "Venezuela",
+    "type": "embassy",
+    "name": "Embassy of the Dominican Republic in Caracas",
+    "city": "Caracas",
+    "address": "Av. El Paseo, Prados del Este, Caracas",
+    "phone": "+58 212 976-5080"
+  },
+  {
+    "country": "Ecuador",
+    "type": "embassy",
+    "name": "Embassy of the Dominican Republic in Quito",
+    "city": "Quito",
+    "address": "Av. Eloy Alfaro N32-655 y Av. Portugal, Quito",
+    "phone": "+593 2 246-3850"
+  },
+  {
+    "country": "Peru",
+    "type": "embassy",
+    "name": "Embassy of the Dominican Republic in Lima",
+    "city": "Lima",
+    "address": "Av. Aramburú 884, Surquillo, Lima",
+    "phone": "+51 1 421-0580"
+  },
+  {
+    "country": "Brazil",
+    "type": "embassy",
+    "name": "Embassy of the Dominican Republic in Brasília",
+    "city": "Brasília",
+    "address": "SHIS QL 8, Conj. 10, Casa 2, Lago Sul, Brasília DF",
+    "phone": "+55 61 3248-3940"
+  },
+  {
+    "country": "Argentina",
+    "type": "embassy",
+    "name": "Embassy of the Dominican Republic in Buenos Aires",
+    "city": "Buenos Aires",
+    "address": "Juncal 1248, 8° piso, Buenos Aires",
+    "phone": "+54 11 4813-2100"
+  },
+  {
+    "country": "Chile",
+    "type": "embassy",
+    "name": "Embassy of the Dominican Republic in Santiago",
+    "city": "Santiago",
+    "address": "Av. Tajamar 183, Of. 1502, Las Condes, Santiago",
+    "phone": "+56 2 2232-8820"
+  },
+  {
+    "country": "Cuba",
+    "type": "embassy",
+    "name": "Embassy of the Dominican Republic in Havana",
+    "city": "Havana",
+    "address": "Calle 10 No. 315 entre 3ra y 5ta, Miramar, Havana",
+    "phone": "+53 7 204-0008"
+  },
+  {
+    "country": "Haiti",
+    "type": "embassy",
+    "name": "Embassy of the Dominican Republic in Port-au-Prince",
+    "city": "Port-au-Prince",
+    "address": "38 Rue Panaméricaine, Pétionville, Port-au-Prince",
+    "phone": "+509 3701-0101"
+  },
+  {
+    "country": "Jamaica",
+    "type": "embassy",
+    "name": "Embassy of the Dominican Republic in Kingston",
+    "city": "Kingston",
+    "address": "6 St. Lucia Avenue, Kingston 5",
+    "phone": "+1 876 754-8895"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "type": "embassy",
+    "name": "Embassy of the Dominican Republic in Port of Spain",
+    "city": "Port of Spain",
+    "address": "Port of Spain, Trinidad and Tobago",
+    "phone": "+1 868 625-7794"
+  },
+  {
+    "country": "Barbados",
+    "type": "embassy",
+    "name": "Embassy of the Dominican Republic in Bridgetown",
+    "city": "Bridgetown",
+    "address": "Bridgetown, Barbados",
+    "phone": "+1 246 431-7040"
+  },
+  {
+    "country": "Spain",
+    "type": "embassy",
+    "name": "Embassy of the Dominican Republic in Madrid",
+    "city": "Madrid",
+    "address": "Paseo de la Castellana 30, 3° Dcha., 28046 Madrid",
+    "phone": "+34 91 431-5395"
+  },
+  {
+    "country": "Spain",
+    "type": "consulate-general",
+    "name": "Consulate General of the Dominican Republic in Madrid",
+    "city": "Madrid",
+    "address": "Calle Velázquez 65, 2°, 28001 Madrid",
+    "phone": "+34 91 577-0680"
+  },
+  {
+    "country": "Spain",
+    "type": "consulate-general",
+    "name": "Consulate General of the Dominican Republic in Barcelona",
+    "city": "Barcelona",
+    "address": "Passeig de Gràcia 95, Pral. 2a, 08008 Barcelona",
+    "phone": "+34 93 487-8220"
+  },
+  {
+    "country": "Spain",
+    "type": "consulate",
+    "name": "Consulate of the Dominican Republic in Bilbao",
+    "city": "Bilbao",
+    "address": "Bilbao, Basque Country, Spain",
+    "phone": "+34 94 416-7960"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "embassy",
+    "name": "Embassy of the Dominican Republic in London",
+    "city": "London",
+    "address": "139 Inverness Terrace, London W2 6JF",
+    "phone": "+44 20 7727-6285"
+  },
+  {
+    "country": "France",
+    "type": "embassy",
+    "name": "Embassy of the Dominican Republic in Paris",
+    "city": "Paris",
+    "address": "45 Rue de Courcelles, 75008 Paris",
+    "phone": "+33 1 53-53-0600"
+  },
+  {
+    "country": "Germany",
+    "type": "embassy",
+    "name": "Embassy of the Dominican Republic in Berlin",
+    "city": "Berlin",
+    "address": "Dessauer Strasse 28-29, 10963 Berlin",
+    "phone": "+49 30 257-6870"
+  },
+  {
+    "country": "Italy",
+    "type": "embassy",
+    "name": "Embassy of the Dominican Republic in Rome",
+    "city": "Rome",
+    "address": "Via Benedetto Croce 3, 00142 Rome",
+    "phone": "+39 06 545-3404"
+  },
+  {
+    "country": "Belgium",
+    "type": "embassy",
+    "name": "Embassy of the Dominican Republic in Brussels",
+    "city": "Brussels",
+    "address": "Av. de Tervueren 251, 1150 Brussels",
+    "phone": "+32 2 741-0680"
+  },
+  {
+    "country": "Netherlands",
+    "type": "embassy",
+    "name": "Embassy of the Dominican Republic in The Hague",
+    "city": "The Hague",
+    "address": "Nassauplein 12, 2585 EC The Hague",
+    "phone": "+31 70 346-5270"
+  },
+  {
+    "country": "Switzerland",
+    "type": "embassy",
+    "name": "Embassy of the Dominican Republic in Bern",
+    "city": "Bern",
+    "address": "Kirchenfeldstrasse 41, 3005 Bern",
+    "phone": "+41 31 351-8535"
+  },
+  {
+    "country": "Austria",
+    "type": "embassy",
+    "name": "Embassy of the Dominican Republic in Vienna",
+    "city": "Vienna",
+    "address": "Schwarzenbergplatz 16, Top 5-6, 1010 Vienna",
+    "phone": "+43 1 504-5059"
+  },
+  {
+    "country": "Portugal",
+    "type": "embassy",
+    "name": "Embassy of the Dominican Republic in Lisbon",
+    "city": "Lisbon",
+    "address": "Rua de S. Bernardo 53, 1200-826 Lisbon",
+    "phone": "+351 21 396-3111"
+  },
+  {
+    "country": "Russia",
+    "type": "embassy",
+    "name": "Embassy of the Dominican Republic in Moscow",
+    "city": "Moscow",
+    "address": "Koroviy Val 7, Moscow",
+    "phone": "+7 495 938-2640"
+  },
+  {
+    "country": "China",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of the Dominican Republic in Beijing",
+    "city": "Beijing",
+    "address": "Beijing, China",
+    "phone": ""
+  },
+  {
+    "country": "Japan",
+    "type": "embassy",
+    "name": "Embassy of the Dominican Republic in Tokyo",
+    "city": "Tokyo",
+    "address": "3-27-12 Nishi-Azabu, Minato-ku, Tokyo 106-0031",
+    "phone": "+81 3 3499-6020"
+  },
+  {
+    "country": "South Korea",
+    "type": "embassy",
+    "name": "Embassy of the Dominican Republic in Seoul",
+    "city": "Seoul",
+    "address": "Seoul, South Korea",
+    "phone": "+82 2 794-7777"
+  },
+  {
+    "country": "India",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of the Dominican Republic in Mumbai",
+    "city": "Mumbai",
+    "address": "Mumbai, India",
+    "phone": ""
+  },
+  {
+    "country": "Israel",
+    "type": "embassy",
+    "name": "Embassy of the Dominican Republic in Tel Aviv",
+    "city": "Tel Aviv",
+    "address": "Tel Aviv, Israel",
+    "phone": "+972 3 544-2466"
+  },
+  {
+    "country": "South Africa",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of the Dominican Republic in Johannesburg",
+    "city": "Johannesburg",
+    "address": "Johannesburg, South Africa",
+    "phone": ""
+  },
+  {
+    "country": "Morocco",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of the Dominican Republic in Rabat",
+    "city": "Rabat",
+    "address": "Rabat, Morocco",
+    "phone": ""
+  },
+  {
+    "country": "Greece",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of the Dominican Republic in Athens",
+    "city": "Athens",
+    "address": "Athens, Greece",
+    "phone": "+30 210 692-6630"
+  },
+  {
+    "country": "Australia",
+    "type": "honorary-consulate",
+    "name": "Honorary Consulate of the Dominican Republic in Sydney",
+    "city": "Sydney",
+    "address": "Sydney, New South Wales, Australia",
+    "phone": ""
+  },
+  {
+    "country": "United Nations (New York)",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of the Dominican Republic to the United Nations",
+    "city": "New York",
+    "address": "144 E. 44th Street, 4th Floor, New York, NY 10017",
+    "phone": "+1 212 867-0833"
+  },
+  {
+    "country": "United Nations (Geneva)",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of the Dominican Republic to the United Nations in Geneva",
+    "city": "Geneva",
+    "address": "Chemin de l'Impératrice 17-19, 1292 Chambésy, Geneva",
+    "phone": "+41 22 758-0850"
+  },
+  {
+    "country": "Organization of American States (OAS)",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of the Dominican Republic to the OAS",
+    "city": "Washington, D.C.",
+    "address": "1715 22nd Street NW, Washington, DC 20008",
+    "phone": "+1 202 332-9142"
+  },
+  {
+    "country": "European Union",
+    "type": "permanent-mission",
+    "name": "Mission of the Dominican Republic to the European Union",
+    "city": "Brussels",
+    "address": "Av. de Tervueren 251, 1150 Brussels",
+    "phone": "+32 2 741-0680"
+  }
+]

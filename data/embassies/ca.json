@@ -1,0 +1,298 @@
+[
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Embassy of Canada in Washington",
+    "city": "Washington, D.C.",
+    "address": "501 Pennsylvania Ave NW, Washington, DC 20001",
+    "phone": "+1 (202) 682-1740"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Canadian Consulate General in New York",
+    "city": "New York, NY",
+    "address": "466 Lexington Avenue, 20th Floor, New York, NY 10017",
+    "phone": "+1 (212) 596-1628"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Canadian Consulate General in Los Angeles",
+    "city": "Los Angeles, CA",
+    "address": "550 South Hope Street, 9th Floor, Los Angeles, CA 90071",
+    "phone": "+1 (213) 346-2700"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Canadian Consulate General in Chicago",
+    "city": "Chicago, IL",
+    "address": "180 North Stetson Avenue, Suite 2400, Chicago, IL 60601",
+    "phone": "+1 (312) 616-1860"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Canadian Consulate General in Houston",
+    "city": "Houston, TX",
+    "address": "5847 San Felipe Street, Suite 1700, Houston, TX 77057",
+    "phone": "+1 (346) 300-5065"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Canadian Consulate General in San Francisco",
+    "city": "San Francisco, CA",
+    "address": "580 California Street, 14th Floor, San Francisco, CA 94104",
+    "phone": "+1 (415) 834-3180"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Canadian Consulate General in Atlanta",
+    "city": "Atlanta, GA",
+    "address": "3379 Peachtree Road NE, Suite 2400, Atlanta, GA 30326",
+    "phone": "+1 (404) 532-2000"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Canadian Consulate General in Miami",
+    "city": "Miami, FL",
+    "address": "200 South Biscayne Blvd, Suite 1600, Miami, FL 33131",
+    "phone": "+1 (305) 579-1600"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Canadian Consulate General in Detroit",
+    "city": "Detroit, MI",
+    "address": "600 Renaissance Center, Suite 1100, Detroit, MI 48243",
+    "phone": "+1 (313) 567-2340"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Canadian Consulate General in Dallas",
+    "city": "Dallas, TX",
+    "address": "500 North Akard Street, Suite 2900, Dallas, TX 75201",
+    "phone": "+1 (214) 922-9806"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Canadian Consulate General in Seattle",
+    "city": "Seattle, WA",
+    "address": "1501 Fourth Avenue, Suite 600, Seattle, WA 98101",
+    "phone": "+1 (206) 443-1777"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Canadian Consulate General in Denver",
+    "city": "Denver, CO",
+    "address": "1625 Broadway, Suite 2600, Denver, CO 80202",
+    "phone": "+1 (303) 626-0640"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Canadian Consulate General in Minneapolis",
+    "city": "Minneapolis, MN",
+    "address": "900 2nd Avenue South, Suite 1010, Minneapolis, MN 55402",
+    "phone": "+1 (612) 332-7486"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "high-commission",
+    "name": "Canadian High Commission in London",
+    "city": "London",
+    "address": "Canada House, Trafalgar Square, London SW1Y 5BJ",
+    "phone": "+44 (0)20 7004 6000"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "consulate-general",
+    "name": "Canadian Consulate General in Edinburgh",
+    "city": "Edinburgh",
+    "address": "Burness Paull, 50 Lothian Road, Festival Square, Edinburgh EH3 9WJ",
+    "phone": "+44 (0)131 473 6320"
+  },
+  {
+    "country": "France",
+    "type": "embassy",
+    "name": "Embassy of Canada in Paris",
+    "city": "Paris",
+    "address": "130 Rue du Faubourg Saint-Honoré, 75008 Paris",
+    "phone": "+33 (0)1 44 43 29 00"
+  },
+  {
+    "country": "Germany",
+    "type": "embassy",
+    "name": "Embassy of Canada in Berlin",
+    "city": "Berlin",
+    "address": "Leipziger Platz 17, 10117 Berlin",
+    "phone": "+49 (0)30 203 120"
+  },
+  {
+    "country": "Germany",
+    "type": "consulate",
+    "name": "Canadian Consulate in Munich",
+    "city": "Munich",
+    "address": "Tal 29, 80331 Munich",
+    "phone": "+49 (0)89 2199 570"
+  },
+  {
+    "country": "Germany",
+    "type": "consulate",
+    "name": "Canadian Consulate in Düsseldorf",
+    "city": "Düsseldorf",
+    "address": "Benrather Straße 8, 40213 Düsseldorf",
+    "phone": "+49 (0)211 172 1770"
+  },
+  {
+    "country": "Japan",
+    "type": "embassy",
+    "name": "Embassy of Canada in Tokyo",
+    "city": "Tokyo",
+    "address": "7-3-38 Akasaka, Minato-ku, Tokyo 107-8503",
+    "phone": "+81 (0)3 5412 6200"
+  },
+  {
+    "country": "Japan",
+    "type": "consulate",
+    "name": "Canadian Consulate in Nagoya",
+    "city": "Nagoya",
+    "address": "Nakato Marunouchi Building 6F, 3-17-6 Marunouchi, Naka-ku, Nagoya 460-0002",
+    "phone": "+81 (0)52 972 0450"
+  },
+  {
+    "country": "China",
+    "type": "embassy",
+    "name": "Embassy of Canada in Beijing",
+    "city": "Beijing",
+    "address": "19 Dongzhimenwai Dajie, Chaoyang District, Beijing 100600",
+    "phone": "+86 (0)10 5139 4000"
+  },
+  {
+    "country": "China",
+    "type": "consulate-general",
+    "name": "Canadian Consulate General in Shanghai",
+    "city": "Shanghai",
+    "address": "ECO City Building, 8th Floor, 1788 Nanjing West Road, Shanghai 200040",
+    "phone": "+86 (0)21 3279 2800"
+  },
+  {
+    "country": "China",
+    "type": "consulate-general",
+    "name": "Canadian Consulate General in Guangzhou",
+    "city": "Guangzhou",
+    "address": "Suite 801, TaiKoo Hui Tower 1, 385 Tianhe Road, Guangzhou 510620",
+    "phone": "+86 (0)20 8611 6100"
+  },
+  {
+    "country": "India",
+    "type": "high-commission",
+    "name": "Canadian High Commission in New Delhi",
+    "city": "New Delhi",
+    "address": "7/8 Shantipath, Chanakyapuri, New Delhi 110021",
+    "phone": "+91 (0)11 4178 2000"
+  },
+  {
+    "country": "India",
+    "type": "consulate-general",
+    "name": "Canadian Consulate General in Mumbai",
+    "city": "Mumbai",
+    "address": "Indiabulls Finance Centre, Tower 2, 21st Floor, Senapati Bapat Marg, Mumbai 400013",
+    "phone": "+91 (0)22 6749 4444"
+  },
+  {
+    "country": "India",
+    "type": "consulate-general",
+    "name": "Canadian Consulate General in Bengaluru",
+    "city": "Bengaluru",
+    "address": "World Trade Center, 22nd Floor, Brigade Gateway Campus, 26/1 Dr. Rajkumar Road, Bengaluru 560055",
+    "phone": "+91 (0)80 4500 6000"
+  },
+  {
+    "country": "Brazil",
+    "type": "embassy",
+    "name": "Embassy of Canada in Brasilia",
+    "city": "Brasilia",
+    "address": "SES Avenida das Nações, Quadra 803, Lote 16, 70410-900 Brasilia DF",
+    "phone": "+55 (61) 3424-5400"
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate-general",
+    "name": "Canadian Consulate General in São Paulo",
+    "city": "São Paulo",
+    "address": "Avenida das Nações Unidas 12901, CENU Torre Norte, 16th Floor, 04578-000 São Paulo",
+    "phone": "+55 (11) 5509-4321"
+  },
+  {
+    "country": "Mexico",
+    "type": "embassy",
+    "name": "Embassy of Canada in Mexico City",
+    "city": "Mexico City",
+    "address": "Schiller 529, Colonia Polanco, 11560 Mexico City",
+    "phone": "+52 (55) 5724-7900"
+  },
+  {
+    "country": "Australia",
+    "type": "high-commission",
+    "name": "Canadian High Commission in Canberra",
+    "city": "Canberra",
+    "address": "Commonwealth Avenue, Canberra, ACT 2600",
+    "phone": "+61 (0)2 6270 4000"
+  },
+  {
+    "country": "Australia",
+    "type": "consulate-general",
+    "name": "Canadian Consulate General in Sydney",
+    "city": "Sydney",
+    "address": "Level 5, 111 Harrington Street, Sydney, NSW 2000",
+    "phone": "+61 (0)2 9364 3000"
+  },
+  {
+    "country": "Italy",
+    "type": "embassy",
+    "name": "Embassy of Canada in Rome",
+    "city": "Rome",
+    "address": "Via Zara 30, 00198 Rome",
+    "phone": "+39 06 854 441"
+  },
+  {
+    "country": "Spain",
+    "type": "embassy",
+    "name": "Embassy of Canada in Madrid",
+    "city": "Madrid",
+    "address": "Torre Espacio, Paseo de la Castellana 259D, Planta 12, 28046 Madrid",
+    "phone": "+34 91 382 8400"
+  },
+  {
+    "country": "South Korea",
+    "type": "embassy",
+    "name": "Embassy of Canada in Seoul",
+    "city": "Seoul",
+    "address": "21 Jeongdong-gil, Jung-gu, Seoul 04518",
+    "phone": "+82 (0)2 3783 6000"
+  },
+  {
+    "country": "Israel",
+    "type": "embassy",
+    "name": "Embassy of Canada in Tel Aviv",
+    "city": "Tel Aviv",
+    "address": "3/5 Nirim Street, 6th Floor, Tel Aviv 6706003",
+    "phone": "+972 (0)3 636 3300"
+  },
+  {
+    "country": "United Nations",
+    "type": "mission",
+    "name": "Permanent Mission of Canada to the United Nations",
+    "city": "New York, NY",
+    "address": "One Dag Hammarskjöld Plaza, 885 Second Avenue, 14th Floor, New York, NY 10017",
+    "phone": "+1 (212) 848-1100"
+  }
+]

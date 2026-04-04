@@ -1,0 +1,522 @@
+[
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Embassy of Argentina in Washington D.C.",
+    "city": "Washington D.C.",
+    "address": "1600 New Hampshire Ave NW, Washington D.C. 20009",
+    "phone": "+1 202 238-6400"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Argentine Consulate General in New York",
+    "city": "New York",
+    "address": "245 Peachtree Center Ave NE, Suite 2101, Atlanta, GA / 12 West 56th Street, New York, NY 10019",
+    "phone": "+1 212 603-0400"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Argentine Consulate General in Los Angeles",
+    "city": "Los Angeles",
+    "address": "5055 Wilshire Blvd, Suite 210, Los Angeles, CA 90036",
+    "phone": "+1 323 954-9155"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Argentine Consulate General in Miami",
+    "city": "Miami",
+    "address": "800 Brickell Ave, Suite 1300, Miami, FL 33131",
+    "phone": "+1 305 373-7794"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Argentine Consulate General in Chicago",
+    "city": "Chicago",
+    "address": "205 N Michigan Ave, Suite 4209, Chicago, IL 60601",
+    "phone": "+1 312 819-2610"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Argentine Consulate General in Houston",
+    "city": "Houston",
+    "address": "1990 Post Oak Blvd, Suite 770, Houston, TX 77056",
+    "phone": "+1 713 871-8935"
+  },
+  {
+    "country": "Canada",
+    "type": "embassy",
+    "name": "Embassy of Argentina in Ottawa",
+    "city": "Ottawa",
+    "address": "81 Metcalfe Street, Suite 700, Ottawa, Ontario K1P 6K7",
+    "phone": "+1 613 236-2351"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Argentine Consulate General in Toronto",
+    "city": "Toronto",
+    "address": "2 Bloor Street West, Suite 1202, Toronto, Ontario M4W 3E2",
+    "phone": "+1 416 955-9075"
+  },
+  {
+    "country": "Canada",
+    "type": "consulate-general",
+    "name": "Argentine Consulate General in Montreal",
+    "city": "Montreal",
+    "address": "2000 Peel Street, Suite 600, Montreal, Quebec H3A 2W5",
+    "phone": "+1 514 842-6582"
+  },
+  {
+    "country": "Mexico",
+    "type": "embassy",
+    "name": "Embassy of Argentina in Mexico City",
+    "city": "Mexico City",
+    "address": "Manuel Avila Camacho 1, Piso 7, Lomas de Chapultepec, Mexico City 11000",
+    "phone": "+52 55 5520-9430"
+  },
+  {
+    "country": "Brazil",
+    "type": "embassy",
+    "name": "Embassy of Argentina in Brasília",
+    "city": "Brasília",
+    "address": "SHIS QL 02, Conjunto 01, Casa 19, Lago Sul, Brasília DF 71610-010",
+    "phone": "+55 61 3364-7600"
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate-general",
+    "name": "Argentine Consulate General in São Paulo",
+    "city": "São Paulo",
+    "address": "Av. Paulista 1106, 9° andar, São Paulo SP 01310-100",
+    "phone": "+55 11 3897-9522"
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate-general",
+    "name": "Argentine Consulate General in Rio de Janeiro",
+    "city": "Rio de Janeiro",
+    "address": "Praia de Botafogo 228, Bloco A, Sala 201, Rio de Janeiro RJ 22250-040",
+    "phone": "+55 21 2553-1646"
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate-general",
+    "name": "Argentine Consulate General in Porto Alegre",
+    "city": "Porto Alegre",
+    "address": "Rua Cel. Genuíno 421, 2° andar, Porto Alegre RS 90010-350",
+    "phone": "+55 51 3224-0833"
+  },
+  {
+    "country": "Chile",
+    "type": "embassy",
+    "name": "Embassy of Argentina in Santiago",
+    "city": "Santiago",
+    "address": "Vicuña Mackenna 41, Santiago",
+    "phone": "+56 2 2582-2600"
+  },
+  {
+    "country": "Uruguay",
+    "type": "embassy",
+    "name": "Embassy of Argentina in Montevideo",
+    "city": "Montevideo",
+    "address": "Cuareim 1470, Montevideo 11100",
+    "phone": "+598 2 902-8166"
+  },
+  {
+    "country": "Paraguay",
+    "type": "embassy",
+    "name": "Embassy of Argentina in Asunción",
+    "city": "Asunción",
+    "address": "Banco Nación Argentina Building, España 765 esq. Peru, Asunción",
+    "phone": "+595 21 212-320"
+  },
+  {
+    "country": "Bolivia",
+    "type": "embassy",
+    "name": "Embassy of Argentina in La Paz",
+    "city": "La Paz",
+    "address": "Aspiazu 456 esq. Sánchez Lima, La Paz",
+    "phone": "+591 2 241-7737"
+  },
+  {
+    "country": "Peru",
+    "type": "embassy",
+    "name": "Embassy of Argentina in Lima",
+    "city": "Lima",
+    "address": "Av. Santa Cruz 1369, Miraflores, Lima 18",
+    "phone": "+51 1 213-8900"
+  },
+  {
+    "country": "Colombia",
+    "type": "embassy",
+    "name": "Embassy of Argentina in Bogotá",
+    "city": "Bogotá",
+    "address": "Carrera 11 No. 93-15, Piso 7, Bogotá",
+    "phone": "+57 1 288-0900"
+  },
+  {
+    "country": "Ecuador",
+    "type": "embassy",
+    "name": "Embassy of Argentina in Quito",
+    "city": "Quito",
+    "address": "Av. Amazonas 21-147 y Roca, Edif. Río Amazonas, Quito",
+    "phone": "+593 2 256-2292"
+  },
+  {
+    "country": "Venezuela",
+    "type": "embassy",
+    "name": "Embassy of Argentina in Caracas",
+    "city": "Caracas",
+    "address": "Calle El Limonero, Edificio CCCT, Torre B, Chuao, Caracas 1060",
+    "phone": "+58 212 991-1001"
+  },
+  {
+    "country": "Cuba",
+    "type": "embassy",
+    "name": "Embassy of Argentina in Havana",
+    "city": "Havana",
+    "address": "Calle 36 No. 511 entre 5ta y 7ma Ave, Miramar, Havana",
+    "phone": "+53 7 204-2516"
+  },
+  {
+    "country": "Spain",
+    "type": "embassy",
+    "name": "Embassy of Argentina in Madrid",
+    "city": "Madrid",
+    "address": "Calle Pedro de Valdivia 21, 28006 Madrid",
+    "phone": "+34 91 771-2500"
+  },
+  {
+    "country": "Spain",
+    "type": "consulate-general",
+    "name": "Argentine Consulate General in Barcelona",
+    "city": "Barcelona",
+    "address": "Passeig de Gràcia 11, 08007 Barcelona",
+    "phone": "+34 93 292-1200"
+  },
+  {
+    "country": "Spain",
+    "type": "consulate-general",
+    "name": "Argentine Consulate General in Valencia",
+    "city": "Valencia",
+    "address": "C/ Grabador Esteve 8, 46004 Valencia",
+    "phone": "+34 96 351-3261"
+  },
+  {
+    "country": "Spain",
+    "type": "consulate-general",
+    "name": "Argentine Consulate General in Bilbao",
+    "city": "Bilbao",
+    "address": "Gran Vía Don Diego López de Haro 25, 48009 Bilbao",
+    "phone": "+34 94 416-0046"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "embassy",
+    "name": "Embassy of Argentina in London",
+    "city": "London",
+    "address": "65 Brook Street, London W1K 4AH",
+    "phone": "+44 20 7318-1300"
+  },
+  {
+    "country": "France",
+    "type": "embassy",
+    "name": "Embassy of Argentina in Paris",
+    "city": "Paris",
+    "address": "6 rue Cimarosa, 75116 Paris",
+    "phone": "+33 1 4453-9700"
+  },
+  {
+    "country": "Germany",
+    "type": "embassy",
+    "name": "Embassy of Argentina in Berlin",
+    "city": "Berlin",
+    "address": "Kleiststraße 23-26, 10787 Berlin",
+    "phone": "+49 30 226-6890"
+  },
+  {
+    "country": "Italy",
+    "type": "embassy",
+    "name": "Embassy of Argentina in Rome",
+    "city": "Rome",
+    "address": "Via Veneto 18-A, 00187 Rome",
+    "phone": "+39 06 4201-2551"
+  },
+  {
+    "country": "Italy",
+    "type": "consulate-general",
+    "name": "Argentine Consulate General in Milan",
+    "city": "Milan",
+    "address": "Via Solferino 3, 20121 Milan",
+    "phone": "+39 02 6241-4941"
+  },
+  {
+    "country": "Switzerland",
+    "type": "embassy",
+    "name": "Embassy of Argentina in Bern",
+    "city": "Bern",
+    "address": "Jungfraustrasse 1, 3005 Bern",
+    "phone": "+41 31 356-4343"
+  },
+  {
+    "country": "Netherlands",
+    "type": "embassy",
+    "name": "Embassy of Argentina in The Hague",
+    "city": "The Hague",
+    "address": "Javastraat 20, 2585 AN The Hague",
+    "phone": "+31 70 365-0914"
+  },
+  {
+    "country": "Belgium",
+    "type": "embassy",
+    "name": "Embassy of Argentina in Brussels",
+    "city": "Brussels",
+    "address": "Avenue Louise 225, 1050 Brussels",
+    "phone": "+32 2 648-9371"
+  },
+  {
+    "country": "Austria",
+    "type": "embassy",
+    "name": "Embassy of Argentina in Vienna",
+    "city": "Vienna",
+    "address": "Goldschmiedgasse 2/1, 1010 Vienna",
+    "phone": "+43 1 533-8172"
+  },
+  {
+    "country": "Portugal",
+    "type": "embassy",
+    "name": "Embassy of Argentina in Lisbon",
+    "city": "Lisbon",
+    "address": "Rua do Pau de Bandeira 4, 1249-088 Lisbon",
+    "phone": "+351 21 392-9300"
+  },
+  {
+    "country": "Sweden",
+    "type": "embassy",
+    "name": "Embassy of Argentina in Stockholm",
+    "city": "Stockholm",
+    "address": "Brahegatan 6, 114 37 Stockholm",
+    "phone": "+46 8 663-4044"
+  },
+  {
+    "country": "Russia",
+    "type": "embassy",
+    "name": "Embassy of Argentina in Moscow",
+    "city": "Moscow",
+    "address": "Ulitsa Sadovaya-Triumfalnaya 4/10, Moscow 123001",
+    "phone": "+7 495 937-9630"
+  },
+  {
+    "country": "China",
+    "type": "embassy",
+    "name": "Embassy of Argentina in Beijing",
+    "city": "Beijing",
+    "address": "San Li Tun Road No. 11, Beijing 100600",
+    "phone": "+86 10 6532-1406"
+  },
+  {
+    "country": "China",
+    "type": "consulate-general",
+    "name": "Argentine Consulate General in Shanghai",
+    "city": "Shanghai",
+    "address": "Wulumuqi Rd N 341, Jing'an District, Shanghai 200040",
+    "phone": "+86 21 6433-3591"
+  },
+  {
+    "country": "Japan",
+    "type": "embassy",
+    "name": "Embassy of Argentina in Tokyo",
+    "city": "Tokyo",
+    "address": "2-14-14 Moto-Azabu, Minato-ku, Tokyo 106-0046",
+    "phone": "+81 3 5420-7101"
+  },
+  {
+    "country": "South Korea",
+    "type": "embassy",
+    "name": "Embassy of Argentina in Seoul",
+    "city": "Seoul",
+    "address": "17 Jangmun-ro 6-gil, Yongsan-gu, Seoul 04338",
+    "phone": "+82 2 793-4062"
+  },
+  {
+    "country": "India",
+    "type": "embassy",
+    "name": "Embassy of Argentina in New Delhi",
+    "city": "New Delhi",
+    "address": "EP-36, Dr. S. Radhakrishnan Marg, Chanakyapuri, New Delhi 110021",
+    "phone": "+91 11 4149-5400"
+  },
+  {
+    "country": "Australia",
+    "type": "embassy",
+    "name": "Embassy of Argentina in Canberra",
+    "city": "Canberra",
+    "address": "MLC Tower, Level 6, 19 Martin Place, Sydney NSW 2000 / John McEwen Crescent, Barton ACT 2600",
+    "phone": "+61 2 6273-9111"
+  },
+  {
+    "country": "Australia",
+    "type": "consulate-general",
+    "name": "Argentine Consulate General in Sydney",
+    "city": "Sydney",
+    "address": "Level 6, 19 Martin Place, Sydney NSW 2000",
+    "phone": "+61 2 9262-2933"
+  },
+  {
+    "country": "South Africa",
+    "type": "embassy",
+    "name": "Embassy of Argentina in Pretoria",
+    "city": "Pretoria",
+    "address": "315 Brooks Street, Brooklyn, Pretoria 0181",
+    "phone": "+27 12 430-3524"
+  },
+  {
+    "country": "Egypt",
+    "type": "embassy",
+    "name": "Embassy of Argentina in Cairo",
+    "city": "Cairo",
+    "address": "8 Salah El Din Street, Zamalek, Cairo",
+    "phone": "+20 2 2736-0285"
+  },
+  {
+    "country": "Israel",
+    "type": "embassy",
+    "name": "Embassy of Argentina in Tel Aviv",
+    "city": "Tel Aviv",
+    "address": "Medinat HaYehudim 85, 4676672 Herzliya Pituah",
+    "phone": "+972 9 971-1350"
+  },
+  {
+    "country": "Turkey",
+    "type": "embassy",
+    "name": "Embassy of Argentina in Ankara",
+    "city": "Ankara",
+    "address": "Kaptanpaşa Mah. Piyade Sk. No:18, Çankaya, Ankara",
+    "phone": "+90 312 441-8552"
+  },
+  {
+    "country": "Saudi Arabia",
+    "type": "embassy",
+    "name": "Embassy of Argentina in Riyadh",
+    "city": "Riyadh",
+    "address": "Diplomatic Quarter, Riyadh",
+    "phone": "+966 11 488-1400"
+  },
+  {
+    "country": "United Arab Emirates",
+    "type": "embassy",
+    "name": "Embassy of Argentina in Abu Dhabi",
+    "city": "Abu Dhabi",
+    "address": "Abu Dhabi Mall Tower, 7th Floor, Abu Dhabi",
+    "phone": "+971 2 813-8600"
+  },
+  {
+    "country": "Nigeria",
+    "type": "embassy",
+    "name": "Embassy of Argentina in Abuja",
+    "city": "Abuja",
+    "address": "Plot 1554, Kwame Nkrumah Street, Asokoro, Abuja",
+    "phone": "+234 9 461-4400"
+  },
+  {
+    "country": "Kenya",
+    "type": "embassy",
+    "name": "Embassy of Argentina in Nairobi",
+    "city": "Nairobi",
+    "address": "Upper Hill Road, Nairobi",
+    "phone": "+254 20 271-4700"
+  },
+  {
+    "country": "Morocco",
+    "type": "embassy",
+    "name": "Embassy of Argentina in Rabat",
+    "city": "Rabat",
+    "address": "12 Rue Meknès, Rabat",
+    "phone": "+212 537-671-470"
+  },
+  {
+    "country": "Thailand",
+    "type": "embassy",
+    "name": "Embassy of Argentina in Bangkok",
+    "city": "Bangkok",
+    "address": "Q House Lumpini, 14th Floor, 1 South Sathorn Rd, Bangkok 10120",
+    "phone": "+66 2 679-7080"
+  },
+  {
+    "country": "Indonesia",
+    "type": "embassy",
+    "name": "Embassy of Argentina in Jakarta",
+    "city": "Jakarta",
+    "address": "Jl. H.R. Rasuna Said, Kav. 10-11, Kuningan, Jakarta 12940",
+    "phone": "+62 21 2993-4800"
+  },
+  {
+    "country": "Malaysia",
+    "type": "embassy",
+    "name": "Embassy of Argentina in Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "address": "Level 23, Integra Tower, The Intermark, 348 Jalan Tun Razak, 50400 Kuala Lumpur",
+    "phone": "+60 3 2711-8040"
+  },
+  {
+    "country": "Poland",
+    "type": "embassy",
+    "name": "Embassy of Argentina in Warsaw",
+    "city": "Warsaw",
+    "address": "ul. Nowy Świat 27, 00-029 Warsaw",
+    "phone": "+48 22 621-6331"
+  },
+  {
+    "country": "Czech Republic",
+    "type": "embassy",
+    "name": "Embassy of Argentina in Prague",
+    "city": "Prague",
+    "address": "Washintonova 25, 110 00 Prague 1",
+    "phone": "+420 2 2431-7641"
+  },
+  {
+    "country": "Greece",
+    "type": "embassy",
+    "name": "Embassy of Argentina in Athens",
+    "city": "Athens",
+    "address": "Papadiamantopoulou 59, 11528 Athens",
+    "phone": "+30 210 723-8311"
+  },
+  {
+    "country": "United Nations (New York)",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Argentina to the United Nations (New York)",
+    "city": "New York",
+    "address": "One United Nations Plaza, 25th Floor, New York, NY 10017",
+    "phone": "+1 212 688-6300"
+  },
+  {
+    "country": "United Nations (Geneva)",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Argentina to the United Nations (Geneva)",
+    "city": "Geneva",
+    "address": "28 Chemin Louis Dunant, 1202 Geneva",
+    "phone": "+41 22 748-0710"
+  },
+  {
+    "country": "European Union",
+    "type": "permanent-mission",
+    "name": "Mission of Argentina to the European Union",
+    "city": "Brussels",
+    "address": "Avenue Louise 225, 1050 Brussels",
+    "phone": "+32 2 648-9371"
+  },
+  {
+    "country": "OAS (Washington)",
+    "type": "permanent-mission",
+    "name": "Permanent Mission of Argentina to the OAS",
+    "city": "Washington D.C.",
+    "address": "1816 Corcoran Street NW, Washington D.C. 20009",
+    "phone": "+1 202 387-4142"
+  }
+]

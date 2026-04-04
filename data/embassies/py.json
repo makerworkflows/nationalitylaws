@@ -1,0 +1,450 @@
+[
+  {
+    "country": "Argentina",
+    "type": "embassy",
+    "name": "Embajada de Paraguay en Argentina",
+    "city": "Buenos Aires",
+    "address": "Maipú 464, C1006ACD Buenos Aires, Argentina",
+    "phone": "+54 11 4312-8683"
+  },
+  {
+    "country": "Argentina",
+    "type": "consulate-general",
+    "name": "Consulado General de Paraguay en Buenos Aires",
+    "city": "Buenos Aires",
+    "address": "Viamonte 1851, C1056ABH Buenos Aires, Argentina",
+    "phone": "+54 11 4374-8015"
+  },
+  {
+    "country": "Argentina",
+    "type": "consulate-general",
+    "name": "Consulado General de Paraguay en Posadas",
+    "city": "Posadas",
+    "address": "San Lorenzo 1665, N3300LGP Posadas, Misiones, Argentina",
+    "phone": "+54 376 444-4599"
+  },
+  {
+    "country": "Argentina",
+    "type": "consulate-general",
+    "name": "Consulado General de Paraguay en Clorinda",
+    "city": "Clorinda",
+    "address": "Clorinda, Formosa, Argentina",
+    "phone": "+54 3718 421-350"
+  },
+  {
+    "country": "Argentina",
+    "type": "consulate-general",
+    "name": "Consulado General de Paraguay en Formosa",
+    "city": "Formosa",
+    "address": "Colón 501, G3600EIK Formosa, Argentina",
+    "phone": "+54 370 242-6699"
+  },
+  {
+    "country": "Argentina",
+    "type": "consulate-general",
+    "name": "Consulado General de Paraguay en Córdoba",
+    "city": "Córdoba",
+    "address": "Duarte Quirós 1400, X5000 Córdoba, Argentina",
+    "phone": "+54 351 422-5161"
+  },
+  {
+    "country": "Argentina",
+    "type": "consulate-general",
+    "name": "Consulado General de Paraguay en Rosario",
+    "city": "Rosario",
+    "address": "San Luis 1260, S2000 Rosario, Santa Fe, Argentina",
+    "phone": "+54 341 425-2444"
+  },
+  {
+    "country": "Brazil",
+    "type": "embassy",
+    "name": "Embajada de Paraguay en Brasil",
+    "city": "Brasília",
+    "address": "SES Quadra 811, Lote 42, 70200-730 Brasília, Brazil",
+    "phone": "+55 61 3242-3732"
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate-general",
+    "name": "Consulado General de Paraguay en São Paulo",
+    "city": "São Paulo",
+    "address": "Rua Pamplona 1197, 4° andar, Jardim Paulista, São Paulo, Brazil",
+    "phone": "+55 11 3284-0733"
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate-general",
+    "name": "Consulado General de Paraguay en Foz do Iguaçu",
+    "city": "Foz do Iguaçu",
+    "address": "Bartolomeu de Gusmão 480, Foz do Iguaçu, Paraná, Brazil",
+    "phone": "+55 45 3523-2898"
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate-general",
+    "name": "Consulado General de Paraguay en Porto Alegre",
+    "city": "Porto Alegre",
+    "address": "Rua Coronel Fernando Machado 475, Porto Alegre, Brazil",
+    "phone": "+55 51 3228-3600"
+  },
+  {
+    "country": "Brazil",
+    "type": "consulate-general",
+    "name": "Consulado General de Paraguay en Curitiba",
+    "city": "Curitiba",
+    "address": "Curitiba, Paraná, Brazil",
+    "phone": ""
+  },
+  {
+    "country": "Uruguay",
+    "type": "embassy",
+    "name": "Embajada de Paraguay en Uruguay",
+    "city": "Montevideo",
+    "address": "Blvd. Artigas 1256, 11300 Montevideo, Uruguay",
+    "phone": "+598 2 707-8562"
+  },
+  {
+    "country": "Bolivia",
+    "type": "embassy",
+    "name": "Embajada de Paraguay en Bolivia",
+    "city": "La Paz",
+    "address": "Calle Aspiazu 460, La Paz, Bolivia",
+    "phone": "+591 2 244-1139"
+  },
+  {
+    "country": "Chile",
+    "type": "embassy",
+    "name": "Embajada de Paraguay en Chile",
+    "city": "Santiago",
+    "address": "Huérfanos 886, oficina 514, Santiago, Chile",
+    "phone": "+56 2 2639-4640"
+  },
+  {
+    "country": "Peru",
+    "type": "embassy",
+    "name": "Embajada de Paraguay en Perú",
+    "city": "Lima",
+    "address": "Av. Arequipa 4860, Miraflores, Lima, Peru",
+    "phone": "+51 1 421-0520"
+  },
+  {
+    "country": "Colombia",
+    "type": "embassy",
+    "name": "Embajada de Paraguay en Colombia",
+    "city": "Bogotá",
+    "address": "Carrera 10 No. 97A-13, piso 3, Bogotá, Colombia",
+    "phone": "+57 1 621-3560"
+  },
+  {
+    "country": "Venezuela",
+    "type": "embassy",
+    "name": "Embajada de Paraguay en Venezuela",
+    "city": "Caracas",
+    "address": "Av. Luis Roche, Altamira, Caracas, Venezuela",
+    "phone": "+58 212 263-1600"
+  },
+  {
+    "country": "Ecuador",
+    "type": "honorary-consulate",
+    "name": "Consulado Honorario de Paraguay en Ecuador",
+    "city": "Quito",
+    "address": "Quito, Ecuador",
+    "phone": ""
+  },
+  {
+    "country": "Mexico",
+    "type": "embassy",
+    "name": "Embajada de Paraguay en México",
+    "city": "Ciudad de México",
+    "address": "Sierra Nevada 611, Lomas de Chapultepec, 11000 Ciudad de México, Mexico",
+    "phone": "+52 55 5540-7558"
+  },
+  {
+    "country": "Cuba",
+    "type": "embassy",
+    "name": "Embajada de Paraguay en Cuba",
+    "city": "La Habana",
+    "address": "Calle 44 No. 305, Miramar, La Habana, Cuba",
+    "phone": "+53 7 204-5600"
+  },
+  {
+    "country": "Panama",
+    "type": "embassy",
+    "name": "Embajada de Paraguay en Panamá",
+    "city": "Panama City",
+    "address": "Calle 50, Edificio ASSA, Piso 14, Panama City, Panama",
+    "phone": "+507 264-5006"
+  },
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Embajada de Paraguay en los Estados Unidos",
+    "city": "Washington D.C.",
+    "address": "2400 Massachusetts Avenue NW, Washington, D.C. 20008, United States",
+    "phone": "+1 202 483-6960"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulado General de Paraguay en Nueva York",
+    "city": "New York",
+    "address": "1 Chase Manhattan Plaza, Suite 18-C, New York, NY 10005, United States",
+    "phone": "+1 212 682-9441"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulado General de Paraguay en Miami",
+    "city": "Miami",
+    "address": "800 Brickell Avenue, Suite 1000, Miami, FL 33131, United States",
+    "phone": "+1 305 374-9090"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulado General de Paraguay en Los Angeles",
+    "city": "Los Angeles",
+    "address": "3550 Wilshire Blvd, Suite 1250, Los Angeles, CA 90010, United States",
+    "phone": "+1 213 384-2060"
+  },
+  {
+    "country": "Canada",
+    "type": "embassy",
+    "name": "Embajada de Paraguay en Canadá",
+    "city": "Ottawa",
+    "address": "151 Slater Street, Suite 501, Ottawa, ON K1P 5H3, Canada",
+    "phone": "+1 613 567-1679"
+  },
+  {
+    "country": "Spain",
+    "type": "embassy",
+    "name": "Embajada de Paraguay en España",
+    "city": "Madrid",
+    "address": "Eduardo Dato 11, 5° izqda., 28010 Madrid, Spain",
+    "phone": "+34 91 308-2052"
+  },
+  {
+    "country": "Spain",
+    "type": "consulate-general",
+    "name": "Consulado General de Paraguay en Barcelona",
+    "city": "Barcelona",
+    "address": "C/ Bailén 161-163, ent. 1a, 08037 Barcelona, Spain",
+    "phone": "+34 93 207-2820"
+  },
+  {
+    "country": "Spain",
+    "type": "consulate-general",
+    "name": "Consulado General de Paraguay en Bilbao",
+    "city": "Bilbao",
+    "address": "Bilbao, Spain",
+    "phone": ""
+  },
+  {
+    "country": "France",
+    "type": "embassy",
+    "name": "Embajada de Paraguay en Francia",
+    "city": "Paris",
+    "address": "1 rue Saint-Dominique, 75007 Paris, France",
+    "phone": "+33 1 42 22 85 05"
+  },
+  {
+    "country": "Germany",
+    "type": "embassy",
+    "name": "Embajada de Paraguay en Alemania",
+    "city": "Berlin",
+    "address": "Hardenbergstraße 12, 10623 Berlin, Germany",
+    "phone": "+49 30 319-9393"
+  },
+  {
+    "country": "Italy",
+    "type": "embassy",
+    "name": "Embajada de Paraguay en Italia",
+    "city": "Rome",
+    "address": "Via Ludovisi 35, 00187 Rome, Italy",
+    "phone": "+39 06 474-1752"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "embassy",
+    "name": "Embajada de Paraguay en el Reino Unido",
+    "city": "London",
+    "address": "3rd Floor, 344 Kensington High Street, London W14 8NS, United Kingdom",
+    "phone": "+44 20 7610-4180"
+  },
+  {
+    "country": "Netherlands",
+    "type": "honorary-consulate",
+    "name": "Consulado Honorario de Paraguay en los Países Bajos",
+    "city": "The Hague",
+    "address": "The Hague, Netherlands",
+    "phone": ""
+  },
+  {
+    "country": "Belgium",
+    "type": "honorary-consulate",
+    "name": "Consulado Honorario de Paraguay en Bélgica",
+    "city": "Brussels",
+    "address": "Brussels, Belgium",
+    "phone": ""
+  },
+  {
+    "country": "Switzerland",
+    "type": "honorary-consulate",
+    "name": "Consulado Honorario de Paraguay en Suiza",
+    "city": "Zurich",
+    "address": "Zurich, Switzerland",
+    "phone": ""
+  },
+  {
+    "country": "Austria",
+    "type": "honorary-consulate",
+    "name": "Consulado Honorario de Paraguay en Austria",
+    "city": "Vienna",
+    "address": "Vienna, Austria",
+    "phone": ""
+  },
+  {
+    "country": "Russia",
+    "type": "honorary-consulate",
+    "name": "Consulado Honorario de Paraguay en Rusia",
+    "city": "Moscow",
+    "address": "Moscow, Russia",
+    "phone": ""
+  },
+  {
+    "country": "China",
+    "type": "embassy",
+    "name": "Embajada de Paraguay en Taiwán (República de China)",
+    "city": "Taipei",
+    "address": "9F, 2 Tienmu E. Road, Shilin District, Taipei 111, Taiwan",
+    "phone": "+886 2 2872-9220"
+  },
+  {
+    "country": "Japan",
+    "type": "embassy",
+    "name": "Embajada de Paraguay en Japón",
+    "city": "Tokyo",
+    "address": "3-16-11 Higashi-Azabu, Minato-ku, Tokyo 106-0044, Japan",
+    "phone": "+81 3 5485-3101"
+  },
+  {
+    "country": "South Korea",
+    "type": "honorary-consulate",
+    "name": "Consulado Honorario de Paraguay en Corea del Sur",
+    "city": "Seoul",
+    "address": "Seoul, South Korea",
+    "phone": ""
+  },
+  {
+    "country": "South Africa",
+    "type": "honorary-consulate",
+    "name": "Consulado Honorario de Paraguay en Sudáfrica",
+    "city": "Johannesburg",
+    "address": "Johannesburg, South Africa",
+    "phone": ""
+  },
+  {
+    "country": "Israel",
+    "type": "embassy",
+    "name": "Embajada de Paraguay en Israel",
+    "city": "Jerusalem",
+    "address": "Jerusalem, Israel",
+    "phone": "+972 2 566-5013"
+  },
+  {
+    "country": "Turkey",
+    "type": "honorary-consulate",
+    "name": "Consulado Honorario de Paraguay en Turquía",
+    "city": "Istanbul",
+    "address": "Istanbul, Turkey",
+    "phone": ""
+  },
+  {
+    "country": "Australia",
+    "type": "honorary-consulate",
+    "name": "Consulado Honorario de Paraguay en Australia",
+    "city": "Sydney",
+    "address": "Sydney, Australia",
+    "phone": ""
+  },
+  {
+    "country": "Dominican Republic",
+    "type": "honorary-consulate",
+    "name": "Consulado Honorario de Paraguay en República Dominicana",
+    "city": "Santo Domingo",
+    "address": "Santo Domingo, Dominican Republic",
+    "phone": ""
+  },
+  {
+    "country": "Costa Rica",
+    "type": "honorary-consulate",
+    "name": "Consulado Honorario de Paraguay en Costa Rica",
+    "city": "San José",
+    "address": "San José, Costa Rica",
+    "phone": ""
+  },
+  {
+    "country": "United Nations (New York)",
+    "type": "permanent-mission",
+    "name": "Misión Permanente de Paraguay ante la ONU en Nueva York",
+    "city": "New York",
+    "address": "211 East 43rd Street, Suite 400, New York, NY 10017, United States",
+    "phone": "+1 212 682-3273"
+  },
+  {
+    "country": "United Nations (Geneva)",
+    "type": "permanent-mission",
+    "name": "Misión Permanente de Paraguay ante la ONU en Ginebra",
+    "city": "Geneva",
+    "address": "Rue de Moillebeau 58, 1209 Geneva, Switzerland",
+    "phone": "+41 22 919-0150"
+  },
+  {
+    "country": "Egypt",
+    "type": "honorary-consulate",
+    "name": "Consulado Honorario de Paraguay en Egipto",
+    "city": "Cairo",
+    "address": "Cairo, Egypt",
+    "phone": ""
+  },
+  {
+    "country": "Morocco",
+    "type": "honorary-consulate",
+    "name": "Consulado Honorario de Paraguay en Marruecos",
+    "city": "Casablanca",
+    "address": "Casablanca, Morocco",
+    "phone": ""
+  },
+  {
+    "country": "India",
+    "type": "honorary-consulate",
+    "name": "Consulado Honorario de Paraguay en India",
+    "city": "New Delhi",
+    "address": "New Delhi, India",
+    "phone": ""
+  },
+  {
+    "country": "Portugal",
+    "type": "honorary-consulate",
+    "name": "Consulado Honorario de Paraguay en Portugal",
+    "city": "Lisbon",
+    "address": "Lisbon, Portugal",
+    "phone": ""
+  },
+  {
+    "country": "Sweden",
+    "type": "honorary-consulate",
+    "name": "Consulado Honorario de Paraguay en Suecia",
+    "city": "Stockholm",
+    "address": "Stockholm, Sweden",
+    "phone": ""
+  },
+  {
+    "country": "Poland",
+    "type": "honorary-consulate",
+    "name": "Consulado Honorario de Paraguay en Polonia",
+    "city": "Warsaw",
+    "address": "Warsaw, Poland",
+    "phone": ""
+  }
+]

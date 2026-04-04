@@ -1,0 +1,42 @@
+[
+  {
+    "country": "United States",
+    "type": "embassy",
+    "name": "Embassy of Dominica in Washington, D.C.",
+    "city": "Washington, D.C.",
+    "address": "3216 New Mexico Avenue NW, Washington, DC 20016",
+    "phone": "+1 (202) 364-6781"
+  },
+  {
+    "country": "United States",
+    "type": "consulate-general",
+    "name": "Consulate General of Dominica in New York",
+    "city": "New York, NY",
+    "address": "800 Second Avenue, Suite 400H, New York, NY 10017",
+    "phone": "+1 (212) 949-0853"
+  },
+  {
+    "country": "United Kingdom",
+    "type": "high-commission",
+    "name": "Dominica High Commission in London",
+    "city": "London",
+    "address": "1 Collingham Gardens, London SW5 0HW",
+    "phone": "+44 (0)20 7370 5194"
+  },
+  {
+    "country": "Canada",
+    "type": "high-commission",
+    "name": "Dominica High Commission in Ottawa",
+    "city": "Ottawa, ON",
+    "address": "130 Albert Street, Suite 1010, Ottawa, ON K1P 5G4",
+    "phone": "+1 (613) 233-4839"
+  },
+  {
+    "country": "United Nations",
+    "type": "embassy",
+    "name": "Permanent Mission of Dominica to the United Nations",
+    "city": "New York, NY",
+    "address": "800 Second Avenue, Suite 400H, New York, NY 10017",
+    "phone": "+1 (212) 949-0853"
+  }
+]
